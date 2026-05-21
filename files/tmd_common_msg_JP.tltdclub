@@ -11,7 +11,7 @@ translate spanish tmd_common_msg_JP.json/MSG_0001:
 translate spanish tmd_common_msg_JP.json/MSG_0002:
 	# jp: "はい"
 	# en: "Yes"
-	""
+	"Vale"
 
 translate spanish tmd_common_msg_JP.json/MSG_0003:
 	# jp: "いいえ"
