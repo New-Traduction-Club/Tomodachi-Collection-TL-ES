@@ -1,0 +1,4050 @@
+translate spanish tmd_trouble_msg_JP.json/MSG_0000:
+	# jp: "[255:00000100]「何か主食が食べたいです」"
+	# en: "[255:00000100]\"I want to eat some staple food.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0001:
+	# jp: "ナニカシュショクガタベタイデス"
+	# en: "ナニカシュショクガタベタイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0002:
+	# jp: "[255:00000100]「何か主菜が食べたいです」"
+	# en: "[255:00000100]\"I want to eat a main dish.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0003:
+	# jp: "ナニカシュサイガタベタイデス"
+	# en: "ナニカシュサイガタベタイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0004:
+	# jp: "[255:00000100]「何か副菜が食べたいです」"
+	# en: "[255:00000100]\"I want to eat a side dish.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0005:
+	# jp: "ナニカフクサイガタベタイデス"
+	# en: "ナニカフクサイガタベタイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0006:
+	# jp: "[255:00000100]「何かデザートが食べたいです」"
+	# en: "[255:00000100]\"I want to eat dessert.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0007:
+	# jp: "ナニカデザートガタベタイデス"
+	# en: "ナニカデザートガタベタイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0008:
+	# jp: "[255:00000100]「何か飲み物が飲みたいです」"
+	# en: "[255:00000100]\"I want something to drink.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0009:
+	# jp: "ナニカノミモノガノミタイデス"
+	# en: "ナニカノミモノガノミタイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0010:
+	# jp: "[255:00000100]「何か甘いものが食べたいです」"
+	# en: "[255:00000100]\"I want to eat something sweet.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0011:
+	# jp: "ナニカアマイモノガタベタイデス"
+	# en: "ナニカアマイモノガタベタイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0012:
+	# jp: "[255:00000100]「何かからいものが食べたいです」"
+	# en: "[255:00000100]\"I want to eat something spicy.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0013:
+	# jp: "ナニカカライモノガ｜タベタイデス"
+	# en: "ナニカカライモノガ｜タベタイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0014:
+	# jp: "[255:00000100]「何か塩からいものが食べたいです」"
+	# en: "[255:00000100]\"I want to eat something salty.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0015:
+	# jp: "ナニカシオカライモノガタベタイデス"
+	# en: "ナニカシオカライモノガタベタイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0016:
+	# jp: "[255:00000100]「何かすっぱいものが食べたいです」"
+	# en: "[255:00000100]\"I want to eat something sour.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0017:
+	# jp: "ナニカスッパイモノガタベタイデス"
+	# en: "ナニカスッパイモノガタベタイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0018:
+	# jp: "[255:00000100]「何か油っこいものが食べたいです」"
+	# en: "[255:00000100]\"I want to eat something oily.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0019:
+	# jp: "ナニカアブラッコイモノガタベタイデス"
+	# en: "ナニカアブラッコイモノガタベタイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0020:
+	# jp: "[255:00000100]「何か冷たいものが食べたいです」"
+	# en: "[255:00000100]\"I want to eat something cold.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0021:
+	# jp: "ナニカツメタイモノガタベタイデス"
+	# en: "ナニカツメタイモノガタベタイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0022:
+	# jp: "[255:00000100]「何か温かいものが食べたいです」"
+	# en: "[255:00000100]\"I want to eat something warm.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0023:
+	# jp: "ナニカアタタカイモノガタベタイデス"
+	# en: "ナニカアタタカイモノガタベタイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0024:
+	# jp: "[255:00000100]「たまにはまずいものを食べてみたいです」"
+	# en: "[255:00000100]\"I want to eat something that\ntastes bad.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0025:
+	# jp: "タマニワマズイモノオタベテミタイデス"
+	# en: "タマニワマズイモノオタベテミタイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0026:
+	# jp: "[255:00000100]「何かお菓子が食べたいです」"
+	# en: "[255:00000100]\"I want to eat some candy.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0027:
+	# jp: "ナニカオカシガタベタイデス"
+	# en: "ナニカオカシガタベタイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0028:
+	# jp: "[255:00000100]「何かフルーツが食べたいです」"
+	# en: "[255:00000100]\"I want to eat some fruit.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0029:
+	# jp: "ナニカフルーツガタベタイデス"
+	# en: "ナニカフルーツガタベタイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0030:
+	# jp: "[255:00000100]「何か野菜が食べたいです」"
+	# en: "[255:00000100]\"I want to eat some vegetable.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0031:
+	# jp: "ナニカヤサイガタベタイデス"
+	# en: "ナニカヤサイガタベタイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0032:
+	# jp: "[255:00000100]「何かご飯ものが食べたいです」"
+	# en: "[255:00000100]\"I want to eat some rice.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0033:
+	# jp: "ナニカゴハンモノガタベタイデス"
+	# en: "ナニカゴハンモノガタベタイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0034:
+	# jp: "[255:00000100]「何かパンが食べたいです」"
+	# en: "[255:00000100]\"I want to eat some bread.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0035:
+	# jp: "ナニカパンガタベタイデス"
+	# en: "ナニカパンガタベタイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0036:
+	# jp: "[255:00000100]「何か肉料理が食べたいです」"
+	# en: "[255:00000100]\"I want to eat some meat.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0037:
+	# jp: "ナニカニクリョーリガタベタイデス"
+	# en: "ナニカニクリョーリガタベタイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0038:
+	# jp: "[255:00000100]「何か魚料理が食べたいです」"
+	# en: "[255:00000100]\"I want to eat some fish.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0039:
+	# jp: "ナニカサカナリョーリガタベタイデス"
+	# en: "ナニカサカナリョーリガタベタイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0040:
+	# jp: "[255:00000100]「何か卵料理が食べたいです」"
+	# en: "[255:00000100]\"I want to eat some egg.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0041:
+	# jp: "ナニカタマゴリョーリガタベタイデス"
+	# en: "ナニカタマゴリョーリガタベタイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0042:
+	# jp: "[255:00000100]「何か日本料理が食べたいです」"
+	# en: "[255:00000100]\"I want to eat Japanese food.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0043:
+	# jp: "ナニカニホンリョーリガタベタイデス"
+	# en: "ナニカニホンリョーリガタベタイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0044:
+	# jp: "[255:00000100]「何か洋食が食べたいです」"
+	# en: "[255:00000100]\"I want to eat Western food.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0045:
+	# jp: "ナニカヨーショクガタベタイデス"
+	# en: "ナニカヨーショクガタベタイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0046:
+	# jp: "[255:00000100]「何か中華料理が食べたいです」"
+	# en: "[255:00000100]\"I want to eat Chinese food.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0047:
+	# jp: "ナニカチューカリョーリガタベタイデス"
+	# en: "ナニカチューカリョーリガタベタイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0048:
+	# jp: "[255:00000100]「何かイタリア料理が食べたいです」"
+	# en: "[255:00000100]\"I want to eat Italian food.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0049:
+	# jp: "ナニカイタリアリョーリガタベタイデス"
+	# en: "ナニカイタリアリョーリガタベタイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0050:
+	# jp: "[255:00000100]「何かめん類が食べたいです」"
+	# en: "[255:00000100]\"I want to eat some noodles.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0051:
+	# jp: "ナニカメンルイガタベタイデス"
+	# en: "ナニカメンルイガタベタイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0052:
+	# jp: "[255:00000100]「何か高級料理が食べたいです」"
+	# en: "[255:00000100]\"I want to eat something luxury.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0053:
+	# jp: "ナニカコーキューリョーリガタベタイデス"
+	# en: "ナニカコーキューリョーリガタベタイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0054:
+	# jp: "[255:00000100]「のどがかわきました」"
+	# en: "[255:00000100]\"I'm thirsty.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0055:
+	# jp: "ノドガカワキマシタ"
+	# en: "ノドガカワキマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0056:
+	# jp: "[255:00000100]「おなかがすきました」"
+	# en: "[255:00000100]\"I'm hungry.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0057:
+	# jp: "オナカガスキマシタ"
+	# en: "オナカガスキマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0058:
+	# jp: "[255:00000100]「おなかがすきました」"
+	# en: "[255:00000100]\"I'm hungry.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0059:
+	# jp: "オナカガスキマシタ"
+	# en: "オナカガスキマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0060:
+	# jp: "[255:00000100]「おなかがすきました」"
+	# en: "[255:00000100]\"I'm hungry.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0061:
+	# jp: "オナカガスキマシタ"
+	# en: "オナカガスキマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0062:
+	# jp: "[255:00000100]「おなかがすきました」"
+	# en: "[255:00000100]\"I'm hungry.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0063:
+	# jp: "オナカガスキマシタ"
+	# en: "オナカガスキマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0064:
+	# jp: "[255:00000100]「おなかがすきました」"
+	# en: "[255:00000100]\"I'm hungry.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0065:
+	# jp: "オナカガスキマシタ"
+	# en: "オナカガスキマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0066:
+	# jp: "[255:00000100]「おなかがすきました」"
+	# en: "[255:00000100]\"I'm hungry.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0067:
+	# jp: "オナカガスキマシタ"
+	# en: "オナカガスキマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0068:
+	# jp: "[255:00000100]「おなかがすきました」"
+	# en: "[255:00000100]\"I'm hungry.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0069:
+	# jp: "オナカガスキマシタ"
+	# en: "オナカガスキマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0070:
+	# jp: "[255:00000100]「おなかがすきました」"
+	# en: "[255:00000100]\"I'm hungry.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0071:
+	# jp: "オナカガスキマシタ"
+	# en: "オナカガスキマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0072:
+	# jp: "[255:00000100]「おなかがすきました」"
+	# en: "[255:00000100]\"I'm hungry.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0073:
+	# jp: "オナカガスキマシタ"
+	# en: "オナカガスキマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0074:
+	# jp: "[255:00000100]「おなかがすきました」"
+	# en: "[255:00000100]\"I'm hungry.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0075:
+	# jp: "オナカガスキマシタ"
+	# en: "オナカガスキマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0076:
+	# jp: "[255:00000100]「おなかがすきました」"
+	# en: "[255:00000100]\"I'm hungry.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0077:
+	# jp: "オナカガスキマシタ"
+	# en: "オナカガスキマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0078:
+	# jp: "[255:00000100]「おなかがすきました」"
+	# en: "[255:00000100]\"I'm hungry.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0079:
+	# jp: "オナカガスキマシタ"
+	# en: "オナカガスキマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0080:
+	# jp: "[255:00000100]「おなかがすきました」"
+	# en: "[255:00000100]\"I'm hungry.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0081:
+	# jp: "オナカガスキマシタ"
+	# en: "オナカガスキマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0082:
+	# jp: "[255:00000100]「おなかがすきました」"
+	# en: "[255:00000100]\"I'm hungry.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0083:
+	# jp: "オナカガスキマシタ"
+	# en: "オナカガスキマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0084:
+	# jp: "[255:00000100]「おなかがすきました」"
+	# en: "[255:00000100]\"I'm hungry.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0085:
+	# jp: "オナカガスキマシタ"
+	# en: "オナカガスキマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0086:
+	# jp: "[255:00000100]「おなかがすきました」"
+	# en: "[255:00000100]\"I'm hungry.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0087:
+	# jp: "オナカガスキマシタ"
+	# en: "オナカガスキマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0088:
+	# jp: "[255:00000100]「おなかがすきました」"
+	# en: "[255:00000100]\"I'm hungry.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0089:
+	# jp: "オナカガスキマシタ"
+	# en: "オナカガスキマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0090:
+	# jp: "[255:00000100]「おなかがすきました」"
+	# en: "[255:00000100]\"I'm hungry.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0091:
+	# jp: "オナカガスキマシタ"
+	# en: "オナカガスキマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0092:
+	# jp: "[255:00000100]「おなかがすきました」"
+	# en: "[255:00000100]\"I'm hungry.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0093:
+	# jp: "オナカガスキマシタ"
+	# en: "オナカガスキマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0094:
+	# jp: "[255:00000100]「おなかがすきました」"
+	# en: "[255:00000100]\"I'm hungry.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0095:
+	# jp: "オナカガスキマシタ"
+	# en: "オナカガスキマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0096:
+	# jp: "[255:00000100]「おなかがすきました」"
+	# en: "[255:00000100]\"I'm hungry.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0097:
+	# jp: "オナカガスキマシタ"
+	# en: "オナカガスキマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0098:
+	# jp: "[255:00000100]「おなかがすきました」"
+	# en: "[255:00000100]\"I'm hungry.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0099:
+	# jp: "オナカガスキマシタ"
+	# en: "オナカガスキマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0100:
+	# jp: "[255:00000100]「おなかがすきました」"
+	# en: "[255:00000100]\"I'm hungry.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0101:
+	# jp: "オナカガスキマシタ"
+	# en: "オナカガスキマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0102:
+	# jp: "[255:00000100]「おなかがすきました」"
+	# en: "[255:00000100]\"I'm hungry.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0103:
+	# jp: "オナカガスキマシタ"
+	# en: "オナカガスキマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0104:
+	# jp: "[255:00000100]「おなかがすきました」"
+	# en: "[255:00000100]\"I'm hungry.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0105:
+	# jp: "オナカガスキマシタ"
+	# en: "オナカガスキマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0106:
+	# jp: "[255:00000100]「おなかがすきました」"
+	# en: "[255:00000100]\"I'm hungry.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0107:
+	# jp: "オナカガスキマシタ"
+	# en: "オナカガスキマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0108:
+	# jp: "[255:00000100]「おなかがすきました」"
+	# en: "[255:00000100]\"I'm hungry.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0109:
+	# jp: "オナカガスキマシタ"
+	# en: "オナカガスキマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0110:
+	# jp: "[255:00000100]「おなかがすきました」"
+	# en: "[255:00000100]\"I'm hungry.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0111:
+	# jp: "オナカガスキマシタ"
+	# en: "オナカガスキマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0112:
+	# jp: "[255:00000100]「なんでもいいから食べたいです」"
+	# en: "[255:00000100]\"Give me something to eat.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0113:
+	# jp: "ナンデモイイカラタベタイデス"
+	# en: "ナンデモイイカラタベタイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0114:
+	# jp: "[255:00000100]「おなかがペコペコです」"
+	# en: "[255:00000100]\"I'm starving.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0115:
+	# jp: "オナカガペコペコデス"
+	# en: "オナカガペコペコデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0116:
+	# jp: "[255:00000100]「今、なんでもいいから食べたい気分です」"
+	# en: "[255:00000100]\"I feel like eating something.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0117:
+	# jp: "イマ＿ナンデモイイカラタベタイキブンデス"
+	# en: "イマ＿ナンデモイイカラタベタイキブンデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0118:
+	# jp: "[255:00000100]「[255:00000300][1:14000000][255:00000100]が食べたいです」"
+	# en: "[255:00000100]\"I want to eat some [255:00000300][1:14000000][255:00000100].\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0119:
+	# jp: "[1:14000000]｜ガタベタイデス"
+	# en: "[1:14000000]｜ガタベタイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0120:
+	# jp: "[255:00000100]「何か暖かい服がほしいです」"
+	# en: "[255:00000100]\"I want a warm outfit.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0121:
+	# jp: "ナニカアタタカイフクガホシイデス"
+	# en: "ナニカアタタカイフクガホシイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0122:
+	# jp: "[255:00000100]「何か涼しい服がほしいです」"
+	# en: "[255:00000100]\"I want a cool outfit.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0123:
+	# jp: "ナニカスズシイフクガホシイデス"
+	# en: "ナニカスズシイフクガホシイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0124:
+	# jp: "[255:00000100]「何か派手な服がほしいです」"
+	# en: "[255:00000100]\"I want a flashy outfit.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0125:
+	# jp: "ナニカハデナフクガホシイデス"
+	# en: "ナニカハデナフクガホシイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0126:
+	# jp: "[255:00000100]「何か地味な服がほしいです」"
+	# en: "[255:00000100]\"I want a plain outfit.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0127:
+	# jp: "ナニカジミナフクガホシイデス"
+	# en: "ナニカジミナフクガホシイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0128:
+	# jp: "[255:00000100]「フォーマルな服がほしいです」"
+	# en: "[255:00000100]\"I want a formal outfit.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0129:
+	# jp: "フォーマルナフクガホシイデス"
+	# en: "フォーマルナフクガホシイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0130:
+	# jp: "[255:00000100]「何かカジュアルな服がほしいです」"
+	# en: "[255:00000100]\"I want a casual outfit.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0131:
+	# jp: "ナニカカジュアルナフクガホシイデス"
+	# en: "ナニカカジュアルナフクガホシイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0132:
+	# jp: "[255:00000100]「何かかわいい服がほしいです」"
+	# en: "[255:00000100]\"I want a cute outfit.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0133:
+	# jp: "ナニカカワイイフクガホシイデス"
+	# en: "ナニカカワイイフクガホシイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0134:
+	# jp: "[255:00000100]「何かセクシーな服がほしいです」"
+	# en: "[255:00000100]\"I want a sexy outfit.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0135:
+	# jp: "ナニカセクシーナフクガホシイデス"
+	# en: "ナニカセクシーナフクガホシイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0136:
+	# jp: "[255:00000100]「何かかっこいい服がほしいです」"
+	# en: "[255:00000100]\"I want a stylish outfit.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0137:
+	# jp: "ナニカカッコイイフクガホシイデス"
+	# en: "ナニカカッコイイフクガホシイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0138:
+	# jp: "[255:00000100]「たまにはダサい服がほしいです」"
+	# en: "[255:00000100]\"Occasionally, I want to wear\na lame outfit.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0139:
+	# jp: "タマニワダサイフクガホシイデス"
+	# en: "タマニワダサイフクガホシイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0140:
+	# jp: "[255:00000100]「何か奇抜な服を着てみたいです」"
+	# en: "[255:00000100]\"I want a unique outfit.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0141:
+	# jp: "ナニカキバツナフクヲキテミタイデス"
+	# en: "ナニカキバツナフクヲキテミタイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0142:
+	# jp: "[255:00000100]「何か無難な服がほしいです」"
+	# en: "[255:00000100]\"I want a comfortable outfit.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0143:
+	# jp: "ナニカブナンナフクガホシイデス"
+	# en: "ナニカブナンナフクガホシイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0144:
+	# jp: "[255:00000100]「新しい服がほしいです」"
+	# en: "[255:00000100]\"I want a new outfit.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0145:
+	# jp: "アタラシイフクガホシイデス"
+	# en: "アタラシイフクガホシイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0146:
+	# jp: "[255:00000100]「新しい服がほしいです」"
+	# en: "[255:00000100]\"I want a new outfit.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0147:
+	# jp: "アタラシイフクガホシイデス"
+	# en: "アタラシイフクガホシイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0148:
+	# jp: "[255:00000100]「新しい服がほしいです」"
+	# en: "[255:00000100]\"I want a new outfit.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0149:
+	# jp: "アタラシイフクガホシイデス"
+	# en: "アタラシイフクガホシイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0150:
+	# jp: "[255:00000100]「新しい服がほしいです」"
+	# en: "[255:00000100]\"I want a new outfit.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0151:
+	# jp: "アタラシイフクガホシイデス"
+	# en: "アタラシイフクガホシイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0152:
+	# jp: "[255:00000100]「新しい服がほしいです」"
+	# en: "[255:00000100]\"I want a new outfit.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0153:
+	# jp: "アタラシイフクガホシイデス"
+	# en: "アタラシイフクガホシイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0154:
+	# jp: "[255:00000100]「新しい服がほしいです」"
+	# en: "[255:00000100]\"I want a new outfit.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0155:
+	# jp: "アタラシイフクガホシイデス"
+	# en: "アタラシイフクガホシイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0156:
+	# jp: "[255:00000100]「新しい服がほしいです」"
+	# en: "[255:00000100]\"I want a new outfit.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0157:
+	# jp: "アタラシイフクガホシイデス"
+	# en: "アタラシイフクガホシイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0158:
+	# jp: "[255:00000100]「新しい服がほしいです」"
+	# en: "[255:00000100]\"I want a new outfit.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0159:
+	# jp: "アタラシイフクガホシイデス"
+	# en: "アタラシイフクガホシイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0160:
+	# jp: "[255:00000100]「新しい服がほしいです」"
+	# en: "[255:00000100]\"I want a new outfit.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0161:
+	# jp: "アタラシイフクガホシイデス"
+	# en: "アタラシイフクガホシイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0162:
+	# jp: "[255:00000100]「新しい服がほしいです」"
+	# en: "[255:00000100]\"I want a new outfit.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0163:
+	# jp: "アタラシイフクガホシイデス"
+	# en: "アタラシイフクガホシイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0164:
+	# jp: "[255:00000100]「新しい服がほしいです」"
+	# en: "[255:00000100]\"I want a new outfit.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0165:
+	# jp: "アタラシイフクガホシイデス"
+	# en: "アタラシイフクガホシイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0166:
+	# jp: "[255:00000100]「新しい服がほしいです」"
+	# en: "[255:00000100]\"I want a new outfit.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0167:
+	# jp: "アタラシイフクガホシイデス"
+	# en: "アタラシイフクガホシイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0168:
+	# jp: "[255:00000100]「[255:00000300][1:01000000][255:00000100]がほしいです」"
+	# en: "[255:00000100]\"I want [255:00000300][1:01000000][255:00000100] outfit.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0169:
+	# jp: "[1:01000000]｜ガホシイデス"
+	# en: "[1:01000000]｜ガホシイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0170:
+	# jp: "[255:00000100]「スカートの服がほしいです」"
+	# en: "[255:00000100]\"I want to wear a skirt.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0171:
+	# jp: "スカートノフクガホシイデス"
+	# en: "スカートノフクガホシイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0172:
+	# jp: "[255:00000100]「仕事で着そうな服がほしいです」"
+	# en: "[255:00000100]\"I want something to wear to work.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0173:
+	# jp: "シゴトデキソーナフクガホシイデス"
+	# en: "シゴトデキソーナフクガホシイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0174:
+	# jp: "[255:00000100]「スポーツできそうな服がほしいです」"
+	# en: "[255:00000100]\"I want something to wear to play sports.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0175:
+	# jp: "スポーツデキソーナフクガホシイデス"
+	# en: "スポーツデキソーナフクガホシイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0176:
+	# jp: "[255:00000100]「新しい服がほしいです」"
+	# en: "[255:00000100]\"I want a new outfit.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0177:
+	# jp: "アタラシイフクガホシイデス"
+	# en: "アタラシイフクガホシイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0178:
+	# jp: "[255:00000100]「新しい服がほしいです」"
+	# en: "[255:00000100]\"I want a new outfit.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0179:
+	# jp: "アタラシイフクガホシイデス"
+	# en: "アタラシイフクガホシイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0180:
+	# jp: "[255:00000100]「新しい服がほしいです」"
+	# en: "[255:00000100]\"I want a new outfit.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0181:
+	# jp: "アタラシイフクガホシイデス"
+	# en: "アタラシイフクガホシイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0182:
+	# jp: "[255:00000100]「新しいインテリアがほしいです」"
+	# en: "[255:00000100]\"I want a new interior.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0183:
+	# jp: "アタラシイインテリアガホシイデス"
+	# en: "アタラシイインテリアガホシイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0184:
+	# jp: "[255:00000100]「[255:00000300][1:01000000][255:00000100]と友達になりたいです」"
+	# en: "[255:00000100]\"I want to be\n[255:00000300][1:01000000][255:00000100]'s friend.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0185:
+	# jp: "[1:01000000]ト｜トモダチニ｜ナリタイデス"
+	# en: "[1:01000000]ト｜トモダチニ｜ナリタイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0186:
+	# jp: "[255:00000100]「実は[255:00000300][1:01000000][255:00000100]のことが好きです。\n　告白したいのですが…」"
+	# en: "[255:00000100]\"I'm in love with [255:00000300][1:01000000][255:00000100].\nI want to confess my feelings...\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0187:
+	# jp: "ジツワ＿[1:01000000]ノコトガスキデス．コクハクシタイノデスガ"
+	# en: "ジツワ＿[1:01000000]ノコトガスキデス．コクハクシタイノデスガ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0188:
+	# jp: "[255:00000100]「ちょっといいですか？」"
+	# en: "[255:00000100]\"You got a minute?\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0189:
+	# jp: "チョットイイデスカ？"
+	# en: "チョットイイデスカ？"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0190:
+	# jp: "[255:00000100]「[255:00000300][1:01000000][255:00000100]とケンカしました。\n　仲直りしたいです」"
+	# en: "[255:00000100]\"[255:00000300][1:01000000][255:00000100] and I got in\na fight. I want to make up.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0191:
+	# jp: "[1:01000000]トケンカシマシタ．ナカナオリシタイデス"
+	# en: "[1:01000000]トケンカシマシタ．ナカナオリシタイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0192:
+	# jp: "[255:00000100]「[255:00000300][1:01000000][255:00000100]とケンカしました。\n　腹が立ちます」"
+	# en: "[255:00000100]\"[255:00000300][1:01000000][255:00000100] and I got in\na fight. I'm so mad now.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0193:
+	# jp: "[1:01000000]トケンカシマシタ．ハラガタチマス"
+	# en: "[1:01000000]トケンカシマシタ．ハラガタチマス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0194:
+	# jp: "[255:00000100]「もう[255:00000300][1:01000000][255:00000100]と別れたいんです」"
+	# en: "[255:00000100]\"I want to break up with\n[255:00000300][1:01000000][255:00000100].\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0195:
+	# jp: "モー＿[1:01000000]トワカレタインデス"
+	# en: "モー＿[1:01000000]トワカレタインデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0196:
+	# jp: "[255:00000100]「もう[255:00000300][1:01000000][255:00000100]と別れたいんです」"
+	# en: "[255:00000100]\"I want to break up with\n[255:00000300][1:01000000][255:00000100].\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0197:
+	# jp: "モー＿[1:01000000]トワカレタインデス"
+	# en: "モー＿[1:01000000]トワカレタインデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0198:
+	# jp: "[255:00000100]「よく言いそうな言葉を教えてください」"
+	# en: "[255:00000100]\"Please tell me my frequently\nspoken phrase.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0199:
+	# jp: "ヨクイイソウナコトバヲ｜オシエテクダサイ"
+	# en: "ヨクイイソウナコトバヲ｜オシエテクダサイ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0200:
+	# jp: "[255:00000100]「嬉しい時に使う言葉を教えてください」"
+	# en: "[255:00000100]\"Please tell me a phrase to\nsay when I am happy.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0201:
+	# jp: "ウレシイトキニツカウ｜コトバヲ｜オシエテクダサイ"
+	# en: "ウレシイトキニツカウ｜コトバヲ｜オシエテクダサイ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0202:
+	# jp: "[255:00000100]「怒った時に使う言葉を教えてください」"
+	# en: "[255:00000100]\"Please tell me a phrase to\nsay when I am mad.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0203:
+	# jp: "オコッタトキニツカウ｜コトバヲ｜オシエテクダサイ"
+	# en: "オコッタトキニツカウ｜コトバヲ｜オシエテクダサイ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0204:
+	# jp: "[255:00000100]「落ち込んだ時に使う言葉を教えてください」"
+	# en: "[255:00000100]\"Please tell me a phrase to\nsay when I feel down.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0205:
+	# jp: "オチコンダトキニツカウ｜コトバヲ｜オシエテクダサイ"
+	# en: "オチコンダトキニツカウ｜コトバヲ｜オシエテクダサイ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0206:
+	# jp: "[255:00000100]「悩んでいる時に使う言葉を教えてください」"
+	# en: "[255:00000100]\"Please tell me a phrase to\nsay when I'm in trouble.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0207:
+	# jp: "ナヤンデイルトキニツカウ｜コトバヲ｜オシエテクダサイ"
+	# en: "ナヤンデイルトキニツカウ｜コトバヲ｜オシエテクダサイ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0208:
+	# jp: "[255:00000100]「写真を撮りたいです」"
+	# en: "[255:00000100]\"I want to take some photos.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0209:
+	# jp: "シャシンオトリタイデス"
+	# en: "シャシンオトリタイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0210:
+	# jp: "[255:00000100]「お風呂に入りたいです」"
+	# en: "[255:00000100]\"I want to take a bath.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0211:
+	# jp: "オフロニハイリタイデス"
+	# en: "オフロニハイリタイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0212:
+	# jp: "[255:00000100]「風邪をひきました…」"
+	# en: "[255:00000100]\"I've caught a cold...\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0213:
+	# jp: "カゼヲヒキマシタ"
+	# en: "カゼヲヒキマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0214:
+	# jp: "[255:00000100]「おなかの調子が悪いです…」"
+	# en: "[255:00000100]\"I have stomach ache...\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0215:
+	# jp: "オナカノチョーシガワルイデス"
+	# en: "オナカノチョーシガワルイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0216:
+	# jp: "[255:00000100]「背中がかゆいです」"
+	# en: "[255:00000100]\"My back is itchy.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0217:
+	# jp: "セナカガカユイデス"
+	# en: "セナカガカユイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0218:
+	# jp: "[255:00000100]「おなかの中を見てください」"
+	# en: "[255:00000100]\"Please take a look inside my stomach.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0219:
+	# jp: "オナカノナカオミテクダサイ"
+	# en: "オナカノナカオミテクダサイ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0220:
+	# jp: "[255:00000100]「ちょっと遊んでください」"
+	# en: "[255:00000100]\"Can you play with me?\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0221:
+	# jp: "チョットアソンデクダサイ"
+	# en: "チョットアソンデクダサイ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0222:
+	# jp: "[255:00000100]「蚊が部屋に入ってしまって…\n　なんとかしてもらえますか？」"
+	# en: "[255:00000100]\"There's a mosquito in my room.\nCan you do something about it?\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0223:
+	# jp: "カガヘヤニハイッテシマッテ．ナントカシテモラエマスカ？"
+	# en: "カガヘヤニハイッテシマッテ．ナントカシテモラエマスカ？"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0224:
+	# jp: "[255:00000100]「フラれちゃいました…」"
+	# en: "[255:00000100]\"I was rejected...\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0225:
+	# jp: "フラレチャイマシタ"
+	# en: "フラレチャイマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0226:
+	# jp: "[255:00000100]「楽しかったあのころは、\n　もう帰ってこないんですね…」"
+	# en: "[255:00000100]\"Those fun moments would\nnever come back...\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0227:
+	# jp: "タノシカッタアノコロワ＿モー＿カエッテコナインデスネ＿"
+	# en: "タノシカッタアノコロワ＿モー＿カエッテコナインデスネ＿"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0228:
+	# jp: "[255:00000100]「離婚して、心にぽっかり穴があきました」"
+	# en: "[255:00000100]\"I'm divorced. I feel like\nthere's a hole in my heart.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0229:
+	# jp: "リコンシテ＿ココロニポッカリアナガアキマシタ"
+	# en: "リコンシテ＿ココロニポッカリアナガアキマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0230:
+	# jp: "[255:00000100]「わたしじゃダメなんですね…」"
+	# en: "[255:00000100]\"I'm such a loser...\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0231:
+	# jp: "ワタシジャダメナンデスネ"
+	# en: "ワタシジャダメナンデスネ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0232:
+	# jp: "[255:00000100]「人生そううまくいかないものですね…」"
+	# en: "[255:00000100]\"Life sure is hard...\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0233:
+	# jp: "ジンセイソーウマクイカナイモノデスネ"
+	# en: "ジンセイソーウマクイカナイモノデスネ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0234:
+	# jp: "[255:00000100]「新しい恋を探そうと思います…」"
+	# en: "[255:00000100]\"I should look for a new love...\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0235:
+	# jp: "アタラシイコイオサガソートオモイマス"
+	# en: "アタラシイコイオサガソートオモイマス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0236:
+	# jp: "[255:00000100]「これで良かったんですよね」"
+	# en: "[255:00000100]\"This should be okay.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0237:
+	# jp: "コレデヨカッタンデスヨネ"
+	# en: "コレデヨカッタンデスヨネ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0238:
+	# jp: "[255:00000100]「この島の生活がよくなるように、寄付を\n　することにしました。外に出てみてください」"
+	# en: "[255:00000100]\"People had donated money to\nhelp to make this island better.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0239:
+	# jp: "コノシマノセイカツガヨクナルヨーニ＿キフヲスルコトニシマシタ．ソトニデテミテクダサイ"
+	# en: "コノシマノセイカツガヨクナルヨーニ＿キフヲスルコトニシマシタ．ソトニデテミテクダサイ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0240:
+	# jp: "[255:00000100]「何も聞かずに５万円貸してください」"
+	# en: "[255:00000100]\"Please don't ask anything and\nlend me 50,000 Yen.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0241:
+	# jp: "ナニモキカズニゴマンエン｜カシテクダサイ"
+	# en: "ナニモキカズニゴマンエン｜カシテクダサイ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0242:
+	# jp: "[255:00000100]「はぁ…」"
+	# en: "[255:00000100]\"Hah...\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0243:
+	# jp: "ハー"
+	# en: "ハー"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0244:
+	# jp: "[255:00000100]「楽しかったあの頃を思い出してしまいます…」"
+	# en: "[255:00000100]\"I can't help thinking about the\nfun moments I used to have...\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0245:
+	# jp: "タノシカッタアノコロヲオモイダシテシマイマス"
+	# en: "タノシカッタアノコロヲオモイダシテシマイマス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0246:
+	# jp: "[255:00000100]「これから先、どう生きていけば\n　いいのでしょうか…」"
+	# en: "[255:00000100]\"I don't know how to live my\nlife after this...\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0247:
+	# jp: "コレカラサキ＿ドーイキテイケバイイノデショーカ"
+	# en: "コレカラサキ＿ドーイキテイケバイイノデショーカ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0248:
+	# jp: "[255:00000100]「自分に自信がもてません…」"
+	# en: "[255:00000100]\"I have no self-confidence.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0249:
+	# jp: "ジブンニジシンガモテマセン"
+	# en: "ジブンニジシンガモテマセン"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0250:
+	# jp: "[255:00000100]「仲直りできませんでした…」"
+	# en: "[255:00000100]\"We couldn't reconcile.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0251:
+	# jp: "ナカナオリデキマセンデシタ"
+	# en: "ナカナオリデキマセンデシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0252:
+	# jp: "[255:00000100]「別れを告げる方も、辛いんです…」"
+	# en: "[255:00000100]\"It was really painful to say goodbye.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0253:
+	# jp: "ワカレヲツゲルホーモ、ツラインデス"
+	# en: "ワカレヲツゲルホーモ、ツラインデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0254:
+	# jp: "[255:00000100]「離婚って、とても辛いことなんですね…」"
+	# en: "[255:00000100]\"I was really painful to be divorced...\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0255:
+	# jp: "リコンッテ＿トテモツライコトナンデスネ"
+	# en: "リコンッテ＿トテモツライコトナンデスネ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0256:
+	# jp: "[255:00000100]「いただきます」"
+	# en: "[255:00000100]\"Thank you.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0257:
+	# jp: "イタダキマス"
+	# en: "イタダキマス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0258:
+	# jp: "[255:00000100]「ごちそうさまでした」"
+	# en: "[255:00000100]\"Thanks for the food.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0259:
+	# jp: "ゴチソーサマデシタ"
+	# en: "ゴチソーサマデシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0260:
+	# jp: "[255:00000100]「もうおなかいっぱいです」"
+	# en: "[255:00000100]\"I'm already full.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0261:
+	# jp: "モー＿オナカイッパイデス"
+	# en: "モー＿オナカイッパイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0262:
+	# jp: "[255:00000100]「これはさっき食べました」"
+	# en: "[255:00000100]\"I've just eaten this.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0263:
+	# jp: "コレワサッキタベマシタ"
+	# en: "コレワサッキタベマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0264:
+	# jp: "[255:00000100]「服がいっぱいなので、どれか返します」"
+	# en: "[255:00000100]\"I'm full. Please take it back.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0265:
+	# jp: "フクガイッパイナノデ＿ドレカカエシマス"
+	# en: "フクガイッパイナノデ＿ドレカカエシマス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0266:
+	# jp: "[255:00000100]「この服はもう持ってます」"
+	# en: "[255:00000100]\"I already have this outfit.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0267:
+	# jp: "コノフクワモーモッテマス"
+	# en: "コノフクワモーモッテマス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0268:
+	# jp: "[255:00000100]「新しいインテリアをありがとうございます。\n　とてもいい部屋ですね、気に入りました」"
+	# en: "[255:00000100]\"Thank you for the new interior.\nIt's very nice. I like it.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0269:
+	# jp: "アタラシイインテリアオアリガトーゴザイマス．トテモイーヘヤデスネ＿キニイリマシタ"
+	# en: "アタラシイインテリアオアリガトーゴザイマス．トテモイーヘヤデスネ＿キニイリマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0270:
+	# jp: "[255:00000100]「新しいインテリアをありがとうございます。\n　なかなかいい部屋ですね」"
+	# en: "[255:00000100]\"Thank you for the new interior.\nIt's quite good.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0271:
+	# jp: "アタラシイインテリアオアリガトーゴザイマス．ナカナカイーヘヤデスネ"
+	# en: "アタラシイインテリアオアリガトーゴザイマス．ナカナカイーヘヤデスネ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0272:
+	# jp: "[255:00000100]「新しいインテリアをありがとうございます。\n　いい感じな部屋ですね」"
+	# en: "[255:00000100]\"Thank you for the new interior.\nThis feels good.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0273:
+	# jp: "アタラシイインテリアオアリガトーゴザイマス．イーカンジナヘヤデスネ"
+	# en: "アタラシイインテリアオアリガトーゴザイマス．イーカンジナヘヤデスネ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0274:
+	# jp: "[255:00000100]「新しいインテリアをありがとうございます。\n　えっと、ユニークな部屋ですね」"
+	# en: "[255:00000100]\"Thank you for the new interior.\nUm, it's pretty unique.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0275:
+	# jp: "アタラシイインテリアオアリガトーゴザイマス．エット＿ユニークナヘヤデスネ"
+	# en: "アタラシイインテリアオアリガトーゴザイマス．エット＿ユニークナヘヤデスネ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0276:
+	# jp: "[255:00000100]「…新しいインテリアをありがとうございます。\n　…個人的にはちょっとアレなんですけど」"
+	# en: "[255:00000100]\"Thank you for the new interior.\nPeople have different tastes, eh?\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0277:
+	# jp: "＿アタラシイインテリアオアリガトーゴザイマス？＿＿コジンテキニワチョットアレナンデスケド"
+	# en: "＿アタラシイインテリアオアリガトーゴザイマス？＿＿コジンテキニワチョットアレナンデスケド"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0278:
+	# jp: "[255:00000100]「このインテリアはもう持ってます」"
+	# en: "[255:00000100]\"I already have this.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0279:
+	# jp: "コノインテリアワモーモッテマス"
+	# en: "コノインテリアワモーモッテマス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0280:
+	# jp: "[255:00000100]「[255:00000300][1:0a000000][255:00000100]でいいですか」"
+	# en: "[255:00000100]\"Is [255:00000300][1:0a000000][255:00000100] okay?\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0281:
+	# jp: "[1:0a000000]．デイイデスカ"
+	# en: "[1:0a000000]．デイイデスカ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0282:
+	# jp: "[255:00000100]「[255:00000300][1:0a000000][255:00000100]\n　でいいですか」"
+	# en: "[255:00000100]\"Will [255:00000300][1:0a000000][255:00000100]\nbe okay?\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0283:
+	# jp: "[1:0a000000]．デイイデスカ"
+	# en: "[1:0a000000]．デイイデスカ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0284:
+	# jp: "[255:00000100]「はい、わかりました」"
+	# en: "[255:00000100]\"Okay. I got it.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0285:
+	# jp: "ハイ＿ワカリマシタ"
+	# en: "ハイ＿ワカリマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0286:
+	# jp: "[255:00000100]「[1:0a000000]」"
+	# en: "[255:00000100]\"[1:0a000000].\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0287:
+	# jp: "[1:0a000000]"
+	# en: "[1:0a000000]"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0288:
+	# jp: "[255:00000100]「ちょっと撮ってきます」"
+	# en: "[255:00000100]\"I'm going to take a photo.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0289:
+	# jp: "チョットトッテキマス"
+	# en: "チョットトッテキマス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0290:
+	# jp: "[255:00000100]「いかがですか」"
+	# en: "[255:00000100]\"How is it?\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0291:
+	# jp: "イカガデスカ"
+	# en: "イカガデスカ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0292:
+	# jp: "[255:00000100]「ちょっと使ってみてください」"
+	# en: "[255:00000100]\"Please show me how to use it.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0293:
+	# jp: "チョットツカッテミテクダサイ"
+	# en: "チョットツカッテミテクダサイ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0294:
+	# jp: "[255:00000100]「はっ！」"
+	# en: "[255:00000100]\"Ah!\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0295:
+	# jp: "ハッ！"
+	# en: "ハッ！"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0296:
+	# jp: "[255:00000100]「わたし、今なにしてました？」"
+	# en: "[255:00000100]\"What did I do?\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0297:
+	# jp: "ワタシ＿イマナニシテマシタ？"
+	# en: "ワタシ＿イマナニシテマシタ？"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0298:
+	# jp: "[255:00000100]「それじゃあ、ひとっ風呂あびてきます」"
+	# en: "[255:00000100]\"Well then, I'm going to take a bath.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0299:
+	# jp: "ソレジャー，ヒトップロアビテキマス"
+	# en: "ソレジャー，ヒトップロアビテキマス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0300:
+	# jp: "[255:00000100]「さっぱりしました」"
+	# en: "[255:00000100]\"Very refreshing!\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0301:
+	# jp: "サッパリシマシタ"
+	# en: "サッパリシマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0302:
+	# jp: "[255:00000100]「ちょっと撮ってきます」"
+	# en: "[255:00000100]\"I'm going to take a photo.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0303:
+	# jp: "チョットトッテキマス"
+	# en: "チョットトッテキマス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0304:
+	# jp: "[255:00000100]「こんなのが撮れました」"
+	# en: "[255:00000100]\"This is what I got.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0305:
+	# jp: "コンナノガトレマシタ"
+	# en: "コンナノガトレマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0306:
+	# jp: "[255:00000100]「タイトルは『[1:01000000]』です」"
+	# en: "[255:00000100]\"The title is\n『[1:01000000].』\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0307:
+	# jp: "タイトルワ＿[1:01000000]デス"
+	# en: "タイトルワ＿[1:01000000]デス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0308:
+	# jp: "[255:00000100]「ですよね、わかってくれると思ってました」"
+	# en: "[255:00000100]\"Yeah. You understand its value, right?\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0309:
+	# jp: "デスヨネ＿ワカッテクレルトオモッテマシタ"
+	# en: "デスヨネ＿ワカッテクレルトオモッテマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0310:
+	# jp: "[255:00000100]「なるほど、あとちょっとということですね」"
+	# en: "[255:00000100]\"I see. I must try harder.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0311:
+	# jp: "ナルホド＿アトチョットトユーコトデスネ"
+	# en: "ナルホド＿アトチョットトユーコトデスネ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0312:
+	# jp: "[255:00000100]「わかる人にはわかるんですよ」"
+	# en: "[255:00000100]\"There might be someone else\nwho appreciates it.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0313:
+	# jp: "ワカルヒトニワワカルンデスヨ"
+	# en: "ワカルヒトニワワカルンデスヨ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0314:
+	# jp: "[255:00000100]「[1:01000000]のそっくりさんにも\n　いつかわかる日がきますよ」"
+	# en: "[255:00000100]\"[1:01000000]'s spitting image,\nyou'll understand it some day.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0315:
+	# jp: "[1:01000000]ノソックリサンニモ＿イツカワカルヒガキマスヨ"
+	# en: "[1:01000000]ノソックリサンニモ＿イツカワカルヒガキマスヨ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0316:
+	# jp: "[255:00000100]「ちょっと涼みます」"
+	# en: "[255:00000100]\"I'll cool off a little bit.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0317:
+	# jp: "チョットスズミマス"
+	# en: "チョットスズミマス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0318:
+	# jp: "[255:00000100]「いい感じに涼しくなりました」"
+	# en: "[255:00000100]\"The cool air feels nice.\" "
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0319:
+	# jp: "イイカンジニスズシクナリマシタ"
+	# en: "イイカンジニスズシクナリマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0320:
+	# jp: "[255:00000100]「ちょっと体験してきます」"
+	# en: "[255:00000100]\"I will try it.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0321:
+	# jp: "チョットタイケンシテキマス"
+	# en: "チョットタイケンシテキマス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0322:
+	# jp: "[255:00000100]「タメになりました」"
+	# en: "[255:00000100]\"I've learned something.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0323:
+	# jp: "タメニナリマシタ"
+	# en: "タメニナリマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0324:
+	# jp: "[255:00000100]「ちょっと聴いてみてもいいですか？」"
+	# en: "[255:00000100]\"Can I listen to it?\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0325:
+	# jp: "チョットキイテミテモイイデスカ？"
+	# en: "チョットキイテミテモイイデスカ？"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0326:
+	# jp: "[255:00000100]「オルゴールは和みますね」"
+	# en: "[255:00000100]\"Music box is soothing.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0327:
+	# jp: "オルゴールワナゴミマスネ"
+	# en: "オルゴールワナゴミマスネ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0328:
+	# jp: "[255:00000100]「おいしく作ってみせましょう」"
+	# en: "[255:00000100]\"I'm going to cook something delicious.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0329:
+	# jp: "オイシクツクッテミセマショー"
+	# en: "オイシクツクッテミセマショー"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0330:
+	# jp: "[255:00000100]「おそまつさまでした」"
+	# en: "[255:00000100]\"Did you like it?\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0331:
+	# jp: "オソマツサマデシタ"
+	# en: "オソマツサマデシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0332:
+	# jp: "[255:00000100]「熱が引いた気がします」"
+	# en: "[255:00000100]\"My fever has gone.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0333:
+	# jp: "ネツガヒイタキガシマス"
+	# en: "ネツガヒイタキガシマス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0334:
+	# jp: "[255:00000100]「結構苦いですね」"
+	# en: "[255:00000100]\"It's pretty bitter.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0335:
+	# jp: "ケッコーニガイデスネ"
+	# en: "ケッコーニガイデスネ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0336:
+	# jp: "[255:00000100]「だいぶ調子がよくなりました」"
+	# en: "[255:00000100]\"I've gotten better.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0337:
+	# jp: "ダイブチョーシガヨクナリマシタ"
+	# en: "ダイブチョーシガヨクナリマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0338:
+	# jp: "[255:00000100]「変な味ですね」"
+	# en: "[255:00000100]\"It tasted weird.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0339:
+	# jp: "ヘンナアジデスネ"
+	# en: "ヘンナアジデスネ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0340:
+	# jp: "[255:00000100]「え、いいんですか？」"
+	# en: "[255:00000100]\"Eh? Is it really okay?\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0341:
+	# jp: "エ＿イインデスカ？"
+	# en: "エ＿イインデスカ？"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0342:
+	# jp: "[255:00000100]「では、楽しんできます」"
+	# en: "[255:00000100]\"Then I'll enjoy it.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0343:
+	# jp: "デワ＿タノシンデキマス"
+	# en: "デワ＿タノシンデキマス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0344:
+	# jp: "[255:00000100]「あー楽しかった」"
+	# en: "[255:00000100]\"Ah, it was fun.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0345:
+	# jp: "アータノシカッタ"
+	# en: "アータノシカッタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0346:
+	# jp: "[255:00000100]「これ、お土産です」"
+	# en: "[255:00000100]\"Here's your souvenir.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0347:
+	# jp: "コレ＿オミヤゲデス"
+	# en: "コレ＿オミヤゲデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0348:
+	# jp: "[255:00000100]「いい気分転換になりました」"
+	# en: "[255:00000100]\"It was a refreshing change of pace.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0349:
+	# jp: "イーキブンテンカンニナリマシタ"
+	# en: "イーキブンテンカンニナリマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0350:
+	# jp: "[255:00000100]「これからも、夫婦ともども\n　よろしくお願いします」"
+	# en: "[255:00000100]\"From now on, please be nice to us.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0351:
+	# jp: "コレカラモ＿フーフトモドモヨロシクオネガイシマス"
+	# en: "コレカラモ＿フーフトモドモヨロシクオネガイシマス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0352:
+	# jp: "[255:00000100]「どんな感じで話せばいいでしょうか」"
+	# en: "[255:00000100]\"Which manner should I talk?\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0353:
+	# jp: "ドンナカンジデハナセバイーデショーカ"
+	# en: "ドンナカンジデハナセバイーデショーカ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0354:
+	# jp: "[255:00000100]「どんな話をすればいいでしょうか」"
+	# en: "[255:00000100]\"What kind of topic should I talk about?\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0355:
+	# jp: "ドンナハナシヲスレバイーデショーカ"
+	# en: "ドンナハナシヲスレバイーデショーカ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0356:
+	# jp: "[255:00000100]「わかりました。では、\n　お話ができるよう頼んできてください」"
+	# en: "[255:00000100]\"Okay. Please introduce us then.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0357:
+	# jp: "ワカリマシタ＿デワ＿オハナシガデキルヨータノンデキテクダサイ"
+	# en: "ワカリマシタ＿デワ＿オハナシガデキルヨータノンデキテクダサイ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0358:
+	# jp: "[255:00000100]「なるほど、わかりました。\n　ちょっとお話してきます」"
+	# en: "[255:00000100]\"Okay, I got it. I'll drop by.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0359:
+	# jp: "ナルホド＿ワカリマシタ．チョットオハナシシテキマス．"
+	# en: "ナルホド＿ワカリマシタ．チョットオハナシシテキマス．"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0360:
+	# jp: "[255:00000100]「ありがとうございます！\n　おかげで友達になれました！」"
+	# en: "[255:00000100]\"Thank you very much!\nNow we've become friends!\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0361:
+	# jp: "アリガトーゴザイマス！＿オカゲデトモダチニナレマシタ！"
+	# en: "アリガトーゴザイマス！＿オカゲデトモダチニナレマシタ！"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0362:
+	# jp: "[255:00000100]「まだ、友達にはなれませんでした」"
+	# en: "[255:00000100]\"We aren't friends yet.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0363:
+	# jp: "マダ＿トモダチニワナレマセンデシタ"
+	# en: "マダ＿トモダチニワナレマセンデシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0364:
+	# jp: "[255:00000100]「どんな感じで告白したらいいですか」"
+	# en: "[255:00000100]\"Which manner should I confess?\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0365:
+	# jp: "ドンナカンジデコクハクシタライイデスカ"
+	# en: "ドンナカンジデコクハクシタライイデスカ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0366:
+	# jp: "[255:00000100]「どこで告白するのがいいでしょうか」"
+	# en: "[255:00000100]\"Where should I confess?\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0367:
+	# jp: "ドコデコクハクスルノガイイデショーカ"
+	# en: "ドコデコクハクスルノガイイデショーカ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0368:
+	# jp: "[255:00000100]「その前に、着替えたほうがいいですかね？」"
+	# en: "[255:00000100]\"Before that, should I change\nmy clothes first?\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0369:
+	# jp: "ソノマエニ＿キガエタホーガイーデスカネ？"
+	# en: "ソノマエニ＿キガエタホーガイーデスカネ？"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0370:
+	# jp: "[255:00000100]「わかりました、告白してきます！」"
+	# en: "[255:00000100]\"Okay, I'm going to confess now!\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0371:
+	# jp: "ワカリマシタ＿コクハクシテキマス！"
+	# en: "ワカリマシタ＿コクハクシテキマス！"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0372:
+	# jp: "[255:00000100]「それでは、告白してきます！」"
+	# en: "[255:00000100]\"I'm going to confess!\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0373:
+	# jp: "ソレデワ＿コクハクシテキマス！"
+	# en: "ソレデワ＿コクハクシテキマス！"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0374:
+	# jp: "[255:00000100]「どうして反対するんですか？」"
+	# en: "[255:00000100]\"Why did you oppose?\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0375:
+	# jp: "ドーシテハンタイスルンデスカ？"
+	# en: "ドーシテハンタイスルンデスカ？"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0376:
+	# jp: "[255:00000100]「そうですか、わかりました…」"
+	# en: "[255:00000100]\"Is that so? I got it...\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0377:
+	# jp: "ソーデスカ＿ワカリマシタ"
+	# en: "ソーデスカ＿ワカリマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0378:
+	# jp: "[255:00000100]「え、そんなひどい…」"
+	# en: "[255:00000100]\"Eh? That's cruel...\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0379:
+	# jp: "エ＿ソンナ＿ヒドイ＿＿"
+	# en: "エ＿ソンナ＿ヒドイ＿＿"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0380:
+	# jp: "[255:00000100]「そうだったんですか…」"
+	# en: "[255:00000100]\"Is that so...?\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0381:
+	# jp: "ソーダッタンデスカ＿＿＿"
+	# en: "ソーダッタンデスカ＿＿＿"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0382:
+	# jp: "[255:00000100]「そうですか…。がんばります」"
+	# en: "[255:00000100]\"Is that so? I'll try harder.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0383:
+	# jp: "ソーデスカ＿．ガンバリマス"
+	# en: "ソーデスカ＿．ガンバリマス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0384:
+	# jp: "[255:00000100]「すっかり立ちなおりました」"
+	# en: "[255:00000100]\"I've fully recovered.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0385:
+	# jp: "スッカリタチナオリマシタ"
+	# en: "スッカリタチナオリマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0386:
+	# jp: "[255:00000100]「ちょっといいですか？」"
+	# en: "[255:00000100]\"You got a minute?\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0387:
+	# jp: "チョットイイデスカ？"
+	# en: "チョットイイデスカ？"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0388:
+	# jp: "[255:00000100]「じゃあ、このイライラを沈めてください」"
+	# en: "[255:00000100]\"Can you help get rid of\nthis irritation first?\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0389:
+	# jp: "ジャー，コノイライラオシズメテクダサイ"
+	# en: "ジャー，コノイライラオシズメテクダサイ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0390:
+	# jp: "[255:00000100]「気分がよくなりました。\n　仲直りしてこようと思います」"
+	# en: "[255:00000100]\"I feel much better now.\nI'll try to make up.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0391:
+	# jp: "キブンガヨクナリマシタ．ナカナオリシテコヨートオモイマス"
+	# en: "キブンガヨクナリマシタ．ナカナオリシテコヨートオモイマス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0392:
+	# jp: "[255:00000100]「ありがとうございます、仲直りできました」"
+	# en: "[255:00000100]\"Thank you very much.\nWe've become friends again.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0393:
+	# jp: "アリガトーゴザイマス＿ナカナオリデキマシタ"
+	# en: "アリガトーゴザイマス＿ナカナオリデキマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0394:
+	# jp: "[255:00000100]「だめでした…」"
+	# en: "[255:00000100]\"It didn't work...\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0395:
+	# jp: "ダメデシタ"
+	# en: "ダメデシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0396:
+	# jp: "[255:00000100]「では[255:00000300][1:01000000][255:00000100]と話をしてきます」"
+	# en: "[255:00000100]\"I'll go talk to\n[255:00000300][1:01000000][255:00000100] now.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0397:
+	# jp: "デワ[1:01000000]トハナシオシテキマス"
+	# en: "デワ[1:01000000]トハナシオシテキマス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0398:
+	# jp: "[255:00000100]「…もう一度話し合ってきます」"
+	# en: "[255:00000100]\"...I'll try to talk it over.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0399:
+	# jp: "＿モーイチドハナシアッテキマス"
+	# en: "＿モーイチドハナシアッテキマス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0400:
+	# jp: "[255:00000100]「やっと自由になれた気がします…」"
+	# en: "[255:00000100]\"I feel like I have my freedom now.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0401:
+	# jp: "ヤットジユーニナレタキガシマス"
+	# en: "ヤットジユーニナレタキガシマス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0402:
+	# jp: "[255:00000100]「もう一度やりなおしてみようと思います」"
+	# en: "[255:00000100]\"We will try to start over.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0403:
+	# jp: "モーイチドヤリナオシテミヨートオモイマス"
+	# en: "モーイチドヤリナオシテミヨートオモイマス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0404:
+	# jp: "[255:00000100]「やっぱり、だめでした」"
+	# en: "[255:00000100]\"It really was no good.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0405:
+	# jp: "ヤッパリ＿ダメデシタ"
+	# en: "ヤッパリ＿ダメデシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0406:
+	# jp: "[255:00000100]すごくおいしかったようです"
+	# en: "[255:00000100]It was extremely delicious."
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0407:
+	# jp: "[255:00000100]けっこうおいしかったようです"
+	# en: "[255:00000100]It was very delicious."
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0408:
+	# jp: "[255:00000100]まあまあおいしかったようです"
+	# en: "[255:00000100]It was quite delicious."
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0409:
+	# jp: "[255:00000100]あんまりおいしくなかったようです"
+	# en: "[255:00000100]It wasn't quite delicious."
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0410:
+	# jp: "[255:00000100]おいしくなかったようです"
+	# en: "[255:00000100]It wasn't delicious."
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0411:
+	# jp: "[255:00000100]大好物だったようです"
+	# en: "[255:00000100]Loved it!"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0412:
+	# jp: "[255:00000100]苦手だったようです…"
+	# en: "[255:00000100]Hated it..."
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0413:
+	# jp: "[255:00000100]すごく気に入ったようです"
+	# en: "[255:00000100]Loved it so much."
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0414:
+	# jp: "[255:00000100]けっこう気に入ったようです"
+	# en: "[255:00000100]Liked it so much."
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0415:
+	# jp: "[255:00000100]まあまあ気に入ったようです"
+	# en: "[255:00000100]Kind of liked it."
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0416:
+	# jp: "[255:00000100]あんまり気に入らなかったようです"
+	# en: "[255:00000100]Not quite liked it."
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0417:
+	# jp: "[255:00000100]気に入らなかったようです"
+	# en: "[255:00000100]Didn't like it."
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0418:
+	# jp: "[255:00000100]なにやら満足そうです"
+	# en: "[255:00000100]Pretty satisfied."
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0419:
+	# jp: "[255:00000100]なにやら満足げです"
+	# en: "[255:00000100]Quite satisfied."
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0420:
+	# jp: "[255:00000100]ちょっと不満そうです"
+	# en: "[255:00000100]Not quite satisfied."
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0421:
+	# jp: "[255:00000100]うまくいきました！"
+	# en: "[255:00000100]It went well!"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0422:
+	# jp: "[255:00000100]残念な結果に終わりました…"
+	# en: "[255:00000100]It turned out to be terrible..."
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0423:
+	# jp: "[255:00000100]うまくいきました！"
+	# en: "[255:00000100]It went well!"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0424:
+	# jp: "[255:00000100]まだダメだったようです"
+	# en: "[255:00000100]Still no good."
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0425:
+	# jp: "[255:00000100]うまくいきました！"
+	# en: "[255:00000100]It went well!"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0426:
+	# jp: "[255:00000100]ダメだったようです…"
+	# en: "[255:00000100]It was no good..."
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0427:
+	# jp: "[255:00000100]うまくいきました"
+	# en: "[255:00000100]It went well."
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0428:
+	# jp: "[255:00000100]うまくいきませんでした"
+	# en: "[255:00000100]It didn't go well."
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0429:
+	# jp: "[255:00000300][1:01000000][255:00000100]と[255:00000300][1:01000100][255:00000100]は\n別れました…"
+	# en: "[255:00000300][1:01000000][255:00000100] and [255:00000300][1:01000100][255:00000100]\nbroke up..."
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0430:
+	# jp: "[255:00000100]うまくいきました"
+	# en: "[255:00000100]It went well."
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0431:
+	# jp: "[255:00000100]うまくいきませんでした"
+	# en: "[255:00000100]It didn't go well."
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0432:
+	# jp: "[255:00000100]有効成分が諸症状に効いていきました"
+	# en: "[255:00000100]All the symptoms were cured."
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0433:
+	# jp: "[255:00000100]一発で治りました！"
+	# en: "[255:00000100]Already cured!"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0434:
+	# jp: "[255:00000100]胃腸の痛みがすぅっと引いていきました"
+	# en: "[255:00000100]The stomach ache has gone."
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0435:
+	# jp: "[255:00000100]一発で治りました！"
+	# en: "[255:00000100]Already cured!"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0436:
+	# jp: "[255:00000100]落ち込みから回復しました"
+	# en: "[255:00000100]Already recovered from depression."
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0437:
+	# jp: "[255:00000300][1:14000000][255:00000100]をもらいました"
+	# en: "You received [255:00000300][1:14000000][255:00000100]."
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0438:
+	# jp: "[255:00000100]「ひとつだけあげます。\n　どれか選んでください」"
+	# en: "[255:00000100]\"You can pick one prize.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0439:
+	# jp: "ヒトツダケアゲマス．ドレカエランデクダサイ"
+	# en: "ヒトツダケアゲマス．ドレカエランデクダサイ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0440:
+	# jp: "[255:00000100]「夢か……」"
+	# en: "[255:00000100]\"A dream...?\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0441:
+	# jp: "ユメカ＿＿＿＿＿＿"
+	# en: "ユメカ＿＿＿＿＿＿"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0442:
+	# jp: "[255:00000100]「なんだ………夢か」"
+	# en: "[255:00000100]\"What? A dream...?\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0443:
+	# jp: "ナンダ＿＿＿ユメカ＿＿＿"
+	# en: "ナンダ＿＿＿ユメカ＿＿＿"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0444:
+	# jp: "[255:00000100]「びっくりした………」"
+	# en: "[255:00000100]\"I was scared...\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0445:
+	# jp: "ビックリシター＿＿＿＿＿"
+	# en: "ビックリシター＿＿＿＿＿"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0446:
+	# jp: "[255:00000100]「何だったんだ…」"
+	# en: "[255:00000100]\"What was that...?\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0447:
+	# jp: "ナンダッタンダ＿＿＿＿＿＿＿"
+	# en: "ナンダッタンダ＿＿＿＿＿＿＿"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0448:
+	# jp: "[255:00000100]どういうわけか[255:00000300][1:14000000][255:00000100]を\n拾いました"
+	# en: "[255:00000100]You've picked up [255:00000300][1:14000000][255:00000100]."
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0449:
+	# jp: "[255:00000100]なぜか【お宝】[255:00000300][1:14000000][255:00000100]を\n拾いました"
+	# en: "[255:00000100][255:00000300][1:14000000][255:00000100] added to\nyour 【Asset.】"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0450:
+	# jp: "[255:00000100]「いっしょに遊びませんか？」"
+	# en: "[255:00000100]\"Can you play with me?\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0451:
+	# jp: "イッショニアソビマセンカ？"
+	# en: "イッショニアソビマセンカ？"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0452:
+	# jp: "[255:00000100]「おめでとうございます」"
+	# en: "[255:00000100]\"Congratulations.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0453:
+	# jp: "オメデトーゴザイマス"
+	# en: "オメデトーゴザイマス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0454:
+	# jp: "[255:00000100]「残念でしたね。\n　また遊んでください」"
+	# en: "[255:00000100]\"What a pity.\nLet's play again next time.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0455:
+	# jp: "ザンネンデシタネ．マタアソンデクダサイ"
+	# en: "ザンネンデシタネ．マタアソンデクダサイ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0456:
+	# jp: "[255:00000100]【お宝】[255:00000300][1:14000000][255:00000100]を\nもらいました"
+	# en: "[255:00000100][255:00000300][1:14000000][255:00000100] added to\nyour 【Asset.】"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0457:
+	# jp: "[255:00000100]「お礼にこれをあげます」"
+	# en: "[255:00000100]\"Let me give you this.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0458:
+	# jp: "オレーニコレヲアゲマス"
+	# en: "オレーニコレヲアゲマス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0459:
+	# jp: "[255:00000100]「リクエストに応えてくれて、ありがとう\n　ございます。お礼にこれをあげます」"
+	# en: "[255:00000100]\"Thank you for listening to my\nrequest. Let me give you this.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0460:
+	# jp: "リクエストニコタエテクレテ＿アリガトーゴザイマス．オレーニコレヲアゲマス"
+	# en: "リクエストニコタエテクレテ＿アリガトーゴザイマス．オレーニコレヲアゲマス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0461:
+	# jp: "[255:00000100]「いつもありがとうございます。\n　わたしからのお返しです」"
+	# en: "[255:00000100]\"Thank you very much. Please take this.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0462:
+	# jp: "イツモアリガトーゴザイマス＿ワタシカラノオカエシデス"
+	# en: "イツモアリガトーゴザイマス＿ワタシカラノオカエシデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0463:
+	# jp: "[255:00000100]【実用品】[255:00000300][1:14000000][255:00000100]を\nもらいました"
+	# en: "[255:00000100][255:00000300][1:14000000][255:00000100] added\nto your 【Item.】"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0464:
+	# jp: "[255:00000100]「ありがとうございます」"
+	# en: "[255:00000100]\"Thank you very much.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0465:
+	# jp: "アリガトーゴザイマス"
+	# en: "アリガトーゴザイマス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0466:
+	# jp: "[255:00000100]「うーん、いまいち」"
+	# en: "[255:00000100]\"Hmm, not bad.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0467:
+	# jp: "ウーン＿イマイチ"
+	# en: "ウーン＿イマイチ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0468:
+	# jp: "[255:00000100]「まあ、だからといって\n　どうということはないんですけどね」"
+	# en: "[255:00000100]\"Well, it doesn't seem to have\nany problem, right?\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0469:
+	# jp: "マー＿ダカラトイッテ＿ドートユーコトワナインデスケドネ"
+	# en: "マー＿ダカラトイッテ＿ドートユーコトワナインデスケドネ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0470:
+	# jp: "[255:00000100]「うーん、いまいち」"
+	# en: "[255:00000100]\"Hmm, not bad.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0471:
+	# jp: "ウーン＿イマイチ"
+	# en: "ウーン＿イマイチ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0472:
+	# jp: "[255:00000100]「ありがとうございます」"
+	# en: "[255:00000100]\"Thank you very much.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0473:
+	# jp: "アリガトーゴザイマス"
+	# en: "アリガトーゴザイマス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0474:
+	# jp: "[255:00000100]「痛かったなあ…」"
+	# en: "[255:00000100]\"It hurt...\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0475:
+	# jp: "イタカッタナー"
+	# en: "イタカッタナー"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0476:
+	# jp: "あげる"
+	# en: "Give"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0477:
+	# jp: "もらう"
+	# en: "Take"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0478:
+	# jp: "買いに行く"
+	# en: "Shop"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0479:
+	# jp: "着せ替え"
+	# en: "Change"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0480:
+	# jp: "はい"
+	# en: "Yes"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0481:
+	# jp: "いいえ"
+	# en: "No"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0482:
+	# jp: "要求に応える"
+	# en: "Help"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0483:
+	# jp: "今はほっとく"
+	# en: "Leave"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0484:
+	# jp: "食べ物をあげる"
+	# en: "Feed"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0485:
+	# jp: "今はほっとく"
+	# en: "Leave"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0486:
+	# jp: "アイテムをあげる"
+	# en: "Item"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0487:
+	# jp: "今はほっとく"
+	# en: "Leave"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0488:
+	# jp: "服をあげる"
+	# en: "Outfit"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0489:
+	# jp: "今はほっとく"
+	# en: "Leave"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0490:
+	# jp: "言葉を入れる"
+	# en: "Create"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0491:
+	# jp: "今はほっとく"
+	# en: "Leave"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0492:
+	# jp: "お願いします"
+	# en: "Use this"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0493:
+	# jp: "別の言葉にする"
+	# en: "Change"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0494:
+	# jp: "やっぱほっとく"
+	# en: "Leave"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0495:
+	# jp: "がんばってみる"
+	# en: "Try"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0496:
+	# jp: "今はほっとく"
+	# en: "Leave"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0497:
+	# jp: "紹介する"
+	# en: "Help"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0498:
+	# jp: "今はほっとく"
+	# en: "Leave"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0499:
+	# jp: "相手をほめる"
+	# en: "Flattering"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0500:
+	# jp: "聞き手にまわる"
+	# en: "Obedient"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0501:
+	# jp: "手短に話す"
+	# en: "Brief"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0502:
+	# jp: "礼儀正しく話す"
+	# en: "Polite"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0503:
+	# jp: "面白い話"
+	# en: "Jokes"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0504:
+	# jp: "世間話"
+	# en: "Gossips"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0505:
+	# jp: "頭を使う話"
+	# en: "Brainteasers"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0506:
+	# jp: "真面目な話"
+	# en: "Serious topics"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0507:
+	# jp: "仲直りしてよ"
+	# en: "Reconcile"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0508:
+	# jp: "好きにすれば"
+	# en: "Whatever"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0509:
+	# jp: "いいと思う"
+	# en: "That's good"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0510:
+	# jp: "考えなおして"
+	# en: "Think again"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0511:
+	# jp: "いいと思う"
+	# en: "That's good"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0512:
+	# jp: "考えなおして"
+	# en: "Think again"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0513:
+	# jp: "行ってみる"
+	# en: "Go"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0514:
+	# jp: "告白を手伝う"
+	# en: "I'll help"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0515:
+	# jp: "それはダメ"
+	# en: "No good"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0516:
+	# jp: "今はほっとく"
+	# en: "Leave"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0517:
+	# jp: "正統派"
+	# en: "Traditional"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0518:
+	# jp: "ロマンチックに"
+	# en: "Romantic"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0519:
+	# jp: "えらそうに"
+	# en: "Arrogant"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0520:
+	# jp: "必死に"
+	# en: "Desperate"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0521:
+	# jp: "浜辺"
+	# en: "Beach"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0522:
+	# jp: "マンションの屋上"
+	# en: "Rooftop"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0523:
+	# jp: "公園"
+	# en: "Park"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0524:
+	# jp: "教室"
+	# en: "Classroom"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0525:
+	# jp: "着替える"
+	# en: "Change"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0526:
+	# jp: "このままで"
+	# en: "Just go"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0527:
+	# jp: "つりあわないから"
+	# en: "Not compatible"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0528:
+	# jp: "ねたましいから"
+	# en: "I'm jealous"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0529:
+	# jp: "相手がいるから"
+	# en: "Not available"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0530:
+	# jp: "まだ早い"
+	# en: "Too soon"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0531:
+	# jp: "１００点"
+	# en: "100pt"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0532:
+	# jp: "８０点"
+	# en: "80pt"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0533:
+	# jp: "３０点"
+	# en: "30pt"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0534:
+	# jp: "わからない"
+	# en: "No idea"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0535:
+	# jp: "遊ぶ"
+	# en: "Play"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0536:
+	# jp: "遊ばない"
+	# en: "Leave"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0537:
+	# jp: "背中をかく"
+	# en: "Scratch"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0538:
+	# jp: "今はほっとく"
+	# en: "Leave"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0539:
+	# jp: "見てあげる"
+	# en: "Look"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0540:
+	# jp: "それはちょっと"
+	# en: "Sorry"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0541:
+	# jp: "いいよ"
+	# en: "Okay"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0542:
+	# jp: "今は忙しい"
+	# en: "I'm busy"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0543:
+	# jp: "何とかする"
+	# en: "I'll help"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0544:
+	# jp: "今は忙しい"
+	# en: "I'm busy"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0545:
+	# jp: "[255:00000100]「ずっと前から好きでした。\n　付き合ってください」"
+	# en: "[255:00000100]\"I fell in love with you.\nPlease go out with me.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0546:
+	# jp: "ズットマエカラスキデシタ＿ツキアッテクダサイ"
+	# en: "ズットマエカラスキデシタ＿ツキアッテクダサイ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0547:
+	# jp: "[255:00000100]「あなたの瞳はダイヤよりも美しいです。\n　付き合ってください」"
+	# en: "[255:00000100]\"Your eyes are more beautiful than\ndiamonds. Please go out with me.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0548:
+	# jp: "アナタノヒトミワ＿ダイヤヨリモウツクシイデス＿ツキアッテクダサイ"
+	# en: "アナタノヒトミワ＿ダイヤヨリモウツクシイデス＿ツキアッテクダサイ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0549:
+	# jp: "[255:00000100]「付き合ってあげてもいいですよ」"
+	# en: "[255:00000100]\"I don't mind going out with you.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0550:
+	# jp: "ツキアッテアゲテモイイデスヨ"
+	# en: "ツキアッテアゲテモイイデスヨ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0551:
+	# jp: "[255:00000100]「なんでもしますから\n　付き合ってください！」"
+	# en: "[255:00000100]\"I'll do anything you want.\nPlease go out with me!\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0552:
+	# jp: "ナンデモシマスカラツキアッテクダサイ！"
+	# en: "ナンデモシマスカラツキアッテクダサイ！"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0553:
+	# jp: "[255:00000100]「こちらこそお願いします」"
+	# en: "[255:00000100]\"Okay.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0554:
+	# jp: "コチラコソ，オネガイシマス"
+	# en: "コチラコソ，オネガイシマス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0555:
+	# jp: "[255:00000100]「ごめんなさい」"
+	# en: "[255:00000100]\"Sorry.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0556:
+	# jp: "ゴメンナサイ＿＿＿＿＿＿＿＿＿＿"
+	# en: "ゴメンナサイ＿＿＿＿＿＿＿＿＿＿"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0557:
+	# jp: "[255:00000100]その日………結局あの人が来ることはなかった"
+	# en: "[255:00000100]In the end, that person has never come..."
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0558:
+	# jp: "ソノヒ＿＿ケッキョクアノヒトガクルコトワナカッタ"
+	# en: "ソノヒ＿＿ケッキョクアノヒトガクルコトワナカッタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0559:
+	# jp: "[255:00000100]「ずっと前から好きでした。\n　付き合ってください」"
+	# en: "[255:00000100]\"I fell in love with you.\nPlease go out with me.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0560:
+	# jp: "ズットマエカラスキデシタ＿ツキアッテクダサイ"
+	# en: "ズットマエカラスキデシタ＿ツキアッテクダサイ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0561:
+	# jp: "[255:00000100]「いつもあなたのそばにいたいです。\n　付き合ってください」"
+	# en: "[255:00000100]\"I want to always be by your side.\nPlease go out with me.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0562:
+	# jp: "イツモアナタノソバニイタイデス＿ツキアッテクダサイ"
+	# en: "イツモアナタノソバニイタイデス＿ツキアッテクダサイ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0563:
+	# jp: "[255:00000100]「一目見た時から気になってました。\n　付き合ってください」"
+	# en: "[255:00000100]\"I fell in love with you at first sight.\nPlease go out with me.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0564:
+	# jp: "ヒトメミタトキカラキニナッテマシタ＿ツキアッテクダサイ"
+	# en: "ヒトメミタトキカラキニナッテマシタ＿ツキアッテクダサイ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0565:
+	# jp: "[255:00000100]「いつもあの席から見つめていました。\n　付き合ってください」"
+	# en: "[255:00000100]\"I've always been watching you from\nthis seat. Please go out with me.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0566:
+	# jp: "イツモアノセキカラミツメテイマシタ＿ツキアッテクダサイ"
+	# en: "イツモアノセキカラミツメテイマシタ＿ツキアッテクダサイ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0567:
+	# jp: "[255:00000100]「あなたはきらめく海よりも素敵です。\n　付き合ってください」"
+	# en: "[255:00000100]\"You are even more wonderful than this\nsparkling ocean. Please go out with me.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0568:
+	# jp: "アナタワキラメクウミヨリモステキデス＿ツキアッテクダサイ"
+	# en: "アナタワキラメクウミヨリモステキデス＿ツキアッテクダサイ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0569:
+	# jp: "[255:00000100]「あなたとふたりで、恋という名の木を\n　育んでいきたいです」"
+	# en: "[255:00000100]\"I want to grow a tree of love with you.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0570:
+	# jp: "アナタトフタリデ＿コイトイウナノキヲハグクンデイキタイデス"
+	# en: "アナタトフタリデ＿コイトイウナノキヲハグクンデイキタイデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0571:
+	# jp: "[255:00000100]「あなたの瞳はダイヤよりも美しいです。\n　付き合ってください」"
+	# en: "[255:00000100]\"Your eyes are more beautiful than\ndiamonds. Please go out with me.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0572:
+	# jp: "アナタノヒトミワ＿ダイヤヨリモウツクシイデス＿ツキアッテクダサイ"
+	# en: "アナタノヒトミワ＿ダイヤヨリモウツクシイデス＿ツキアッテクダサイ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0573:
+	# jp: "[255:00000100]「あなたが甘いミルクで私がエスプレッソ。\n　愛のカフェオレのように溶け合いましょう」"
+	# en: "[255:00000100]\"You are milk and I am espresso.\nWe'd make the best café au lait.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0574:
+	# jp: "アナタガアマイミルクデ＿ワタシガエスプレッソ＿アイノカフェオレノヨーニトケアイマショー"
+	# en: "アナタガアマイミルクデ＿ワタシガエスプレッソ＿アイノカフェオレノヨーニトケアイマショー"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0575:
+	# jp: "[255:00000100]「わたしよりあなたのことを好きになれる人は\n　いませんよ。付き合ったらどうですか？」"
+	# en: "[255:00000100]\"No one loves you more than I do.\nNow, you wanna go out with me?\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0576:
+	# jp: "ワタシヨリアナタノコトヲスキニナレルヒトワイマセンヨ＿ツキアッタラドーデスカ？"
+	# en: "ワタシヨリアナタノコトヲスキニナレルヒトワイマセンヨ＿ツキアッタラドーデスカ？"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0577:
+	# jp: "[255:00000100]「わたしのことが好きってミエミエですよ。\n　しょうがないから付き合いましょうか？」"
+	# en: "[255:00000100]\"It's so obvious that you love\nme. I don't mind going out with you.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0578:
+	# jp: "ワタシノコトガスキッテミエミエデスヨ＿ショーガナイカラツキアイマショーカ？"
+	# en: "ワタシノコトガスキッテミエミエデスヨ＿ショーガナイカラツキアイマショーカ？"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0579:
+	# jp: "[255:00000100]「相手がいないなら\n　付き合ってあげてもいいですよ」"
+	# en: "[255:00000100]\"I don't have anyone special yet, so\nI don't mind going out with you.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0580:
+	# jp: "アイテガイナイナラ＿ツキアッテアゲテモイイデスヨ"
+	# en: "アイテガイナイナラ＿ツキアッテアゲテモイイデスヨ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0581:
+	# jp: "[255:00000100]「もうわたし達、付き合ってますよね。\n　一応確認しただけですけど」"
+	# en: "[255:00000100]\"We're already dating, aren't we?\nI just want to confirm that.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0582:
+	# jp: "モーワタシタチ＿ツキアッテマスヨネ＿イチオーカクニンシタダケデスケド"
+	# en: "モーワタシタチ＿ツキアッテマスヨネ＿イチオーカクニンシタダケデスケド"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0583:
+	# jp: "[255:00000100]「わたしと砂浜で追いかけっこする関係に\n　なってください！」"
+	# en: "[255:00000100]\"Please be my lover. We can enjoy\nrunning together on the beach.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0584:
+	# jp: "ワタシトスナハマデオイカケッコスルカンケイニナッテクダサイ！"
+	# en: "ワタシトスナハマデオイカケッコスルカンケイニナッテクダサイ！"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0585:
+	# jp: "[255:00000100]「どうしても付き合いたいんです！\n　見捨てないでください！」"
+	# en: "[255:00000100]\"I really want to go out with you!\nPlease don't abandon me!\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0586:
+	# jp: "ドーシテモツキアイタインデス！ミステナイデクダサイ！"
+	# en: "ドーシテモツキアイタインデス！ミステナイデクダサイ！"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0587:
+	# jp: "[255:00000100]「なんでもしますから\n　付き合ってください！」"
+	# en: "[255:00000100]\"I'll do anything you want.\nPlease go out with me!\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0588:
+	# jp: "ナンデモシマスカラツキアッテクダサイ！"
+	# en: "ナンデモシマスカラツキアッテクダサイ！"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0589:
+	# jp: "[255:00000100]「給食のプリンあげるから\n　付き合ってください！」"
+	# en: "[255:00000100]\"At lunchtime, I'll always give you\nmy pudding. Please go out with me!\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0590:
+	# jp: "キューショクノプリンアゲルカラツキアッテクダサイ！"
+	# en: "キューショクノプリンアゲルカラツキアッテクダサイ！"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0591:
+	# jp: "[255:00000100]「わたしたち、結婚することになりました」"
+	# en: "[255:00000100]\"We've decided to get married.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0592:
+	# jp: "ワタシタチ＿ケッコンスルコトニナリマシタ"
+	# en: "ワタシタチ＿ケッコンスルコトニナリマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0593:
+	# jp: "[255:00000100]「どうも」"
+	# en: "[255:00000100]\"Yeah.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0594:
+	# jp: "ドーモ"
+	# en: "ドーモ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0595:
+	# jp: "[255:00000100]「末永く幸せに暮らします」"
+	# en: "[255:00000100]\"We will have a happy life together.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0596:
+	# jp: "スエナガクシアワセニクラシマス"
+	# en: "スエナガクシアワセニクラシマス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0597:
+	# jp: "[255:00000300][1:01000000][255:00000100]と[255:00000300][1:01000100][255:00000100]は結婚しました！"
+	# en: "[255:00000300][1:01000000][255:00000100] and [255:00000300][1:01000100][255:00000100]\ngot married!"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0598:
+	# jp: "[255:00000300][1:01000000][255:00000100]と[255:00000300][1:01000100][255:00000100]は\n結婚しました！"
+	# en: "[255:00000300][1:01000000][255:00000100] and [255:00000300][1:01000100][255:00000100]\ngot married!"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0599:
+	# jp: "[255:00000100]「記念に、これをもらってください」"
+	# en: "[255:00000100]\"Please take this as a memento.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0600:
+	# jp: "キネンニ＿コレオモラッテクダサイ"
+	# en: "キネンニ＿コレオモラッテクダサイ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0601:
+	# jp: "[255:00000100]「それでは新婚旅行に行ってきます」"
+	# en: "[255:00000100]\"We are off for a honeymoon.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0602:
+	# jp: "ソレデワ＿0シンコンリョコーニイッテキマス"
+	# en: "ソレデワ＿0シンコンリョコーニイッテキマス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0603:
+	# jp: "[255:00000100]「この間はごめんなさい」"
+	# en: "[255:00000100]\"I'm sorry about what happened.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0604:
+	# jp: "コナイダワゴメンナサイ"
+	# en: "コナイダワゴメンナサイ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0605:
+	# jp: "[255:00000100]「こちらこそごめんなさい」"
+	# en: "[255:00000100]\"I'm also sorry.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0606:
+	# jp: "コチラコソゴメンナサイ"
+	# en: "コチラコソゴメンナサイ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0607:
+	# jp: "[255:00000100]「ゆるしません」"
+	# en: "[255:00000100]\"I won't forgive you.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0608:
+	# jp: "ユルシマセン"
+	# en: "ユルシマセン"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0609:
+	# jp: "[255:00000100]「もう一度やりなおしましょう」"
+	# en: "[255:00000100]\"Let's start over.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0610:
+	# jp: "モーイチドヤリナオシマショー"
+	# en: "モーイチドヤリナオシマショー"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0611:
+	# jp: "[255:00000100]「こちらこそ、お願いします」"
+	# en: "[255:00000100]\"Yes, please.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0612:
+	# jp: "コチラコソ＿オネガイシマス"
+	# en: "コチラコソ＿オネガイシマス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0613:
+	# jp: "[255:00000100]「もう疲れました、別れましょう」"
+	# en: "[255:00000100]\"I'm tired. Let's break up.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0614:
+	# jp: "モーツカレマシタ＿ワカレマショー"
+	# en: "モーツカレマシタ＿ワカレマショー"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0615:
+	# jp: "[255:00000100]「[1:01000000]とはすごく仲がいい\n　夫婦だと思っているのですが、"
+	# en: "[255:00000100]\"I think [1:01000000] is\nan extremely nice spouse.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0616:
+	# jp: "[1:01000000]トワ＿スゴクナカガイイフーフダトオモッテイルノデスガ"
+	# en: "[1:01000000]トワ＿スゴクナカガイイフーフダトオモッテイルノデスガ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0617:
+	# jp: "[255:00000100]「[1:01000000]とはけっこう仲がいい\n　夫婦だと思っているのですが、"
+	# en: "[255:00000100]\"I think [1:01000000] is\na very nice spouse.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0618:
+	# jp: "[1:01000000]トワ＿ケッコーナカガイイフーフダトオモッテイルノデスガ"
+	# en: "[1:01000000]トワ＿ケッコーナカガイイフーフダトオモッテイルノデスガ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0619:
+	# jp: "[255:00000100]「[1:01000000]とは普通に仲がいい\n　夫婦だと思っているのですが、"
+	# en: "[255:00000100]\"I think [1:01000000] is\na normally good spouse.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0620:
+	# jp: "[1:01000000]トワ＿フツーニナカガイイフーフダトオモッテイルノデスガ"
+	# en: "[1:01000000]トワ＿フツーニナカガイイフーフダトオモッテイルノデスガ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0621:
+	# jp: "[255:00000100]「[1:01000000]とはちょっと合わない\n　かもと思っているのですが、"
+	# en: "[255:00000100]\"I think [1:01000000] and\nI don't get along very well.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0622:
+	# jp: "[1:01000000]トワ＿チョットアワナイカモトオモッテイルノデスガ"
+	# en: "[1:01000000]トワ＿チョットアワナイカモトオモッテイルノデスガ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0623:
+	# jp: "[255:00000100]「[1:01000000]とは合わないんじゃ\n　ないかと思っているのですが、"
+	# en: "[255:00000100]\"I think [1:01000000] and\nI don't get along.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0624:
+	# jp: "[1:01000000]トワ＿アワナインジャナイカトオモッテイルノデスガ"
+	# en: "[1:01000000]トワ＿アワナインジャナイカトオモッテイルノデスガ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0625:
+	# jp: "[255:00000100]　わたしと[1:01000000]のことを\n　どう思いますか？」"
+	# en: "[255:00000100]\"How compatible do you think about\n[1:01000000] and me?\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0626:
+	# jp: "ワタシト[1:01000000]ノコトヲ＿ドーオモイマスカ？"
+	# en: "ワタシト[1:01000000]ノコトヲ＿ドーオモイマスカ？"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0627:
+	# jp: "相性バッチリ！"
+	# en: "Perfect!"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0628:
+	# jp: "ふつうかな"
+	# en: "Normal"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0629:
+	# jp: "合わないかも…"
+	# en: "Not at all"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0630:
+	# jp: "[255:00000100]「やっぱりそうですよね！」"
+	# en: "[255:00000100]\"Yeah! That must be so!\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0631:
+	# jp: "ヤッパリソーデスヨネ！"
+	# en: "ヤッパリソーデスヨネ！"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0632:
+	# jp: "[255:00000100]「そうですよね！安心しました」"
+	# en: "[255:00000100]\"I see! Now I'm relieved.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0633:
+	# jp: "ソーデスヨネ！アンシンシマシタ"
+	# en: "ソーデスヨネ！アンシンシマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0634:
+	# jp: "[255:00000100]「そうですかー。もっと仲良く\n　なれるということですね！」"
+	# en: "[255:00000100]\"Is that so? We'll probably\nget closer, right!?\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0635:
+	# jp: "ソーデスカー．モットナカヨクナレルトイウコトデスネ！"
+	# en: "ソーデスカー．モットナカヨクナレルトイウコトデスネ！"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0636:
+	# jp: "[255:00000100]「そうなんですか？それなら\n　仲良くしてみようと思います」"
+	# en: "[255:00000100]\"Really? I'll try harder to\nmake it work out for us.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0637:
+	# jp: "ソーナンデスカ？ソレナラナカヨクシテミヨートオモイマス"
+	# en: "ソーナンデスカ？ソレナラナカヨクシテミヨートオモイマス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0638:
+	# jp: "[255:00000100]「え、そう見えますか！？\n　ではもうちょっと努力してみます」"
+	# en: "[255:00000100]\"Eh? Is that what you think?\nI'll keep trying harder.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0639:
+	# jp: "エ＿ソーミエマスカ？デワモーチョットドリョクシテミマス"
+	# en: "エ＿ソーミエマスカ？デワモーチョットドリョクシテミマス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0640:
+	# jp: "[255:00000100]「ふつうですか…\n　ちょっと残念です」"
+	# en: "[255:00000100]\"Normal...? That's a bit disappointing.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0641:
+	# jp: "フツーデスカ．チョットザンネンデス"
+	# en: "フツーデスカ．チョットザンネンデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0642:
+	# jp: "[255:00000100]「そうですか。\n　まあ、いいんですけど」"
+	# en: "[255:00000100]\"Really? Well, that's fine.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0643:
+	# jp: "ソーデスカ．マー＿イインデスケド"
+	# en: "ソーデスカ．マー＿イインデスケド"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0644:
+	# jp: "[255:00000100]「やっぱりそうですよね」"
+	# en: "[255:00000100]\"You agreed with me, right?\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0645:
+	# jp: "ヤッパリソーデスヨネ"
+	# en: "ヤッパリソーデスヨネ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0646:
+	# jp: "[255:00000100]「そうですか。もうちょっと仲良く\n　できるのかもしれませんね」"
+	# en: "[255:00000100]\"Is that so? Our relationship\nwill probably get better, right?\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0647:
+	# jp: "ソーデスカ．モーチョットナカヨクデキルノカモシレマセンネ"
+	# en: "ソーデスカ．モーチョットナカヨクデキルノカモシレマセンネ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0648:
+	# jp: "[255:00000100]「そうですか。わたしが思っているよりも\n　合うのかもしれないってことですね」"
+	# en: "[255:00000100]\"Is that so? Our relationship might\nnot be as good as you think.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0649:
+	# jp: "ソーデスカ．ワタシガオモッテイルヨリモ＿アウノカモシレナイッテコトデスネ"
+	# en: "ソーデスカ．ワタシガオモッテイルヨリモ＿アウノカモシレナイッテコトデスネ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0650:
+	# jp: "[255:00000100]「え！そうですか…\n　わかりました…」"
+	# en: "[255:00000100]\"Eh!? Is that so...? I see...\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0651:
+	# jp: "エ！ソーデスカ．ワカリマシタ"
+	# en: "エ！ソーデスカ．ワカリマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0652:
+	# jp: "[255:00000100]「自分では合うと思っていたのですが…」"
+	# en: "[255:00000100]\"But, I think we're getting\nalong well...\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0653:
+	# jp: "ジブンデワアウトオモッテイタノデスガ"
+	# en: "ジブンデワアウトオモッテイタノデスガ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0654:
+	# jp: "[255:00000100]「そうなんですか…\n　ちょっと残念です」"
+	# en: "[255:00000100]\"Is that so...? Too bad...\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0655:
+	# jp: "ソーナンデスカ．チョットザンネンデス"
+	# en: "ソーナンデスカ．チョットザンネンデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0656:
+	# jp: "[255:00000100]「やっぱりそうなんですね…」"
+	# en: "[255:00000100]\"You think so too, right?\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0657:
+	# jp: "ヤッパリソーナンデスネ"
+	# en: "ヤッパリソーナンデスネ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0658:
+	# jp: "[255:00000100]「やっぱりそうなんですね…」"
+	# en: "[255:00000100]\"You think so too, right?\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0659:
+	# jp: "ヤッパリソーナンデスネ"
+	# en: "ヤッパリソーナンデスネ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0660:
+	# jp: "[255:00000100]「[1:01000000]とはすごく仲がいい\n　恋人同士だと思っているのですが、"
+	# en: "[255:00000100]\"I think [1:01000000] is\nan extremely good lover.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0661:
+	# jp: "[1:01000000]トワ＿スゴクナカガイイコイビトドーシダトオモッテイルノデスガ"
+	# en: "[1:01000000]トワ＿スゴクナカガイイコイビトドーシダトオモッテイルノデスガ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0662:
+	# jp: "[255:00000100]「[1:01000000]とはけっこう仲がいい\n　恋人同士だと思っているのですが、"
+	# en: "[255:00000100]\"I think [1:01000000] is\na very good lover.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0663:
+	# jp: "[1:01000000]トワ＿ケッコーナカガイイコイビトドーシダトオモッテイルノデスガ"
+	# en: "[1:01000000]トワ＿ケッコーナカガイイコイビトドーシダトオモッテイルノデスガ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0664:
+	# jp: "[255:00000100]「[1:01000000]とは普通に仲がいい\n　恋人同士だと思っているのですが、"
+	# en: "[255:00000100]\"I think [1:01000000] is\na normally good lover.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0665:
+	# jp: "[1:01000000]トワ＿フツーニナカガイイコイビトドーシダトオモッテイルノデスガ"
+	# en: "[1:01000000]トワ＿フツーニナカガイイコイビトドーシダトオモッテイルノデスガ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0666:
+	# jp: "[255:00000100]「[1:01000000]とはちょっと合わない\n　かもと思っているのですが、"
+	# en: "[255:00000100]\"I think [1:01000000] and\nI don't get along really well.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0667:
+	# jp: "[1:01000000]トワ＿チョットアワナイカモトオモッテイルノデスガ"
+	# en: "[1:01000000]トワ＿チョットアワナイカモトオモッテイルノデスガ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0668:
+	# jp: "[255:00000100]「[1:01000000]とは合わないんじゃ\n　ないかと思っているのですが、"
+	# en: "[255:00000100]\"I think [1:01000000] and\nI don't get along.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0669:
+	# jp: "[1:01000000]トワ＿アワナインジャナイカトオモッテイルノデスガ"
+	# en: "[1:01000000]トワ＿アワナインジャナイカトオモッテイルノデスガ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0670:
+	# jp: "[255:00000100]　わたしと[1:01000000]のことを\n　どう思いますか？」"
+	# en: "[255:00000100]\"How compatible do you think about\n[1:01000000] and me?\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0671:
+	# jp: "ワタシト[1:01000000]ノコトヲ＿ドーオモイマスカ？"
+	# en: "ワタシト[1:01000000]ノコトヲ＿ドーオモイマスカ？"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0672:
+	# jp: "相性バッチリ！"
+	# en: "Perfect!"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0673:
+	# jp: "ふつうかな"
+	# en: "Normal"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0674:
+	# jp: "合わないかも…"
+	# en: "Not at all"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0675:
+	# jp: "[255:00000100]「やっぱりそうですよね！」"
+	# en: "[255:00000100]\"Yeah! That must be so!\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0676:
+	# jp: "ヤッパリソーデスヨネ！"
+	# en: "ヤッパリソーデスヨネ！"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0677:
+	# jp: "[255:00000100]「そうですよね！安心しました」"
+	# en: "[255:00000100]\"I see! Now I'm relieved.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0678:
+	# jp: "ソーデスヨネ！アンシンシマシタ"
+	# en: "ソーデスヨネ！アンシンシマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0679:
+	# jp: "[255:00000100]「そうですかー。もっと仲良く\n　なれるということですね！」"
+	# en: "[255:00000100]\"Is that so? We'll probably\nget closer, right!?\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0680:
+	# jp: "ソーデスカー．モットナカヨクナレルトイウコトデスネ！"
+	# en: "ソーデスカー．モットナカヨクナレルトイウコトデスネ！"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0681:
+	# jp: "[255:00000100]「そうなんですか？それなら\n　仲良くしてみようと思います」"
+	# en: "[255:00000100]\"Really? I'll try harder to\nmake it work out for us.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0682:
+	# jp: "ソーナンデスカ？ソレナラナカヨクシテミヨートオモイマス"
+	# en: "ソーナンデスカ？ソレナラナカヨクシテミヨートオモイマス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0683:
+	# jp: "[255:00000100]「え、そう見えますか！？\n　ではもうちょっと努力してみます」"
+	# en: "[255:00000100]\"Eh? Is that what you think?\nI'll keep trying harder.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0684:
+	# jp: "エ＿ソーミエマスカ？デワモーチョットドリョクシテミマス"
+	# en: "エ＿ソーミエマスカ？デワモーチョットドリョクシテミマス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0685:
+	# jp: "[255:00000100]「ふつうですか…\n　ちょっと残念です」"
+	# en: "[255:00000100]\"Normal...? That's a bit disappointing.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0686:
+	# jp: "フツーデスカ．チョットザンネンデス"
+	# en: "フツーデスカ．チョットザンネンデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0687:
+	# jp: "[255:00000100]「そうですか。\n　まあ、いいんですけど」"
+	# en: "[255:00000100]\"Really? Well, that's fine.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0688:
+	# jp: "ソーデスカ．マー＿イインデスケド"
+	# en: "ソーデスカ．マー＿イインデスケド"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0689:
+	# jp: "[255:00000100]「やっぱりそうですよね」"
+	# en: "[255:00000100]\"You agreed with me, right?\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0690:
+	# jp: "ヤッパリソーデスヨネ"
+	# en: "ヤッパリソーデスヨネ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0691:
+	# jp: "[255:00000100]「そうですか。もうちょっと仲良く\n　できるのかもしれませんね」"
+	# en: "[255:00000100]\"Is that so? Our relationship\nwill probably get better, right?\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0692:
+	# jp: "ソーデスカ．モーチョットナカヨクデキルノカモシレマセンネ"
+	# en: "ソーデスカ．モーチョットナカヨクデキルノカモシレマセンネ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0693:
+	# jp: "[255:00000100]「そうですか。わたしが思っているよりも\n　合うのかもしれないってことですね」"
+	# en: "[255:00000100]\"Is that so? Our relationship might\nnot be as good as you think.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0694:
+	# jp: "ソーデスカ．ワタシガオモッテイルヨリモ＿アウノカモシレナイッテコトデスネ"
+	# en: "ソーデスカ．ワタシガオモッテイルヨリモ＿アウノカモシレナイッテコトデスネ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0695:
+	# jp: "[255:00000100]「え！そうですか…\n　わかりました…」"
+	# en: "[255:00000100]\"Eh!? Is that so...? I see...\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0696:
+	# jp: "エ！ソーデスカ．ワカリマシタ"
+	# en: "エ！ソーデスカ．ワカリマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0697:
+	# jp: "[255:00000100]「自分では合うと思っていたのですが…」"
+	# en: "[255:00000100]\"But, I think we're getting\nalong well...\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0698:
+	# jp: "ジブンデワアウトオモッテイタノデスガ"
+	# en: "ジブンデワアウトオモッテイタノデスガ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0699:
+	# jp: "[255:00000100]「そうなんですか…\n　ちょっと残念です」"
+	# en: "[255:00000100]\"Is that so...? Too bad...\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0700:
+	# jp: "ソーナンデスカ．チョットザンネンデス"
+	# en: "ソーナンデスカ．チョットザンネンデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0701:
+	# jp: "[255:00000100]「やっぱりそうなんですね…」"
+	# en: "[255:00000100]\"You think so too, right?\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0702:
+	# jp: "ヤッパリソーナンデスネ"
+	# en: "ヤッパリソーナンデスネ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0703:
+	# jp: "[255:00000100]「やっぱりそうなんですね…」"
+	# en: "[255:00000100]\"You think so too, right?\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0704:
+	# jp: "ヤッパリソーナンデスネ"
+	# en: "ヤッパリソーナンデスネ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0705:
+	# jp: "[255:00000100]「[1:01000000]とはすごく仲がいい\n　親友だと思っているのですが、"
+	# en: "[255:00000100]\"I think [1:01000000] is\nsuch a wonderful best friend.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0706:
+	# jp: "[1:01000000]トワ＿スゴクナカガイイシンユーダトオモッテイルノデスガ"
+	# en: "[1:01000000]トワ＿スゴクナカガイイシンユーダトオモッテイルノデスガ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0707:
+	# jp: "[255:00000100]「[1:01000000]とはけっこう仲がいい\n　親友だと思っているのですが、"
+	# en: "[255:00000100]\"I think [1:01000000] is\na very nice best friend.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0708:
+	# jp: "[1:01000000]トワ＿ケッコーナカガイイシンユーダトオモッテイルノデスガ"
+	# en: "[1:01000000]トワ＿ケッコーナカガイイシンユーダトオモッテイルノデスガ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0709:
+	# jp: "[255:00000100]「[1:01000000]とは普通に仲がいい\n　親友だと思っているのですが、"
+	# en: "[255:00000100]\"I think [1:01000000] is\na normally good friend.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0710:
+	# jp: "[1:01000000]トワ＿フツーニナカガイイシンユーダトオモッテイルノデスガ"
+	# en: "[1:01000000]トワ＿フツーニナカガイイシンユーダトオモッテイルノデスガ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0711:
+	# jp: "[255:00000100]「[1:01000000]とはちょっと合わない\n　かもと思っているのですが、"
+	# en: "[255:00000100]\"I think [1:01000000] and\nI don't get along really well.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0712:
+	# jp: "[1:01000000]トワ＿チョットアワナイカモトオモッテイルノデスガ"
+	# en: "[1:01000000]トワ＿チョットアワナイカモトオモッテイルノデスガ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0713:
+	# jp: "[255:00000100]「[1:01000000]とは合わないんじゃ\n　ないかと思っているのですが、"
+	# en: "[255:00000100]\"I think [1:01000000] and\nI don't get along.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0714:
+	# jp: "[1:01000000]トワ＿アワナインジャナイカトオモッテイルノデスガ"
+	# en: "[1:01000000]トワ＿アワナインジャナイカトオモッテイルノデスガ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0715:
+	# jp: "[255:00000100]　わたしと[1:01000000]のことを\n　どう思いますか？」"
+	# en: "[255:00000100]\"How compatible do you think about\n[1:01000000] and me?\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0716:
+	# jp: "ワタシト[1:01000000]ノコトヲ＿ドーオモイマスカ？"
+	# en: "ワタシト[1:01000000]ノコトヲ＿ドーオモイマスカ？"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0717:
+	# jp: "相性バッチリ！"
+	# en: "Perfect!"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0718:
+	# jp: "ふつうかな"
+	# en: "Normal"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0719:
+	# jp: "合わないかも…"
+	# en: "Not at all"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0720:
+	# jp: "[255:00000100]「やっぱりそうですよね！」"
+	# en: "[255:00000100]\"Yeah! That must be so!\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0721:
+	# jp: "ヤッパリソーデスヨネ！"
+	# en: "ヤッパリソーデスヨネ！"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0722:
+	# jp: "[255:00000100]「そうですよね！安心しました」"
+	# en: "[255:00000100]\"I see! Now I'm relieved.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0723:
+	# jp: "ソーデスヨネ！アンシンシマシタ"
+	# en: "ソーデスヨネ！アンシンシマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0724:
+	# jp: "[255:00000100]「そうですかー。もっと仲良く\n　なれるということですね！」"
+	# en: "[255:00000100]\"Is that so? We'll probably\nget closer, right!?\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0725:
+	# jp: "ソーデスカー．モットナカヨクナレルトイウコトデスネ！"
+	# en: "ソーデスカー．モットナカヨクナレルトイウコトデスネ！"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0726:
+	# jp: "[255:00000100]「そうなんですか？それなら\n　仲良くしてみようと思います」"
+	# en: "[255:00000100]\"Really? I'll try harder to\nmake it work out for us.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0727:
+	# jp: "ソーナンデスカ？ソレナラナカヨクシテミヨートオモイマス"
+	# en: "ソーナンデスカ？ソレナラナカヨクシテミヨートオモイマス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0728:
+	# jp: "[255:00000100]「え、そう見えますか！？\n　ではもうちょっと努力してみます」"
+	# en: "[255:00000100]\"Eh? Is that what you think?\nI'll keep trying harder.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0729:
+	# jp: "エ＿ソーミエマスカ？デワモーチョットドリョクシテミマス"
+	# en: "エ＿ソーミエマスカ？デワモーチョットドリョクシテミマス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0730:
+	# jp: "[255:00000100]「ふつうですか…\n　ちょっと残念です」"
+	# en: "[255:00000100]\"Normal...? That's a bit disappointing.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0731:
+	# jp: "フツーデスカ．チョットザンネンデス"
+	# en: "フツーデスカ．チョットザンネンデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0732:
+	# jp: "[255:00000100]「そうですか。\n　まあ、いいんですけど」"
+	# en: "[255:00000100]\"Really? Well, that's fine.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0733:
+	# jp: "ソーデスカ．マー＿イインデスケド"
+	# en: "ソーデスカ．マー＿イインデスケド"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0734:
+	# jp: "[255:00000100]「やっぱりそうですよね」"
+	# en: "[255:00000100]\"You agreed with me, right?\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0735:
+	# jp: "ヤッパリソーデスヨネ"
+	# en: "ヤッパリソーデスヨネ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0736:
+	# jp: "[255:00000100]「そうですか。もうちょっと仲良く\n　できるのかもしれませんね」"
+	# en: "[255:00000100]\"Is that so? Our relationship\nwill probably get better, right?\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0737:
+	# jp: "ソーデスカ．モーチョットナカヨクデキルノカモシレマセンネ"
+	# en: "ソーデスカ．モーチョットナカヨクデキルノカモシレマセンネ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0738:
+	# jp: "[255:00000100]「そうですか。わたしが思っているよりも\n　合うのかもしれないってことですね」"
+	# en: "[255:00000100]\"Is that so? Our relationship might\nnot be as good as you think.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0739:
+	# jp: "ソーデスカ．ワタシガオモッテイルヨリモ＿アウノカモシレナイッテコトデスネ"
+	# en: "ソーデスカ．ワタシガオモッテイルヨリモ＿アウノカモシレナイッテコトデスネ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0740:
+	# jp: "[255:00000100]「え！そうですか…\n　わかりました…」"
+	# en: "[255:00000100]\"Eh!? Is that so...? I see...\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0741:
+	# jp: "エ！ソーデスカ．ワカリマシタ"
+	# en: "エ！ソーデスカ．ワカリマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0742:
+	# jp: "[255:00000100]「自分では合うと思っていたのですが…」"
+	# en: "[255:00000100]\"But, I think we're getting\nalong well...\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0743:
+	# jp: "ジブンデワアウトオモッテイタノデスガ"
+	# en: "ジブンデワアウトオモッテイタノデスガ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0744:
+	# jp: "[255:00000100]「そうなんですか…\n　ちょっと残念です」"
+	# en: "[255:00000100]\"Is that so...? Too bad...\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0745:
+	# jp: "ソーナンデスカ．チョットザンネンデス"
+	# en: "ソーナンデスカ．チョットザンネンデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0746:
+	# jp: "[255:00000100]「やっぱりそうなんですね…」"
+	# en: "[255:00000100]\"You think so too, right?\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0747:
+	# jp: "ヤッパリソーナンデスネ"
+	# en: "ヤッパリソーナンデスネ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0748:
+	# jp: "[255:00000100]「やっぱりそうなんですね…」"
+	# en: "[255:00000100]\"You think so too, right?\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0749:
+	# jp: "ヤッパリソーナンデスネ"
+	# en: "ヤッパリソーナンデスネ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0750:
+	# jp: "[255:00000100]「[1:01000000]とはすごく仲がいい\n　友達と思っているのですが、"
+	# en: "[255:00000100]\"I think [1:01000000] is\nsuch a wonderful friend.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0751:
+	# jp: "[1:01000000]トワ＿スゴクナカガイイトモダチトオモッテイルノデスガ"
+	# en: "[1:01000000]トワ＿スゴクナカガイイトモダチトオモッテイルノデスガ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0752:
+	# jp: "[255:00000100]「[1:01000000]とはけっこう仲がいい\n　友達と思っているのですが、"
+	# en: "[255:00000100]\"I think [1:01000000] is\na very nice friend.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0753:
+	# jp: "[1:01000000]トワ＿ケッコーナカガイイトモダチトオモッテイルノデスガ"
+	# en: "[1:01000000]トワ＿ケッコーナカガイイトモダチトオモッテイルノデスガ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0754:
+	# jp: "[255:00000100]「[1:01000000]とは普通に仲がいい\n　友達と思っているのですが、"
+	# en: "[255:00000100]\"I think [1:01000000] is\na normal friend.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0755:
+	# jp: "[1:01000000]トワ＿フツーニナカガイイトモダチトオモッテイルノデスガ"
+	# en: "[1:01000000]トワ＿フツーニナカガイイトモダチトオモッテイルノデスガ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0756:
+	# jp: "[255:00000100]「[1:01000000]とはちょっと合わない\n　かもと思っているのですが、"
+	# en: "[255:00000100]\"I think [1:01000000] and\nI don't get along really well.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0757:
+	# jp: "[1:01000000]トワ＿チョットアワナイカモトオモッテイルノデスガ"
+	# en: "[1:01000000]トワ＿チョットアワナイカモトオモッテイルノデスガ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0758:
+	# jp: "[255:00000100]「[1:01000000]とは合わないんじゃ\n　ないかと思っているのですが、"
+	# en: "[255:00000100]\"I think [1:01000000] and\nI don't get along.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0759:
+	# jp: "[1:01000000]トワ＿アワナインジャナイカトオモッテイルノデスガ"
+	# en: "[1:01000000]トワ＿アワナインジャナイカトオモッテイルノデスガ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0760:
+	# jp: "[255:00000100]　わたしと[1:01000000]のことを\n　どう思いますか？」"
+	# en: "[255:00000100]\"How compatible do you think about\n[1:01000000] and me?\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0761:
+	# jp: "ワタシト[1:01000000]ノコトヲ＿ドーオモイマスカ？"
+	# en: "ワタシト[1:01000000]ノコトヲ＿ドーオモイマスカ？"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0762:
+	# jp: "相性バッチリ！"
+	# en: "Perfect!"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0763:
+	# jp: "ふつうかな"
+	# en: "Normal"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0764:
+	# jp: "合わないかも…"
+	# en: "Not at all"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0765:
+	# jp: "[255:00000100]「やっぱりそうですよね！」"
+	# en: "[255:00000100]\"Yeah! That must be so!\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0766:
+	# jp: "ヤッパリソーデスヨネ！"
+	# en: "ヤッパリソーデスヨネ！"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0767:
+	# jp: "[255:00000100]「そうですよね！安心しました」"
+	# en: "[255:00000100]\"I see! Now I'm relieved.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0768:
+	# jp: "ソーデスヨネ！アンシンシマシタ"
+	# en: "ソーデスヨネ！アンシンシマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0769:
+	# jp: "[255:00000100]「そうですかー。もっと仲良く\n　なれるということですね！」"
+	# en: "[255:00000100]\"Is that so? We'll probably\nget closer, right!?\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0770:
+	# jp: "ソーデスカー．モットナカヨクナレルトイウコトデスネ！"
+	# en: "ソーデスカー．モットナカヨクナレルトイウコトデスネ！"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0771:
+	# jp: "[255:00000100]「そうなんですか？それなら\n　仲良くしてみようと思います」"
+	# en: "[255:00000100]\"Really? I'll try harder to\nmake it work out for us.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0772:
+	# jp: "ソーナンデスカ？ソレナラナカヨクシテミヨートオモイマス"
+	# en: "ソーナンデスカ？ソレナラナカヨクシテミヨートオモイマス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0773:
+	# jp: "[255:00000100]「え、そう見えますか！？\n　ではもうちょっと努力してみます」"
+	# en: "[255:00000100]\"Eh? Is that what you think?\nI'll keep trying harder.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0774:
+	# jp: "エ＿ソーミエマスカ？デワモーチョットドリョクシテミマス"
+	# en: "エ＿ソーミエマスカ？デワモーチョットドリョクシテミマス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0775:
+	# jp: "[255:00000100]「ふつうですか…\n　ちょっと残念です」"
+	# en: "[255:00000100]\"Normal...? That's a bit disappointing.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0776:
+	# jp: "フツーデスカ．チョットザンネンデス"
+	# en: "フツーデスカ．チョットザンネンデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0777:
+	# jp: "[255:00000100]「そうですか。\n　まあ、いいんですけど」"
+	# en: "[255:00000100]\"Really? Well, that's fine.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0778:
+	# jp: "ソーデスカ．マー＿イインデスケド"
+	# en: "ソーデスカ．マー＿イインデスケド"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0779:
+	# jp: "[255:00000100]「やっぱりそうですよね」"
+	# en: "[255:00000100]\"You agreed with me, right?\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0780:
+	# jp: "ヤッパリソーデスヨネ"
+	# en: "ヤッパリソーデスヨネ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0781:
+	# jp: "[255:00000100]「そうですか。もうちょっと仲良く\n　できるのかもしれませんね」"
+	# en: "[255:00000100]\"Is that so? Our relationship\nwill probably get better, right?\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0782:
+	# jp: "ソーデスカ．モーチョットナカヨクデキルノカモシレマセンネ"
+	# en: "ソーデスカ．モーチョットナカヨクデキルノカモシレマセンネ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0783:
+	# jp: "[255:00000100]「そうですか。わたしが思っているよりも\n　合うのかもしれないってことですね」"
+	# en: "[255:00000100]\"Is that so? Our relationship might\nnot be as good as you think.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0784:
+	# jp: "ソーデスカ．ワタシガオモッテイルヨリモ＿アウノカモシレナイッテコトデスネ"
+	# en: "ソーデスカ．ワタシガオモッテイルヨリモ＿アウノカモシレナイッテコトデスネ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0785:
+	# jp: "[255:00000100]「え！そうですか…\n　わかりました…」"
+	# en: "[255:00000100]\"Eh!? Is that so...? I see...\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0786:
+	# jp: "エ！ソーデスカ．ワカリマシタ"
+	# en: "エ！ソーデスカ．ワカリマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0787:
+	# jp: "[255:00000100]「自分では合うと思っていたのですが…」"
+	# en: "[255:00000100]\"But, I think we're getting\nalong well...\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0788:
+	# jp: "ジブンデワアウトオモッテイタノデスガ"
+	# en: "ジブンデワアウトオモッテイタノデスガ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0789:
+	# jp: "[255:00000100]「そうなんですか…\n　ちょっと残念です」"
+	# en: "[255:00000100]\"Is that so...? Too bad...\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0790:
+	# jp: "ソーナンデスカ．チョットザンネンデス"
+	# en: "ソーナンデスカ．チョットザンネンデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0791:
+	# jp: "[255:00000100]「やっぱりそうなんですね…」"
+	# en: "[255:00000100]\"You think so too, right?\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0792:
+	# jp: "ヤッパリソーナンデスネ"
+	# en: "ヤッパリソーナンデスネ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0793:
+	# jp: "[255:00000100]「やっぱりそうなんですね…」"
+	# en: "[255:00000100]\"You think so too, right?\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0794:
+	# jp: "ヤッパリソーナンデスネ"
+	# en: "ヤッパリソーナンデスネ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0795:
+	# jp: "[255:00000100]「[1:01000000]のことを\n　よく知らないのですが、"
+	# en: "[255:00000100]\"I don't know anything much about\n[1:01000000].\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0796:
+	# jp: "[1:01000000]ノコトヲヨクシラナイノデスガ"
+	# en: "[1:01000000]ノコトヲヨクシラナイノデスガ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0797:
+	# jp: "[255:00000100]　わたしと[1:01000000]とは\n　気が合いそうですか？」"
+	# en: "[255:00000100]\"How compatible do you think about\n[1:01000000] and me?\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0798:
+	# jp: "ワタシト[1:01000000]トワ＿キガアイソーデスカ？"
+	# en: "ワタシト[1:01000000]トワ＿キガアイソーデスカ？"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0799:
+	# jp: "相性バッチリ！"
+	# en: "Perfect!"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0800:
+	# jp: "ふつうかな"
+	# en: "Normal"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0801:
+	# jp: "合わないかも…"
+	# en: "Not at all"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0802:
+	# jp: "[255:00000100]「そうなんですか！\n　ちょっと気になってきました」"
+	# en: "[255:00000100]\"Really!? Now I think we might\nbe able to get along.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0803:
+	# jp: "ソーナンデスカ！チョットキニナッテキマシタ"
+	# en: "ソーナンデスカ！チョットキニナッテキマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0804:
+	# jp: "[255:00000100]「あ、そうですか。\n　わかりました」"
+	# en: "[255:00000100]\"Ah, is that so? I see.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0805:
+	# jp: "ア＿ソーデスカ．ワカリマシタ"
+	# en: "ア＿ソーデスカ．ワカリマシタ"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0806:
+	# jp: "[255:00000100]「そうなんですか…\n　ちょっと残念です」"
+	# en: "[255:00000100]\"Is that so...? That's disappointing.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0807:
+	# jp: "ソーナンデスカ．チョットザンネンデス"
+	# en: "ソーナンデスカ．チョットザンネンデス"
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0808:
+	# jp: "[255:00000100]「相談したいことがあった気がするんですが、\n　忘れてしまいました」"
+	# en: "[255:00000100]\"I got something I needed your help with,\nbut I already forgot what it was.\""
+	""
+
+translate spanish tmd_trouble_msg_JP.json/MSG_0809:
+	# jp: "ソーダンシタイコトガアッタキガスルンデスガ＿ワスレテシマイマシタ"
+	# en: "ソーダンシタイコトガアッタキガスルンデスガ＿ワスレテシマイマシタ                "
+	""
+

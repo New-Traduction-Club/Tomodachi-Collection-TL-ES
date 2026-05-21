@@ -1,0 +1,945 @@
+translate spanish tmd_miitouch_msg_JP.json/MSG_0000:
+	# jp: "あげる"
+	# en: "Give"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0001:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0002:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0003:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0004:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0005:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0006:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0007:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0008:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0009:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0010:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0011:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0012:
+	# jp: "いない"
+	# en: "None"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0013:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0014:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0015:
+	# jp: "？？？"
+	# en: "？？？"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0016:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0017:
+	# jp: "[1:01000000]のデータ"
+	# en: "[1:01000000]'s data"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0018:
+	# jp: "[1:01000000]の人間関係"
+	# en: "[1:01000000]'s data"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0019:
+	# jp: "相手への気持ち"
+	# en: "Current Feelings"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0020:
+	# jp: "誰とも関係をもっていません"
+	# en: "(No relation.)"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0021:
+	# jp: "夫婦"
+	# en: "Spouse"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0022:
+	# jp: "恋人"
+	# en: "Lover"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0023:
+	# jp: "親友"
+	# en: "Best Friend"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0024:
+	# jp: "友達"
+	# en: "Friend(s)"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0025:
+	# jp: "夫婦（ケンカ中）"
+	# en: "Spouse (In a fight)"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0026:
+	# jp: "恋人（ケンカ中）"
+	# en: "Lover (In a fight)"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0027:
+	# jp: "友達（ケンカ中）"
+	# en: "Friend (In a fight)"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0028:
+	# jp: "離婚"
+	# en: "Divorced"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0029:
+	# jp: "元恋人"
+	# en: "Ex Lover(s)"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0030:
+	# jp: "かけがえのない人"
+	# en: "The one and only"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0031:
+	# jp: "超満足"
+	# en: "Extremely satisfied"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0032:
+	# jp: "大満足"
+	# en: "Very satisfied"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0033:
+	# jp: "満足"
+	# en: "Satisfied"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0034:
+	# jp: "まあ満足"
+	# en: "Fairly satisfied"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0035:
+	# jp: "ちょっと不満"
+	# en: "Slightly dissatisfied"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0036:
+	# jp: "不満"
+	# en: "Dissatisfied"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0037:
+	# jp: "結婚したい"
+	# en: "Marriage planned"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0038:
+	# jp: "超好き"
+	# en: "Head over heels"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0039:
+	# jp: "大好き"
+	# en: "So in love"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0040:
+	# jp: "好き"
+	# en: "Love"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0041:
+	# jp: "まあ好き"
+	# en: "Like"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0042:
+	# jp: "ちょっと不満"
+	# en: "Slightly unhappy"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0043:
+	# jp: "不満"
+	# en: "Unhappy"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0044:
+	# jp: "かけがえのない人"
+	# en: "The one and only"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0045:
+	# jp: "超信頼してる"
+	# en: "Extremely reliable"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0046:
+	# jp: "かなり信頼してる"
+	# en: "Very reliable"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0047:
+	# jp: "信頼してる"
+	# en: "Reliable"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0048:
+	# jp: "まあ信頼してる"
+	# en: "Fairly reliable"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0049:
+	# jp: "たぶん信頼してる"
+	# en: "Almost reliable"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0050:
+	# jp: "親友かなぁ…"
+	# en: "Maybe best friend"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0051:
+	# jp: "信頼してる"
+	# en: "Reliable"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0052:
+	# jp: "超楽しい"
+	# en: "Extremely fun"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0053:
+	# jp: "かなり楽しい"
+	# en: "Very fun"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0054:
+	# jp: "楽しい"
+	# en: "Fun"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0055:
+	# jp: "まあ楽しい"
+	# en: "Quite fun"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0056:
+	# jp: "ちょっと不満"
+	# en: "Not quite fun"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0057:
+	# jp: "合わないかも…"
+	# en: "Can't get along"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0058:
+	# jp: "かけがえのない人？"
+	# en: "The one and only?"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0059:
+	# jp: "超満足？"
+	# en: "Extremely satisfied?"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0060:
+	# jp: "大満足？"
+	# en: "Very satisfied?"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0061:
+	# jp: "満足？"
+	# en: "Satisfied?"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0062:
+	# jp: "まあ満足？"
+	# en: "Fairly satisfied?"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0063:
+	# jp: "ちょっと不満？"
+	# en: "Slightly dissatisfied?"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0064:
+	# jp: "不満？"
+	# en: "Dissatisfaction?"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0065:
+	# jp: "結婚したい？"
+	# en: "Marriage planned?"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0066:
+	# jp: "超好き？"
+	# en: "Head over heels?"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0067:
+	# jp: "大好き？"
+	# en: "So in love?"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0068:
+	# jp: "好き？"
+	# en: "Love?"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0069:
+	# jp: "まあ好き？"
+	# en: "Like?"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0070:
+	# jp: "ちょっと不満？"
+	# en: "Slightly unhappy?"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0071:
+	# jp: "不満？"
+	# en: "Unhappy?"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0072:
+	# jp: "信頼してる？"
+	# en: "Reliable?"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0073:
+	# jp: "超楽しい？"
+	# en: "Extremely fun?"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0074:
+	# jp: "かなり楽しい？"
+	# en: "Very fun?"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0075:
+	# jp: "楽しい？"
+	# en: "Fun?"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0076:
+	# jp: "まあ楽しい？"
+	# en: "Quite fun?"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0077:
+	# jp: "ちょっと不満？"
+	# en: "Not fun?"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0078:
+	# jp: "合わない？"
+	# en: "Not get along?"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0079:
+	# jp: "友達に戻れるかも"
+	# en: "Just friend"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0080:
+	# jp: "いい思い出"
+	# en: "Good memories"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0081:
+	# jp: "傷が癒えてきた"
+	# en: "Wounds are healed"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0082:
+	# jp: "悲しい"
+	# en: "Sad"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0083:
+	# jp: "辛い"
+	# en: "Painful"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0084:
+	# jp: "もう忘れたい…"
+	# en: "Want to forget"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0085:
+	# jp: "二度と会いたくない"
+	# en: "Don't want to see"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0086:
+	# jp: "友達に戻れるかも"
+	# en: "Just friend"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0087:
+	# jp: "いい思い出"
+	# en: "Good memories"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0088:
+	# jp: "傷が癒えてきた"
+	# en: "Wounds are healed"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0089:
+	# jp: "悲しい"
+	# en: "Sad"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0090:
+	# jp: "辛い"
+	# en: "Painful"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0091:
+	# jp: "もう忘れたい…"
+	# en: "Want to forget"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0092:
+	# jp: "二度と会いたくない"
+	# en: "Don't want to see"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0093:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0094:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0095:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0096:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0097:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0098:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0099:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0100:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0101:
+	# jp: "[255:00000100]「はじめまして、[255:00000700][1:01000000][255:00000100]です。\n　あれ？あなた、私に似ていますね！」"
+	# en: "[255:00000100]\"Hello! I'm [255:00000700][1:01000000][255:00000100].\nEh? You and I look so much alike!\""
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0102:
+	# jp: "ハジメマシテ＿[1:01000000]デス.アレ？アナタ＿ワタシニニテイマスネ！"
+	# en: "ハジメマシテ＿[1:01000000]デス.アレ？アナタ＿ワタシニニテイマスネ！"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0103:
+	# jp: "部屋を訪問することで、あなたと\n分身は色々なコミュニケーションを\nとれるようになります。\nまずは[255:00000200]ふきだし[255:00000800]をタッチして\n話を聞いてみましょう。"
+	# en: "By visiting your room, you and\nyour alter ego can communicate.\nFirst, try to touch the [255:00000200]bubble[255:00000800]\nand see what happens."
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0104:
+	# jp: "[255:00000100]「この島にひとりぼっちはさびしいです。\n　他に誰かがいたらいいのに…」"
+	# en: "[255:00000100]\"I feel lonely to live here alone.\nThere should be some more people...\""
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0105:
+	# jp: "コノシマニヒトリボッチワサビシイデス.ホカニダレカガイタライイノニ"
+	# en: "コノシマニヒトリボッチワサビシイデス.ホカニダレカガイタライイノニ"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0106:
+	# jp: "[255:00000700][1:01000000][255:00000800]はトモダチを\nほしがってますね。\nあなたの身近な人の[255:00000200]分身[255:00000800]を\nつくってあげましょう。"
+	# en: "[255:00000700][1:01000000][255:00000800] wants\nsome friends. Try create more\npeople from the [255:00000200]real persons[255:00000800]\naround you."
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0107:
+	# jp: "[255:00000100]「[255:00000700][1:01000000][255:00000100]という人が\n　このマンションに引っ越してきたようです！」"
+	# en: "[255:00000100]\"[255:00000700][1:01000000][255:00000100] has\nmoved to this apartment!\""
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0108:
+	# jp: "[1:01000000]トユーヒトガ＿コノマンションニヒッコシテキタヨーデス！"
+	# en: "[1:01000000]トユーヒトガ＿コノマンションニヒッコシテキタヨーデス！"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0109:
+	# jp: "[255:00000100]「さっそくあいさつに行ってきます」"
+	# en: "[255:00000100]\"I'm going to drop by.\""
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0110:
+	# jp: "サッソクアイサツニイッテキマス"
+	# en: "サッソクアイサツニイッテキマス"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0111:
+	# jp: "Ｍｉｉの[255:00000200]悩み事[255:00000800]を解決してあげると、\nそのＭｉｉの[255:00000200]満足度[255:00000800]が上がります。\nたくさん満足させてあげると\nいいことが起こるかもしれませんよ。"
+	# en: "When you solve a Mii's [255:00000200]trouble[255:00000800]\nthat Mii's [255:00000200]satisfaction level[255:00000800] will\ngo up. When the level goes up,\nsomething nice might happen."
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0112:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0113:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0114:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0115:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0116:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0117:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0118:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0119:
+	# jp: "[255:00000700][1:01000000][255:00000800]は\n何か食べたがってますね。\nさて、どうしましょうか？"
+	# en: "[255:00000700][1:01000000][255:00000800] wants\nto eat something.\nWhat can you do?"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0120:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0121:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0122:
+	# jp: "[255:00000100]「もう、おなかがペコペコです…」"
+	# en: "[255:00000100]\"I'm starving.\""
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0123:
+	# jp: "モー＿オナカガペコペコデス"
+	# en: "モー＿オナカガペコペコデス"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0124:
+	# jp: "[255:00000200]プレゼントアイコン[255:00000800]が\n追加されました！\nＭｉｉに何かをあげるときは、\nこのアイコンをタッチしてください。"
+	# en: "The [255:00000200]Present icon[255:00000800] has been added.\nYou can give presents to the\nMii by tapping this icon."
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0125:
+	# jp: "では食べ物をつかんで\n[255:00000700][1:01000000][255:00000800]の前に\n持っていき、離してください。"
+	# en: "Grab the food and put it in\nfront of [255:00000700][1:01000000][255:00000800]."
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0126:
+	# jp: "満足度が上がりましたね。\nＭｉｉには好き嫌いもあることを\n覚えておいてください。"
+	# en: "The satisfaction level goes up,\nright? You should try to\nremember the Mii's likes\nand dislikes."
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0127:
+	# jp: "ところで、\nその満足度の後に\n[255:00000200]お金[255:00000800]が増えたことに\n気づきましたか？"
+	# en: "Moreover, with satisfaction level\ngoing up, your [255:00000200]money[255:00000800] is increasing\nas well. Did you notice that?"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0128:
+	# jp: "分身たちを満足させるためには、\n食べ物を買ったりするお金が必要です。\n分身が満足するたびに、\nその満足に応じたお金が\n[255:00000200]あなたの所持金に[255:00000800]プラスされるのです。"
+	# en: "You have to pay money to buy\nsomething to satisfy different\npeople, right? Each time they\nfeel satisfied, you [255:00000200]gain money[255:00000800]\nas a token of appreciation."
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0129:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0130:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0131:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0132:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0133:
+	# jp: "[255:00000200]着替えアイコン[255:00000800]が追加されました！\nここをタッチすると、\n今までにあげた服の中から\n自由に着替えをさせることができます。"
+	# en: "The [255:00000200]Outfit icon[255:00000800] has been added!\nYou can use this icon to dress\nup the Mii with the outfits\nyou have given it so far."
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0134:
+	# jp: "おめでとうございます！\n[255:00000700][1:01000000][255:00000800]の満足度が\nいっぱいになったので\nレベルアップしました！"
+	# en: "Congratulations!\n[255:00000700][1:01000000][255:00000800] feels very\nsatisfied and has just leveled up!"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0135:
+	# jp: "Ｍｉｉがレベルアップすると、\n[255:00000200]歌[255:00000800]、[255:00000200]道具[255:00000800]、[255:00000200]インテリア[255:00000800]、[255:00000200]言葉[255:00000800]\nの中から、ひとつだけ\nプレゼントすることができます。"
+	# en: "When a Mii's level increases,\nyou can choose a [255:00000200]song[255:00000800], an [255:00000200]item[255:00000800],\nan [255:00000200]interior[255:00000800], or a [255:00000200]phrase[255:00000800] and\ngive it as a present to your Mii."
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0136:
+	# jp: "歌をプレゼントすると、\nＭｉｉに歌を歌わせたり、\n歌詞を変更して替え歌を\n作ることができます。"
+	# en: "By giving a song as a present,\nyour Mii can sing it. You can also\nedit and create custom lyrics."
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0137:
+	# jp: "どれをプレゼントしますか？"
+	# en: "Which present to give?"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0138:
+	# jp: "歌"
+	# en: "Song"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0139:
+	# jp: "道具"
+	# en: "Item"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0140:
+	# jp: "インテリア"
+	# en: "Interior"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0141:
+	# jp: "言葉"
+	# en: "Phrase"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0142:
+	# jp: "どのジャンルをプレゼントしますか？"
+	# en: "Which genre of song?"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0143:
+	# jp: "演歌"
+	# en: "Enka"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0144:
+	# jp: "ラップ"
+	# en: "Rap"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0145:
+	# jp: "ムード歌謡"
+	# en: "Ballad"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0146:
+	# jp: "ヘビメタ"
+	# en: "Rock"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0147:
+	# jp: "Ｊ－ＰＯＰ"
+	# en: "J-Pop"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0148:
+	# jp: "アイドル"
+	# en: "Idol"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0149:
+	# jp: "[255:00000400]演歌[255:00000100]を\nプレゼントしました！"
+	# en: "[255:00000100]You gave [255:00000400]Enka[255:00000100] song\nas a present!"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0150:
+	# jp: "[255:00000400]ラップ[255:00000100]を\nプレゼントしました！"
+	# en: "[255:00000100]You gave [255:00000400]Rap[255:00000100] song\nas a present!"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0151:
+	# jp: "[255:00000400]ムード歌謡[255:00000100]を\nプレゼントしました！"
+	# en: "[255:00000100]You gave [255:00000400]Ballad[255:00000100] song\nas a present!"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0152:
+	# jp: "[255:00000400]ヘビメタ[255:00000100]を\nプレゼントしました！"
+	# en: "[255:00000100]You gave [255:00000400]Rock[255:00000100] song\nas a present!"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0153:
+	# jp: "[255:00000400]Ｊ－ＰＯＰ[255:00000100]を\nプレゼントしました！"
+	# en: "[255:00000100]You gave [255:00000400]J-Pop[255:00000100] song\nas a present!"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0154:
+	# jp: "[255:00000400]アイドル[255:00000100]を\nプレゼントしました！"
+	# en: "[255:00000100]You gave [255:00000400]Idol[255:00000100] song\nas a present!"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0155:
+	# jp: "[255:00000200]歌アイコン[255:00000800]が追加されました！\nここをタッチして、\n[255:00000700][1:01000000][255:00000800]に\n歌を歌わせましょう！"
+	# en: "The [255:00000200]Song icon[255:00000800] has been added!\nYou can use it to hear\n[255:00000700][1:01000000][255:00000800] sing!"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0156:
+	# jp: "どの道具をプレゼントしますか？"
+	# en: "Which item?"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0157:
+	# jp: "Ｗｉｉ"
+	# en: "Wii"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0158:
+	# jp: "ＤＳ"
+	# en: "DS"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0159:
+	# jp: "はたき"
+	# en: "Duster"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0160:
+	# jp: "ノートパソコン"
+	# en: "Notebook"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0161:
+	# jp: "勉強セット"
+	# en: "Study Set"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0162:
+	# jp: "小説"
+	# en: "Novel"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0163:
+	# jp: "携帯電話"
+	# en: "Phone"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0164:
+	# jp: "ＣＤ"
+	# en: "CD"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0165:
+	# jp: "[255:00000400]Ｗｉｉ[255:00000100]をプレゼントしました！"
+	# en: "[255:00000100]You gave [255:00000400]Wii[255:00000100] as a present!"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0166:
+	# jp: "[255:00000400]ＤＳ[255:00000100]をプレゼントしました！"
+	# en: "[255:00000100]You gave [255:00000400]DS[255:00000100] as a present!"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0167:
+	# jp: "[255:00000400]はたき[255:00000100]をプレゼントしました！"
+	# en: "[255:00000100]You gave [255:00000400]Duster[255:00000100] as a present!"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0168:
+	# jp: "[255:00000400]ノートパソコン[255:00000100]をプレゼントしました！"
+	# en: "[255:00000100]You gave [255:00000400]Notebook[255:00000100] as a present!"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0169:
+	# jp: "[255:00000400]勉強セット[255:00000100]をプレゼントしました！"
+	# en: "[255:00000100]You gave [255:00000400]Study Set[255:00000100] as a present!"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0170:
+	# jp: "[255:00000400]小説[255:00000100]をプレゼントしました！"
+	# en: "[255:00000100]You gave [255:00000400]Novel[255:00000100] as a present!"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0171:
+	# jp: "[255:00000400]携帯電話[255:00000100]をプレゼントしました！"
+	# en: "[255:00000100]You gave [255:00000400]Cell Phone[255:00000100] as a present!"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0172:
+	# jp: "[255:00000400]ＣＤ[255:00000100]をプレゼントしました！"
+	# en: "[255:00000100]You gave [255:00000400]CD[255:00000100] as a present!"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0173:
+	# jp: "道具をプレゼントすると、Ｍｉｉ達は\nその道具を使うようになります。\n全部プレゼントして、Ｍｉｉ達の生活を\n充実させてください！"
+	# en: "The Miis can use the items you\ngive them. Let the Miis enjoy\ntheir lives by giving them\nmore items!"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0174:
+	# jp: "インテリアをプレゼントすると、\nＭｉｉの部屋を模様替えすることが\nできます。そのＭｉｉに合った\nインテリアをプレゼントしましょう！"
+	# en: "You can change the room's\natmosphere by giving the Mii\na new interior. Try to find an\ninterior that matches your Mii!"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0175:
+	# jp: "どのインテリアをプレゼントしますか？"
+	# en: "Which interior?"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0176:
+	# jp: "[255:00000400]新しいインテリア[255:00000100]をプレゼントしました！"
+	# en: "[255:00000100]You gave a [255:00000400]new interior[255:00000100]\nas a present!"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0177:
+	# jp: "[255:00000200]インテリアアイコン[255:00000800]が追加されました！\nここをタッチすると、\nプレゼントしたインテリアの中から\n自由に模様替えすることができます。"
+	# en: "The [255:00000200]Interior icon[255:00000800] has been added!\nYou can use it to change the\nroom's interior to the ones you\nhave given to your Mii so far."
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0178:
+	# jp: "[255:00000400]言葉[255:00000100]をプレゼントしました！"
+	# en: "[255:00000100]You gave a [255:00000400]phrase[255:00000100] as a present!"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0179:
+	# jp: "言葉を覚えさせると、\nＭｉｉ達はたまにその言葉を\nしゃべるようになります。\nよく言いそうな言葉を\n覚えさせてみましょう！"
+	# en: "By having a Mii remember a phrase,\nit will keep saying this phrase very\noften."
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0180:
+	# jp: "[255:00000200]言葉アイコン[255:00000800]が追加されました！\nここをタッチすると、言葉を\n覚えなおさせることができます。"
+	# en: "The [255:00000200]Phrase icon[255:00000800] has been added!\nYou can use it to edit the\nassigned phrase."
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0181:
+	# jp: "[255:00000200]実用品[255:00000800]は、プレゼントアイコンから\nＭｉｉ達に渡すことができます。\n必要な時に渡してみましょう！"
+	# en: "You can also give a\npractical [255:00000200]Item[255:00000800] as a present.\nSometimes these practical\nitems will be necessary!"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0182:
+	# jp: "[255:00000200]お宝[255:00000800]は、たくさん集めてコレクション\nしましょう！集めたお宝は、\n市役所のアルバムでチェックできます。\n質屋さんがオープンしたら、\nお宝を売ってお金にかえましょう。\n売ってもアルバムには残ります。"
+	# en: "Collect as many [255:00000200]asset[255:00000800]s as you\ncan! They will be displayed in\nthe album at the City Hall.\nYou can sell them at the\nPawn Shop when it's open.\n(Sold items remain in the album.)"
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0183:
+	# jp: "よく言いそうな言葉を入力してください"
+	# en: "Enter a frequently said phrase."
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0184:
+	# jp: "嬉しい時に使う言葉を入力してください"
+	# en: "What to say when this Mii is happy."
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0185:
+	# jp: "怒った時に使う言葉を入力してください"
+	# en: "What to say when this Mii is mad."
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0186:
+	# jp: "落ち込んだ時に使う言葉を入力してください"
+	# en: "What to say when this Mii feels down."
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0187:
+	# jp: "悩んでいる時に使う言葉を入力してください"
+	# en: "What to say when this Mii is in trouble."
+	""
+
+translate spanish tmd_miitouch_msg_JP.json/MSG_0188:
+	# jp: "[1:01000000]の服"
+	# en: "[1:01000000]'s clothes"
+	""
+

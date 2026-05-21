@@ -1,0 +1,840 @@
+translate spanish tmd_msg_JP.json/MSG_0000:
+	# jp: "ＯＫ"
+	# en: "ＯＫ"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0001:
+	# jp: "キャンセル"
+	# en: "キャンセル"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0002:
+	# jp: "はい"
+	# en: "はい"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0003:
+	# jp: "いいえ"
+	# en: "いいえ"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0004:
+	# jp: "もどる"
+	# en: "もどる"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0005:
+	# jp: "データを読み込んでいます…"
+	# en: "データを読み込んでいます…"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0006:
+	# jp: "[1:32000000]の通信に問題があるため、\n[1:32000100]の受信ができませんでした。\nエラーコード：[1:0700]"
+	# en: "[1:32000000]の通信に問題があるため、\n[1:32000100]の受信ができませんでした。\nエラーコード：[1:0700]"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0007:
+	# jp: "の通信に問題があるため、\nの送信ができませんでした。\nエラーコード：[1:0700]"
+	# en: "の通信に問題があるため、\nの送信ができませんでした。\nエラーコード：[1:0700]"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0008:
+	# jp: "WiiConnect24の通信に問題があるため、\n一時的にデータの受信ができませんでした。"
+	# en: "WiiConnect24の通信に問題があるため、\n一時的にデータの受信ができませんでした。"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0009:
+	# jp: "WiiConnect24の通信に問題があるため、\n一時的にデータを送信できませんでした。\nしばらく待ってからもう一度\nお試しください。"
+	# en: "WiiConnect24の通信に問題があるため、\n一時的にデータを送信できませんでした。\nしばらく待ってからもう一度\nお試しください。"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0010:
+	# jp: "WiiConnect24を使用できない設定に\nなっています。\nWiiオプションでWiiConnect24の設定を\nＯＮにしてください。\nエラーコード：[1:0700]"
+	# en: "WiiConnect24を使用できない設定に\nなっています。\nWiiオプションでWiiConnect24の設定を\nＯＮにしてください。\nエラーコード：[1:0700]"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0011:
+	# jp: "Wii本体保存メモリに問題があるため、\nWiiConnect24を使用できません。\nWiiメニューに戻って指示に\n従ってください。\nエラーコード：[1:0700]"
+	# en: "Wii本体保存メモリに問題があるため、\nWiiConnect24を使用できません。\nWiiメニューに戻って指示に\n従ってください。\nエラーコード：[1:0700]"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0012:
+	# jp: "インターネットに接続できないため\nデータを受信できません。\nWiiオプションでインターネットの設定を\n確認してください。\nエラーコード：[1:0700]"
+	# en: "インターネットに接続できないため\nデータを受信できません。\nWiiオプションでインターネットの設定を\n確認してください。\nエラーコード：[1:0700]"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0013:
+	# jp: "インターネットに接続できないため\nデータを送信できません。\nWiiオプションでインターネットの設定を\n確認してください。\nエラーコード：[1:0700]"
+	# en: "インターネットに接続できないため\nデータを送信できません。\nWiiオプションでインターネットの設定を\n確認してください。\nエラーコード：[1:0700]"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0014:
+	# jp: "Wii本体で設定している国と、\n『みんなで投票チャンネル』で\n設定している国が違います。\nWii本体で設定している国に\n合わせますか？"
+	# en: "Wii本体で設定している国と、\n『みんなで投票チャンネル』で\n設定している国が違います。\nWii本体で設定している国に\n合わせますか？"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0015:
+	# jp: "今後、Wii本体で設定している国と\n同じ設定にしたい場合は、\n『みんなで投票チャンネル』の\nオプション画面で変更してください。"
+	# en: "今後、Wii本体で設定している国と\n同じ設定にしたい場合は、\n『みんなで投票チャンネル』の\nオプション画面で変更してください。"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0016:
+	# jp: "地域の設定ができません。\nWiiオプションで本体を更新してください。\n\nWiiメニューに戻ります。"
+	# en: "地域の設定ができません。\nWiiオプションで本体を更新してください。\n\nWiiメニューに戻ります。"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0017:
+	# jp: "Wii本体保存メモリが壊れました。\n詳しくはWii本体の取扱説明書を\nお読みください。\n\nWiiメニューに戻ります。"
+	# en: "Wii本体保存メモリが壊れました。\n詳しくはWii本体の取扱説明書を\nお読みください。\n\nWiiメニューに戻ります。"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0018:
+	# jp: "セーブデータが壊れているため、\n起動できません。\nセーブデータを初期化しますか？"
+	# en: "セーブデータが壊れているため、\n起動できません。\nセーブデータを初期化しますか？"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0019:
+	# jp: "データをすべて消去しました。\n最初の設定画面に戻ります。"
+	# en: "データをすべて消去しました。\n最初の設定画面に戻ります。"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0020:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0021:
+	# jp: "プレイヤーの新規登録"
+	# en: "プレイヤーの新規登録"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0022:
+	# jp: "プレイヤーデータ"
+	# en: "プレイヤーデータ"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0023:
+	# jp: "アンケートの提案"
+	# en: "アンケートの提案"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0024:
+	# jp: "オプション"
+	# en: "オプション"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0025:
+	# jp: "Wiiメニュー"
+	# en: "Wiiメニュー"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0026:
+	# jp: "受付中の\nアンケート"
+	# en: "受付中の\nアンケート"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0027:
+	# jp: "前回の結果"
+	# en: "前回の結果"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0028:
+	# jp: "ワールド\nアンケート"
+	# en: "ワールド\nアンケート"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0029:
+	# jp: "過去の\nアンケート"
+	# en: "過去の\nアンケート"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0030:
+	# jp: "通常アンケートの結果"
+	# en: "通常アンケートの結果"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0031:
+	# jp: "ワールドアンケートの結果"
+	# en: "ワールドアンケートの結果"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0032:
+	# jp: "結果配信待ち"
+	# en: "結果配信待ち"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0033:
+	# jp: "残り "
+	# en: "残り "
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0034:
+	# jp: "日"
+	# en: "日"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0035:
+	# jp: "時間"
+	# en: "時間"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0036:
+	# jp: "分"
+	# en: "分"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0037:
+	# jp: "日"
+	# en: "日"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0038:
+	# jp: "時間"
+	# en: "時間"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0039:
+	# jp: "分"
+	# en: "分"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0040:
+	# jp: "新しく登録できるMiiがいません。\n似顔絵チャンネルで新しいMiiを\n作成してください。"
+	# en: "新しく登録できるMiiがいません。\n似顔絵チャンネルで新しいMiiを\n作成してください。"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0041:
+	# jp: "プレイヤーを登録できるのは６人までです。\n新しく登録する場合は、現在登録している\nプレイヤーを消去してください。"
+	# en: "プレイヤーを登録できるのは６人までです。\n新しく登録する場合は、現在登録している\nプレイヤーを消去してください。"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0042:
+	# jp: "アンケートを提案できるのは\n１日１通までです。"
+	# en: "アンケートを提案できるのは\n１日１通までです。"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0043:
+	# jp: "アンケートに投票するには\nプレイヤーを登録してください。"
+	# en: "アンケートに投票するには\nプレイヤーを登録してください。"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0044:
+	# jp: "Wiiメニューへ戻ります。\nよろしいですか？"
+	# en: "Wiiメニューへ戻ります。\nよろしいですか？"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0045:
+	# jp: "新しい質問がありません。"
+	# en: "新しい質問がありません。"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0046:
+	# jp: "データを受信しています…"
+	# en: "データを受信しています…"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0047:
+	# jp: "データがありません"
+	# en: "データがありません"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0048:
+	# jp: "NEW!"
+	# en: "NEW!"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0049:
+	# jp: "投票する！"
+	# en: "投票する！"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0050:
+	# jp: "予想へ"
+	# en: "予想へ"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0051:
+	# jp: "これで投票しますか？"
+	# en: "これで投票しますか？"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0052:
+	# jp: "投票を送信中…"
+	# en: "投票を送信中…"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0053:
+	# jp: "投票を受け付けました！\n\nどちらが多く票を集めるか\n予想しますか？"
+	# en: "投票を受け付けました！\n\nどちらが多く票を集めるか\n予想しますか？"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0054:
+	# jp: "投票を締め切りました！\n結果をお楽しみに！"
+	# en: "投票を締め切りました！\n結果をお楽しみに！"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0055:
+	# jp: "全員投票を終えています。\nどちらが多く票を集めるか\n予想しますか？"
+	# en: "全員投票を終えています。\nどちらが多く票を集めるか\n予想しますか？"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0056:
+	# jp: "全員投票も予想も終えています。"
+	# en: "全員投票も予想も終えています。"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0057:
+	# jp: "残り５分です"
+	# en: "残り５分です"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0058:
+	# jp: "残り３分です"
+	# en: "残り３分です"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0059:
+	# jp: "残り１分です"
+	# en: "残り１分です"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0060:
+	# jp: "送信に失敗しました。\nインターネットの設定を確認するか、\nしばらく待ってからもう一度\nお試しください。\nエラーコード：[1:0700]"
+	# en: "送信に失敗しました。\nインターネットの設定を確認するか、\nしばらく待ってからもう一度\nお試しください。\nエラーコード：[1:0700]"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0061:
+	# jp: "投票受付期間が過ぎたので\n送信できませんでした。"
+	# en: "投票受付期間が過ぎたので\n送信できませんでした。"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0062:
+	# jp: "予想する！"
+	# en: "予想する！"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0063:
+	# jp: "どっちが多いと思う？"
+	# en: "どっちが多いと思う？"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0064:
+	# jp: "これで予想しますか？"
+	# en: "これで予想しますか？"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0065:
+	# jp: "予想を送信中…"
+	# en: "予想を送信中…"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0066:
+	# jp: "予想を受け付けました！\n結果をお楽しみに！"
+	# en: "予想を受け付けました！\n結果をお楽しみに！"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0067:
+	# jp: "予想を締め切りました！\n結果をお楽しみに！"
+	# en: "予想を締め切りました！\n結果をお楽しみに！"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0068:
+	# jp: "結果発表！"
+	# en: "結果発表！"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0069:
+	# jp: "スキップ"
+	# en: "スキップ"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0070:
+	# jp: "みんなの予想は？"
+	# en: "みんなの予想は？"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0071:
+	# jp: "開票！"
+	# en: "開票！"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0072:
+	# jp: "人"
+	# en: "人"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0073:
+	# jp: ","
+	# en: ","
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0074:
+	# jp: "[1:0400]\nの方が多いみたいです！"
+	# en: "[1:0400]\nの方が多いみたいです！"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0075:
+	# jp: "引き分け！"
+	# en: "引き分け！"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0076:
+	# jp: "地域ごとの集計結果"
+	# en: "地域ごとの集計結果"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0077:
+	# jp: "詳細な集計結果"
+	# en: "詳細な集計結果"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0078:
+	# jp: "男女別の集計結果"
+	# en: "男女別の集計結果"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0079:
+	# jp: "男"
+	# en: "男"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0080:
+	# jp: "女"
+	# en: "女"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0081:
+	# jp: "全国の予想的中率"
+	# en: "全国の予想的中率"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0082:
+	# jp: "全世界の予想的中率"
+	# en: "全世界の予想的中率"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0083:
+	# jp: "国ごとの集計結果"
+	# en: "国ごとの集計結果"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0084:
+	# jp: "並べ替え"
+	# en: "並べ替え"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0085:
+	# jp: "どのように並べますか？"
+	# en: "どのように並べますか？"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0086:
+	# jp: "得票の割合順"
+	# en: "得票の割合順"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0087:
+	# jp: "予想的中率順"
+	# en: "予想的中率順"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0088:
+	# jp: "国名順"
+	# en: "国名順"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0089:
+	# jp: "%"
+	# en: "%"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0090:
+	# jp: "."
+	# en: "."
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0091:
+	# jp: "登録したいMiiを\n選んでください。"
+	# en: "登録したいMiiを\n選んでください。"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0092:
+	# jp: "[1:01000000]を登録します。\nよろしいですか？"
+	# en: "[1:01000000]を登録します。\nよろしいですか？"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0093:
+	# jp: "[1:01000000]を登録しました！"
+	# en: "[1:01000000]を登録しました！"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0094:
+	# jp: "消去"
+	# en: "消去"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0095:
+	# jp: "消去すると、今までの成績がすべて\n消えてしまいます。\n\nこのプレイヤーを消去しますか？"
+	# en: "消去すると、今までの成績がすべて\n消えてしまいます。\n\nこのプレイヤーを消去しますか？"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0096:
+	# jp: "このプレイヤーは投票中のアンケートが\nあるので、消去できません。"
+	# en: "このプレイヤーは投票中のアンケートが\nあるので、消去できません。"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0097:
+	# jp: "Miiを変更"
+	# en: "Miiを変更"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0098:
+	# jp: "プレイヤーを選んでください"
+	# en: "プレイヤーを選んでください"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0099:
+	# jp: "投票データ"
+	# en: "投票データ"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0100:
+	# jp: "投票回数"
+	# en: "投票回数"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0101:
+	# jp: " 回"
+	# en: " 回"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0102:
+	# jp: "準備中"
+	# en: "準備中"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0103:
+	# jp: "世の中とのギャップ"
+	# en: "世の中とのギャップ"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0104:
+	# jp: "m"
+	# en: "m"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0105:
+	# jp: "mm"
+	# en: "mm"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0106:
+	# jp: "cm"
+	# en: "cm"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0107:
+	# jp: "km"
+	# en: "km"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0108:
+	# jp: "性格"
+	# en: "性格"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0109:
+	# jp: "考えかた"
+	# en: "考えかた"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0110:
+	# jp: "経験"
+	# en: "経験"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0111:
+	# jp: "知識"
+	# en: "知識"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0112:
+	# jp: "身のまわり"
+	# en: "身のまわり"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0113:
+	# jp: "予想データへ"
+	# en: "予想データへ"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0114:
+	# jp: "予想データ"
+	# en: "予想データ"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0115:
+	# jp: "予想の成績"
+	# en: "予想の成績"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0116:
+	# jp: " 勝"
+	# en: " 勝"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0117:
+	# jp: " 敗"
+	# en: " 敗"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0118:
+	# jp: "予想的中率"
+	# en: "予想的中率"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0119:
+	# jp: "％"
+	# en: "％"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0120:
+	# jp: "世の中わかってる度"
+	# en: "世の中わかってる度"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0121:
+	# jp: "ポイント"
+	# en: "ポイント"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0122:
+	# jp: "投票データへ"
+	# en: "投票データへ"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0123:
+	# jp: "Miiを変更しますか？"
+	# en: "Miiを変更しますか？"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0124:
+	# jp: "とじる"
+	# en: "とじる"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0125:
+	# jp: "あなたが考えたアンケートを入力してください"
+	# en: "あなたが考えたアンケートを入力してください"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0126:
+	# jp: "アンケート内容"
+	# en: "アンケート内容"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0127:
+	# jp: "選択肢１"
+	# en: "選択肢１"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0128:
+	# jp: "選択肢２"
+	# en: "選択肢２"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0129:
+	# jp: "送信"
+	# en: "送信"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0130:
+	# jp: "応募していただいた質問や選択肢は\nアンケートに使用したり、アンケート作成の\n参考とさせていただきます。\nまた、応募していただいた質問や選択肢や\nそのアンケート結果は、\n『みんなで投票チャンネル』以外で公表、\n使用されることがあります。\nこのアンケート案を任天堂へ送りますか？"
+	# en: "応募していただいた質問や選択肢は\nアンケートに使用したり、アンケート作成の\n参考とさせていただきます。\nまた、応募していただいた質問や選択肢や\nそのアンケート結果は、\n『みんなで投票チャンネル』以外で公表、\n使用されることがあります。\nこのアンケート案を任天堂へ送りますか？"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0131:
+	# jp: "応募していただいた質問や選択肢は\nアンケートに使用したり、アンケート作成の\n参考とさせていただきます。\nまた、応募していただいた質問や選択肢や\nそのアンケート結果は、\n『みんなで投票チャンネル』以外で公表、\n使用されることがあります。\nこのアンケート案を任天堂へ送りますか？"
+	# en: "応募していただいた質問や選択肢は\nアンケートに使用したり、アンケート作成の\n参考とさせていただきます。\nまた、応募していただいた質問や選択肢や\nそのアンケート結果は、\n『みんなで投票チャンネル』以外で公表、\n使用されることがあります。\nこのアンケート案を任天堂へ送りますか？"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0132:
+	# jp: "アンケート案を送信中…"
+	# en: "アンケート案を送信中…"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0133:
+	# jp: "アンケート案を送信しました！\n送った案は、任天堂がアンケートを\n作成するときに参考にします。\nご協力ありがとうございました！"
+	# en: "アンケート案を送信しました！\n送った案は、任天堂がアンケートを\n作成するときに参考にします。\nご協力ありがとうございました！"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0134:
+	# jp: "送信していない文章は消えてしまいますが\nよろしいですか？"
+	# en: "送信していない文章は消えてしまいますが\nよろしいですか？"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0135:
+	# jp: "オプション"
+	# en: "オプション"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0136:
+	# jp: "アンケートに答える地域を確認"
+	# en: "アンケートに答える地域を確認"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0137:
+	# jp: "お住まいの地域の確認\n\n[1:0a00]\n\n[1:0b00]"
+	# en: "お住まいの地域の確認\n\n[1:0a00]\n\n[1:0b00]"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0138:
+	# jp: "お住まいの地域を変更"
+	# en: "お住まいの地域を変更"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0139:
+	# jp: "Wii本体で設定している国に変更"
+	# en: "Wii本体で設定している国に変更"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0140:
+	# jp: "Wii本体で設定している国に変更します。\n変更すると、プレイヤーの成績や\n過去のデータがすべて消去されます。\nそれでもよろしいですか？"
+	# en: "Wii本体で設定している国に変更します。\n変更すると、プレイヤーの成績や\n過去のデータがすべて消去されます。\nそれでもよろしいですか？"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0141:
+	# jp: "アンケートに答える国を変更しました。"
+	# en: "アンケートに答える国を変更しました。"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0142:
+	# jp: "質問文の言語を変更"
+	# en: "質問文の言語を変更"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0143:
+	# jp: "質問文の言語を選んでください"
+	# en: "質問文の言語を選んでください"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0144:
+	# jp: "変更しました。"
+	# en: "変更しました。"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0145:
+	# jp: "データをすべて消去"
+	# en: "データをすべて消去"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0146:
+	# jp: "データをすべて消去します。\n消去すると、プレイヤーや過去のデータが\nすべて消去されます。\nそれでもよろしいですか？"
+	# en: "データをすべて消去します。\n消去すると、プレイヤーや過去のデータが\nすべて消去されます。\nそれでもよろしいですか？"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0147:
+	# jp: "本当に消去しますか？"
+	# en: "本当に消去しますか？"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0148:
+	# jp: "初期化中…"
+	# en: "初期化中…"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0149:
+	# jp: "データをすべて消去しました。\nWiiメニューに戻ります。"
+	# en: "データをすべて消去しました。\nWiiメニューに戻ります。"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0150:
+	# jp: "お住まいの地域を設定します。"
+	# en: "お住まいの地域を設定します。"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0151:
+	# jp: "お住まいの国の確認\n\n[1:0800]\n\nこの設定でよろしいですか？"
+	# en: "お住まいの国の確認\n\n[1:0800]\n\nこの設定でよろしいですか？"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0152:
+	# jp: "お住まいの地域の確認\n\n[1:0900]\n\nこの設定でよろしいですか？"
+	# en: "お住まいの地域の確認\n\n[1:0900]\n\nこの設定でよろしいですか？"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0153:
+	# jp: "Wiiオプションでお住まいの国を\n正しく設定してください。\nWiiメニューに戻ります。"
+	# en: "Wiiオプションでお住まいの国を\n正しく設定してください。\nWiiメニューに戻ります。"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0154:
+	# jp: "国情報を確認しています…"
+	# en: "国情報を確認しています…"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0155:
+	# jp: "国情報を設定しました。"
+	# en: "国情報を設定しました。"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0156:
+	# jp: "申し訳ございません。\nあなたのお住まいの国では、\n現在『みんなで投票チャンネル』を\nプレイすることができません。\nWiiメニューに戻ります。"
+	# en: "申し訳ございません。\nあなたのお住まいの国では、\n現在『みんなで投票チャンネル』を\nプレイすることができません。\nWiiメニューに戻ります。"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0157:
+	# jp: "Wii本体保存メモリの空き容量が\n不足しています。\nセーブデータ画面でファイルを\nＳＤカードに移動するか、\nファイルを消去して２ブロックの\n空きブロックを用意してください。\nWiiメニューに戻ります。"
+	# en: "Wii本体保存メモリの空き容量が\n不足しています。\nセーブデータ画面でファイルを\nＳＤカードに移動するか、\nファイルを消去して２ブロックの\n空きブロックを用意してください。\nWiiメニューに戻ります。"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0158:
+	# jp: "Wii本体保存メモリの空きファイル数が\n不足しています。\nセーブデータ画面でファイルをSDカードに\n移動するか、ファイルを消去してください。\nWiiメニューに戻ります。"
+	# en: "Wii本体保存メモリの空きファイル数が\n不足しています。\nセーブデータ画面でファイルをSDカードに\n移動するか、ファイルを消去してください。\nWiiメニューに戻ります。"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0159:
+	# jp: "『似顔絵チャンネル』にMiiが\nひとりもいません。\n『みんなで投票チャンネル』では\nプレイヤーの分身となるMiiが必要です。\nWiiメニューに戻り、似顔絵チャンネルで\nMiiを作成してください。"
+	# en: "『似顔絵チャンネル』にMiiが\nひとりもいません。\n『みんなで投票チャンネル』では\nプレイヤーの分身となるMiiが必要です。\nWiiメニューに戻り、似顔絵チャンネルで\nMiiを作成してください。"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0160:
+	# jp: "受信に失敗しました。\nインターネットの設定を確認するか、\nしばらく待ってからもう一度\nお試しください。\nエラーコード：[1:0700]"
+	# en: "受信に失敗しました。\nインターネットの設定を確認するか、\nしばらく待ってからもう一度\nお試しください。\nエラーコード：[1:0700]"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0161:
+	# jp: "『みんなで投票チャンネル』へようこそ！\nこのチャンネルでは、全国でアンケートを\n実施することにより、みんなの気持ちや\n世の中の常識を知ることができます。"
+	# en: "『みんなで投票チャンネル』へようこそ！\nこのチャンネルでは、全国でアンケートを\n実施することにより、みんなの気持ちや\n世の中の常識を知ることができます。"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0162:
+	# jp: "まずは、あなたの分身となるプレイヤーを\n似顔絵チャンネルのMiiの中から\n登録しましょう！"
+	# en: "まずは、あなたの分身となるプレイヤーを\n似顔絵チャンネルのMiiの中から\n登録しましょう！"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0163:
+	# jp: "まだプレイヤーを登録しますか？\n（６人まで登録できます）"
+	# en: "まだプレイヤーを登録しますか？\n（６人まで登録できます）"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0164:
+	# jp: "受付中のアンケートの中から答えたい質問を\n選んで[1:0200]を押しましょう。"
+	# en: "受付中のアンケートの中から答えたい質問を\n選んで[1:0200]を押しましょう。"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0165:
+	# jp: "あなたのMiiを[1:0200]+[1:0300]でつかみ、\n投票したい答えのフィールドへ持っていき、\n離してください。"
+	# en: "あなたのMiiを[1:0200]+[1:0300]でつかみ、\n投票したい答えのフィールドへ持っていき、\n離してください。"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0166:
+	# jp: "自分自身の答えではなく、より多くの人が\n選びそうな答えを予想して、\nそのフィールドにプレイヤーを\n置きましょう。"
+	# en: "自分自身の答えではなく、より多くの人が\n選びそうな答えを予想して、\nそのフィールドにプレイヤーを\n置きましょう。"
+	""
+
+translate spanish tmd_msg_JP.json/MSG_0167:
+	# jp: "うまく投票できましたか？\n投票結果はアンケートが締め切られてから\n数時間後に送られてきます。"
+	# en: "うまく投票できましたか？\n投票結果はアンケートが締め切られてから\n数時間後に送られてきます。"
+	""
+

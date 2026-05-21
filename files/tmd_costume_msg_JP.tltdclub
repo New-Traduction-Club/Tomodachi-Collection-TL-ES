@@ -1,0 +1,3005 @@
+translate spanish tmd_costume_msg_JP.json/MSG_0000:
+	# jp: "ふつうの服"
+	# en: "Regular"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0001:
+	# jp: "スーツ／グレー"
+	# en: "Suit (Grey)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0002:
+	# jp: "スーツ／黒"
+	# en: "Suit (Black)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0003:
+	# jp: "セーラー服"
+	# en: "Sailor Uniform"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0004:
+	# jp: "カウボーイの服"
+	# en: "Cowboy"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0005:
+	# jp: "古代の服／白"
+	# en: "Toga (White)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0006:
+	# jp: "古代の服／黒"
+	# en: "Toga (Black)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0007:
+	# jp: "サッカーユニフォーム"
+	# en: "Soccer"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0008:
+	# jp: "ウェイトレスの服"
+	# en: "Waitress"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0009:
+	# jp: "ペンギンスーツ"
+	# en: "Penguin"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0010:
+	# jp: "もこもこきぐるみ／茶"
+	# en: "Costume (Brown)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0011:
+	# jp: "迷彩服"
+	# en: "Camouflage"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0012:
+	# jp: "細身のカンフースーツ"
+	# en: "Slim Kung Fu"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0013:
+	# jp: "女物の浴衣"
+	# en: "Yukata ♀"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0014:
+	# jp: "男物の浴衣"
+	# en: "Yukata ♂"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0015:
+	# jp: "ウェディングドレス"
+	# en: "Wedding Dress"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0016:
+	# jp: "古着のジャージ"
+	# en: "Old Jersey"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0017:
+	# jp: "シャツ×スカート"
+	# en: "Shirt&Skirt"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0018:
+	# jp: "ポンチョ"
+	# en: "Poncho"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0019:
+	# jp: "お嬢様ワンピ"
+	# en: "Princess"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0020:
+	# jp: "ゴシック調ワンピ"
+	# en: "Gothic"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0021:
+	# jp: "魔法使いの服"
+	# en: "Sorcerer"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0022:
+	# jp: "もこもこきぐるみ／白"
+	# en: "Costume (White)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0023:
+	# jp: "フラメンコドレス"
+	# en: "Flamenco "
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0024:
+	# jp: "カットソー／白"
+	# en: "Cutsew (White)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0025:
+	# jp: "カットソー／グレー"
+	# en: "Cutsew (Grey)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0026:
+	# jp: "カットソー／黒"
+	# en: "Cutsew (Black)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0027:
+	# jp: "スターの服"
+	# en: "Star"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0028:
+	# jp: "チャイナドレス／ピンク"
+	# en: "Qipao (Pink)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0029:
+	# jp: "チャイナドレス／水色"
+	# en: "Qipao (Blue)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0030:
+	# jp: "任天堂制服／紺"
+	# en: "Nintendo (Blue)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0031:
+	# jp: "任天堂制服／ベージュ"
+	# en: "Nintendo (Beige)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0032:
+	# jp: "グラフィックＴシャツ"
+	# en: "Graphic T"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0033:
+	# jp: "Ｇジャン×チノパン"
+	# en: "Jean&Chino"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0034:
+	# jp: "ボーダー×カーデ／緑"
+	# en: "Cardigan (Green)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0035:
+	# jp: "ボーダー×カーデ／黒"
+	# en: "Cardigan (Black)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0036:
+	# jp: "十二単"
+	# en: "Ceremonial Kimono"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0037:
+	# jp: "ぶかぶかパーカー／グレー"
+	# en: "Baggy Parka (Grey)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0038:
+	# jp: "ぶかぶかパーカー／赤"
+	# en: "Baggy Parka (Red)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0039:
+	# jp: "ねこのきぐるみ"
+	# en: "Cat Costume"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0040:
+	# jp: "オーバーオール"
+	# en: "Overalls"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0041:
+	# jp: "スカジャン／黒"
+	# en: "Satin Jumper (Black)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0042:
+	# jp: "スカジャン／ピンク"
+	# en: "Satin Jumper (Pink)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0043:
+	# jp: "手編みのストール"
+	# en: "Knitted Scarf"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0044:
+	# jp: "トロピカルドレス"
+	# en: "Tropical"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0045:
+	# jp: "宝石の服"
+	# en: "Jewelry"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0046:
+	# jp: "穴あきカットソー"
+	# en: "Torn Cutsew"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0047:
+	# jp: "皮ジャン"
+	# en: "Leather Jacket"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0048:
+	# jp: "サルエルパンツ"
+	# en: "Low-rise Pants"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0049:
+	# jp: "コート／白"
+	# en: "Coat (White)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0050:
+	# jp: "コート／ベージュ"
+	# en: "Coat (Beige)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0051:
+	# jp: "古着のスウェット／赤"
+	# en: "Old Sweatshirt (Red)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0052:
+	# jp: "古着のスウェット／紺"
+	# en: "Old Sweatshirt (Blue)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0053:
+	# jp: "パッチワークスカート"
+	# en: "Patchwork Skirt"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0054:
+	# jp: "シャツ×パンツ／青"
+	# en: "Shirt&Pants (Blue)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0055:
+	# jp: "ボウタイのブラウス"
+	# en: "Bow-tie Blouse"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0056:
+	# jp: "シャツ×パンツ／黄"
+	# en: "Shirt&Pants (Yellow)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0057:
+	# jp: "お気に入り色のパーカー"
+	# en: "Favorite Parka"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0058:
+	# jp: "お気に入り色のボーダー"
+	# en: "Favorite Top"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0059:
+	# jp: "ぶかぶかダウン／カーキ"
+	# en: "Baggy Down (Khaki)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0060:
+	# jp: "ぶかぶかダウン／黒"
+	# en: "Baggy Down (Black)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0061:
+	# jp: "ツイードジャケット"
+	# en: "Tweed Jacket"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0062:
+	# jp: "割烹着"
+	# en: "Chef's Apron"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0063:
+	# jp: "ファーのコート／ベージュ"
+	# en: "Fur Coat (Beige)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0064:
+	# jp: "ファーのコート／黒"
+	# en: "Fur Coat (Black)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0065:
+	# jp: "ストール×ニットワンピ"
+	# en: "Scarf&Knitted Dress"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0066:
+	# jp: "カラフルストール"
+	# en: "Colorful Scarf"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0067:
+	# jp: "ボーダーベビー服／ピンク"
+	# en: "Baby Top (Pink)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0068:
+	# jp: "ボーダーベビー服／ブルー"
+	# en: "Baby Top (Blue)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0069:
+	# jp: "Ｔシャツロールアップ"
+	# en: "Roll-up T-shirt"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0070:
+	# jp: "アロハシャツ／水色"
+	# en: "Aloha Shirt (Blue)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0071:
+	# jp: "アロハシャツ／赤"
+	# en: "Aloha Shirt (Red)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0072:
+	# jp: "ふわふわリボン"
+	# en: "Fluffy Ribbon"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0073:
+	# jp: "豹柄のストール"
+	# en: "Leopard Scarf"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0074:
+	# jp: "タンクトップ×迷彩パンツ"
+	# en: "Tank Top&Camo Pants"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0075:
+	# jp: "豹のトレーナー"
+	# en: "Leopard Sweatshirt"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0076:
+	# jp: "エアロビの服"
+	# en: "Aerobics"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0077:
+	# jp: "車柄のシャツ"
+	# en: "Car Pattern Shirt"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0078:
+	# jp: "車のＴシャツ"
+	# en: "Car T-shirt"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0079:
+	# jp: "ラガーシャツ／緑"
+	# en: "Rugby Shirt (Green)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0080:
+	# jp: "ワンピース×ベスト"
+	# en: "One-piece&Vest"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0081:
+	# jp: "ラガーシャツ／赤"
+	# en: "Rugby Shirt (Red)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0082:
+	# jp: "シャツ×ワイドパンツ"
+	# en: "Shirt&Wide Pants"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0083:
+	# jp: "カーディガン×ジーンズ"
+	# en: "Cardigan&Jeans"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0084:
+	# jp: "派手スーツ／黒"
+	# en: "Flashy Suit (Black)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0085:
+	# jp: "派手スーツ／白"
+	# en: "Flashy Suit (White)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0086:
+	# jp: "レトロシャツ／緑"
+	# en: "Retro Shirt (Green)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0087:
+	# jp: "レトロシャツ／黒"
+	# en: "Retro Shirt (Black)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0088:
+	# jp: "腕まくりＹシャツ／白"
+	# en: "Dress Shirt (White)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0089:
+	# jp: "腕まくりＹシャツ／黒"
+	# en: "Dress Shirt (Black)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0090:
+	# jp: "ボーダーワンピース"
+	# en: "Tight One-piece"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0091:
+	# jp: "カットソー×スカート"
+	# en: "Cutsew&Skirt"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0092:
+	# jp: "ショートオーバーオール"
+	# en: "Short Overall"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0093:
+	# jp: "刺繍のチュニック"
+	# en: "Embroidered Tunic"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0094:
+	# jp: "スモックブラウス"
+	# en: "Smock Blouse"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0095:
+	# jp: "タートルネック／白"
+	# en: "Turtleneck (White)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0096:
+	# jp: "タートルネック／黒"
+	# en: "Turtleneck (Black)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0097:
+	# jp: "タートルネック／赤"
+	# en: "Turtleneck (Red)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0098:
+	# jp: "ボアジャケット"
+	# en: "Boa Jacket"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0099:
+	# jp: "ピーコート／紺"
+	# en: "Pea Coat (Blue)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0100:
+	# jp: "ピーコート／茶"
+	# en: "Pea Coat (Brown)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0101:
+	# jp: "アンサンブル／ピンク"
+	# en: "Top&Skirt (Pink)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0102:
+	# jp: "アンサンブル／ブルー"
+	# en: "Top&Skirt (Blue)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0103:
+	# jp: "フラワーレギンス"
+	# en: "Flower Leggings"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0104:
+	# jp: "トレンチコート／ベージュ"
+	# en: "Trench Coat (Beige)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0105:
+	# jp: "トレンチコート／グレー"
+	# en: "Trench Coat (Grey)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0106:
+	# jp: "ドルマンスリーブシャツ"
+	# en: "Dolman Sleeve Shirt"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0107:
+	# jp: "半袖シャツ／緑"
+	# en: "Short Sleeve (Green)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0108:
+	# jp: "半袖シャツ／黄"
+	# en: "Short-Sleeved (Yellow)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0109:
+	# jp: "半袖シャツ／グレー"
+	# en: "Short-Sleeved (Grey)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0110:
+	# jp: "ベンチコート／青"
+	# en: "Bench Coat (Blue)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0111:
+	# jp: "お気に入り色のタイツ"
+	# en: "Favorite Tights"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0112:
+	# jp: "チビカットソー／白"
+	# en: "Mini-Cutsew (White)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0113:
+	# jp: "トナカイのワンピース"
+	# en: "Reindeer One-piece"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0114:
+	# jp: "チビカットソー／紫"
+	# en: "Mini-Cutsew (Purple)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0115:
+	# jp: "服屋さんの制服"
+	# en: "Apparel Shop"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0116:
+	# jp: "ガールズパーカー／ピンク"
+	# en: "Girls' Parka (Pink)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0117:
+	# jp: "ガールズパーカー／ブルー"
+	# en: "Girls' Parka (Blue)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0118:
+	# jp: "マドラスチェックのワンピ"
+	# en: "Madras One-piece"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0119:
+	# jp: "チェックのワンピース／黒"
+	# en: "Plaid One-piece (Black)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0120:
+	# jp: "チェックのワンピース／青"
+	# en: "Plaid One-piece (Blue)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0121:
+	# jp: "Ｔシャツ×ベスト"
+	# en: "T-shirt&Vest"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0122:
+	# jp: "ガーゼのワンピース"
+	# en: "Gauze One-piece"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0123:
+	# jp: "コサージュワンピース"
+	# en: "Corsage Dress"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0124:
+	# jp: "チェックのマフラー／紺"
+	# en: "Plaid Scarf (Blue)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0125:
+	# jp: "チェックのマフラー／黄"
+	# en: "Plaid Scarf (Yellow)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0126:
+	# jp: "ロングレザーコート"
+	# en: "Long Leather Coat"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0127:
+	# jp: "大きいチェックのワンピ"
+	# en: "Large Plaid One-piece"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0128:
+	# jp: "Ｖネックセーター／グレー"
+	# en: "V-Neck Sweater (Grey)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0129:
+	# jp: "Ｖネックセーター／紫"
+	# en: "V-Neck Sweater (Purple)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0130:
+	# jp: "ミリタリーコート"
+	# en: "Military Coat"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0131:
+	# jp: "ポロシャツ／ピンク"
+	# en: "Polo (Pink)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0132:
+	# jp: "半袖スウェット"
+	# en: "Short-Sleeved Sweat"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0133:
+	# jp: "ポロシャツ／黒"
+	# en: "Polo (Black)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0134:
+	# jp: "長いスカートのセーラー服"
+	# en: "Long Skirt Sailor"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0135:
+	# jp: "たべもの屋さんの制服"
+	# en: "Food Shop"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0136:
+	# jp: "ベスト×シャツ／赤"
+	# en: "Vest&Shirt (Red)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0137:
+	# jp: "ベスト×シャツ／青"
+	# en: "Vest&Shirt (Blue)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0138:
+	# jp: "ネグリジェドレス"
+	# en: "Nightgown"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0139:
+	# jp: "カーディガン／赤"
+	# en: "Cardigan (Red)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0140:
+	# jp: "カーディガン／オレンジ"
+	# en: "Cardigan (Orange)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0141:
+	# jp: "カシュクール／紫"
+	# en: "Cache-cour (Purple)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0142:
+	# jp: "カシュクール／青"
+	# en: "Cache-cour (Blue)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0143:
+	# jp: "スタジャン／赤"
+	# en: "Team Jacket (Red)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0144:
+	# jp: "スタジャン／青"
+	# en: "Team Jacket (Blue)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0145:
+	# jp: "湯上りバスタオル"
+	# en: "Bath Towel"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0146:
+	# jp: "腹巻×ももひき"
+	# en: "Underpants&Band"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0147:
+	# jp: "はっぴ"
+	# en: "Happi"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0148:
+	# jp: "白衣"
+	# en: "White Robe"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0149:
+	# jp: "原始人の服"
+	# en: "Primitive Man"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0150:
+	# jp: "学生服"
+	# en: "Boy's Uniform"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0151:
+	# jp: "インテリア屋さんの制服"
+	# en: "Interior Shop"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0152:
+	# jp: "チアガールの服"
+	# en: "Cheerleader"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0153:
+	# jp: "スウェット上下"
+	# en: "Sweatshirt&Pants"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0154:
+	# jp: "中学のジャージ／赤"
+	# en: "Junior High (Red)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0155:
+	# jp: "中学のジャージ／青"
+	# en: "Junior High (Blue)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0156:
+	# jp: "フォーマルドレス"
+	# en: "Formal Dress"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0157:
+	# jp: "つなぎ"
+	# en: "Jumpsuit"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0158:
+	# jp: "レトロワンピース"
+	# en: "Retro One-piece"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0159:
+	# jp: "アラビアの姫の服"
+	# en: "Arabian"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0160:
+	# jp: "男性アイドルの服"
+	# en: "Male Idol"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0161:
+	# jp: "女性アイドルの服"
+	# en: "Female Idol"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0162:
+	# jp: "蝶ネクタイ×半ズボン"
+	# en: "Bow-tie&Shorts"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0163:
+	# jp: "ナース服"
+	# en: "Nurse"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0164:
+	# jp: "とび職の服"
+	# en: "Steeplejack"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0165:
+	# jp: "ピエロの服"
+	# en: "Clown"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0166:
+	# jp: "中世の鎧"
+	# en: "Medieval Armor"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0167:
+	# jp: "囚人服"
+	# en: "Prisoner"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0168:
+	# jp: "メイド服"
+	# en: "Maid"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0169:
+	# jp: "みすぼらしい服"
+	# en: "Shabby Clothes"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0170:
+	# jp: "学校の水着"
+	# en: "School Swimsuit"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0171:
+	# jp: "戦隊ヒーローの服／赤"
+	# en: "Sentai Suit (Red)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0172:
+	# jp: "戦隊ヒーローの服／青"
+	# en: "Sentai Suit (Blue)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0173:
+	# jp: "戦隊ヒーローの服／黄"
+	# en: "Sentai Suit (Yellow)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0174:
+	# jp: "戦隊ヒーローの服／緑"
+	# en: "Sentai Suit (Green)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0175:
+	# jp: "戦隊ヒーローの服／ピンク"
+	# en: "Sentai Suit (Pink)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0176:
+	# jp: "まわし"
+	# en: "Loincloth"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0177:
+	# jp: "バスケユニフォーム"
+	# en: "Basketball"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0178:
+	# jp: "ダンサーの服"
+	# en: "Dancer"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0179:
+	# jp: "貴族の服"
+	# en: "Noble"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0180:
+	# jp: "ゴムのつなぎ"
+	# en: "Rubber Jumpsuit"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0181:
+	# jp: "女性警察官の服"
+	# en: "Female police"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0182:
+	# jp: "野球選手の服"
+	# en: "Baseball"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0183:
+	# jp: "卓球選手の服"
+	# en: "Ping Pong"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0184:
+	# jp: "シェフの服"
+	# en: "Chef"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0185:
+	# jp: "タクシーの運転手"
+	# en: "Taxi Driver"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0186:
+	# jp: "車掌の服"
+	# en: "Train Driver"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0187:
+	# jp: "バレリーナの服"
+	# en: "Ballerina"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0188:
+	# jp: "タキシード"
+	# en: "Tuxedo"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0189:
+	# jp: "お姫様ドレス"
+	# en: "Princess"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0190:
+	# jp: "宇宙服"
+	# en: "Spacesuit"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0191:
+	# jp: "ヨガの服"
+	# en: "Yoga"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0192:
+	# jp: "質屋さんの服"
+	# en: "Pawn Shop"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0193:
+	# jp: "デパートの制服"
+	# en: "Department Store"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0194:
+	# jp: "ボクサーパンツ"
+	# en: "Boxer Pants"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0195:
+	# jp: "ジャージ／白"
+	# en: "Jersey (White)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0196:
+	# jp: "ジャージ／黒"
+	# en: "Jersey (Black)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0197:
+	# jp: "ブルゾン×ジーンズ"
+	# en: "Blouson&Jeans"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0198:
+	# jp: "検査員の服"
+	# en: "Inspector"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0199:
+	# jp: "警察官の服"
+	# en: "Policeman"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0200:
+	# jp: "エプロン"
+	# en: "Apron"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0201:
+	# jp: "コンビニの制服"
+	# en: "Convenience Store"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0202:
+	# jp: "ボーダーカットソー"
+	# en: "Tight Cutsew"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0203:
+	# jp: "漢字Ｔシャツ"
+	# en: "Kanji T-shirt"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0204:
+	# jp: "コンパニオンの服"
+	# en: "Companion"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0205:
+	# jp: "男の子のブレザー"
+	# en: "Men's Blazer"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0206:
+	# jp: "女の子のブレザー"
+	# en: "Women's Blazer"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0207:
+	# jp: "ダウンベスト"
+	# en: "Down Vest"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0208:
+	# jp: "警備員の服"
+	# en: "Security Guard"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0209:
+	# jp: "つなぎ×長靴"
+	# en: "Jumpsuit&Boots"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0210:
+	# jp: "ジャケット×Ｔシャツ"
+	# en: "Jacket&T-shirt"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0211:
+	# jp: "レザージャケット"
+	# en: "Leather Jacket"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0212:
+	# jp: "ホルターネックワンピース"
+	# en: "Halter One-piece"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0213:
+	# jp: "カマーベスト"
+	# en: "Cummer Vest"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0214:
+	# jp: "スノボウェア"
+	# en: "Snowboard"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0215:
+	# jp: "マラソンユニフォーム"
+	# en: "Marathon"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0216:
+	# jp: "胴着"
+	# en: "Undershirt"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0217:
+	# jp: "騎手の服"
+	# en: "Jockey"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0218:
+	# jp: "キャビンアテンダントの服"
+	# en: "Cabin Attendant"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0219:
+	# jp: "マオカラージャケット"
+	# en: "Nehru Jacket"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0220:
+	# jp: "王様の服"
+	# en: "King"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0221:
+	# jp: "プリーツスカート"
+	# en: "Pleated Skirt"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0222:
+	# jp: "水玉のワンピース"
+	# en: "Polka Dot One-piece"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0223:
+	# jp: "スエードのジャケット"
+	# en: "Suede Jacket"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0224:
+	# jp: "カンフースーツ"
+	# en: "Kung Fu"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0225:
+	# jp: "スウェット×ハーフパンツ"
+	# en: "Sweatshirt&Shorts"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0226:
+	# jp: "パーカー×ジャージ"
+	# en: "Parka&Jersey"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0227:
+	# jp: "クロップドパンツ"
+	# en: "Cropped Pants"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0228:
+	# jp: "ダメージジーンズ"
+	# en: "Ripped Jeans"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0229:
+	# jp: "リゾートの水着"
+	# en: "Resort Swimsuit"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0230:
+	# jp: "チェックのカットソー"
+	# en: "Plaid Cutsew"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0231:
+	# jp: "ニット羽織スタイル"
+	# en: "Haori"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0232:
+	# jp: "サンタクロースの服"
+	# en: "Santa Claus"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0233:
+	# jp: "消防士の服"
+	# en: "Firefighter"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0234:
+	# jp: "テニスの服"
+	# en: "Tennis"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0235:
+	# jp: "ギンガムチェックシャツ"
+	# en: "Cotton Shirt"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0236:
+	# jp: "ストライプシャツ"
+	# en: "Striped Shirt"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0237:
+	# jp: "菊の着物"
+	# en: "Chrysanthemum Kimono"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0238:
+	# jp: "どてら"
+	# en: "Padded Kimono"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0239:
+	# jp: "重ね着カットソー"
+	# en: "Layered Cutsew"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0240:
+	# jp: "アーガイルのセーター"
+	# en: "Argyle Sweater"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0241:
+	# jp: "フリルのワンピース"
+	# en: "Ruffle One-piece"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0242:
+	# jp: "ベーシックな白シャツ"
+	# en: "Basic Shirt"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0243:
+	# jp: "ラグランシャツ"
+	# en: "Raglan Shirt"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0244:
+	# jp: "ぶかぶかのＴシャツ"
+	# en: "Baggy T-shirt"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0245:
+	# jp: "レースのワンピース"
+	# en: "Lace One-piece"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0246:
+	# jp: "侍の袴"
+	# en: "Samurai"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0247:
+	# jp: "武士の鎧"
+	# en: "Warrior Armor"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0248:
+	# jp: "ベルサイユ風ドレス"
+	# en: "Versailles Dress"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0249:
+	# jp: "袖なしＧジャン"
+	# en: "Sleeveless Denim"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0250:
+	# jp: "女の子の制服"
+	# en: "Girl's Uniform"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0251:
+	# jp: "エスニックカットソー"
+	# en: "Ethnic Cutsew"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0252:
+	# jp: "ショートダッフルコート"
+	# en: "Duffle Coat"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0253:
+	# jp: "ミイラの服"
+	# en: "Mummy"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0254:
+	# jp: "ルーズソックス"
+	# en: "Loose Socks"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0255:
+	# jp: "タータンチェックシャツ"
+	# en: "Tartan Shirt"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0256:
+	# jp: "大名の服"
+	# en: "Feudal Lord"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0257:
+	# jp: "卒業式の袴"
+	# en: "Graduation Hakama"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0258:
+	# jp: "新撰組の服"
+	# en: "Shinsengumi"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0259:
+	# jp: "忍者スーツ"
+	# en: "Ninja"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0260:
+	# jp: "ばいきんスーツ"
+	# en: "Virus Suit"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0261:
+	# jp: "ボディコンスーツ"
+	# en: "Body Suits"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0262:
+	# jp: "こしみの"
+	# en: "Straw Skirt"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0263:
+	# jp: "タンクトップ"
+	# en: "Tank Top"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0264:
+	# jp: "スーツ×バミューダパンツ"
+	# en: "Suit&Shorts"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0265:
+	# jp: "エスニックスカート"
+	# en: "Ethnic Skirt"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0266:
+	# jp: "チェックシャツ×ジーンズ"
+	# en: "Plaid&Jeans"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0267:
+	# jp: "ケミカルウォッシュ"
+	# en: "Chemical Wash"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0268:
+	# jp: "ボーダータイツ"
+	# en: "Border Tights"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0269:
+	# jp: "近未来スーツ"
+	# en: "Future Suit"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0270:
+	# jp: "恐竜スーツ"
+	# en: "Dino Suit"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0271:
+	# jp: "パジャマ／青"
+	# en: "Pajamas (Blue)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0272:
+	# jp: "パジャマ／ピンク"
+	# en: "Pajamas (Pink)"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0273:
+	# jp: "シンプルな水着"
+	# en: "Simple Swimsuit"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0274:
+	# jp: "幼稚園のスモック"
+	# en: "Kindergarten"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0275:
+	# jp: "ＤＳＴシャツ"
+	# en: "DS T-shirt"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0276:
+	# jp: "ＷｉｉＴシャツ"
+	# en: "Wii T-shirt"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0277:
+	# jp: "妖精の服"
+	# en: "Fairy"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0278:
+	# jp: "郵便屋さんの服"
+	# en: "Postman"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0279:
+	# jp: "料理人の服"
+	# en: "Cook"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0280:
+	# jp: "色無地"
+	# en: "Plain Kimono"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0281:
+	# jp: "ニットのベスト"
+	# en: "Knitted Vest"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0282:
+	# jp: "ベルボトム"
+	# en: "Bell-bottom"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0283:
+	# jp: "秋のワンピース"
+	# en: "Autumn One-piece"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0284:
+	# jp: "冬のワンピース"
+	# en: "Winter One-piece"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0285:
+	# jp: "春のワンピース"
+	# en: "Spring One-piece"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0286:
+	# jp: "夏のワンピース"
+	# en: "Summer One-piece"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0287:
+	# jp: "おめでとうシャツ"
+	# en: "Congratulations Shirt"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0288:
+	# jp: "プロレスコスチューム"
+	# en: "Wrestler"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0289:
+	# jp: "デニムのミニスカート"
+	# en: "Denim Mini"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0290:
+	# jp: "ロゴカットソー"
+	# en: "Logo Cutsew"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0291:
+	# jp: "フリースジャケット"
+	# en: "Fleece Jacket"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0292:
+	# jp: "ドワーフの服"
+	# en: "Dwarf"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0293:
+	# jp: "ルームウェア"
+	# en: "Room Wear"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0294:
+	# jp: "丸襟のブラウス"
+	# en: "Round Collar"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0295:
+	# jp: "レインコート"
+	# en: "Raincoat"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0296:
+	# jp: "ポロシャツ×エプロン"
+	# en: "Polo&Apron"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0297:
+	# jp: "ロゴワンピース"
+	# en: "Logo One-piece"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0298:
+	# jp: "ネルシャツ"
+	# en: "Flannel"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0299:
+	# jp: "こぐまのＴシャツ"
+	# en: "Baby Bear T-shirt"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0300:
+	# jp: "ア"
+	# en: "ア"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0301:
+	# jp: "スーツノグレー"
+	# en: "スーツノグレー"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0302:
+	# jp: "スーツノクロ"
+	# en: "スーツノクロ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0303:
+	# jp: "セーラーフク"
+	# en: "セーラーフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0304:
+	# jp: "カウボーイノフク"
+	# en: "カウボーイノフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0305:
+	# jp: "コダイノフクノシロ"
+	# en: "コダイノフクノシロ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0306:
+	# jp: "コダイノフクノクロ"
+	# en: "コダイノフクノクロ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0307:
+	# jp: "サッカーユニフォーム"
+	# en: "サッカーユニフォーム"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0308:
+	# jp: "ウェイトレスノフク"
+	# en: "ウェイトレスノフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0309:
+	# jp: "ペンギンスーツ"
+	# en: "ペンギンスーツ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0310:
+	# jp: "モコモコキグルミノチャ"
+	# en: "モコモコキグルミノチャ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0311:
+	# jp: "メイサイフク"
+	# en: "メイサイフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0312:
+	# jp: "ホソミノカンフースーツ"
+	# en: "ホソミノカンフースーツ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0313:
+	# jp: "オンナモノノユカタ"
+	# en: "オンナモノノユカタ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0314:
+	# jp: "オトコモノノユカタ"
+	# en: "オトコモノノユカタ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0315:
+	# jp: "ウェディングドレス"
+	# en: "ウェディングドレス"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0316:
+	# jp: "フルギノジャージ"
+	# en: "フルギノジャージ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0317:
+	# jp: "シャツトスカート"
+	# en: "シャツトスカート"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0318:
+	# jp: "ポンチョ"
+	# en: "ポンチョ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0319:
+	# jp: "オジョウサマワンピ"
+	# en: "オジョウサマワンピ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0320:
+	# jp: "ゴシックチョウワンピ"
+	# en: "ゴシックチョウワンピ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0321:
+	# jp: "マホウツカイノフク"
+	# en: "マホウツカイノフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0322:
+	# jp: "モコモコキグルミノシロ"
+	# en: "モコモコキグルミノシロ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0323:
+	# jp: "フラメンコドレス"
+	# en: "フラメンコドレス"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0324:
+	# jp: "カットソーノシロ"
+	# en: "カットソーノシロ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0325:
+	# jp: "カットソーノグレー"
+	# en: "カットソーノグレー"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0326:
+	# jp: "カットソーノクロ"
+	# en: "カットソーノクロ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0327:
+	# jp: "スターノフク"
+	# en: "スターノフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0328:
+	# jp: "チャイナドレスノピンク"
+	# en: "チャイナドレスノピンク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0329:
+	# jp: "チャイナドレスノミズイロ"
+	# en: "チャイナドレスノミズイロ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0330:
+	# jp: "ニンテンドーセイフクノコン"
+	# en: "ニンテンドーセイフクノコン"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0331:
+	# jp: "ニンテンドーセイフクノベージュ"
+	# en: "ニンテンドーセイフクノベージュ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0332:
+	# jp: "グラフィックティーシャツ"
+	# en: "グラフィックティーシャツ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0333:
+	# jp: "ジｰジャントチノパン"
+	# en: "ジｰジャントチノパン"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0334:
+	# jp: "ボーダートカーデノミドリ"
+	# en: "ボーダートカーデノミドリ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0335:
+	# jp: "ボーダートカーデノクロ"
+	# en: "ボーダートカーデノクロ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0336:
+	# jp: "ジュウニヒトエ"
+	# en: "ジュウニヒトエ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0337:
+	# jp: "ブカブカパーカーノグレー"
+	# en: "ブカブカパーカーノグレー"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0338:
+	# jp: "ブカブカパーカーノアカ"
+	# en: "ブカブカパーカーノアカ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0339:
+	# jp: "ネコノキグルミ"
+	# en: "ネコノキグルミ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0340:
+	# jp: "オーバーオール"
+	# en: "オーバーオール"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0341:
+	# jp: "スカジャンノクロ"
+	# en: "スカジャンノクロ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0342:
+	# jp: "スカジャンノピンク"
+	# en: "スカジャンノピンク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0343:
+	# jp: "テアミノストール"
+	# en: "テアミノストール"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0344:
+	# jp: "トロピカルドレス"
+	# en: "トロピカルドレス"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0345:
+	# jp: "ホウセキノフク"
+	# en: "ホウセキノフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0346:
+	# jp: "アナアキカットソー"
+	# en: "アナアキカットソー"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0347:
+	# jp: "カワジャン"
+	# en: "カワジャン"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0348:
+	# jp: "サルエルパンツ"
+	# en: "サルエルパンツ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0349:
+	# jp: "コートノシロ"
+	# en: "コートノシロ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0350:
+	# jp: "コートノベージュ"
+	# en: "コートノベージュ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0351:
+	# jp: "フルギノスウェットノアカ"
+	# en: "フルギノスウェットノアカ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0352:
+	# jp: "フルギノスウェットノコン"
+	# en: "フルギノスウェットノコン"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0353:
+	# jp: "パッチワークスカート"
+	# en: "パッチワークスカート"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0354:
+	# jp: "シャツトパンツノアオ"
+	# en: "シャツトパンツノアオ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0355:
+	# jp: "ボウタイノブラウス"
+	# en: "ボウタイノブラウス"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0356:
+	# jp: "シャツトパンツノキ"
+	# en: "シャツトパンツノキ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0357:
+	# jp: "オキニイリイロノパーカー"
+	# en: "オキニイリイロノパーカー"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0358:
+	# jp: "オキニイリイロノボーダー"
+	# en: "オキニイリイロノボーダー"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0359:
+	# jp: "ブカブカダウンノカーキ"
+	# en: "ブカブカダウンノカーキ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0360:
+	# jp: "ブカブカダウンノクロ"
+	# en: "ブカブカダウンノクロ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0361:
+	# jp: "ツイードジャケット"
+	# en: "ツイードジャケット"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0362:
+	# jp: "カッポウギ"
+	# en: "カッポウギ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0363:
+	# jp: "ファーノコートノベージュ"
+	# en: "ファーノコートノベージュ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0364:
+	# jp: "ファーノコートノクロ"
+	# en: "ファーノコートノクロ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0365:
+	# jp: "ストールトニットワンピ"
+	# en: "ストールトニットワンピ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0366:
+	# jp: "カラフルストール"
+	# en: "カラフルストール"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0367:
+	# jp: "ボーダーベビーフクノピンク"
+	# en: "ボーダーベビーフクノピンク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0368:
+	# jp: "ボーダーベビーフクノブルー"
+	# en: "ボーダーベビーフクノブルー"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0369:
+	# jp: "ティーシャツロールアップ"
+	# en: "ティーシャツロールアップ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0370:
+	# jp: "アロハシャツノミズイロ"
+	# en: "アロハシャツノミズイロ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0371:
+	# jp: "アロハシャツノアカ"
+	# en: "アロハシャツノアカ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0372:
+	# jp: "フワフワリボン"
+	# en: "フワフワリボン"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0373:
+	# jp: "ヒョウガラノストール"
+	# en: "ヒョウガラノストール"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0374:
+	# jp: "タンクトップトメイサイパンツ"
+	# en: "タンクトップトメイサイパンツ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0375:
+	# jp: "ヒョウノトレーナー"
+	# en: "ヒョウノトレーナー"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0376:
+	# jp: "エアロビノフク"
+	# en: "エアロビノフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0377:
+	# jp: "クルマガラノシャツ"
+	# en: "クルマガラノシャツ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0378:
+	# jp: "クルマノティーシャツ"
+	# en: "クルマノティーシャツ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0379:
+	# jp: "ラガーシャツノミドリ"
+	# en: "ラガーシャツノミドリ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0380:
+	# jp: "ワンピーストベスト"
+	# en: "ワンピーストベスト"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0381:
+	# jp: "ラガーシャツノアカ"
+	# en: "ラガーシャツノアカ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0382:
+	# jp: "シャツトワイドパンツ"
+	# en: "シャツトワイドパンツ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0383:
+	# jp: "カーディガントジーンズ"
+	# en: "カーディガントジーンズ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0384:
+	# jp: "ハデスーツノクロ"
+	# en: "ハデスーツノクロ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0385:
+	# jp: "ハデスーツノシロ"
+	# en: "ハデスーツノシロ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0386:
+	# jp: "レトロシャツノミドリ"
+	# en: "レトロシャツノミドリ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0387:
+	# jp: "レトロシャツノクロ"
+	# en: "レトロシャツノクロ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0388:
+	# jp: "ウデマクリワイシャツノシロ"
+	# en: "ウデマクリワイシャツノシロ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0389:
+	# jp: "ウデマクリワイシャツノクロ"
+	# en: "ウデマクリワイシャツノクロ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0390:
+	# jp: "ボーダーワンピース"
+	# en: "ボーダーワンピース"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0391:
+	# jp: "カットソートスカート"
+	# en: "カットソートスカート"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0392:
+	# jp: "ショートオーバーオール"
+	# en: "ショートオーバーオール"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0393:
+	# jp: "シシュウノチュニック"
+	# en: "シシュウノチュニック"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0394:
+	# jp: "スモックブラウス"
+	# en: "スモックブラウス"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0395:
+	# jp: "タートルネックノシロ"
+	# en: "タートルネックノシロ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0396:
+	# jp: "タートルネックノクロ"
+	# en: "タートルネックノクロ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0397:
+	# jp: "タートルネックノアカ"
+	# en: "タートルネックノアカ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0398:
+	# jp: "ボアジャケット"
+	# en: "ボアジャケット"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0399:
+	# jp: "ピーコートノコン"
+	# en: "ピーコートノコン"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0400:
+	# jp: "ピーコートノチャ"
+	# en: "ピーコートノチャ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0401:
+	# jp: "アンサンブルノピンク"
+	# en: "アンサンブルノピンク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0402:
+	# jp: "アンサンブルノブルー"
+	# en: "アンサンブルノブルー"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0403:
+	# jp: "フラワーレギンス"
+	# en: "フラワーレギンス"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0404:
+	# jp: "トレンチコートノベージュ"
+	# en: "トレンチコートノベージュ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0405:
+	# jp: "トレンチコートノグレー"
+	# en: "トレンチコートノグレー"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0406:
+	# jp: "ドルマンスリーブシャツ"
+	# en: "ドルマンスリーブシャツ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0407:
+	# jp: "ハンソデシャツノミドリ"
+	# en: "ハンソデシャツノミドリ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0408:
+	# jp: "ハンソデシャツノキ"
+	# en: "ハンソデシャツノキ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0409:
+	# jp: "ハンソデシャツノグレー"
+	# en: "ハンソデシャツノグレー"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0410:
+	# jp: "ベンチコートノアオ"
+	# en: "ベンチコートノアオ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0411:
+	# jp: "オキニイリイロノタイツ"
+	# en: "オキニイリイロノタイツ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0412:
+	# jp: "チビカットソーノシロ"
+	# en: "チビカットソーノシロ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0413:
+	# jp: "トナカイノワンピース"
+	# en: "トナカイノワンピース"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0414:
+	# jp: "チビカットソーノムラサキ"
+	# en: "チビカットソーノムラサキ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0415:
+	# jp: "フクヤサンノセイフク"
+	# en: "フクヤサンノセイフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0416:
+	# jp: "ガールズパーカーノピンク"
+	# en: "ガールズパーカーノピンク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0417:
+	# jp: "ガールズパーカーノブルー"
+	# en: "ガールズパーカーノブルー"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0418:
+	# jp: "マドラスチェックノワンピ"
+	# en: "マドラスチェックノワンピ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0419:
+	# jp: "チェックノワンピースノクロ"
+	# en: "チェックノワンピースノクロ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0420:
+	# jp: "チェックノワンピースノアオ"
+	# en: "チェックノワンピースノアオ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0421:
+	# jp: "ティーシャツトベスト"
+	# en: "ティーシャツトベスト"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0422:
+	# jp: "ガーゼノワンピース"
+	# en: "ガーゼノワンピース"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0423:
+	# jp: "コサージュワンピース"
+	# en: "コサージュワンピース"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0424:
+	# jp: "チェックノマフラーノコン"
+	# en: "チェックノマフラーノコン"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0425:
+	# jp: "チェックノマフラーノキ"
+	# en: "チェックノマフラーノキ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0426:
+	# jp: "ロングレザーコート"
+	# en: "ロングレザーコート"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0427:
+	# jp: "オオキイチェックノワンピ"
+	# en: "オオキイチェックノワンピ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0428:
+	# jp: "ブイネックセーターノグレー"
+	# en: "ブイネックセーターノグレー"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0429:
+	# jp: "ブイネックセーターノムラサキ"
+	# en: "ブイネックセーターノムラサキ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0430:
+	# jp: "ミリタリーコート"
+	# en: "ミリタリーコート"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0431:
+	# jp: "ポロシャツノピンク"
+	# en: "ポロシャツノピンク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0432:
+	# jp: "ハンソデスウェット"
+	# en: "ハンソデスウェット"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0433:
+	# jp: "ポロシャツノクロ"
+	# en: "ポロシャツノクロ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0434:
+	# jp: "ナガイスカートノセーラーフク"
+	# en: "ナガイスカートノセーラーフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0435:
+	# jp: "タベモノヤサンノセイフク"
+	# en: "タベモノヤサンノセイフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0436:
+	# jp: "ベストトシャツノアカ"
+	# en: "ベストトシャツノアカ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0437:
+	# jp: "ベストトシャツノアオ"
+	# en: "ベストトシャツノアオ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0438:
+	# jp: "ネグリジェドレス"
+	# en: "ネグリジェドレス"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0439:
+	# jp: "カーディガンノアカ"
+	# en: "カーディガンノアカ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0440:
+	# jp: "カーディガンノオレンジ"
+	# en: "カーディガンノオレンジ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0441:
+	# jp: "カシュクールノムラサキ"
+	# en: "カシュクールノムラサキ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0442:
+	# jp: "カシュクールノアオ"
+	# en: "カシュクールノアオ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0443:
+	# jp: "スタジャンノアカ"
+	# en: "スタジャンノアカ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0444:
+	# jp: "スタジャンノアオ"
+	# en: "スタジャンノアオ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0445:
+	# jp: "ユアガリバスタオル"
+	# en: "ユアガリバスタオル"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0446:
+	# jp: "ハラマキトモモヒキ"
+	# en: "ハラマキトモモヒキ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0447:
+	# jp: "ハッピ"
+	# en: "ハッピ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0448:
+	# jp: "ハクイ"
+	# en: "ハクイ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0449:
+	# jp: "ゲンシジンノフク"
+	# en: "ゲンシジンノフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0450:
+	# jp: "ガクセイフク"
+	# en: "ガクセイフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0451:
+	# jp: "インテリアヤサンノセイフク"
+	# en: "インテリアヤサンノセイフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0452:
+	# jp: "チアガールノフク"
+	# en: "チアガールノフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0453:
+	# jp: "スウェットジョウゲ"
+	# en: "スウェットジョウゲ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0454:
+	# jp: "チュウガクノジャージノアカ"
+	# en: "チュウガクノジャージノアカ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0455:
+	# jp: "チュウガクノジャージノアオ"
+	# en: "チュウガクノジャージノアオ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0456:
+	# jp: "フォーマルドレス"
+	# en: "フォーマルドレス"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0457:
+	# jp: "ツナギ"
+	# en: "ツナギ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0458:
+	# jp: "レトロワンピース"
+	# en: "レトロワンピース"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0459:
+	# jp: "アラビアノヒメノフク"
+	# en: "アラビアノヒメノフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0460:
+	# jp: "ダンセイアイドルノフク"
+	# en: "ダンセイアイドルノフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0461:
+	# jp: "ジョセイアイドルノフク"
+	# en: "ジョセイアイドルノフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0462:
+	# jp: "チョウネクタイトハンズボン"
+	# en: "チョウネクタイトハンズボン"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0463:
+	# jp: "ナースフク"
+	# en: "ナースフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0464:
+	# jp: "トビショクノフク"
+	# en: "トビショクノフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0465:
+	# jp: "ピエロノフク"
+	# en: "ピエロノフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0466:
+	# jp: "チュウセイノヨロイ"
+	# en: "チュウセイノヨロイ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0467:
+	# jp: "シュウジンフク"
+	# en: "シュウジンフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0468:
+	# jp: "メイドフク"
+	# en: "メイドフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0469:
+	# jp: "ミスボラシイフク"
+	# en: "ミスボラシイフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0470:
+	# jp: "ガッコウノミズギ"
+	# en: "ガッコウノミズギ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0471:
+	# jp: "センタイヒーローノフクノアカ"
+	# en: "センタイヒーローノフクノアカ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0472:
+	# jp: "センタイヒーローノフクノアオ"
+	# en: "センタイヒーローノフクノアオ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0473:
+	# jp: "センタイヒーローノフクノキ"
+	# en: "センタイヒーローノフクノキ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0474:
+	# jp: "センタイヒーローノフクノミドリ"
+	# en: "センタイヒーローノフクノミドリ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0475:
+	# jp: "センタイヒーローノフクノピンク"
+	# en: "センタイヒーローノフクノピンク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0476:
+	# jp: "マワシ"
+	# en: "マワシ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0477:
+	# jp: "バスケユニフォーム"
+	# en: "バスケユニフォーム"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0478:
+	# jp: "ダンサーノフク"
+	# en: "ダンサーノフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0479:
+	# jp: "キゾクノフク"
+	# en: "キゾクノフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0480:
+	# jp: "ゴムノツナギ"
+	# en: "ゴムノツナギ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0481:
+	# jp: "ジョセイケイサツカンノフク"
+	# en: "ジョセイケイサツカンノフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0482:
+	# jp: "ヤキュウセンシュノフク"
+	# en: "ヤキュウセンシュノフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0483:
+	# jp: "タッキュウセンシュノフク"
+	# en: "タッキュウセンシュノフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0484:
+	# jp: "シェフノフク"
+	# en: "シェフノフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0485:
+	# jp: "タクシーノウンテンシュ"
+	# en: "タクシーノウンテンシュ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0486:
+	# jp: "シャショウノフク"
+	# en: "シャショウノフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0487:
+	# jp: "バレリーナノフク"
+	# en: "バレリーナノフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0488:
+	# jp: "タキシード"
+	# en: "タキシード"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0489:
+	# jp: "オヒメサマドレス"
+	# en: "オヒメサマドレス"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0490:
+	# jp: "ウチュウフク"
+	# en: "ウチュウフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0491:
+	# jp: "ヨガノフク"
+	# en: "ヨガノフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0492:
+	# jp: "シチヤサンノフク"
+	# en: "シチヤサンノフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0493:
+	# jp: "デパートノセイフク"
+	# en: "デパートノセイフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0494:
+	# jp: "ボクサーパンツ"
+	# en: "ボクサーパンツ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0495:
+	# jp: "ジャージノシロ"
+	# en: "ジャージノシロ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0496:
+	# jp: "ジャージノクロ"
+	# en: "ジャージノクロ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0497:
+	# jp: "ブルゾントジーンズ"
+	# en: "ブルゾントジーンズ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0498:
+	# jp: "ケンサインノフク"
+	# en: "ケンサインノフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0499:
+	# jp: "ケイサツカンノフク"
+	# en: "ケイサツカンノフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0500:
+	# jp: "エプロン"
+	# en: "エプロン"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0501:
+	# jp: "コンビニノセイフク"
+	# en: "コンビニノセイフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0502:
+	# jp: "ボーダーカットソー"
+	# en: "ボーダーカットソー"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0503:
+	# jp: "カンジティーシャツ"
+	# en: "カンジティーシャツ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0504:
+	# jp: "コンパニオンノフク"
+	# en: "コンパニオンノフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0505:
+	# jp: "オトコノコノブレザー"
+	# en: "オトコノコノブレザー"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0506:
+	# jp: "オンナノコノブレザー"
+	# en: "オンナノコノブレザー"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0507:
+	# jp: "ダウンベスト"
+	# en: "ダウンベスト"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0508:
+	# jp: "ケイビインノフク"
+	# en: "ケイビインノフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0509:
+	# jp: "ツナギトナガグツ"
+	# en: "ツナギトナガグツ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0510:
+	# jp: "ジャケットトティーシャツ"
+	# en: "ジャケットトティーシャツ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0511:
+	# jp: "レザージャケット"
+	# en: "レザージャケット"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0512:
+	# jp: "ホルターネックワンピース"
+	# en: "ホルターネックワンピース"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0513:
+	# jp: "カマーベスト"
+	# en: "カマーベスト"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0514:
+	# jp: "スノボウェア"
+	# en: "スノボウェア"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0515:
+	# jp: "マラソンユニフォーム"
+	# en: "マラソンユニフォーム"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0516:
+	# jp: "ドウギ"
+	# en: "ドウギ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0517:
+	# jp: "キシュノフク"
+	# en: "キシュノフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0518:
+	# jp: "キャビンアテンダントノフク"
+	# en: "キャビンアテンダントノフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0519:
+	# jp: "マオカラージャケット"
+	# en: "マオカラージャケット"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0520:
+	# jp: "オウサマノフク"
+	# en: "オウサマノフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0521:
+	# jp: "プリーツスカート"
+	# en: "プリーツスカート"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0522:
+	# jp: "ミズタマノワンピース"
+	# en: "ミズタマノワンピース"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0523:
+	# jp: "スエードノジャケット"
+	# en: "スエードノジャケット"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0524:
+	# jp: "カンフースーツ"
+	# en: "カンフースーツ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0525:
+	# jp: "スウェットトハーフパンツ"
+	# en: "スウェットトハーフパンツ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0526:
+	# jp: "パーカートジャージ"
+	# en: "パーカートジャージ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0527:
+	# jp: "クロップドパンツ"
+	# en: "クロップドパンツ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0528:
+	# jp: "ダメージジーンズ"
+	# en: "ダメージジーンズ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0529:
+	# jp: "リゾートノミズギ"
+	# en: "リゾートノミズギ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0530:
+	# jp: "チェックノカットソー"
+	# en: "チェックノカットソー"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0531:
+	# jp: "ニットハオリスタイル"
+	# en: "ニットハオリスタイル"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0532:
+	# jp: "サンタクロースノフク"
+	# en: "サンタクロースノフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0533:
+	# jp: "ショウボウシノフク"
+	# en: "ショウボウシノフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0534:
+	# jp: "テニスノフク"
+	# en: "テニスノフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0535:
+	# jp: "ギンガムチェックシャツ"
+	# en: "ギンガムチェックシャツ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0536:
+	# jp: "ストライプシャツ"
+	# en: "ストライプシャツ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0537:
+	# jp: "キクノキモノ"
+	# en: "キクノキモノ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0538:
+	# jp: "ドテラ"
+	# en: "ドテラ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0539:
+	# jp: "カサネギカットソー"
+	# en: "カサネギカットソー"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0540:
+	# jp: "アーガイルノセーター"
+	# en: "アーガイルノセーター"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0541:
+	# jp: "フリルノワンピース"
+	# en: "フリルノワンピース"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0542:
+	# jp: "ベーシックナシロシャツ"
+	# en: "ベーシックナシロシャツ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0543:
+	# jp: "ラグランシャツ"
+	# en: "ラグランシャツ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0544:
+	# jp: "ブカブカノティーシャツ"
+	# en: "ブカブカノティーシャツ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0545:
+	# jp: "レースノワンピース"
+	# en: "レースノワンピース"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0546:
+	# jp: "サムライノハカマ"
+	# en: "サムライノハカマ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0547:
+	# jp: "ブシノヨロイ"
+	# en: "ブシノヨロイ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0548:
+	# jp: "ベルサイユフウドレス"
+	# en: "ベルサイユフウドレス"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0549:
+	# jp: "ソデナシジージャン"
+	# en: "ソデナシジージャン"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0550:
+	# jp: "オンナノコノセイフク"
+	# en: "オンナノコノセイフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0551:
+	# jp: "エスニックカットソー"
+	# en: "エスニックカットソー"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0552:
+	# jp: "ショートダッフルコート"
+	# en: "ショートダッフルコート"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0553:
+	# jp: "ミイラノフク"
+	# en: "ミイラノフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0554:
+	# jp: "ルーズソックス"
+	# en: "ルーズソックス"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0555:
+	# jp: "タータンチェックシャツ"
+	# en: "タータンチェックシャツ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0556:
+	# jp: "ダイミョウノフク"
+	# en: "ダイミョウノフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0557:
+	# jp: "ソツギョウシキノハカマ"
+	# en: "ソツギョウシキノハカマ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0558:
+	# jp: "シンセングミノフク"
+	# en: "シンセングミノフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0559:
+	# jp: "ニンジャスーツ"
+	# en: "ニンジャスーツ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0560:
+	# jp: "バイキンスーツ"
+	# en: "バイキンスーツ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0561:
+	# jp: "ボディコンスーツ"
+	# en: "ボディコンスーツ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0562:
+	# jp: "コシミノ"
+	# en: "コシミノ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0563:
+	# jp: "タンクトップ"
+	# en: "タンクトップ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0564:
+	# jp: "スーツトバミューダパンツ"
+	# en: "スーツトバミューダパンツ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0565:
+	# jp: "エスニックスカート"
+	# en: "エスニックスカート"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0566:
+	# jp: "チェックシャツトジーンズ"
+	# en: "チェックシャツトジーンズ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0567:
+	# jp: "ケミカルウォッシュ"
+	# en: "ケミカルウォッシュ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0568:
+	# jp: "ボーダータイツ"
+	# en: "ボーダータイツ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0569:
+	# jp: "キンミライスーツ"
+	# en: "キンミライスーツ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0570:
+	# jp: "キョウリュウスーツ"
+	# en: "キョウリュウスーツ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0571:
+	# jp: "パジャマノアオ"
+	# en: "パジャマノアオ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0572:
+	# jp: "パジャマノピンク"
+	# en: "パジャマノピンク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0573:
+	# jp: "シンプルナミズギ"
+	# en: "シンプルナミズギ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0574:
+	# jp: "ヨウチエンノスモック"
+	# en: "ヨウチエンノスモック"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0575:
+	# jp: "ディーエスティーシャツ"
+	# en: "ディーエスティーシャツ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0576:
+	# jp: "ウィーティーシャツ"
+	# en: "ウィーティーシャツ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0577:
+	# jp: "ヨウセイノフク"
+	# en: "ヨウセイノフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0578:
+	# jp: "ユウビンヤサンノフク"
+	# en: "ユウビンヤサンノフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0579:
+	# jp: "リョウリニンノフク"
+	# en: "リョウリニンノフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0580:
+	# jp: "イロムジ"
+	# en: "イロムジ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0581:
+	# jp: "ニットノベスト"
+	# en: "ニットノベスト"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0582:
+	# jp: "ベルボトム"
+	# en: "ベルボトム"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0583:
+	# jp: "アキノワンピース"
+	# en: "アキノワンピース"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0584:
+	# jp: "フユノワンピース"
+	# en: "フユノワンピース"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0585:
+	# jp: "ハルノワンピース"
+	# en: "ハルノワンピース"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0586:
+	# jp: "ナツノワンピース"
+	# en: "ナツノワンピース"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0587:
+	# jp: "オメデトウシャツ"
+	# en: "オメデトウシャツ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0588:
+	# jp: "プロレスコスチューム"
+	# en: "プロレスコスチューム"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0589:
+	# jp: "デニムノミニスカート"
+	# en: "デニムノミニスカート"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0590:
+	# jp: "ロゴカットソー"
+	# en: "ロゴカットソー"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0591:
+	# jp: "フリースジャケット"
+	# en: "フリースジャケット"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0592:
+	# jp: "ドワーフノフク"
+	# en: "ドワーフノフク"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0593:
+	# jp: "ルームウェア"
+	# en: "ルームウェア"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0594:
+	# jp: "マルエリノブラウス"
+	# en: "マルエリノブラウス"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0595:
+	# jp: "レインコート"
+	# en: "レインコート"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0596:
+	# jp: "ポロシャツトエプロン"
+	# en: "ポロシャツトエプロン"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0597:
+	# jp: "ロゴワンピース"
+	# en: "ロゴワンピース"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0598:
+	# jp: "ネルシャツ"
+	# en: "ネルシャツ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0599:
+	# jp: "コグマノティーシャツ"
+	# en: "コグマノティーシャツ"
+	""
+
+translate spanish tmd_costume_msg_JP.json/MSG_0600:
+	# jp: "？？？"
+	# en: "？？？"
+	""
+

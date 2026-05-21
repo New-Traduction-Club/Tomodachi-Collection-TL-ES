@@ -1,0 +1,6120 @@
+translate spanish tmd_job_msg_JP.json/MSG_0000:
+	# jp: "シンクロ選手"
+	# en: "Synchro Swimmer"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0001:
+	# jp: "パイロット"
+	# en: "Pilot"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0002:
+	# jp: "野球部の監督"
+	# en: "Baseball Manager"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0003:
+	# jp: "伝統工芸職人"
+	# en: "Craftsman"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0004:
+	# jp: "手品師"
+	# en: "Magician"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0005:
+	# jp: "モデル"
+	# en: "Model"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0006:
+	# jp: "社長"
+	# en: "Manager"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0007:
+	# jp: "外科医"
+	# en: "Surgeon"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0008:
+	# jp: "野球選手"
+	# en: "Baseball Player"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0009:
+	# jp: "警察官"
+	# en: "Police"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0010:
+	# jp: "プログラマー"
+	# en: "Programmer"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0011:
+	# jp: "お姫様"
+	# en: "Princess"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0012:
+	# jp: "天才画家"
+	# en: "Genius Painter"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0013:
+	# jp: "ウェイトレス"
+	# en: "Waitress"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0014:
+	# jp: "お笑い芸人"
+	# en: "Comedian"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0015:
+	# jp: "水道工事業者"
+	# en: "Manufacturer"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0016:
+	# jp: "お天気キャスター"
+	# en: "Weather Caster"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0017:
+	# jp: "発明家"
+	# en: "Inventor"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0018:
+	# jp: "ネイルアーティスト"
+	# en: "Nail Artist"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0019:
+	# jp: "薬剤師"
+	# en: "Pharmacist"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0020:
+	# jp: "教育ママ"
+	# en: "Homeschool Mom"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0021:
+	# jp: "漁師"
+	# en: "Fisherman"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0022:
+	# jp: "女子アナ"
+	# en: "TV Announcer"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0023:
+	# jp: "やり手コメンテーター"
+	# en: "Commentator"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0024:
+	# jp: "工場の検査員"
+	# en: "Factory Inspector"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0025:
+	# jp: "占い師"
+	# en: "Fortune Teller"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0026:
+	# jp: "刑事"
+	# en: "Detective"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0027:
+	# jp: "少女漫画家"
+	# en: "Shojo Manga Artist"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0028:
+	# jp: "卓球選手"
+	# en: "Ping Pong Player"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0029:
+	# jp: "映画監督"
+	# en: "Movie Director"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0030:
+	# jp: "女優"
+	# en: "Actress"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0031:
+	# jp: "パティシエ"
+	# en: "Pastry Chef"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0032:
+	# jp: "サーカスの団長"
+	# en: "Circus Leader"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0033:
+	# jp: "ＯＬ"
+	# en: "OL"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0034:
+	# jp: "アイドル"
+	# en: "Idol"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0035:
+	# jp: "ボクサー"
+	# en: "Boxer"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0036:
+	# jp: "力士"
+	# en: "Sumo"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0037:
+	# jp: "ドラマー"
+	# en: "Drummer"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0038:
+	# jp: "バスケ選手"
+	# en: "Basketball Player"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0039:
+	# jp: "戦隊ヒーロー"
+	# en: "Sentai Hero"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0040:
+	# jp: "スタントマン"
+	# en: "Stunt Man"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0041:
+	# jp: "ダンサー"
+	# en: "Dancer"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0042:
+	# jp: "バレリーナ"
+	# en: "Ballerina"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0043:
+	# jp: "イルカの調教師"
+	# en: "Dolphin Trainer"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0044:
+	# jp: "コンパニオン"
+	# en: "Companion"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0045:
+	# jp: "サッカー選手"
+	# en: "Soccer Player"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0046:
+	# jp: "ヨガのインストラクター"
+	# en: "Yoga Instructor"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0047:
+	# jp: "犬の訓練士"
+	# en: "Dog Trainer"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0048:
+	# jp: "デパートの案内係"
+	# en: "Receptionist"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0049:
+	# jp: "宇宙飛行士"
+	# en: "Astronaut"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0050:
+	# jp: "花屋さん"
+	# en: "Florist"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0051:
+	# jp: "ピアニスト"
+	# en: "Pianist"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0052:
+	# jp: "探偵"
+	# en: "Private Eye"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0053:
+	# jp: "新聞記者"
+	# en: "Newspaper Reporter"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0054:
+	# jp: "教師"
+	# en: "Teacher"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0055:
+	# jp: "ラーメン店主"
+	# en: "Ramen Shop Owner"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0056:
+	# jp: "幼稚園の先生"
+	# en: "Kindergarten Teacher"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0057:
+	# jp: "動物園の飼育係"
+	# en: "Zoo Keeper"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0058:
+	# jp: "ベビーシッター"
+	# en: "Babysitter"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0059:
+	# jp: "車の整備士"
+	# en: "Mechanic"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0060:
+	# jp: "コンビニ店長"
+	# en: "Store Manager"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0061:
+	# jp: "電車の運転士"
+	# en: "Train Driver"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0062:
+	# jp: "レポーター"
+	# en: "Reporter"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0063:
+	# jp: "駐車場管理人"
+	# en: "Parking Lot Manager"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0064:
+	# jp: "タクシーの運転手"
+	# en: "Taxi Driver"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0065:
+	# jp: "バイオリニスト"
+	# en: "Violinist"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0066:
+	# jp: "大工"
+	# en: "Carpenter"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0067:
+	# jp: "週刊雑誌編集者"
+	# en: "Magazine Editor"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0068:
+	# jp: "酪農家"
+	# en: "Dairy Farmer"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0069:
+	# jp: "芸能人マネージャー"
+	# en: "Talent Agent"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0070:
+	# jp: "衣装デザイナー"
+	# en: "Costume Designer"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0071:
+	# jp: "芸能人"
+	# en: "Entertainer"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0072:
+	# jp: "キャディ"
+	# en: "Caddy"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0073:
+	# jp: "農家"
+	# en: "Farmer"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0074:
+	# jp: "指揮者"
+	# en: "Conductor"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0075:
+	# jp: "考古学者"
+	# en: "Archaeologist"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0076:
+	# jp: "花火職人"
+	# en: "Fireworks Craftsman"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0077:
+	# jp: "カリスマ美容師"
+	# en: "Hairdresser"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0078:
+	# jp: "ガソリンスタンド店員"
+	# en: "Gas Station Attendant"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0079:
+	# jp: "キャビンアテンダント"
+	# en: "Cabin Attendant"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0080:
+	# jp: "カリスマ店員"
+	# en: "Clerk"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0081:
+	# jp: "写真家"
+	# en: "Photographer"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0082:
+	# jp: "エステティシャン"
+	# en: "Esthetician"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0083:
+	# jp: "遊園地スタッフ"
+	# en: "Amusement Park Staff"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0084:
+	# jp: "主婦"
+	# en: "Housewife"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0085:
+	# jp: "空手家"
+	# en: "Karate Practitioner"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0086:
+	# jp: "プロゴルファー"
+	# en: "Pro Golfer"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0087:
+	# jp: "プロサーファー"
+	# en: "Pro Surfer"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0088:
+	# jp: "チアリーダー"
+	# en: "Cheerleader"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0089:
+	# jp: "文豪"
+	# en: "Literary Master"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0090:
+	# jp: "ＤＪ"
+	# en: "DJ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0091:
+	# jp: "騎手"
+	# en: "Jockey"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0092:
+	# jp: "社長"
+	# en: "Company President"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0093:
+	# jp: "消防士"
+	# en: "Firefighter"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0094:
+	# jp: "バレーボール選手"
+	# en: "Volleyball Player"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0095:
+	# jp: "執事"
+	# en: "Butler"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0096:
+	# jp: "プロ雀士"
+	# en: "Pro Mahjong Player"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0097:
+	# jp: "メイド"
+	# en: "Maid"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0098:
+	# jp: "ＡＤ"
+	# en: "AD"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0099:
+	# jp: "ギタリスト"
+	# en: "Guitarist"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0100:
+	# jp: "テニス選手"
+	# en: "Tennis Player"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0101:
+	# jp: "ラジオのＤＪ"
+	# en: "Radio DJ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0102:
+	# jp: "マラソン選手"
+	# en: "Marathoner"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0103:
+	# jp: "王様"
+	# en: "King"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0104:
+	# jp: "オペラ歌手"
+	# en: "Opera Singer"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0105:
+	# jp: "サラリーマン"
+	# en: "Salaryman"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0106:
+	# jp: "スパイ"
+	# en: "Spy"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0107:
+	# jp: "セレブ"
+	# en: "Celebrity"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0108:
+	# jp: "ＴＶショッピングの人"
+	# en: "TV Shopping Host"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0109:
+	# jp: "ビル清掃員"
+	# en: "Building Cleaning Staff"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0110:
+	# jp: "郵便配達員"
+	# en: "Postman"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0111:
+	# jp: "ナース"
+	# en: "Nurse"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0112:
+	# jp: "寿司職人"
+	# en: "Sushi Artisan"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0113:
+	# jp: "サンタクロース"
+	# en: "Santa Claus"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0114:
+	# jp: "科学技術者"
+	# en: "Technologist"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0115:
+	# jp: "華道家"
+	# en: "Flower Artist"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0116:
+	# jp: "戦隊ヒーロー"
+	# en: "Sentai Hero"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0117:
+	# jp: "冒険家"
+	# en: "Adventurer"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0118:
+	# jp: "カルタ名人"
+	# en: "Karuta Card Expert"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0119:
+	# jp: "妖精さん"
+	# en: "Fairy"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0120:
+	# jp: "シンクロセンシュ"
+	# en: "シンクロセンシュ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0121:
+	# jp: "パイロット"
+	# en: "パイロット"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0122:
+	# jp: "ヤキューブノカントク"
+	# en: "ヤキューブノカントク"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0123:
+	# jp: "デントーコーゲイショクニン"
+	# en: "デントーコーゲイショクニン"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0124:
+	# jp: "テジナシ"
+	# en: "テジナシ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0125:
+	# jp: "モデル"
+	# en: "モデル"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0126:
+	# jp: "シャチョー"
+	# en: "シャチョー"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0127:
+	# jp: "ゲカイ"
+	# en: "ゲカイ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0128:
+	# jp: "ヤキューセンシュ"
+	# en: "ヤキューセンシュ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0129:
+	# jp: "ケイサツカン"
+	# en: "ケイサツカン"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0130:
+	# jp: "プログラマー"
+	# en: "プログラマー"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0131:
+	# jp: "オヒメサマ"
+	# en: "オヒメサマ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0132:
+	# jp: "テンサイガカ"
+	# en: "テンサイガカ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0133:
+	# jp: "ウェイトレス"
+	# en: "ウェイトレス"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0134:
+	# jp: "オワライゲイニン"
+	# en: "オワライゲイニン"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0135:
+	# jp: "スイドーコージギョーシャ"
+	# en: "スイドーコージギョーシャ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0136:
+	# jp: "オテンキキャスター"
+	# en: "オテンキキャスター"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0137:
+	# jp: "ハツメイカ"
+	# en: "ハツメイカ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0138:
+	# jp: "ネイルアーティスト"
+	# en: "ネイルアーティスト"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0139:
+	# jp: "ヤクザイシ"
+	# en: "ヤクザイシ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0140:
+	# jp: "キョーイクママ"
+	# en: "キョーイクママ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0141:
+	# jp: "リョーシ"
+	# en: "リョーシ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0142:
+	# jp: "ジョシアナ"
+	# en: "ジョシアナ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0143:
+	# jp: "ヤリテコメンテーター"
+	# en: "ヤリテコメンテーター"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0144:
+	# jp: "コージョーノケンサイン"
+	# en: "コージョーノケンサイン"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0145:
+	# jp: "ウラナイシ"
+	# en: "ウラナイシ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0146:
+	# jp: "ケイジ"
+	# en: "ケイジ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0147:
+	# jp: "ショージョマンガカ"
+	# en: "ショージョマンガカ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0148:
+	# jp: "タッキューセンシュ"
+	# en: "タッキューセンシュ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0149:
+	# jp: "エイガカントク"
+	# en: "エイガカントク"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0150:
+	# jp: "ジョユー"
+	# en: "ジョユー"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0151:
+	# jp: "パティシエ"
+	# en: "パティシエ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0152:
+	# jp: "サーカスノダンチョー"
+	# en: "サーカスノダンチョー"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0153:
+	# jp: "オーエル"
+	# en: "オーエル"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0154:
+	# jp: "アイドル"
+	# en: "アイドル"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0155:
+	# jp: "ボクサー"
+	# en: "ボクサー"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0156:
+	# jp: "リキシ"
+	# en: "リキシ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0157:
+	# jp: "ドラマー"
+	# en: "ドラマー"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0158:
+	# jp: "バスケセンシュ"
+	# en: "バスケセンシュ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0159:
+	# jp: "センタイヒーロー"
+	# en: "センタイヒーロー"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0160:
+	# jp: "スタントマン"
+	# en: "スタントマン"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0161:
+	# jp: "ダンサー"
+	# en: "ダンサー"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0162:
+	# jp: "バレリーナ"
+	# en: "バレリーナ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0163:
+	# jp: "イルカノチョーキョーシ"
+	# en: "イルカノチョーキョーシ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0164:
+	# jp: "コンパニオン"
+	# en: "コンパニオン"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0165:
+	# jp: "サッカーセンシュ"
+	# en: "サッカーセンシュ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0166:
+	# jp: "ヨガノインストラクター"
+	# en: "ヨガノインストラクター"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0167:
+	# jp: "イヌノクンレンシ"
+	# en: "イヌノクンレンシ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0168:
+	# jp: "デパートノアンナイガカリ"
+	# en: "デパートノアンナイガカリ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0169:
+	# jp: "ウチューヒコーシ"
+	# en: "ウチューヒコーシ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0170:
+	# jp: "ハナヤサン"
+	# en: "ハナヤサン"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0171:
+	# jp: "ピアニスト"
+	# en: "ピアニスト"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0172:
+	# jp: "タンテイ"
+	# en: "タンテイ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0173:
+	# jp: "シンブンキシャ"
+	# en: "シンブンキシャ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0174:
+	# jp: "キョーシ"
+	# en: "キョーシ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0175:
+	# jp: "ラーメンテンシュ"
+	# en: "ラーメンテンシュ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0176:
+	# jp: "ヨーチエンノセンセイ"
+	# en: "ヨーチエンノセンセイ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0177:
+	# jp: "ドーブツエンノシイクガカリ"
+	# en: "ドーブツエンノシイクガカリ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0178:
+	# jp: "ベビーシッター"
+	# en: "ベビーシッター"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0179:
+	# jp: "クルマノセイビシ"
+	# en: "クルマノセイビシ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0180:
+	# jp: "コンビニテンチョー"
+	# en: "コンビニテンチョー"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0181:
+	# jp: "デンシャノウンテンシ"
+	# en: "デンシャノウンテンシ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0182:
+	# jp: "レポーター"
+	# en: "レポーター"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0183:
+	# jp: "チューシャジョーカンリニン"
+	# en: "チューシャジョーカンリニン"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0184:
+	# jp: "タクシーノウンテンシュ"
+	# en: "タクシーノウンテンシュ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0185:
+	# jp: "バイオリニスト"
+	# en: "バイオリニスト"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0186:
+	# jp: "ダイク"
+	# en: "ダイク"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0187:
+	# jp: "シューカンザッシヘンシューシャ"
+	# en: "シューカンザッシヘンシューシャ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0188:
+	# jp: "ラクノーカ"
+	# en: "ラクノーカ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0189:
+	# jp: "ゲイノージンマネージャー"
+	# en: "ゲイノージンマネージャー"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0190:
+	# jp: "イショーデザイナー"
+	# en: "イショーデザイナー"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0191:
+	# jp: "ゲイノージン"
+	# en: "ゲイノージン"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0192:
+	# jp: "キャディー"
+	# en: "キャディー"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0193:
+	# jp: "ノーカ"
+	# en: "ノーカ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0194:
+	# jp: "シキシャ"
+	# en: "シキシャ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0195:
+	# jp: "コーコガクシャ"
+	# en: "コーコガクシャ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0196:
+	# jp: "ハナビショクニン"
+	# en: "ハナビショクニン"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0197:
+	# jp: "カリスマビヨーシ"
+	# en: "カリスマビヨーシ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0198:
+	# jp: "ガソリンスタンドテンイン"
+	# en: "ガソリンスタンドテンイン"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0199:
+	# jp: "キャビンアテンダント"
+	# en: "キャビンアテンダント"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0200:
+	# jp: "カリスマテンイン"
+	# en: "カリスマテンイン"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0201:
+	# jp: "シャシンカ"
+	# en: "シャシンカ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0202:
+	# jp: "エステティシャン"
+	# en: "エステティシャン"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0203:
+	# jp: "ユーエンチスタッフ"
+	# en: "ユーエンチスタッフ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0204:
+	# jp: "シュフ"
+	# en: "シュフ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0205:
+	# jp: "カラテカ"
+	# en: "カラテカ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0206:
+	# jp: "プロゴルファー"
+	# en: "プロゴルファー"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0207:
+	# jp: "プロサーファー"
+	# en: "プロサーファー"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0208:
+	# jp: "チアリーダー"
+	# en: "チアリーダー"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0209:
+	# jp: "ブンゴー"
+	# en: "ブンゴー"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0210:
+	# jp: "ディージェー"
+	# en: "ディージェー"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0211:
+	# jp: "キシュ"
+	# en: "キシュ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0212:
+	# jp: "シャチョー"
+	# en: "シャチョー"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0213:
+	# jp: "ショーボーシ"
+	# en: "ショーボーシ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0214:
+	# jp: "バレーボールセンシュ"
+	# en: "バレーボールセンシュ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0215:
+	# jp: "シツジ"
+	# en: "シツジ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0216:
+	# jp: "プロジャンシ"
+	# en: "プロジャンシ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0217:
+	# jp: "メイド"
+	# en: "メイド"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0218:
+	# jp: "エーディー"
+	# en: "エーディー"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0219:
+	# jp: "ギタリスト"
+	# en: "ギタリスト"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0220:
+	# jp: "テニスセンシュ"
+	# en: "テニスセンシュ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0221:
+	# jp: "ラジオノディージェー"
+	# en: "ラジオノディージェー"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0222:
+	# jp: "マラソンセンシュ"
+	# en: "マラソンセンシュ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0223:
+	# jp: "オーサマ"
+	# en: "オーサマ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0224:
+	# jp: "オペラカシュ"
+	# en: "オペラカシュ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0225:
+	# jp: "サラリーマン"
+	# en: "サラリーマン"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0226:
+	# jp: "スパイ"
+	# en: "スパイ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0227:
+	# jp: "セレブ"
+	# en: "セレブ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0228:
+	# jp: "テレビショッピングノヒト"
+	# en: "テレビショッピングノヒト"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0229:
+	# jp: "ビルセイソーイン"
+	# en: "ビルセイソーイン"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0230:
+	# jp: "ユービンハイタツイン"
+	# en: "ユービンハイタツイン"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0231:
+	# jp: "ナース"
+	# en: "ナース"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0232:
+	# jp: "スシショクニン"
+	# en: "スシショクニン"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0233:
+	# jp: "サンタクロース"
+	# en: "サンタクロース"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0234:
+	# jp: "カガクギジュツシャ"
+	# en: "カガクギジュツシャ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0235:
+	# jp: "カドーカ"
+	# en: "カドーカ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0236:
+	# jp: "センタイヒーロー"
+	# en: "センタイヒーロー"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0237:
+	# jp: "ボーケンカ"
+	# en: "ボーケンカ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0238:
+	# jp: "カルタメイジン"
+	# en: "カルタメイジン"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0239:
+	# jp: "ヨーセイサン"
+	# en: "ヨーセイサン"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0240:
+	# jp: "診断結果"
+	# en: "Result"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0241:
+	# jp: "[255:00000700][1:01000000]"
+	# en: "[255:00000700][1:01000000]"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0242:
+	# jp: "."
+	# en: "."
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0243:
+	# jp: "."
+	# en: "."
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0244:
+	# jp: "[255:00000100][1:01000000]："
+	# en: "[255:00000100][1:01000000]："
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0245:
+	# jp: "鑑定士"
+	# en: "Expert"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0246:
+	# jp: "[255:00000100]「お願いします」"
+	# en: "[255:00000100]\"Please.\""
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0247:
+	# jp: "オネガイシマス"
+	# en: "オネガイシマス"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0248:
+	# jp: "[255:00000100]「少々お待ちください」"
+	# en: "[255:00000100]\"Please wait a moment.\""
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0249:
+	# jp: "ショーショーオマチクダサイ"
+	# en: "ショーショーオマチクダサイ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0250:
+	# jp: "[255:00000100]「どうぞ」"
+	# en: "[255:00000100]\"Here you are.\""
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0251:
+	# jp: "ドーゾ"
+	# en: "ドーゾ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0252:
+	# jp: "[255:00000100]「生年月日がわからないと診断できません」"
+	# en: "[255:00000100]\"I need to know your birthday.\""
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0253:
+	# jp: "セイネンガッピガワカラナイトシンダンデキマセン"
+	# en: "セイネンガッピガワカラナイトシンダンデキマセン"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0254:
+	# jp: "診断したいＭｉｉを選んでください。"
+	# en: "Please select a Mii to diagnose."
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0255:
+	# jp: "シンダンシタイミーヲエランデクダサイ"
+	# en: "シンダンシタイミーヲエランデクダサイ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0256:
+	# jp: "診断する"
+	# en: "Diagnose"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0257:
+	# jp: "並びかえ"
+	# en: "Sort"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0258:
+	# jp: "別のMiiを診断する"
+	# en: "Another Mii"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0259:
+	# jp: "やめる"
+	# en: "Quit"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0260:
+	# jp: "[255:00000700][1:01000000][255:00000800]さんの体験した職業は…"
+	# en: "[255:00000700][1:01000000][255:00000800] has tried this job..."
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0261:
+	# jp: "お疲れ様でした。"
+	# en: "Thank you so much."
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0262:
+	# jp: "参考　この職業にはこんな人もいます"
+	# en: "Job title:"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0263:
+	# jp: "オツカレサマデシタ"
+	# en: "オツカレサマデシタ"
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0264:
+	# jp: "[255:00000900]でありながら\n熱しやすく冷めやすいその性格は\n　まるで鶏ガラスープのよう。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0265:
+	# jp: "[255:00000900]スルメイカだのホタルイカだの\nうるせぇってんだ\n足の多い野郎はみんなタコだ！"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0266:
+	# jp: "[255:00000900]引いてきた水で火を消せば\nプラマイゼロ\n　といったところでしょうか。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0267:
+	# jp: "[255:00000900]　ハトのフンと４～５０分格闘。\nようやく落としたところへ\n　新たなフンが来てついにフンガイ。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0268:
+	# jp: "[255:00000900]恋愛に悩む思春期のリスナー達を\nバッサリ切り捨てるお悩み相談の\n　コーナーが３０代の女性に大人気。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0269:
+	# jp: "[255:00000900]部下が徹夜で書き上げたレポートを\n　スローモーションで宙へ。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0270:
+	# jp: "[255:00000900]ＣＡと見れば携帯番号を渡す業界人も\nアナタの張りつめた空気を前に\n　思わずそっとメモをしまうでしょう。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0271:
+	# jp: "[255:00000900]目立たないよう黒ずくめで潜入\nするまでは良いのですが\n　空気でなんとなく感づかれます。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0272:
+	# jp: "[255:00000900]日頃から一段腰を落として\n人と接する構えは\n　ドリブルに通じるものがあります。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0273:
+	# jp: "[255:00000900]入浴中もヘルメットが\n　かかせません。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0274:
+	# jp: "[255:00000900]車高が低ければ低いほど\n　いいようです。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0275:
+	# jp: "[255:00000900]殿方のお車を誠心誠意\n　お守りするでござる。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0276:
+	# jp: "[255:00000900]一見誰にでも笑顔で接していますが\nこの人は自分に厳しいとわかると\n　微妙に口角が下がります。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0277:
+	# jp: "[255:00000900]自宅マンションより高価なバイオリンを\n　体の一部であるかのように構えます。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0278:
+	# jp: "[255:00000900]ジダラクマヌカンジダラクマヌカン\nみんなが私に夢中になあれ♪"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0279:
+	# jp: "[255:00000900]４番目の彼と５番目の彼の間には\n島を持っているか否かという\n　越えられない壁があります。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0280:
+	# jp: "[255:00000900]オチで値段を言う段取りに\nなっているのに、早い段階で\n　明かしてしまう傾向が。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0281:
+	# jp: "[255:00000900]　割る事が重要なのではありません。　\nいかに美しく、かつ合理的に\n　割るかが重要なのです。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0282:
+	# jp: "[255:00000900]いくら合理的だからといって\n客に寿司を直接手渡すのは\n　やめた方がいいでしょう。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0283:
+	# jp: "[255:00000900]前座ＤＪが\nフロアを温めきれていないと\n　本気で怒りをあらわに。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0284:
+	# jp: "[255:00000900]野球応援用の「かっとばせー」を\nサッカーの際「カットインー」に\n　するなど、応用のきく賢いオンナ。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0285:
+	# jp: "[255:00000900]　人の世話が大好き。当然犬の世話も。\n　色気に乏しいのがタマにキズ。\n　実は犬もそう思っています。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0286:
+	# jp: "[255:00000900]決してナイスでないショットの場合も\n　なんらかのグッドリアクションを\n　取ることができます。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0287:
+	# jp: "[255:00000900]出演者さんにはお年を召された方も\nいらっしゃれば、漢字の読めない方も\n　いらっしゃいますから。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0288:
+	# jp: "[255:00000900]「最近あの人ネタやらなくなったよね」\nと世間から冷ややかに評されても\n　全く気にしない強さは本物。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0289:
+	# jp: "[255:00000900]ユーモアのセンスもあり団員からの\n人気は上々。しかし鼻風邪程度で\n　練習を休むのは、いかがなものかと。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0290:
+	# jp: "[255:00000900]あざらしクラスになると\nアナタのギャグで笑う可能性だって\n　否めません。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0291:
+	# jp: "[255:00000900]　線の細さが逆に女性ファンを魅了。\n　人生何が幸いするかわかりません。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0292:
+	# jp: "[255:00000900]彼氏からメールの返信が２０分\n　こないと、露骨に表情が曇ります。\n　共演者にとってはいい迷惑。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0293:
+	# jp: "[255:00000900]息子が３０点を取って来た事実を隠し\n８７点だったと近所の奥様に嘘を付くも\n実は５０点満点だったという痛いワナ。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0294:
+	# jp: "[255:00000900]赤ん坊が泣き出しそうになると\n　瞬時にその予兆を察知。\n　先手を打っての粉ミルク。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0295:
+	# jp: "[255:00000900]　前世のわかる占い師は多いですが、\nアナタは来世までもピタリと当てて\n　みせます。しかも２個先まで。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0296:
+	# jp: "[255:00000900]必殺の口説き文句は\n「今度、俺の曲を歌ってくれないか」"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0297:
+	# jp: "[255:00000900]「そこはファーっと」\n「もっとティティティって感じで」"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0298:
+	# jp: "[255:00000900]着ぐるみを脱いでも\n　さほど印象が変わりません。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0299:
+	# jp: "[255:00000900]ＭＣのユルさは味ですが\n次に回す人の名前くらいは\n　言えるようにしておきましょう。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0300:
+	# jp: "[255:00000900]お似合いやとは思うんですけど～\nお顔のカンジからいくと私的には\n黒がオススメかな思うんですよ～"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0301:
+	# jp: "[255:00000900]団員一人一人の個性を\n尊重します。夢は大きく\n北半球一の集団になること！"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0302:
+	# jp: "[255:00000900]「はたきは叩くのでなく\n　かきだすように使うのよ」\n　と忠告を受ける度に物陰で舌打ち。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0303:
+	# jp: "[255:00000900]花嫁が白を着たいといっても\n「今、黒がキテるから」の一点張り。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0304:
+	# jp: "[255:00000900]セーターを肩からはおっていたら\n「さすがにそれは違うんじゃ…」\n　と、同僚から指摘を受けたり。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0305:
+	# jp: "[255:00000900]指示のサインがワンパターンなので\n相手チームにモロバレ。しかも\n　バレていることにすら気づきません。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0306:
+	# jp: "[255:00000900]人に何かを教えることも好きですが\n「先生」と呼ばれること自体が\n　わりと快感です。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0307:
+	# jp: "[255:00000900]しかしプライベートで作る\n弁当やプラモデル等に関しては\n　完全にノーチェックです。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0308:
+	# jp: "[255:00000900]今だっ！出せ出せ！送りバント！\nセーフティースクイズでＧＯ！"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0309:
+	# jp: "[255:00000900]　とにかく動きが大きいです。\nスパイクの時、のけぞり過ぎて\n　手首が足首に絡まったことも。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0310:
+	# jp: "[255:00000900]私生活が大雨でも\n　決して顔に出すことはありません。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0311:
+	# jp: "[255:00000900]一枚取る度に風圧で全ての札が\n　裏返ってしまいます。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0312:
+	# jp: "[255:00000900]隣の女性ジャーナリストに\n皮肉を言われようが\n　一歩も後に引きません。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0313:
+	# jp: "[255:00000900]　勝利者インタビューで、\n嬉しいくせに、ついつい\n　自分を皮肉ってしまいます。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0314:
+	# jp: "[255:00000900]　ドライバーと目が合う。\n　２、３秒そのまま。\n　そっと目をそらす。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0315:
+	# jp: "[255:00000900]　雑誌でのコメントも常に強気です。\n心の広いＶＪとしか\n　コンビは組めないでしょう。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0316:
+	# jp: "[255:00000900]レオタードがなくなるなど\n　日常茶飯事ですが気にもとめません。\n　常に２、３着は用意しています。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0317:
+	# jp: "[255:00000900]ドラマだとこの後\n「お前は心から楽しんで弾いてない」\nと恋人にビンタされるベタな展開が…"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0318:
+	# jp: "[255:00000900]人気投票で１位になるためなら\n好みでない展開の\n　ストーリーだって平気で描けます。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0319:
+	# jp: "[255:00000900]「その宝石おいくらなんですか？」\n「１８６０万飛んで５０円ですわ」"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0320:
+	# jp: "[255:00000900]日頃たまったストレスは\n　紙面上で発散。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0321:
+	# jp: "[255:00000900]トランプではありませんが\n　見事なまでのポーカーフェイス。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0322:
+	# jp: "[255:00000900]当たり障りのない会話が\n　誰よりも得意です。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0323:
+	# jp: "[255:00000900]忍耐と辛抱の意味が\n若干カブってはいますが\n　問題ありません。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0324:
+	# jp: "[255:00000900]生まれながらにして\nコケティッシュなアナタ。\n　電撃結婚引退後どう復帰するかが鍵。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0325:
+	# jp: "[255:00000900]　スタッフは誰も逆らえません。\nしかしそこは女優。買いに行かせる\n　物も絹コットンなど風雅的。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0326:
+	# jp: "[255:00000900]しかし甘え上手ゆえ\n編集者さんは、最終的に\n　自ら進んでベタ塗りを手伝うほど。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0327:
+	# jp: "[255:00000900]撮影時の身のこなしは\nパーフェクトですが\n　私生活ではイモ虫のようにゴロゴロ。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0328:
+	# jp: "[255:00000900]試作品を作るのはけっこうですが\n量販店へ出向く前に\n　買出しリストくらい書きましょう。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0329:
+	# jp: "[255:00000900]　指揮台の上とオフとでは別人格。\n　それがバレるのを何より恐れてます。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0330:
+	# jp: "[255:00000900]スケッチの段階で\n　誰の目にも無理だとわかります。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0331:
+	# jp: "[255:00000900]運動会でもないのに\n朝から花火を鳴らさないでよ！と\n　近所から苦情の電話が殺到。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0332:
+	# jp: "[255:00000900]番組出演者へのキメ細やかな配慮が\n最も評価されるべき点です。\n　コメントの振り方に至っては神業的。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0333:
+	# jp: "[255:00000900]しかし、本当はそんな自分を\n叱りつけてくれる男性に\n　支配されたいと思っています。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0334:
+	# jp: "[255:00000900]思わずタレてしまった鼻水を\nあえてふかないことで\n　笑いを取ろうというプロ意識の高さ。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0335:
+	# jp: "[255:00000900]男性アイドルを担当すると\nすぐに気の悪い噂が流れるので\n　女タレント専門です。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0336:
+	# jp: "[255:00000900]しかしエレキギターでは\n　旋律を奏でることしかできません。\n　ピアノにしておけば…と軽く後悔。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0337:
+	# jp: "[255:00000900]バイトで忙しいことを言い訳に\n練習を怠ってきた学生団員は\n　徹底的にしごいてやります。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0338:
+	# jp: "[255:00000900]客に歯向かう事こそありませんが\n目の前で研修生を怒鳴りつけるため\n　寿司も空気も気まずい感じ。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0339:
+	# jp: "[255:00000900]助動詞？\n　ワケのわからぬことを言うな！"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0340:
+	# jp: "[255:00000900]思ったことを何でも\n　口にしてしまう傾向があるので、\n　生放送には向きません。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0341:
+	# jp: "[255:00000900]振り返った瞬間、にこやかに\n「切りましょう！」"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0342:
+	# jp: "[255:00000900]　機内食を運ぶ足取りもガタガタです。\nミネストローネは\n　ほとんどこぼれてしまいました。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0343:
+	# jp: "[255:00000900]茶色の小ビンに修正ペンで\nでっかく「劇薬」と書くなど\n　わりと大胆な一面があります。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0344:
+	# jp: "[255:00000900]そんなアナタの作る豚骨スープは\nさぞや美味しいことでしょう…\n　と、思いきや鶏ガラがメイン。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0345:
+	# jp: "[255:00000900]家族サービスのため\n　５時半で稽古を切り上げるでしょう。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0346:
+	# jp: "[255:00000900]気合いの入れ過ぎで首回りが\nムレてきます。暑いからといって\n　子供の前でうっかり脱がないように。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0347:
+	# jp: "[255:00000900]訪問先の奥様に\n突如振舞われる手料理のみで\n　一生食いつないで行けそう。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0348:
+	# jp: "[255:00000900]ダンサーがみんな今風と思ったら\n　大間違いだと言ってやりましょう。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0349:
+	# jp: "[255:00000900]しかし一度壁を越えれば\n　肌身はなさず、になります。\n　夜もクラブに添い寝しています。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0350:
+	# jp: "[255:00000900]しかし次のコンペまでに間が空くと\n　また一からの関係に。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0351:
+	# jp: "[255:00000900]　卓球一筋。卓球命。\n　何が好きかって、\n　そりゃもちろんこの衣装です。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0352:
+	# jp: "[255:00000900]ピンチの時は得意の「遠い目」で\n内面のもろさを見せつける\nまさに、ヤリ手。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0353:
+	# jp: "[255:00000900]どんな勢いで来られても\n一歩も後ろへ引かない強さから\n　板割り大会では一日中板持ち役を。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0354:
+	# jp: "[255:00000900]プリントを忘れた生徒への制裁は\n「呼び出して無言で目を見つめる」"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0355:
+	# jp: "[255:00000900]　ワンマンですが仕事は確かです。\n　コートの裾によく足を引っかけます。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0356:
+	# jp: "[255:00000900]戦闘後、夜道は危ないからと途中まで\n付いてきてくれたブルーに対して\n「アンタんち、あっちだよね？」"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0357:
+	# jp: "[255:00000900]黒塗りの高級車にも\n　喰ってかかる芯の強さ。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0358:
+	# jp: "[255:00000900]旦那がどんな匂いをつけて帰って\n　こようと決して干渉しません。\nだって自分にも…"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0359:
+	# jp: "[255:00000900]任務として潜入しているうちに\nその企業の専属心理カウンセラーに\n　就任しているケースがしばしば。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0360:
+	# jp: "[255:00000900]男性がサーフィンに手を出す動機なんて\n　基本「あわよくば」的なものが大半。\nしかし、アナタは違います。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0361:
+	# jp: "[255:00000900]ぶっきらぼうなアナタは\nまさに「海の男」\nしかも日本海。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0362:
+	# jp: "[255:00000900]カンジ悪いのは問題外として\n　立ち入られ過ぎるのも考えもの。\n　これからも正しい距離感の配達員で。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0363:
+	# jp: "[255:00000900]起承転結はありますが、全体的に\n　盛り上がる場面がありません。\n　それでも何故か熱心な固定ファンが。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0364:
+	# jp: "[255:00000900]　交際相手も芸能人がよいでしょう。\nただし、アイドル、役者系は\n　避けておくのがベター。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0365:
+	# jp: "[255:00000900]今さら謙遜するのも面倒臭いので\n容姿をほめられたら素直に\n「やっぱりそう思います？」"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0366:
+	# jp: "[255:00000900]園児達の前で思わず\n　悪い男にダマされたことを告白。\n　保護者に筒抜けです。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0367:
+	# jp: "[255:00000900]上司でもある彼と\n破局の危機をどう乗り切ったか\n　給湯室で洗いざらい語ります。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0368:
+	# jp: "[255:00000900]　特に苦節時代があるでもなし、\nやる気も無い感じの方が\n　時代の求めるスターって感じ？"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0369:
+	# jp: "[255:00000900]　我の強いわりに押しの弱いアナタ。\n「どうせ俺なんて…」の精神が\n　危険な仕事へ立ち向かう原動力に。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0370:
+	# jp: "[255:00000900]「うさちゃんシンドローーーム！」と\n叫びながら両手でＴを作るなんて\n　本当は、やりたくもないのに。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0371:
+	# jp: "[255:00000900]　平日は９時まで残業。\nそのあと一杯飲み屋で\n　同僚と上司の愚痴。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0372:
+	# jp: "[255:00000900]目が合った瞬間、はにかみながら\n軽く頭を下げられたら\n　誰もが自分を好きなのかと思います。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0373:
+	# jp: "[255:00000900]アナタと共演すると\n　指揮者から伴奏者から皆骨抜きに。\n　しかし簡単に誘いには応じません。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0374:
+	# jp: "[255:00000900]かすみ草のお手入れをしていたら\n　バラと間違えられたことも。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0375:
+	# jp: "[255:00000900]教室に来ているのは同世代の\n女性ばかりなのですが、それでも毎回\n　色気を全面的に解放して臨みます。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0376:
+	# jp: "[255:00000900]合宿でのカレー作りは\n　険悪そのものです。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0377:
+	# jp: "[255:00000900]瓦割りをせがまれたら\n用意された物が、割れる瓦か\n　割れない瓦かをまず確認しましょう。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0378:
+	# jp: "[255:00000900]水のやり過ぎで根菜類が\nのきなみ枯れてしまい\n　地団駄を踏むこともしばしば。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0379:
+	# jp: "[255:00000900]次々に来る車をどうさばくか\nたった一人で合理的かつ素早い\n　判断を下し続けるクールな俺。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0380:
+	# jp: "[255:00000900]女王として君臨しつづけることは\n容易なことではありません。であれば\n　後は、伝説となるしかないのです。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0381:
+	# jp: "[255:00000900]女王様体質のアナタには\n楽器の王様、ピアノが相性抜群！\n　王子という名の旋律を奏でてみては。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0382:
+	# jp: "[255:00000900]「ウケるコマの割り方」といった\nハウトゥー的なたぐいの本を\n　大人買いの上、熟読。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0383:
+	# jp: "[255:00000900]札の残り枚数が少なくなってきたら\n読み手が息を吸ったと同時に\nとりあえず目の前の札を！"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0384:
+	# jp: "[255:00000900]サービス業でありながら客を選ぶなど\n前代未聞です。許されるのは\n　アナタと一級老舗旅館くらいなもの。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0385:
+	# jp: "[255:00000900]しかし、キャストは\n　主演を含めて常に２、３人。\n　人選び過ぎ。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0386:
+	# jp: "[255:00000900]コンテスト等でも\n常に上位に食い込みますが\n　奇抜過ぎて店頭では全くウケません。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0387:
+	# jp: "[255:00000900]レコードだけでなく、そのうち\n　客も選ぶようになるでしょう。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0388:
+	# jp: "[255:00000900]おつきの者にプチシューを\n　ふるまうなど、心優しき姫君。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0389:
+	# jp: "[255:00000900]そのうち、一緒に\n　寝るようになるでしょう。　"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0390:
+	# jp: "[255:00000900]　赤ちゃんの行動は予測不能。\nアナタの持つ天性のカンの良さは\n　かなりの武器になるでしょう。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0391:
+	# jp: "[255:00000900]フリルとフリルの間に爪をひっかけて\nケガをしないか、など\n　いろいろなことを心配しています。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0392:
+	# jp: "[255:00000900]しかし内弁慶なので\n敵軍に人見知り、という\n　前代未聞の事態を引き起こします。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0393:
+	# jp: "[255:00000900]「お前にこの仕事は無理だ」\n　などと言われようものなら、命がけ。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0394:
+	# jp: "[255:00000900]紅茶がいつまでも冷めないのは\nあなたが事前にカップをお湯で\n　温めておいたからだったんですね。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0395:
+	# jp: "[255:00000900]会社では地味めなアナタですが\n家へ帰ると取締役並みの面構えで\n　どっかりとソファーに。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0396:
+	# jp: "[255:00000900]鳩やトランプなど\n比較的見慣れた小道具を中心に\n　マイペースなショーを展開。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0397:
+	# jp: "[255:00000900]猛獣ショーは迫力満点ですが\nいまひとつムチのしなりが\n　ゆるい感じです。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0398:
+	# jp: "[255:00000900]あのゆったりした泳ぎっぷりが\n　のんびり屋のアナタにぴったり。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0399:
+	# jp: "[255:00000900]事件現場でも、アマゾンでも\n被写体に警戒されることがないので\n　常に接写の絵が撮れます。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0400:
+	# jp: "[255:00000900]　損な性格ゆえ気苦労を背負いがち。\nブルーとイエローのヒソヒソ話や\n　ピンクの冷たい目に無駄に悩みます。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0401:
+	# jp: "[255:00000900]依頼人をうっかり\n「弱き」呼ばわりしてしまい\n　休憩所で無視されてヘコみそうです。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0402:
+	# jp: "[255:00000900]元は旦那様がお出かけする際に\n靴べらをお渡しする係専門でしたが\n　人柄を買われてこの地位までに。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0403:
+	# jp: "[255:00000900]名刺の隅に記載されているコピーは\n「甘えない。甘やかさない。」\n　言われた方としては微妙ですね。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0404:
+	# jp: "[255:00000900]しかし、なんだかんだでメンズには\n力仕事等いろいろやってもらえて\n　都合良くもあるのでズルズルと。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0405:
+	# jp: "[255:00000900]男女平等を訴えるどころか\n男性に駐禁の取りしまりを\n　押しつけて帰ったりします。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0406:
+	# jp: "[255:00000900]　子供達も皆、支配下に。\n父親は野球中継を自由に\n　観ることすら許されません。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0407:
+	# jp: "[255:00000900]入社間もない男性社員に金を払い\n　社内のゴシップを集めさせています。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0408:
+	# jp: "[255:00000900]といっても。普段\n噂話をでっちあげたりする\n　ことはありません。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0409:
+	# jp: "[255:00000900]見た目からはマニアックな役に\n一直線なイメージですが\n　案外多面的な攻めが主流です。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0410:
+	# jp: "[255:00000900]人間よりも機械と接している方が\n　気楽でいいようです。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0411:
+	# jp: "[255:00000900]ただの計算プログラムでも\n　答表示の演出に心血を注ぎます。\n　拡大縮小、高速点滅等。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0412:
+	# jp: "[255:00000900]　あけっぴろげなようで小心者。\n異性との交際を自ら発表するのも\n　追及される前に言ってしまえ的発想。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0413:
+	# jp: "[255:00000900]大胆不敵に見えて根は小心者。\nそんなアナタの一面を知っているのは\n　雄ライオンのトラ丸だけです。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0414:
+	# jp: "[255:00000900]お顔のおむくみをおとりになるために\nおリンパのケアをさせていただいても\n　よろしかったでしょうか？"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0415:
+	# jp: "[255:00000900]　貴族ぶっていますが、\nＴシャツをまるめてたたむなど\n　小市民ぶりが次第に表面化。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0416:
+	# jp: "[255:00000900]秘密を知りたいという、人間の\n本能をくすぐるアナタの記事に\n　インテリ読者は、横目で釘付け。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0417:
+	# jp: "[255:00000900]勝利者インタビューでも\n「まずコイツにきいてやってください」\n　と、あくまで馬を立てる心意気。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0418:
+	# jp: "[255:00000900]トークに気をとられて\n　用水路にハマらないよう注意。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0419:
+	# jp: "[255:00000900]大広間へ集めた中に犯人がいても\n　決して取り押さえたりはしません。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0420:
+	# jp: "[255:00000900]コメンテーターが暴走しだすと\n　すかさずそれを煽ります。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0421:
+	# jp: "[255:00000900]アナタにつめよられると\nどんな大物政治家もついポロっと\n　言ってはならないことを。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0422:
+	# jp: "[255:00000900]この１本を打たないことで\n患部がどのようになってしまうかの\n　解説描写は、あまりにもリアル。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0423:
+	# jp: "[255:00000900]豚しゃぶを食べに行っちゃあ\n　タレントに愚痴っています。\nサポートする側なのに…"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0424:
+	# jp: "[255:00000900]横にハサミを入れたらパツンパツンで\nカッコ悪いし…かといって\n　縦に切ってたらまどろっこしいので。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0425:
+	# jp: "[255:00000900]直感派なのになぜか合理的な\n　編集をしてしまいがちです。\n　試写会で自分の作品に憤慨。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0426:
+	# jp: "[255:00000900]生まれたてのパンダや小鹿には\n誰もがついエサを与え過ぎてしまう\n　ものですが、アナタは違います。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0427:
+	# jp: "[255:00000900]時代に置いていかれそうな\n不安にかられた日は、ＢＧＭを\n　Ｊラップに変え作業を再開。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0428:
+	# jp: "[255:00000900]お願いですから\n握手会でファンを選ばないように\n　してあげてください。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0429:
+	# jp: "[255:00000900]いじめを受ける側の役なのに\n演技中、相手の役者をにらむので\n　リアリティのない絵に。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0430:
+	# jp: "[255:00000900]密かに続けていた個人ブログ\n新米ナースの院内ゴタゴタ日記が\n　副院長に見つかり大問題に発展。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0431:
+	# jp: "[255:00000900]占いの結果を\n自分自身の気分で決めるのは\n　是非ともやめていただきたいです。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0432:
+	# jp: "[255:00000900]好きな女の子のために鼻の下用の\n　汗パッドを開発しプレゼント。\n　露骨に嫌われます。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0433:
+	# jp: "[255:00000900]ただ、見た目の好き嫌いが激しく\n「五分刈の生徒にだけ妙に優しい」\n　と変な噂が。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0434:
+	# jp: "[255:00000900]しかし、いざとなれば\n　人生経験の差を武器に一点突破。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0435:
+	# jp: "[255:00000900]コッた仕掛けの花火を作りたくて\n　たった１発に制作期間の６割を。\nあとの９９９９発はどうなるの…"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0436:
+	# jp: "[255:00000900]すきあらば野球選手と\n結婚してやろうという考えが\n　ややあからさまです。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0437:
+	# jp: "[255:00000900]アナタに勧められたら\n　断りづらい空気になるので、\n　お客様に主観を押しつけないように。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0438:
+	# jp: "[255:00000900]アナタのさわやか偏西風情報の\n　コーナーは局の看板。\n　しかし何故か女性には不人気です。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0439:
+	# jp: "[255:00000900]書類を拾いあげる時も\n無意識に腰の角度を\n　計算してしまうところなどが。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0440:
+	# jp: "[255:00000900]　頭にくる人間には作品の中で復讐を。\n　恥ずかしいポーズをとらせたり、\n　変な服を着せたり。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0441:
+	# jp: "[255:00000900]皆が映画を観に行くのと同じ感覚で\n　競馬場に来ることを願っています。\nレースはドラマだ！"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0442:
+	# jp: "[255:00000900]排気ガスが地球を汚すことを思い\n　胸を痛めながらの給油。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0443:
+	# jp: "[255:00000900]５時間におよぶ事前ミーティングでも\n　最後まで自分の意見を口にしません。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0444:
+	# jp: "[255:00000900]　ワガママで泣き虫で甘えん坊。\n　周囲の大人を振り回しちゃう。\n　ＭＣの途中で泣き出しちゃう。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0445:
+	# jp: "[255:00000900]いつもワガママなアナタがひとたび\nクッキーを焼いて行けば\n　共演者はおろかスポンサーも撃沈。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0446:
+	# jp: "[255:00000900]「動作ノロいわりに計算早いね」\nとイヤミを言ってきたあの子の携帯\n　充電ミスで電池切れろ～！"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0447:
+	# jp: "[255:00000900]何が地雷にあたるか\nわからないので\n　カメラマンは常にひやひや。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0448:
+	# jp: "[255:00000900]ゆくゆくは討論番組の司会業を\n　やることになるでしょう。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0449:
+	# jp: "[255:00000900]取締役独特のオーラが出ているので\n一般社員的には近寄り難いですが\n　本来は明るくユーモラスな人柄。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0450:
+	# jp: "[255:00000900]子どもたちの本命であるプレゼントは\n　きちんと希望通りのものを用意。\n　しかし靴下には消臭剤を入れます。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0451:
+	# jp: "[255:00000900]中の人と目が合った時は\n微笑したのち、口を尖らせて\n　ツン！とそっぽを向きます。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0452:
+	# jp: "[255:00000900]「恋の悩みを人に相談してる時点で\nあんたらダメだと思うよ！」"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0453:
+	# jp: "[255:00000900]　思った事を思った瞬間口にします。\n本来守るべきはずの市民を\n　暴言で泣かせる始末。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0454:
+	# jp: "[255:00000900]お客様の体には現在「くびれ」が\n全くない状態なんですね。\n　言ってみれば茶筒的体型なわけです。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0455:
+	# jp: "[255:00000900]無感情で調合しているかのように\n見えますが、本当は\n「病気よくなれー」と念じています。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0456:
+	# jp: "[255:00000900]ボーカルの女性に\n致命的な一言を浴びせて\n　大問題に発展するも、反省の色無し。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0457:
+	# jp: "[255:00000900]　子分へのダメ出しもつい厳しめに。\n照れ隠しというわけでもなく\n　わりと素です。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0458:
+	# jp: "[255:00000900]車体の下という企業の死角においても\n　決して手を抜くことはありません。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0459:
+	# jp: "[255:00000900]そんなアナタには伝統工芸の中でも\nこけし系よりむしろ\n　しゃもじ系をオススメします。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0460:
+	# jp: "[255:00000900]踊り過ぎで束ねた髪が\n乱れ始めたとしても\n　色気にはつながりません。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0461:
+	# jp: "[255:00000900]とりあえず南に向かっていたら\n　Ｓ極まで来てしまいました。\n　どうやって帰りましょう。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0462:
+	# jp: "[255:00000900]「調教師になった理由ですか？\n　　ん～…フィーリング？（笑）」"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0463:
+	# jp: "[255:00000900]自然界での感動的瞬間をフィルムに\nおさめるのは至難の業ですが\n　あなたは丸２年待っても平気です。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0464:
+	# jp: "[255:00000900]　話す時につい\n「あくまでも憶測だけど」　\n　で始めてしまうクセが抜けません。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0465:
+	# jp: "[255:00000900]清潔なイメージが受け\n　相撲界では異例のソロ写真集を出版。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0466:
+	# jp: "[255:00000900]　とりあえず制服が異常に似合います。\n　白い手袋をすれば更に完ペキ。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0467:
+	# jp: "[255:00000900]　出る杭は打たれる。\n　出ない杭で結構です。\n　悔いはありません。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0468:
+	# jp: "[255:00000900]えー！彼氏さんいてはるんですか！\n一緒に来てくれはったらいいのに～\n　お友達紹介して言うといてください。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0469:
+	# jp: "[255:00000900]独特の甘ったるい口調で\nその日、売りたいアートを\n　遠回しに強要。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0470:
+	# jp: "[255:00000900]ただ、残念ながら\n　花言葉を一つも知りません。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0471:
+	# jp: "[255:00000900]残業から帰宅した主人が\n　食前に、ふと春を感じる…。\n　そんな生け方を心がけています。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0472:
+	# jp: "[255:00000900]　一発ギャグ系を得意とするクチ。\n　コンビ名よりギャグの方が有名に。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0473:
+	# jp: "[255:00000900]好調時は６万点で一人勝ちするも\n不調時はコールド負け状態。しかし\n　牌をぶちまけ、勝負はなかった事に。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0474:
+	# jp: "[255:00000900]その年の天候から害虫の流行までを\n　預言者の如く完ペキに言い当てます。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0475:
+	# jp: "[255:00000900]しかし短気な性格ゆえ\n記者会見でつい\n　皮肉めいた暴言を発しがちです。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0476:
+	# jp: "[255:00000900]明るい笑顔は寂しさを\n　まぎらわせるためです。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0477:
+	# jp: "[255:00000900]夜は一人ぼっちでヒザを\n抱えているなんて\n　共演者の誰も知りません。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0478:
+	# jp: "[255:00000900]みんなが帰った後\n　職員室で一人ため息。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0479:
+	# jp: "[255:00000900]キリっとした強い女の表情を\n　求められることが多いですが、\n　自分とのギャップに悩みます。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0480:
+	# jp: "[255:00000900]宇宙船ベランメーに乗って\n宵越しの金すら持たずに\n　未知なる星へと出発。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0481:
+	# jp: "[255:00000900]しかし、やってる仕事が仕事だけに\n　生命的には危険だらけです。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0482:
+	# jp: "[255:00000900]消防服も気に入っていますが\nどちらかというと出初め式の格好で\n　出動したいと思っています。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0483:
+	# jp: "[255:00000900]　学者といえば白衣に銀縁眼鏡が基本。\nしかしアナタは手ガンナひとつで\n　エジプトにまで飛ぶ行動派。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0484:
+	# jp: "[255:00000900]バレエシューズに画鋲が\n入れられていないか\n　毎日チェックしています。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0485:
+	# jp: "[255:00000900]　気持ちも音程も、\n　安定させるのは難しいです。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0486:
+	# jp: "[255:00000900]可愛らしいコスチュームに憧れて\n始めてはみたものの\n　立ちっぱなしで早くも限界。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0487:
+	# jp: "[255:00000900]夢のようなドレスを次々に\n作ろうと意気込んでいましたが\n　雑務に追われて嫌気が…。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0488:
+	# jp: "[255:00000900]自分の事まで他人事のように言うので\n　ゲストパネラーも失笑気味。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0489:
+	# jp: "[255:00000900]基本、捨て牌は見ていないので\nゲームセンターでは\n　ＣＰＵにカモられています。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0490:
+	# jp: "[255:00000900]しかし、アメは絶対に噛んで\n食べるべき、等、つまらない事で\n　絶対に意見を譲らなかったりします。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0491:
+	# jp: "[255:00000900]代表作「俺っち犬ですけん」は\n犬の目を通して見た人間模様を\n　鋭く描き切るという画期的問題作。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0492:
+	# jp: "[255:00000900]ニコニコと控え目に立っていますが\n荷物の運搬車が来ても\n　決してその場を動こうとはしません。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0493:
+	# jp: "[255:00000900]口やかましく勉強しろと言うのでは\n　なく、腕を組み無言で入り口に立つ。　\n　ただそれだけでいいのです。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0494:
+	# jp: "[255:00000900]　売場案内の腕もさることながら、\n　クレーム対応も卒なくこなします。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0495:
+	# jp: "[255:00000900]しかしポーズの途中で\n　声をかけられると、相手を\n　鬼のような形相でにらみつけます。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0496:
+	# jp: "[255:00000900]その割に、発明するものが\n　「印鑑を真っ直ぐに押せる台」等、\n　どうも現実的。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0497:
+	# jp: "[255:00000900]何百ページにも渡る脚本を\nたった一夜で仕上げたりしますが\n　出来た段階で飽きてしまいます。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0498:
+	# jp: "[255:00000900]　教科書なんて読みません。\nそのくせ「正しいお菓子の作り方」\n　なる本を自費出版しています。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0499:
+	# jp: "[255:00000900]変わった形のフラスコを所狭しと\n並べていますが、実際に使用している\n　ものは、２割にも満たないとか。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0500:
+	# jp: "[255:00000900]　ドラムロールも取ってつけた感じ。\nどこで拍手したらいいのか\n　客は戸惑い気味です。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0501:
+	# jp: "[255:00000900]手術に踏み切るのはいいですが\nあまりにも即決過ぎるため\n　患者の家族は不安顔。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0502:
+	# jp: "[255:00000900]乱気流に突入しパニックに陥る客に\nお客様、毛布はご利用になりますか？"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0503:
+	# jp: "[255:00000900]潜入と同時期に中途で入社してきた彼\n　とは飲みに行く仲にもなりましたが、\n　だからといって別に。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0504:
+	# jp: "[255:00000900]敵をおびきよせる作戦すらも\n卑怯だと主張するので\n　他の色のメンバーと毎回モメます。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0505:
+	# jp: "[255:00000900]訊かれた道を指し示す時も\n　指先真っ直ぐ。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0506:
+	# jp: "[255:00000900]ダミーの人形を救い出すのに\n　命をかけてしまいます。\n　署長もそこまでするなとは言えず。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0507:
+	# jp: "[255:00000900]昇降機から大胆に身を乗り出し\n「え！そんなところまで！？」\n　というほどの危険な四隅をモップで。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0508:
+	# jp: "[255:00000900]ホームランを打たれたばかりの投手に\n「今年の抱負は？」ときくなど\n　ややピンボケ気味。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0509:
+	# jp: "[255:00000900]サーブを打つ瞬間になら\nまだわかりますが\n　トスを上げる時にまでも。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0510:
+	# jp: "[255:00000900]雨なので傘を持って出かけましょう\n　とアナタに言われると、\n　当たり前のことなのに、変に納得。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0511:
+	# jp: "[255:00000900]しかし\nこう見えて、ものすごく\n　エキサイティングしています。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0512:
+	# jp: "[255:00000900]硬めを希望する人は\n「超硬め」でオーダーしなければ\n　いけません。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0513:
+	# jp: "[255:00000900]まわしについているヒモヒモに\n　一本一本名前を付け、愛でています。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0514:
+	# jp: "[255:00000900]高級馬の糞よりも有機化合物よりも\n　穀物を豊かに成長させるもの。\n　それは、愛。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0515:
+	# jp: "[255:00000900]謎の多い数々の遺跡も\n古代人の気持ちになって考えれば\n　何故作られたのかが解るかも。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0516:
+	# jp: "[255:00000900]公務のスケジュールが厳しいと\nしくしくと泣きだしますが、しっかり\n　周りの反応をうかがっています。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0517:
+	# jp: "[255:00000900]どんな明るい曲もアナタが弾くと\n　全て悲しいソナタに聴こえます。\n　メロドラマの制作部からオファーが。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0518:
+	# jp: "[255:00000900]たずねられて\nわからないことがあると\n　口をゆがめて涙ぐんでしまいます。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0519:
+	# jp: "[255:00000900]客は自分の未来より\nアナタの私生活が\n　心配になってきます。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0520:
+	# jp: "[255:00000900]開発する商品も\n　十手ならぬ「十四手」など、\n　複合系便利グッズが中心。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0521:
+	# jp: "[255:00000900]埋蔵金を見つけてきた者には\n褒美として宝の地図を\nやるぞ～！！！"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0522:
+	# jp: "[255:00000900]暇な時間帯はバイトにレジを任せて\nオーディション系の雑誌を\n　熟読しています。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0523:
+	# jp: "[255:00000900]仕事の合間をぬっては\n高確率で宝くじに当たる方法を\n　プログラムにより算出しています。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0524:
+	# jp: "[255:00000900]風邪で休んだ翌週、ヘビーリスナー\n　からの応援レターに思わず涙。\n　しかし翌々週には名前を忘れてます。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0525:
+	# jp: "[255:00000900]よそでクビになった芸人達を\n　皆受け入れていたら超巨大集団に。\n　全員はテントに収まりません。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0526:
+	# jp: "[255:00000900]ただ、園児の手をひく時\nついついお気に入りの子を\n　選んでしまう傾向が。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0527:
+	# jp: "[255:00000900]「へぇ」と「あはは」と\n「すみません」だけで、とりあえず\n　２クールは乗り切れます。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0528:
+	# jp: "[255:00000900]特に目立った服装をしているわけ\nでもないのに、ボーカルより人気が\n　出てしまい、出待ちの数も圧倒的。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0529:
+	# jp: "[255:00000900]女性に対して積極的に\nガツガツ行くことがないので\n　自然とＣＡにモテてしまうでしょう。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0530:
+	# jp: "[255:00000900]奥様の口元にプレッツェルの\n食べカスがついているのを確認するも\n　言いあぐねているうちに奥様外出。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0531:
+	# jp: "[255:00000900]モテる素質充分ですが\n　女性の少ない職場なのが、唯一残念。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0532:
+	# jp: "[255:00000900]皆に笑顔を振りまいていますが\nよく見ると業績のいい会社の役員に\n　特に丁寧な笑顔を作っています。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0533:
+	# jp: "[255:00000900]他に２、３社取材が来ていたら\n　その時点で帰ります。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0534:
+	# jp: "[255:00000900]家に帰ってから\n仕事のことを思い出した日は\n　ありません。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0535:
+	# jp: "[255:00000900]タレントさんに思い入れを\n持つことがないので\n　担当を変わる時もアッサリ。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0536:
+	# jp: "[255:00000900]各曲調ごとにスティックを\n変えているとか。ブラシだけで\n　４本は所持しているそうです。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0537:
+	# jp: "[255:00000900]しかし、ひとたび\n地区大会で優勝した途端\n　天狗へと。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0538:
+	# jp: "[255:00000900]気持ちの良いお釣りの渡し方について\n　常日頃から真剣に考えていますが、\n　考え過ぎて、結局上の空で渡します。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0539:
+	# jp: "[255:00000900]しかし意外とテレビの取材には\n気さくに応じたり。わりと\n　まんざらでもないのでしょう。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0540:
+	# jp: "[255:00000900]立ち振る舞いが堂々としているので\n主力商品の脇に立たされる\n　ことが多いでしょう。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0541:
+	# jp: "[255:00000900]キラキラしたものが嫌いな客にも\n　うまいことラメを勧め、\n　輝きのある爪に仕上げます。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0542:
+	# jp: "[255:00000900]ただ、どれがアイアンで\nどれがウェッジなのかを微妙に\n　把握していないのが実に惜しい点。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0543:
+	# jp: "[255:00000900]　ただ、自分の事には鈍感です。\n張り切り過ぎて背中の肉が見えていても\n　皆、黙認してはくれますが。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0544:
+	# jp: "[255:00000900]沖から海岸まで\n　ほぼ直線で戻ってきます。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0545:
+	# jp: "[255:00000900]しかし、やや反射神経の\n　鈍い点が否めません。\n　よく細い杭につまづいて転びます。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0546:
+	# jp: "[255:00000900]　牛と、ものすごく呼吸が合います。　\n　ご飯は最低でも４０回は噛みます。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0547:
+	# jp: "[255:00000900]「もう終わりだよ」\n　と言われるまで、気がつきません。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0548:
+	# jp: "[255:00000900]昼の全国ネットでも深夜のローカルでも\n番組ＭＣのタイプに合わせて\n　卒なくトークをこなすバランス派。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0549:
+	# jp: "[255:00000900]ステージでしゃべる機会はあまり\nありませんが、下手するとピエロ役の\n　若手団員よりもトークが達者です。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0550:
+	# jp: "[255:00000900]オリジナルギャグを持っているせいか\n子供達から圧倒的な人気を\n　集めています。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0551:
+	# jp: "[255:00000900]このエコなご時世に\n下着を使い捨てだなんて\n普通は世間を気にして言えませんが…"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0552:
+	# jp: "[255:00000900]しかし恋のシュートは\n　なかなか決められません。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0553:
+	# jp: "[255:00000900]ハイジャック犯を\n　いい話で泣かせるほどの人格者。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0554:
+	# jp: "[255:00000900]しかし、実は黒毛和牛並みに\n　穏やかなヒューマニストです。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0555:
+	# jp: "[255:00000900]王家の墓に入る時は\n　ちゃんと靴を脱ぎそろえます。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0556:
+	# jp: "[255:00000900]せかさないでさすがにさがすの\nてつだってのコーナー！！\n　を言い切った後の得意げな間。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0557:
+	# jp: "[255:00000900]帰り間際に私服であいさつしても\n　なぜか誰も気づいてくれません。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0558:
+	# jp: "[255:00000900]はたきをかけ過ぎるため\n部屋の中は常に\n　ホコリでもうもうとしています。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0559:
+	# jp: "[255:00000900]無心で薬を調合する表情が\nとても美しいのですが…\n　誰も見ていないのが非常に残念です。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0560:
+	# jp: "[255:00000900]古臭い髪型をオーダーしてくる客には\n「逆にアリですよね～」とノせつつ\n　内心、頼むから表を歩かないでくれ！"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0561:
+	# jp: "[255:00000900]ただ、ヒーローインタビューで\nカッコつけ過ぎてしまう点が\n　同性からの反感を買うようです。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0562:
+	# jp: "[255:00000900]努めて愛想良く接客していますが\n箸でネタをはがすＯＬだけは\n　どうにも許せません。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0563:
+	# jp: "[255:00000900]「あれ…これ窓ないんじゃないの！？」\nとオフィスの人間が恐怖心を抱くほど\n　ピカピカに磨きあげることが目標。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0564:
+	# jp: "[255:00000900]理不尽なニュースを読んでいる時\n「私コレおかしいと思うんですけど！」\n　と叫ぶのを必死でこらえています。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0565:
+	# jp: "[255:00000900]　オーケストラなんてもっての他。\nしかしソロでも伴奏者は必要なことに\n　気づき、人知れず舌打ち。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0566:
+	# jp: "[255:00000900]アニメキャラの腕時計を\n褒めてくださった等、その基準は\n　いたって個人的、かつシンプルです。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0567:
+	# jp: "[255:00000900]茎の不自然な曲げられ方から\n明らかに、憎悪の念を感じ取るも\n　問いただせずにいる小心な亭主。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0568:
+	# jp: "[255:00000900]波浪注意報も出ていないのに\n強く沖を警戒。浮き輪の家族連れ\n　よりも更に浅瀬で波に乗っています。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0569:
+	# jp: "[255:00000900]ＣＡの愛用しているネジ式腕時計すらも\n計器への影響が心配だからと\n　外させるほどの徹底ぶり。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0570:
+	# jp: "[255:00000900]この１通を間違えて届けてしまったら\n　世界が終わる！と思っています。\n　が、投げ出したい日があるのも事実。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0571:
+	# jp: "[255:00000900]アナタの場合、水道工事が目的で\nなかったとしても、ナチュラルに\n　人の家にあがらせてもらえます。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0572:
+	# jp: "[255:00000900]そのラインはお客様のお顔立ちには\n　絶対ないですて～！\n前にも同じ間違いしてはりましたよ～"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0573:
+	# jp: "[255:00000900]教育方針に意見をしようものなら\nカンシャクを起こして軽く暴れるので\n　旦那ですら口をはさめません。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0574:
+	# jp: "[255:00000900]機内の揺れが長時間におよぶと\n我慢できずコクピットへ。\n「ちょっと運転代わりな！」"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0575:
+	# jp: "[255:00000900]レッスン内容は、相手がプレッシャーを\n感じる構え方や、威圧的な\n　掛け声の出し方についてなどです。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0576:
+	# jp: "[255:00000900]記事の文面からも\n　冷気が漂っています。\n　あおいだら涼しいかも。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0577:
+	# jp: "[255:00000900]石橋を叩いて渡る性格、ならぬ\n　手綱を腰に巻きつけて乗る性格です。\n　落ちたら危ないですし。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0578:
+	# jp: "[255:00000900]そんなアナタの相談相手は\n　もっぱら小象のユリコ。\n言葉なんて要りません、目を見れば…"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0579:
+	# jp: "[255:00000900]きちょうめん過ぎて犯人の指紋まで\n　拭き取ってしまわないよう注意。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0580:
+	# jp: "[255:00000900]インタビューの相手が飼っている\nセキセイインコの名前を\n　事前に調べるなど、かなりマメ。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0581:
+	# jp: "[255:00000900]スクープを他社にすっぱ抜かれる\nことはスッピンを見られることより\n　辛いこと。だから必死なんです。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0582:
+	# jp: "[255:00000900]その代わりまめまめとよく働きますが\nテーブルを拭くくらいの事はそろそろ\n　後輩にやらせてもよいのでは。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0583:
+	# jp: "[255:00000900]スタジオへの案内目的で\n床に適当に貼ったテープが\n　とある芸術祭で名誉会長賞を受賞。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0584:
+	# jp: "[255:00000900]　ギターが抜けボーカルが交替する中、\n４時間半のステージに最初から最後まで\n　出ていられるのはアナタだけです。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0585:
+	# jp: "[255:00000900]だからというわけでは\nありませんが、地下部分の仕事を\n　担当することが多いです。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0586:
+	# jp: "[255:00000900]車体に付着した異物を\n　残さず拭き取る技術を独自に開発。\n　鳩系のフンであれば９９％消せます。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0587:
+	# jp: "[255:00000900]俺が不良品を見逃したら世間が\n　危険にさらされる。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0588:
+	# jp: "[255:00000900]間違えて鳩の入ったハンカチを\n落としてしまった時に思わず\n「あっ」"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0589:
+	# jp: "[255:00000900]せっかく身につけた技術…\n手のこんだアートを\n　施したいところなんですけどね。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0590:
+	# jp: "[255:00000900]夕方になってやっと客に\nトイレどこですか？と訊かれた\n　時には疲れ過ぎで半目。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0591:
+	# jp: "[255:00000900]女難の相が出ている客への言い方は\n「おモテになる方って、なにかと\n　トラブルが付き物じゃないですか」"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0592:
+	# jp: "[255:00000900]寝ながら描いた適当な絵が\nいつの間にか数千万円で\n　取引きされてそうです。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0593:
+	# jp: "[255:00000900]　人生だって常に九面待ち。\n　得意技は地和での国士無双。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0594:
+	# jp: "[255:00000900]プライベートでも「先生」と\n　呼ばれる機会が多いでしょう。\n　相談事が絶えません。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0595:
+	# jp: "[255:00000900]試合前のアナタには\n　怖くて誰も話しかけません。\n　かといって試合後にも誰も来ません。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0596:
+	# jp: "[255:00000900]ポーズは美しく決まっていますが\n酸素を吸おうとする感じがあまりにも\n　必死で、観客はやや引き気味です。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0597:
+	# jp: "[255:00000900]付き合い始めた頃の君は\nこんなんじゃなかったんだけどな…\n　と、旦那談。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0598:
+	# jp: "[255:00000900]ご主人が、恥をしのんで\nお通しをカットしていることなど\n　あなたは知る由もありません。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0599:
+	# jp: "[255:00000900]負けると台の下のローラー部分を\n思いっきり蹴るので、パートナーは\n　押さえるのに必死（台を）。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0600:
+	# jp: "[255:00000900]とは言え、メンバーの作った\n鼻歌レベルのデモテープを、瞬時に\n　曲に仕上げる技術は大したもの。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0601:
+	# jp: "[255:00000900]昼飯がまずかったから\n　午後からの撮影ヤル気しない、\n　など主演女優も驚くワガママっぷり。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0602:
+	# jp: "[255:00000900]しかし、手がけるスウィーツ以上に\n甘い見通しのおかげで\n　周囲のスタッフは一苦労。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0603:
+	# jp: "[255:00000900]お気に入りの深夜アニメ番組を\n録画予約してこなかった\n　程度のことで。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0604:
+	# jp: "[255:00000900]密かにスポーツ選手と\n　付き合っていたりしますが、\n　番組で絡んでも誰も気づきません。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0605:
+	# jp: "[255:00000900]事件を起こした人物が昔の恋人\n　だったとしても動揺などしません。\n　とりあえず取材用バスの手配を。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0606:
+	# jp: "[255:00000900]大院長先生が見学にいらっしゃっても\n　平然と申し送りをこなせるツワモノ。\n　しかし、血を見るのは苦手です。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0607:
+	# jp: "[255:00000900]任務であれば肉親の勤めている\n　会社にだって潜入します。\n　しかし家族仲には影響ありません。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0608:
+	# jp: "[255:00000900]「おおお～」を聞きたいがために\n　半額近くまで値引いてしまうことも。\n　ただ、スタジオの客は皆サクラです。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0609:
+	# jp: "[255:00000900]　プレゼンに趣向を凝らすことも。\n次回は、効果音を積極的に使って\n　みようと画策しています。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0610:
+	# jp: "[255:00000900]たまたま夕方の水やりで玄関先に出て\n　いた奥様には、郵便物を直接手渡し。\n　まあ水道料金の受領書ですけど。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0611:
+	# jp: "[255:00000900]お客さんに到着時刻を教えてあげる等\nいろいろ親切にしようと試みるものの\n　みんな車掌に持っていかれます。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0612:
+	# jp: "[255:00000900]　観客も審査員も「アイツ大丈夫か？」\nと、手に汗握り気味。そのせいか\n　最終的に皆、演技に魅了された気に。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0613:
+	# jp: "[255:00000900]　稲妻スパイクをモロに受けた直後、\n腫れあがり過ぎた腕の面部分に\n　サポーターの新人アイドルも絶句。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0614:
+	# jp: "[255:00000900]突然他人行儀になったり\n　意味深に目をそらしたり。\n　どう考えても何かあるとしか…"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0615:
+	# jp: "[255:00000900]スタートから４ｋｍの\n給水所に到達した時点で\n　既に表情が限界を迎えています。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0616:
+	# jp: "[255:00000900]　漫才コンクールにも出ません。\n同期の芸人達からは\n　カッコつけやがって！と総スカン。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0617:
+	# jp: "[255:00000900]王子の頃は民衆の味方ですが\n王になった翌日から\n　権力をふりかざします。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0618:
+	# jp: "[255:00000900]　出世競争なんてまっぴらごめんです。\n１日の始まりは\n　しぼりたてのぬるいミルクから。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0619:
+	# jp: "[255:00000900]「本物のおぼっちゃんに\n『坊っちゃん』は書けないよ」\n　が口グセです。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0620:
+	# jp: "[255:00000900]であればもう少し\n後輩コンパニオンに\n　優しく接したっていいのに。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0621:
+	# jp: "[255:00000900]保護者同士の集まりに\nうまくとけこめないことも\n　教育熱に拍車がかかっている一因。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0622:
+	# jp: "[255:00000900]泣き声を聞いただけで、その子の\n２５年後の就職先までわかりますが\n　誰も信じないので黙っています。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0623:
+	# jp: "[255:00000900]枝の位置が２ｍｍ下がっただけで\n　すっ飛んで行ってお直しします。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0624:
+	# jp: "[255:00000900]しかし、カットがかかった瞬間\n一言もしゃべらなくなるので\n　アシスタントは若干戸惑い気味。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0625:
+	# jp: "[255:00000900]　コックピットでは基本終始無言。\nしかし日付変更線をまたぐ時だけ\n　妙にはしゃいでしまいます。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0626:
+	# jp: "[255:00000900]ガソリン代の変動が激しい中\n　アナタの迅速な計算力は貴重品。\n　しかし計算は機械がやります。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0627:
+	# jp: "[255:00000900]極度の数字フェチで\nローカル線の休日ダイヤまで\n　完ペキに把握しています。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0628:
+	# jp: "[255:00000900]いい剣山を持っているからという\n　短絡的な理由で押し付けられた形。\n　断り下手が災いし、夜なべで制作。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0629:
+	# jp: "[255:00000900]南極へ行けば自転に巻き込まれずに\n済むので、年をとるスピードが\n　遅くなるはずだと豪語。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0630:
+	# jp: "[255:00000900]客が肉を食べ終わった瞬間\n即行でお皿をさげてしまいます。まだ\n　ニンニク醤油をすすっていたのに。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0631:
+	# jp: "[255:00000900]趣味と実益を兼ねてこの道を\n選びました、という答に\n　取材にあたった報道陣はハテナ顔。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0632:
+	# jp: "[255:00000900]ダンクシュートを決める事なんて\n　かなりまれです。\n　２ヶ月に１度あるか無いか。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0633:
+	# jp: "[255:00000900]　信頼も厚いです。が、\n今ひとつしゃべりが苦手なため\n　選手に内容を聞き返されがち。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0634:
+	# jp: "[255:00000900]「野菜は自分の生徒のようなもの」\n　が口グセ。深い愛情で育てます。\n「我が子」ではなくなぜか「生徒」"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0635:
+	# jp: "[255:00000900]基本的に結果のわかっている\n　実験しかやりませんので。\n　それを実験と呼べるかは微妙ですが。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0636:
+	# jp: "[255:00000900]どこか昭和の香り漂う\n　昔懐かしいショーを展開。\n　ＢＧＭもお決まりのアレです。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0637:
+	# jp: "[255:00000900]日常生活での\nコミュニケーションにおいても\n　常にレシーバーです。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0638:
+	# jp: "[255:00000900]大雨の中、傘を持って５時間半\n駅前にたたずんでいた事実を知った時は\nさすがのご主人様も「すまんかった」"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0639:
+	# jp: "[255:00000900]肺活量的にも\n　長い息を吐くことが可能です。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0640:
+	# jp: "[255:00000900]卒業アルバムの部活動ページでも\nちゃんと真ん中に\n　写っているクチです。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0641:
+	# jp: "[255:00000900]城壁の修理をするか否か投票で決める\nと言いつつ、反対多数だと\n　まとめてシュレッダーへ。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0642:
+	# jp: "[255:00000900]動物からはもちろん\nエサ運搬を担当する業者の人間からも\n　相当したわれています。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0643:
+	# jp: "[255:00000900]焼き栗をイメージした花火なんて\n難しいし、伝わりづらいよと\n　言われれば言われるほど、意地に。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0644:
+	# jp: "[255:00000900]　有名若手俳優との言われなき\nスキャンダル報道。全力で否定するか\n　と思いきや、まさかの意味深発言。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0645:
+	# jp: "[255:00000900]パートナーなど居ようが居まいが\nおかまいなし。球に向かって突進\n　するのでダブルスには不向きです。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0646:
+	# jp: "[255:00000900]予報は雨なのについ見栄を張って\n　晴れだと言ってしまいます。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0647:
+	# jp: "[255:00000900]　気紛れで、お茶目で、負けず嫌い。\nオフィスには似つかわしくない\n　小悪魔的マドンナ（笑）です。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0648:
+	# jp: "[255:00000900]しかしやや冷酷な一面があるので\nメンバーはアナタの言動にビクビク\nしています。（特にイエロー）"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0649:
+	# jp: "[255:00000900]住民は道を訊いただけで\n逮捕されるのではないかと\n　常に怯え気味。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0650:
+	# jp: "[255:00000900]勇気のあるヤツだと周りから\n何目も置かれていますが\n　さほど火が怖くないだけなのです。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0651:
+	# jp: "[255:00000900]人間関係は\nダイヤのようにスムーズには\n　いかないんですね。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0652:
+	# jp: "[255:00000900]ＤＪたるもの横文字の曲を紹介する\n際には、発音を米国人風にせねば\n　と、ブースで一人取り越し苦労。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0653:
+	# jp: "[255:00000900]　母性といってもライオンの母です。\n我が子を失意という名の谷に突き落とし\n　はいあがっても来させません。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0654:
+	# jp: "[255:00000900]私が完ペキなプロポーションを\nしていないことには、何を言っても\n　説得力がないと気負う真のプロ。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0655:
+	# jp: "[255:00000900]口の周りを拭いてあげたり\n　手をひいて横断歩道を渡ったり。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0656:
+	# jp: "[255:00000900]トレーニング室に最後まで残り\nモップをかけた後\n　必ず電気を消して帰ります。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0657:
+	# jp: "[255:00000900]　まさに火ダルマ系スタント向き。\nいつまでも熱していたら\n　逆に危ないからです。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0658:
+	# jp: "[255:00000900]都心部のマンションは各棟に１個\nでいいやと配送を妥協。ソリに戻った\n　瞬間、トナカイから本気の説教。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0659:
+	# jp: "[255:00000900]　仕事の度に違うお宅へ出向くのが\n　性にあっているようです。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0660:
+	# jp: "[255:00000900]コイツ、このニュースに\n全く興味ねーな、と\n　お茶の間に誤解されてしまいます。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0661:
+	# jp: "[255:00000900]気に入らない犬に対しては\n　サジならぬ、骨を投げて終わり。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0662:
+	# jp: "[255:00000900]ビーフｏｒチキン\nチキン！？\nどうしてチキン！？"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0663:
+	# jp: "[255:00000900]大会の審査員を引き受けるも\n　入選作品は皆、同じ花。\n　明らかにウドをひいきしています。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0664:
+	# jp: "[255:00000900]水も空気もコンビニも無い宇宙に\nひとつだけ持っていくべき物\n　それはアナタの張りつめた神経です。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0665:
+	# jp: "[255:00000900]アナタがちょっと\nベルトの位置を直しただけで\n　市民は思わず身構えます。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0666:
+	# jp: "[255:00000900]都心の超巨大モールだろうが\n　片田舎の犬小屋だろうが\n消火に臨む気持ちは全く同じです。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0667:
+	# jp: "[255:00000900]アナタにはファイティングポーズという\n概念がありません。人生そのものが\n　ファイティングだからです。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0668:
+	# jp: "[255:00000900]　満面の笑みはあくまでも舞台用です。\nパートナーにだって\n　心を開いたことはありません。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0669:
+	# jp: "[255:00000900]第１打目から\n　パッティング並みの緊張感。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0670:
+	# jp: "[255:00000900]日々の悩みゴトを\n赤ちゃんに話す事で解消。\n　言葉が分かっていたら一大事ですね。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0671:
+	# jp: "[255:00000900]手に入れた情報は\nこの、たった１枚のディスクに\n　収められたデータが全て。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0672:
+	# jp: "[255:00000900]波に乗っているだけのつもりが\nいつの間にかシャチの群を\n　率いているでしょう。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0673:
+	# jp: "[255:00000900]大海原の偉大さに魅せられて\n　この仕事に就きました。\n　でも本当は山が好きです。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0674:
+	# jp: "[255:00000900]動物を愛するがあまり、動物目線で\n物事を考えるクセが。このタッチペンは\n　鼻でつかむにはやや細いかも、等。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0675:
+	# jp: "[255:00000900]観客に見て欲しいというよりは\n　ただ夜空を美しく飾りたい。\n　その一心でこの仕事をやっています。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0676:
+	# jp: "[255:00000900]客席に座っているのはカボチャ！\nみーんな巨大な西洋カボチャ！"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0677:
+	# jp: "[255:00000900]譜面通り完ペキな演奏をこなす\n　第一人者として有名に。\n　しかしそれでいいのかと自問自答。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0678:
+	# jp: "[255:00000900]昔の友達が\nよおっ！と訪ねてきても\n「いらっしゃいませ」"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0679:
+	# jp: "[255:00000900]白樺の生い茂るコテージで\n午後の日光浴を。本物のセレブは\n　都会になど住みません。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0680:
+	# jp: "[255:00000900]数億円の価値が出るような絵を\n駄作と思ってウォークインに\n　閉まっているところが実に惜しい点。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0681:
+	# jp: "[255:00000900]クランクイン時のモチベーションを\n試写会終わりまで維持できるように\n　なれば、きっと大成するはずです。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0682:
+	# jp: "[255:00000900]不自然にテンションのあがった\n小学生の集団に囲まれると\n　ドキドキしてしまいます。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0683:
+	# jp: "[255:00000900]花をモチーフにした作品を考えたい\n　と言って、周りの失笑を買います。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0684:
+	# jp: "[255:00000900]お勉強は好きではありませんが\n　頭の回転は速い方なのです。\n　ミシンだって一人でかけられます。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0685:
+	# jp: "[255:00000900]　まず、楽譜を見ません。\nわからなくなったら\n　自分で適当に作曲します。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0686:
+	# jp: "[255:00000900]　ワタシね、思ったんだけどね、\n左足がね、地面に付く前に右足を\n　あげたらね、お空を歩けると思うの！"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0687:
+	# jp: "[255:00000900]　自分のことを「妖精かも知れない」\nと思っているうちは\n　いい出会いに恵まれないかも。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0688:
+	# jp: "[255:00000900]ツッコミ時のアクションで\n　笑いを取るタイプです。\n　広くも浅い人気を勝ち得るでしょう。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0689:
+	# jp: "[255:00000900]スポーツ選手ではありますが\nおっとりした性格なので\n　草食動物とはウマが合います。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0690:
+	# jp: "[255:00000900]暇人奥様のちょっと聞いてよ攻撃を\n　サラリとかわす能力に長けています。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0691:
+	# jp: "[255:00000900]雨でダイヤが乱れたりすると\n不謹慎ながらも、内心\n　ちょっとワクワクしてしまいます。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0692:
+	# jp: "[255:00000900]ダンスはカッコよくキマってますが\n靴下が厚手の白だったりと\n　かなり手抜きです。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0693:
+	# jp: "[255:00000900]嬉しい時は尻尾を振って\n駆け寄ってくる…\n　そんなお前が大好きだよ。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0694:
+	# jp: "[255:00000900]「センセーさいきん肌きたなくない？」\n「アキラ君、もう１回言ってごらん」"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0695:
+	# jp: "[255:00000900]しかし、皆一様に\n話しかけたら無視されそうだ\n　と思っています。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0696:
+	# jp: "[255:00000900]どの番組に出ても最後は必ず誰かに\n「アンタ自分大好きだろ」\n　と、全く同じセリフを吐かれます。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0697:
+	# jp: "[255:00000900]仲間からは、竹を割った性格ならぬ\n材木を切断したような性格\nと言われています。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0698:
+	# jp: "[255:00000900]　でもつい自分の話をしてしまいます。\n　乗車から降車までフルでです。\n　しかも自慢話です。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0699:
+	# jp: "[255:00000900]助手からは、竹を割った性格ならぬ\n水を電気分解したような性格\n　と言われています。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0700:
+	# jp: "[255:00000900]史上初の女リーダーはどうか\nという話もありましたが\n　なんとなく流しました。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0701:
+	# jp: "[255:00000900]しかし、ひとたび犯人説得役に\n　推されたら目つきが変わります。\n　拡声器を構える姿も堂々たるもの。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0702:
+	# jp: "[255:00000900]自ら立候補しなくても\n　周りから熱烈なプッシュを受けます。\nむしろ嫌がれば嫌がるほど…"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0703:
+	# jp: "[255:00000900]　いつか完走したい。\n愛しの彼と二人三脚での\n　４２．１９５ｋｍ。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0704:
+	# jp: "[255:00000900]　しかし間がいいため従業員に大ウケ。\nただ売り上げには\n　何の関係もありません。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0705:
+	# jp: "[255:00000900]塩をまく時なぜか３回に分けるなど\nいちいち芸が細かいです。わざと\n　らしくなる前にやめるのが絶妙。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0706:
+	# jp: "[255:00000900]家族が牛乳を飲み始めた瞬間を狙って\n　一発酪農ギャグをかますのが日課。\n　噴き出た牛乳を浴びれば本望。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0707:
+	# jp: "[255:00000900]配管したパイプに「名犬」など意味不明\nな言葉を書き残し、後で読んだ人がどう\n　困惑するか想像するのが楽しみです。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0708:
+	# jp: "[255:00000900]芸術点芸術点って、衣装は\n点数に入れてもらえてるんですか！\n　と審査団体に涙目の抗議。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0709:
+	# jp: "[255:00000900]テニスって芸術点はないんですよね？\nと、さりげなく審判に打診してみる\n　５ゲーム終了後のブレイクタイム。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0710:
+	# jp: "[255:00000900]いつかイルカさんとおしゃべりが\nできるようになったらいいな\n　と思ってます。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0711:
+	# jp: "[255:00000900]色に感動すると、被写体に\n　寄り過ぎるほど寄ります。\n　もはや何の写真かわかりません。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0712:
+	# jp: "[255:00000900]「俺にもパスしろよ」と言われようが\nおかまいなしです。コートの端から端を\n　オールドリブルでフルダッシュ。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0713:
+	# jp: "[255:00000900]　得点王との呼び声も高いですが、\nホームランを打っても、ハイタッチに\n　応じないのでベンチは微妙な空気。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0714:
+	# jp: "[255:00000900]しかし自分の主観がベースなので\n　何故か、なめ茸が\n　レジ脇のスペースを占拠。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0715:
+	# jp: "[255:00000900]車体の大きい順に入れようとしている\nところへ小回りの利く「軽」が来ても\n　断固として入れさせません。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0716:
+	# jp: "[255:00000900]負け投手に写真誌スキャンダルの\n件を問いただすなんて\n　追い討ちもいいところです。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0717:
+	# jp: "[255:00000900]ギャラリーとしては\n嘘でもいいから芝なり風なりを読む\n「間」を見せて欲しいものです。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0718:
+	# jp: "[255:00000900]思春期の中学生でなくても\n用途が書かれてしまっているクラブで\n　打つのにはさすがに抵抗があります。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0719:
+	# jp: "[255:00000900]倒れこむアナタをキャッチするため\nバスタオルを構えて待っている\n　スタッフの身にもなってください。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0720:
+	# jp: "[255:00000900]ドラムという楽器を選んだ理由は\n「大概どの曲でも必須だから」です。\n　夢の無い返答にファンは思わず半目。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0721:
+	# jp: "[255:00000900]アナタは感覚に頼らず、合理的に\n　モノゴトを考えるタイプ。\n　つまり、リズムより理詰めです。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0722:
+	# jp: "[255:00000900]２４時間営業の店ですが、シャッター\n　の点検を半日に１回行わないと、\n　不安で仕事が手につきません。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0723:
+	# jp: "[255:00000900]何を作るか。そんなことはどうだって\nいいんです。重要なのは、２５年先まで\n　おかずが２品ある暮らしを送ること。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0724:
+	# jp: "[255:00000900]　しかしあまり野心はありません。\nあくまでも生活費を稼ぐために\n　踊っているに過ぎないのです。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0725:
+	# jp: "[255:00000900]　超絶技巧系の曲を選びがちです。\nシンプルな曲はアラが目立つ事を\n　知っているんですね。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0726:
+	# jp: "[255:00000900]　少女漫画なのにまさかの４コマ。\nオチを計画的につけやすく\n　コマ割りの必要が無いからです。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0727:
+	# jp: "[255:00000900]友人に「ひさかたぶり！」と\n声をかけられただけで\n　紀友則の札を探してしまいます。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0728:
+	# jp: "[255:00000900]苦心の末、ついに\n絶対に売れるラーメンの試作に成功。\n　麺グラフで売り上げをチェック。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0729:
+	# jp: "[255:00000900]　新入社員にも敬語で話しかけます。\n　女性社員からの信頼も厚いです。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0730:
+	# jp: "[255:00000900]「プレゼントだよ」と言うべき\nところを、うっかり「報酬です」と\n　言ってしまい、自分に苦笑い。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0731:
+	# jp: "[255:00000900]コミュニケーションのうまい\nプログラマー。それは完ペキな人間で\n　あるといっても過言ではありません。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0732:
+	# jp: "[255:00000900]頭のてっぺんからつま先まで\n体の中にアイドルでない部分は\n　一箇所もありません。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0733:
+	# jp: "[255:00000900]その時お付き合いしている男性が\nイケイケ系だと、このように\n　南極点まで来てしまいます。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0734:
+	# jp: "[255:00000900]　コーディネートのセンスも抜群です。\nあとはマネージメントを担ってくれる\n　お婿さんが来てくれれば無敵かと。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0735:
+	# jp: "[255:00000900]無機質なオフィスで\nアナタのきらびやかなネイルは\n　まぶしく光ることでしょう。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0736:
+	# jp: "[255:00000900]夢だけは大きく持っていいのよと\n半笑いで語り続けていたらまさか…\n　と、母親談。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0737:
+	# jp: "[255:00000900]しかし画面１２個はいくらなんでも\nやり過ぎじゃ…という声が\n　社内であがったりあがらなかったり。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0738:
+	# jp: "[255:00000900]　いい米は、いい土から。\n少々、水やりに手を抜いたとしても\n　豊かな土地が成長をフォロー。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0739:
+	# jp: "[255:00000900]いつの時代も、謎というものは\nアナタのように突拍子もない人間の\n　発想によって解決されてきたのです。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0740:
+	# jp: "[255:00000900]しかし、顔をほめれば\nすぐゴキゲンになるので\n　わりと扱いやすいと評判です。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0741:
+	# jp: "[255:00000900]アナコンダをナナメがけしてるとこ\n見たらシビれちゃうなぁなんて\n言われたら行くしかないアマゾン！"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0742:
+	# jp: "[255:00000900]プランタプランタアンプルコップン！\nお花さんが元気に育つおまじない！"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0743:
+	# jp: "[255:00000900]とりあえずカワイイと言っておけば\nしばらくは笑顔でいてくれる事に\n　カメラマンも最近気づきました。"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0744:
+	# jp: "真面目にコツコツそこつ者"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0745:
+	# jp: "イイ意味での野暮ったさが逆にクールな"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0746:
+	# jp: "我田引水になりがちな"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0747:
+	# jp: "クソ真面目な"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0748:
+	# jp: "癒し系の次は威圧系が来る！"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0749:
+	# jp: "ドライを通り越して干ばつ状態"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0750:
+	# jp: "悪い虫を寄せつけない"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0751:
+	# jp: "目つきの鋭い"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0752:
+	# jp: "謙虚でガマン強い"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0753:
+	# jp: "　プライベートも安全第一"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0754:
+	# jp: "車の下が一番落ち着く"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0755:
+	# jp: "軍曹というよりも家老タイプ"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0756:
+	# jp: "いくつになっても甘えたガール"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0757:
+	# jp: "　可憐な弓使いはさながら貴族"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0758:
+	# jp: "いくつになっても甘えたい"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0759:
+	# jp: "上下の線引きがシビアな"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0760:
+	# jp: "先走りがちな"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0761:
+	# jp: "板割り専門"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0762:
+	# jp: "時間短縮型"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0763:
+	# jp: "下の者に厳しい"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0764:
+	# jp: "臨機応変に臨時応援"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0765:
+	# jp: "世話好き過ぎて自分を度外視"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0766:
+	# jp: "大事な接待でも安心"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0767:
+	# jp: "カンペの文字は大きく、ひらがなで！"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0768:
+	# jp: "売れ出すと司会業に専念する"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0769:
+	# jp: "マイペースを崩さない"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0770:
+	# jp: "人生初！生き物からのモテ期に突入"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0771:
+	# jp: "体質的にやや虚弱な傾向アリの"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0772:
+	# jp: "プライベートが本業にモロ影響する"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0773:
+	# jp: "見栄っ張りが過ぎる"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0774:
+	# jp: "ぐずらせ知らずの"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0775:
+	# jp: "当たり過ぎて逆に怖いと評判の"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0776:
+	# jp: "夢見る乙女キラー"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0777:
+	# jp: "指示にすぐ擬音を多用する"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0778:
+	# jp: "マスコットキャラクターを地でいく"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0779:
+	# jp: "あまりにも適当な"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0780:
+	# jp: "自分の主観を客に押しつける"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0781:
+	# jp: "でかいスケールと包容力"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0782:
+	# jp: "お義母様とソリの合わない"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0783:
+	# jp: "目的が不明のままゴリ推しする"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0784:
+	# jp: "格好から入りがちな"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0785:
+	# jp: "心理戦の苦手な"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0786:
+	# jp: "肩書きに弱い"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0787:
+	# jp: "厳しい目でカンペキな仕事を"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0788:
+	# jp: "応援内容が余計なお世話な"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0789:
+	# jp: "レシーブで必ず１回転する"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0790:
+	# jp: "笑顔はいつでも晴天ナリ"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0791:
+	# jp: "アクションが大き過ぎて迷惑な"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0792:
+	# jp: "歯に衣をきせてあげたい"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0793:
+	# jp: "あまのじゃくな"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0794:
+	# jp: "やたら意味深な"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0795:
+	# jp: "暴言の目立つ"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0796:
+	# jp: "競争社会上等！"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0797:
+	# jp: "　芸術というより競技感覚で演奏する"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0798:
+	# jp: "編集者に魂を売ってしまった"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0799:
+	# jp: "もう万単位でいいじゃないと思わせる"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0800:
+	# jp: "男は黙って"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0801:
+	# jp: "待ち牌が誰にも読めない"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0802:
+	# jp: "運転も会話もニュートラル"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0803:
+	# jp: "「カンと忍耐と辛抱」が信条の"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0804:
+	# jp: "永遠の少女になり得る素質充分"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0805:
+	# jp: "わがままは美人の特権"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0806:
+	# jp: "毎週毎週締め切りギリギリ！"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0807:
+	# jp: "そのギャップが男にはたまらない"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0808:
+	# jp: "見切り発車オーライ"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0809:
+	# jp: "打ち上げ飲みの出席率が悪い"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0810:
+	# jp: "企画倒れにもほどがある"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0811:
+	# jp: "庭先で新作を試す"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0812:
+	# jp: "人気、実力ともに局内トップ"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0813:
+	# jp: "肩で風を切る"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0814:
+	# jp: "風邪でも仕事を休まない"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0815:
+	# jp: "必要以上に尽くしたがる"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0816:
+	# jp: "できれば一人で演奏したい"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0817:
+	# jp: "アマチュア相手でも手厳しい"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0818:
+	# jp: "頑徹親父のいる店へようこそ"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0819:
+	# jp: "感覚だけでモノを書く"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0820:
+	# jp: "お茶の間の意表をつく行動に出る"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0821:
+	# jp: "強気な態度が逆に患者を不安にさせる"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0822:
+	# jp: "フィッシュｏｒチキンが滑らかに言えない"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0823:
+	# jp: "テキパキ調合"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0824:
+	# jp: "見た目も性格も骨太人間"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0825:
+	# jp: "相撲部屋より自分の部屋"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0826:
+	# jp: "客入り１ケタでも熱演の"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0827:
+	# jp: "愛想の良さで得をする"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0828:
+	# jp: "ノリが昭和な"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0829:
+	# jp: "新しいクラブがなかなか手になじまない"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0830:
+	# jp: "１８ホール回りきった頃にようやく打ち解ける"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0831:
+	# jp: "飾り立てることを極端に嫌う"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0832:
+	# jp: "強情ナルシスト"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0833:
+	# jp: "どちらかというと板を持つ側の"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0834:
+	# jp: "　卑怯と怠惰を嫌う正義の鬼"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0835:
+	# jp: "　たてつく助手は即刻クビ"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0836:
+	# jp: "自宅の場所を知られたくない"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0837:
+	# jp: "怖いもの知らずな"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0838:
+	# jp: "何かを隠している"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0839:
+	# jp: "面倒見のよさが思わぬ副収入につながる"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0840:
+	# jp: "ただ波に乗りたいだけの"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0841:
+	# jp: "　ねじりはちまきは体の一部です"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0842:
+	# jp: "ほどほどに愛想のいい"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0843:
+	# jp: "淡々とした世界観が静かな人気"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0844:
+	# jp: "私生活をネタにしてしまう"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0845:
+	# jp: "　チヤホヤされるのに慣れきってしまった"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0846:
+	# jp: "誰に対してもあけっぴろげな"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0847:
+	# jp: "社内恋愛に不向きな"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0848:
+	# jp: "ふにゃっと笑う"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0849:
+	# jp: "常に不満げな"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0850:
+	# jp: "上層部から言われるがままの"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0851:
+	# jp: "いたって平凡な"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0852:
+	# jp: "２階席の観客までもが勘違いをしてしまう"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0853:
+	# jp: "そこはかとない色気の漂う"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0854:
+	# jp: "地味にしていても香り立つ気品"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0855:
+	# jp: "うなじを強調しすぎな"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0856:
+	# jp: "チームメイトを技術でランク分けする"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0857:
+	# jp: "要領のよさを身につけた方がいい"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0858:
+	# jp: "穀物の成長を待ちきれない"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0859:
+	# jp: "自分に酔ってしまいがちな"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0860:
+	# jp: "デビューして２年で既に引き際を考えている"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0861:
+	# jp: "誇り高く頂点に君臨し続ける"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0862:
+	# jp: "　売れるためには手段を選ばない"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0863:
+	# jp: "勝つ手段がかなりやっつけな"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0864:
+	# jp: "史上初！逆指名制度導入の"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0865:
+	# jp: "天才肌かつ職人気質"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0866:
+	# jp: "企画力バツグン！"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0867:
+	# jp: "好きなモノ以外は完全に排除する"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0868:
+	# jp: "慈愛の心に満ちている"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0869:
+	# jp: "恋人以上の信頼関係で結ばれる"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0870:
+	# jp: "泣き出す５秒前に予感がする"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0871:
+	# jp: "人に優しいデザインを"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0872:
+	# jp: "　責任感から体も張れる"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0873:
+	# jp: "負けず嫌いゆえに"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0874:
+	# jp: "誰にほめられずとも、けなげに尽す"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0875:
+	# jp: "自宅ではファーストクラス"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0876:
+	# jp: "イリュージョンクラスには手を出さない"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0877:
+	# jp: "全体的にやや動きの鈍い"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0878:
+	# jp: "特に何も教えることのない"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0879:
+	# jp: "風景と一体化できる"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0880:
+	# jp: "形だけリーダーに推される"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0881:
+	# jp: "　「弱きを助ける」が信条"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0882:
+	# jp: "下っ端からのしあがった"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0883:
+	# jp: "大企業でも一匹狼"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0884:
+	# jp: "独立の機をうかがっている"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0885:
+	# jp: "警視総監顔負けの"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0886:
+	# jp: "家庭内における真のボス"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0887:
+	# jp: "逆らう者は誰もいない"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0888:
+	# jp: "無から有を生み出す天才"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0889:
+	# jp: "待ちの形が変幻自在"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0890:
+	# jp: "精密機器のように神経質な"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0891:
+	# jp: "細かいことにやたらと凝る"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0892:
+	# jp: "マスコミへのＦＡＸが迅速な"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0893:
+	# jp: "ステージ裏では大人しい"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0894:
+	# jp: "二重敬語も必死さでカバー"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0895:
+	# jp: "ちょっと無理が生じている"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0896:
+	# jp: "裏社会にやたらと精通している"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0897:
+	# jp: "馬思いな"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0898:
+	# jp: "聞き上手な"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0899:
+	# jp: "推理は得意だが実行力無し"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0900:
+	# jp: "視聴者からの期待の的"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0901:
+	# jp: "巧みな色気で男心に侵入"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0902:
+	# jp: "注射を激しく拒む患者への説得を担当"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0903:
+	# jp: "常に不満気な"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0904:
+	# jp: "ハサミをナナメに入れる"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0905:
+	# jp: "ジレンマのループから抜け出せない"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0906:
+	# jp: "可愛いからといって甘やかさない"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0907:
+	# jp: "流行にやたらビンカンな"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0908:
+	# jp: "好き嫌いの激しい"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0909:
+	# jp: "不機嫌な日の多い"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0910:
+	# jp: "職場で愛想が良いだけに…"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0911:
+	# jp: "その日の天気に機嫌が左右される"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0912:
+	# jp: "相手の必要としているモノがわかる"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0913:
+	# jp: "親分肌の人気者"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0914:
+	# jp: "生徒と友達のように接することで人気の"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0915:
+	# jp: "一発入魂！"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0916:
+	# jp: "天性の計算高さ"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0917:
+	# jp: "口の立つ"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0918:
+	# jp: "軽やかなトークが売りの"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0919:
+	# jp: "同期の女性から目の敵にされやすい"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0920:
+	# jp: "発想の転換で人生を乗り切る"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0921:
+	# jp: "独自の夢を思い描く"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0922:
+	# jp: "自分で自分がよくわからない"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0923:
+	# jp: "じっと待つだけ。ある意味努力家"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0924:
+	# jp: "アイドルの中のアイドル"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0925:
+	# jp: "世渡り上手とはまさにアナタのこと"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0926:
+	# jp: "魔法のチカラでお仕置きしちゃう"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0927:
+	# jp: "何がきっかけで怒り出すかわからない"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0928:
+	# jp: "時事ネタ寄りの毒舌社会派"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0929:
+	# jp: "軽めのジョークで笑いを誘う"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0930:
+	# jp: "すぐ小ネタを仕込む"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0931:
+	# jp: "ガラス越しでも笑いをとろうと試みる"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0932:
+	# jp: "自ら企画したコーナーを全否定する"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0933:
+	# jp: "ズバっと切り捨て！"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0934:
+	# jp: "ストレートな発言がかえって信用につながる"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0935:
+	# jp: "仕事中は話しかけないでください"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0936:
+	# jp: "裏表も無いがデリカシーも"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0937:
+	# jp: "不器用なもので"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0938:
+	# jp: "陰日向なく真面目に働く"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0939:
+	# jp: "性格に裏表のない"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0940:
+	# jp: "元気！爽やか！健康美！"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0941:
+	# jp: "何も考えていない"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0942:
+	# jp: "成り行きでなんとなく"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0943:
+	# jp: "狩り中のライオンよりも気が長い"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0944:
+	# jp: "独断嫌いの慎重派"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0945:
+	# jp: "汗一つかかぬクールガイ"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0946:
+	# jp: "　上品な接客態度が密かに評判"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0947:
+	# jp: "無難に無難に"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0948:
+	# jp: "隙あらば出会いを"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0949:
+	# jp: "強引なまでの色気"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0950:
+	# jp: "店先のユリに負けない女らしさ"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0951:
+	# jp: "花が主役だとは考えないスタイルの"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0952:
+	# jp: "野性味溢れる瞬発力"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0953:
+	# jp: "ツキも気分も浮き沈み激しい"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0954:
+	# jp: "異常なまでに鋭き直感"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0955:
+	# jp: "ワイルドな風貌で女性ファンを魅了"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0956:
+	# jp: "悲そう感ただよう"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0957:
+	# jp: "家に帰るとふさぎこむ"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0958:
+	# jp: "園児の前では笑顔を絶やさない"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0959:
+	# jp: "見た目ほど押しの強くない"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0960:
+	# jp: "江戸っ子気質な"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0961:
+	# jp: "野心がないので人生安泰"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0962:
+	# jp: "やっぱ粋だね！"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0963:
+	# jp: "フィールドワーク重視の"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0964:
+	# jp: "警戒心の強い"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0965:
+	# jp: "性格もバイオリン"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0966:
+	# jp: "夢から覚めたばかりの"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0967:
+	# jp: "理想と現実のギャップに悩む"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0968:
+	# jp: "常に客観的視点からの発言"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0969:
+	# jp: "会話の流れからアタリ牌を予測する"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0970:
+	# jp: "客に話を合わせる"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0971:
+	# jp: "趣味の人間観察を作品にフィードバック"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0972:
+	# jp: "簡単に自分を曲げない"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0973:
+	# jp: "机に向かわせるコツを知っている"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0974:
+	# jp: "総支配人からも力量を買われる"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0975:
+	# jp: "にこやか和やかエクササイズ"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0976:
+	# jp: "　平凡であることを極端に嫌う"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0977:
+	# jp: "溢れんばかりの発想力"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0978:
+	# jp: "実体験こそが全てな"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0979:
+	# jp: "まず格好から入る"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0980:
+	# jp: "淡々とショーを進める"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0981:
+	# jp: "迷いのない"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0982:
+	# jp: "特別な意図のない冷静さ"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0983:
+	# jp: "割り切り方が非人間的な"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0984:
+	# jp: "卑怯を嫌う熱血漢"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0985:
+	# jp: "常に折り目の正しい"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0986:
+	# jp: "消火訓練を本番だと思い込める"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0987:
+	# jp: "通行人をハラハラさせる"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0988:
+	# jp: "流れを読まない"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0989:
+	# jp: "一連の動作を掛け声なしでは行えない"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0990:
+	# jp: "妙に説得力のある"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0991:
+	# jp: "試合中は終始無言"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0992:
+	# jp: "頑固者だが意外にソフト麺"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0993:
+	# jp: "まさに気は優しくて力持ち"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0994:
+	# jp: "山芋の葉に優しく語りかける"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0995:
+	# jp: "人間なんて千年経っても中身は同じ"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0996:
+	# jp: "すぐに心が折れる"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0997:
+	# jp: "過去に何かあったのかと心配される"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0998:
+	# jp: "客に気を遣わせる"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_0999:
+	# jp: "鑑定中に突如涙ぐむ"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1000:
+	# jp: "好きな言葉は「一石二鳥」"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1001:
+	# jp: "どこまでもガツガツしている"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1002:
+	# jp: "イッカクセンキンを夢見る"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1003:
+	# jp: "楽して大金を得るための努力を惜しまぬ"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1004:
+	# jp: "泣き上戸な"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1005:
+	# jp: "情に厚い"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1006:
+	# jp: "とびきりアネゴ肌な"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1007:
+	# jp: "対人的なカンの鋭い"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1008:
+	# jp: "狙ってないのになぜかモテモテ"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1009:
+	# jp: "空も飛べる紳士"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1010:
+	# jp: "どうにも口下手な"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1011:
+	# jp: "休憩時間に冴え渡る検査員ジョーク"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1012:
+	# jp: "無意識で計算する"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1013:
+	# jp: "あきらめのいい"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1014:
+	# jp: "切り替え上手な"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1015:
+	# jp: "割り切った付き合い方のできる"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1016:
+	# jp: "かなりの凝り性"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1017:
+	# jp: "チームが不調の時も忍耐強く支える"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1018:
+	# jp: "やや空回り気味な"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1019:
+	# jp: "一応渋めキャラで通っている"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1020:
+	# jp: "大抜擢されがちな"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1021:
+	# jp: "交渉上手な"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1022:
+	# jp: "客が次に欲するクラブを聞かずとも分かる"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1023:
+	# jp: "鋭い観察眼で生徒の動きをチェック"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1024:
+	# jp: "人にも波にも左右されない"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1025:
+	# jp: "凄腕との呼び名も高き"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1026:
+	# jp: "　何をするにもかなりのスローペース"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1027:
+	# jp: "検査マシーンと化し完全に自我を殺す"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1028:
+	# jp: "出る番組を選ばない"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1029:
+	# jp: "ユーモアのセンスにもあふれた"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1030:
+	# jp: "休み時間はひっぱりだこ"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1031:
+	# jp: "セレブですが何か"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1032:
+	# jp: "ボールのように白黒つけたがりな"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1033:
+	# jp: "自分の命より他人の命"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1034:
+	# jp: "ホルスタイン並みに白黒ハッキリな"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1035:
+	# jp: "礼節をわきまえている"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1036:
+	# jp: "滑舌の良さがかえって鼻につく"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1037:
+	# jp: "白衣のマドンナ"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1038:
+	# jp: "消費エネルギーが激しい"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1039:
+	# jp: "マニアにはたまらない"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1040:
+	# jp: "プライドの高さを隠しきるのが困難な"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1041:
+	# jp: "努力家で信頼も厚い"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1042:
+	# jp: "実は客にいろいろと物申したい"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1043:
+	# jp: "一点の曇りもない完ペキな仕事ぶり"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1044:
+	# jp: "壊れたい衝動にかられる"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1045:
+	# jp: "極力人と関わりを持ちたくない"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1046:
+	# jp: "尽すかどうかはご主人様との相性次第"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1047:
+	# jp: "感情が如実に作品に表れる"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1048:
+	# jp: "防衛本能の強過ぎる"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1049:
+	# jp: "転ばぬ先のスロットル"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1050:
+	# jp: "責任感の強さだけは誰にも負けない"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1051:
+	# jp: "あっさりした性格が妙に親しみやすい"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1052:
+	# jp: "客を教育しようとする感じが失礼な"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1053:
+	# jp: "誰の目にも高圧的な"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1054:
+	# jp: "緊急事態時に頼りになる"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1055:
+	# jp: "自宅で教室も開く"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1056:
+	# jp: "知的でハイソなクールメン"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1057:
+	# jp: "おっかなびっくりの"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1058:
+	# jp: "人と話をするのがちょっぴり苦手な"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1059:
+	# jp: "注意深さは諸刃の剣"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1060:
+	# jp: "仕事熱心な"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1061:
+	# jp: "異常なまでに競争心の強い"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1062:
+	# jp: "人に仕事を任せることのできない"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1063:
+	# jp: "手先が器用な"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1064:
+	# jp: "縁の下でメンバーを支える"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1065:
+	# jp: "人を支える、それが美徳"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1066:
+	# jp: "人知れずサービス"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1067:
+	# jp: "地味なりに強き責任感"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1068:
+	# jp: "あえてしゃべらないスタイルの"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1069:
+	# jp: "客に決して意見しない"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1070:
+	# jp: "黙って立っているだけでも神経を使う"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1071:
+	# jp: "客に気を遣い過ぎる"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1072:
+	# jp: "努力をせずとも既に一流"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1073:
+	# jp: "フリこみ知らずの負け知らず"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1074:
+	# jp: "生まれながらにして説教上手"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1075:
+	# jp: "尖り過ぎてて誰も近寄れない"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1076:
+	# jp: "水面から出た一瞬の形相がすごい"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1077:
+	# jp: "ある日トツゼン"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1078:
+	# jp: "旦那の小遣いを月２０００円と決めている"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1079:
+	# jp: "気が短い"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1080:
+	# jp: "練習に来ない"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1081:
+	# jp: "良くも悪くも超芸術肌"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1082:
+	# jp: "　奇抜な発想で超人気"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1083:
+	# jp: "途中で帰ってしまう"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1084:
+	# jp: "恋人にも他人行儀な"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1085:
+	# jp: "仕事は仕事です"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1086:
+	# jp: "肝が据わった"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1087:
+	# jp: "血も涙もない"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1088:
+	# jp: "オーディエンスの好反応に弱い"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1089:
+	# jp: "広報も兼任できる"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1090:
+	# jp: "差出人の気持ちも一緒に届けたい"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1091:
+	# jp: "タイミングを逸しがちな"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1092:
+	# jp: "一見、溺れているようでもある"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1093:
+	# jp: "傷もアザもさらけ出して勝負"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1094:
+	# jp: "放ってはおけない雰囲気の"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1095:
+	# jp: "観衆をハラハラさせ通しの"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1096:
+	# jp: "争い事が大嫌いな"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1097:
+	# jp: "わかりやすい"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1098:
+	# jp: "平和が一番"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1099:
+	# jp: "苦労人を装う"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1100:
+	# jp: "周囲からの陰口に過敏な"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1101:
+	# jp: "すぐに声を荒げる"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1102:
+	# jp: "霊感の強い"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1103:
+	# jp: "生けた花をずっと見張っている"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1104:
+	# jp: "サブマシンガン並のトークで客を圧倒"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1105:
+	# jp: "副操縦官とほとんど口をきかない"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1106:
+	# jp: "リッターへの換算が得意な"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1107:
+	# jp: "時刻表さえあれば半日は潰せる"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1108:
+	# jp: "チーム内のポンポン作り担当"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1109:
+	# jp: "頭が良いといっていいのかよくわからない"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1110:
+	# jp: "余韻に理解のない"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1111:
+	# jp: "実生活に技を生かしているらしい"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1112:
+	# jp: "出し惜しみする"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1113:
+	# jp: "弱きに優しい円満指導者"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1114:
+	# jp: "成長の遅い葉には特に目をかける"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1115:
+	# jp: "せめて格好だけは奇抜にしようとする"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1116:
+	# jp: "典型的な日本のマジシャン"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1117:
+	# jp: "構えの基本は低姿勢"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1118:
+	# jp: "いつまででも待つことのできる"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1119:
+	# jp: "息の長い"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1120:
+	# jp: "典型的なお調子者スポーツマン"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1121:
+	# jp: "言い出したら聞かない"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1122:
+	# jp: "なかなかに気さくで人あたりの良い"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1123:
+	# jp: "アイデアをけなされるとムキになる"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1124:
+	# jp: "名前が売れればそれでヨシ！"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1125:
+	# jp: "シングルス向きの"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1126:
+	# jp: "見栄っ張りな"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1127:
+	# jp: "パッチリ瞳の"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1128:
+	# jp: "正義界の申し子"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1129:
+	# jp: "ただ立っているだけで充分威圧感のある"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1130:
+	# jp: "人命救助で何度も表彰される"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1131:
+	# jp: "　人の気持ちがわからずに悩む"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1132:
+	# jp: "ＡＭ専門"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1133:
+	# jp: "母性愛あふれる"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1134:
+	# jp: "自分の体型を一番気にする"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1135:
+	# jp: "よく親と間違えられる"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1136:
+	# jp: "真面目過ぎるリーダー"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1137:
+	# jp: "熱しやすく冷めやすい"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1138:
+	# jp: "もう少し根気の必要な"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1139:
+	# jp: "さすらいのリフォーム職人"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1140:
+	# jp: "素の顔がつまらなそうな"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1141:
+	# jp: "好き嫌いが激しい"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1142:
+	# jp: "自分の好き嫌いを客にまで投影する"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1143:
+	# jp: "評価の基準が好き嫌いでしかない"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1144:
+	# jp: "緊張感は大事です"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1145:
+	# jp: "何もしてないのに何かされそうな"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1146:
+	# jp: "事の大小を問わない"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1147:
+	# jp: "仰向けからのアッパー"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1148:
+	# jp: "孤独を愛する"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1149:
+	# jp: "お静かに！"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1150:
+	# jp: "大人は嫌いなので"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1151:
+	# jp: "潜入期間中誰とも口をきかない"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1152:
+	# jp: "海の生物に慕われる"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1153:
+	# jp: "大自然をこよなく愛する"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1154:
+	# jp: "生き物を慈しむ"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1155:
+	# jp: "ロマンティックに火を点けて"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1156:
+	# jp: "人前で歌うのが苦手な"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1157:
+	# jp: "アンドロイドばりの"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1158:
+	# jp: "融通のきかない"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1159:
+	# jp: "あえて山奥に豪邸を建てる"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1160:
+	# jp: "間違いだらけの"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1161:
+	# jp: "大人げないほどに飽きっぽい"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1162:
+	# jp: "気弱なハニカミ屋さん"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1163:
+	# jp: "天才過ぎて一周回ってしまった"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1164:
+	# jp: "ひとりで何でもできますわよ"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1165:
+	# jp: "束縛を嫌う"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1166:
+	# jp: "すぐにひらめいちゃう"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1167:
+	# jp: "夢見がちな"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1168:
+	# jp: "わかりやすい笑いを目指す"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1169:
+	# jp: "あおりも仕掛けもしない"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1170:
+	# jp: "愛想は良いが深入りはせず"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1171:
+	# jp: "平凡な毎日に頬杖気分"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1172:
+	# jp: "ところどころ無頓着な"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1173:
+	# jp: "駆け引きのできない"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1174:
+	# jp: "子供は嘘つかないから好き！"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1175:
+	# jp: "男性会員から熱い視線を浴びる"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1176:
+	# jp: "自分を買いかぶり過ぎる"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1177:
+	# jp: "あっけらかんとカンナで削る"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1178:
+	# jp: "免許もトークもゴールドカード"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1179:
+	# jp: "フラスコでジュースを飲む"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1180:
+	# jp: "アネゴ肌だが前に出たいわけでもない"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1181:
+	# jp: "普段は控え目な"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1182:
+	# jp: "たかだか数年のキャリアで婦長に"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1183:
+	# jp: "恋も仕事も一本道"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1184:
+	# jp: "仕事中にしょうもないダジャレを連発"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1185:
+	# jp: "すぐに笑いを取ろうとする"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1186:
+	# jp: "陽気な大黒柱"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1187:
+	# jp: "遊び心を大切にする"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1188:
+	# jp: "コスチュームの奇抜さでも話題"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1189:
+	# jp: "圧倒的なフォームの美しさを密かに自負"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1190:
+	# jp: "果てしない夢を描く"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1191:
+	# jp: "感動のポイントにも焦点を絞る"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1192:
+	# jp: "勢いで突っ走る"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1193:
+	# jp: "カラみづらい"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1194:
+	# jp: "合理的な陳列の研究に情熱を注ぐ"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1195:
+	# jp: "合理性至上主義な"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1196:
+	# jp: "切り口が率直過ぎる"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1197:
+	# jp: "クラブを手にした瞬間、打ってしまう"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1198:
+	# jp: "パター用クラブに「パター用」と書いてしまう"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1199:
+	# jp: "ゴールした直後に表彰台に上がろうとする"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1200:
+	# jp: "現実的で堅実的な"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1201:
+	# jp: "理詰め天国な"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1202:
+	# jp: "石橋を叩いて砕く"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1203:
+	# jp: "安定した暮らしを望む"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1204:
+	# jp: "誇り高き一匹狼"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1205:
+	# jp: "わりと打算的な"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1206:
+	# jp: "４コマ専門の"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1207:
+	# jp: "身構えることが習慣化してしまった"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1208:
+	# jp: "綿密ならぬ麺密な市場分析"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1209:
+	# jp: "庶民派でありながら本物の紳士"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1210:
+	# jp: "頑張った子にはちゃんと上乗せする"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1211:
+	# jp: "中小企業の最終兵器"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1212:
+	# jp: "１センチの隙もない"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1213:
+	# jp: "行き先を一人では決められない"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1214:
+	# jp: "店先の手入れはカンペキ"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1215:
+	# jp: "許された範囲内で限界までオシャレを"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1216:
+	# jp: "冗談が本当になった"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1217:
+	# jp: "社員も度肝を抜く新発想をかかげる"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1218:
+	# jp: "田植え前に労力の８割を割く"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1219:
+	# jp: "ピラミッドはＵＦＯの車止めだと信じる"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1220:
+	# jp: "体調の良し悪しがモロ態度に影響"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1221:
+	# jp: "おだてられてつい無謀な秘境へ"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1222:
+	# jp: "カワイイと言われるまで絶対にやめない"
+	# en: " "
+	""
+
+translate spanish tmd_job_msg_JP.json/MSG_1223:
+	# jp: "おだてないと不機嫌になる"
+	# en: " "
+	""
+

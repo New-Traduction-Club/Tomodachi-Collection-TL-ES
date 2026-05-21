@@ -1,0 +1,1195 @@
+translate spanish tmd_contents_msg_JP.json/MSG_0000:
+	# jp: "どっちにしようか迷っていることを\nふたつとも書いてください。\n\n"
+	# en: "Please write down 2 items that you\ncan't decide which one to choose.\n\n"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0001:
+	# jp: "（例）どっちを食べようかなぁ？"
+	# en: "Ex. Which one should I eat?"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0002:
+	# jp: "（例）どっちで遊ぼうかなぁ？"
+	# en: "Ex. Which one should I play?"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0003:
+	# jp: "（例）どっちの髪型にしようかなぁ？"
+	# en: "Ex. Which hairstyle should I do?"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0004:
+	# jp: "（例）どっちに遊びに行こうかなぁ？"
+	# en: "Ex. Where should I go?"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0005:
+	# jp: "（例）どっちにしようかなぁ？"
+	# en: "Ex. Which one should I choose?"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0006:
+	# jp: "（例）さてどうしようかなぁ？"
+	# en: "Ex. What should I do?"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0007:
+	# jp: "（例）どっちを飼おうかなぁ？"
+	# en: "Ex. Which one should I raise?"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0008:
+	# jp: "多数決開始！"
+	# en: "Majority Vote!"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0009:
+	# jp: "こっちに\nしましょう！"
+	# en: "This one!"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0010:
+	# jp: "どっちでも\nいいみたいです…"
+	# en: "Both are\ngood..."
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0011:
+	# jp: "[255:03000100]多数決をとる！"
+	# en: "[255:03000100]Start Voting!"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0012:
+	# jp: "もう一度"
+	# en: "Retry"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0013:
+	# jp: "やめる"
+	# en: "Quit"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0014:
+	# jp: "[255:00000100]「適当に選びました」"
+	# en: "[255:00000100]\"I chose appropriately.\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0015:
+	# jp: "テキトウニエラビマシタ"
+	# en: "テキトウニエラビマシタ"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0016:
+	# jp: "[255:00000100]「やっぱりこっちかなぁ」"
+	# en: "[255:00000100]\"It should be this one.\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0017:
+	# jp: "ヤッパリコッチカナー"
+	# en: "ヤッパリコッチカナー"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0018:
+	# jp: "[255:00000100]「絶対こっち！」"
+	# en: "[255:00000100]\"Absolutely this one!\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0019:
+	# jp: "ゼッタイコッチ!"
+	# en: "ゼッタイコッチ!"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0020:
+	# jp: "[255:00000100]「どっちかというと、こっちかな」"
+	# en: "[255:00000100]\"If I have to choose, it's this one.\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0021:
+	# jp: "ドッチカトイウト_コッチカナ"
+	# en: "ドッチカトイウト_コッチカナ"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0022:
+	# jp: "[255:00000100]「こっちでいいんじゃない？」"
+	# en: "[255:00000100]\"Isn't this one good?\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0023:
+	# jp: "コッチデイインジャナイ?"
+	# en: "コッチデイインジャナイ?"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0024:
+	# jp: "[255:00000100]「自信ないけど…」"
+	# en: "[255:00000100]\"I'm not sure either...\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0025:
+	# jp: "ジシンナイケド"
+	# en: "ジシンナイケド"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0026:
+	# jp: "[255:00000100]「まぁ、どっちも同じかもね」"
+	# en: "[255:00000100]\"Well, both are the same to me.\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0027:
+	# jp: "マー_ドッチモオナジカモネ"
+	# en: "マー_ドッチモオナジカモネ"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0028:
+	# jp: "[255:00000100]「こちらをおすすめします」"
+	# en: "[255:00000100]\"I recommend this one.\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0029:
+	# jp: "コチラヲオススメシマス"
+	# en: "コチラヲオススメシマス"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0030:
+	# jp: "[255:00000100]「消去法で決めました」"
+	# en: "[255:00000100]\"Just eliminate what you don't want.\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0031:
+	# jp: "ショウキョホウデキメマシタ"
+	# en: "ショウキョホウデキメマシタ"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0032:
+	# jp: "[255:00000100]「やっぱりあっちだったかな…」"
+	# en: "[255:00000100]\"It's this one, I think...\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0033:
+	# jp: "ヤッパリアッチダッタカナ"
+	# en: "ヤッパリアッチダッタカナ"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0034:
+	# jp: "[255:00000100]「みんなについてきました」"
+	# en: "[255:00000100]\"I just followed other people.\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0035:
+	# jp: "ミンナニツイテキマシタ"
+	# en: "ミンナニツイテキマシタ"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0036:
+	# jp: "[255:00000100]「こっちから美味しそうなにおいがしたので」"
+	# en: "[255:00000100]\"It smelled nicer on this side.\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0037:
+	# jp: "コッチカラ_オイシソウナニオイガシタノデ"
+	# en: "コッチカラ_オイシソウナニオイガシタノデ"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0038:
+	# jp: "[255:00000100]「こっちが今の気分です！」"
+	# en: "[255:00000100]\"I'm in the mood for this one!\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0039:
+	# jp: "コッチガイマノキブンデス!"
+	# en: "コッチガイマノキブンデス!"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0040:
+	# jp: "[255:00000100]「わたしはこっち派です」"
+	# en: "[255:00000100]\"I like this one better.\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0041:
+	# jp: "ワタシワコッチハデス。"
+	# en: "ワタシワコッチハデス。"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0042:
+	# jp: "[255:00000100]「こっちに運命を感じたので」"
+	# en: "[255:00000100]\"I feel like you're fated with this one.\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0043:
+	# jp: "コッチニウンメイヲカンジタノデ"
+	# en: "コッチニウンメイヲカンジタノデ"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0044:
+	# jp: "[255:00000100]「今、こっちに目が離せない！」"
+	# en: "[255:00000100]\"I can't take my eyes off this one!\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0045:
+	# jp: "イマ_コッチニメガハナセナイ!"
+	# en: "イマ_コッチニメガハナセナイ!"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0046:
+	# jp: "[255:00000100]「こっちが正解！」"
+	# en: "[255:00000100]\"This is the correct answer!\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0047:
+	# jp: "コッチガセイカイ!"
+	# en: "コッチガセイカイ!"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0048:
+	# jp: "[255:00000100]「あっちはちょっとありえないでしょ」"
+	# en: "[255:00000100]\"The other one didn't seem good.\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0049:
+	# jp: "アッチワチョットアリエナイデショ"
+	# en: "アッチワチョットアリエナイデショ"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0050:
+	# jp: "[255:00000100]「こっちが今年らしいよね」"
+	# en: "[255:00000100]\"This one is better for now.\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0051:
+	# jp: "コッチガコトシラシイヨネ"
+	# en: "コッチガコトシラシイヨネ"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0052:
+	# jp: "[255:00000100]「まあ、定番でこっちかな」"
+	# en: "[255:00000100]\"Well, generally, it's this one.\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0053:
+	# jp: "マア_テイバンデコッチカナ"
+	# en: "マア_テイバンデコッチカナ"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0054:
+	# jp: "[255:00000100]「逆にこっちかなと思って」"
+	# en: "[255:00000100]\"I just thought it should be this one.\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0055:
+	# jp: "ギャクニコッチカナトオモッテ"
+	# en: "ギャクニコッチカナトオモッテ"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0056:
+	# jp: "[255:00000100]「あえてこっちです」"
+	# en: "[255:00000100]\"Better try this one.\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0057:
+	# jp: "アエテコッチデス"
+	# en: "アエテコッチデス"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0058:
+	# jp: "[255:00000100]「こっちが基本かな」"
+	# en: "[255:00000100]\"This one is the standard one.\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0059:
+	# jp: "コッチガキホンカナ"
+	# en: "コッチガキホンカナ"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0060:
+	# jp: "[255:00000100]「あっちよりはマシだよ」"
+	# en: "[255:00000100]\"I prefer this one.\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0061:
+	# jp: "アッチヨリワマシダヨ"
+	# en: "アッチヨリワマシダヨ"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0062:
+	# jp: "[255:00000100]「意外とこっち」"
+	# en: "[255:00000100]\"Unexpectedly, I chose this.\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0063:
+	# jp: "イガイトコッチ"
+	# en: "イガイトコッチ"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0064:
+	# jp: "[255:00000100]「こっちにしてからモテモテです」"
+	# en: "[255:00000100]\"You'll become popular with this one.\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0065:
+	# jp: "コッチニシテカラモテモテデス"
+	# en: "コッチニシテカラモテモテデス"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0066:
+	# jp: "[255:00000100]「経験からいってこっち！」"
+	# en: "[255:00000100]\"From my experience, I chose this one!\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0067:
+	# jp: "ケイケンカライッテコッチ!"
+	# en: "ケイケンカライッテコッチ!"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0068:
+	# jp: "[255:00000100]「こっちに１０円玉が落ちてたので」"
+	# en: "[255:00000100]\"Someone dropped a coin here.\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0069:
+	# jp: "コッチニジュウエンダマガオチテタノデ"
+	# en: "コッチニジュウエンダマガオチテタノデ"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0070:
+	# jp: "[255:00000100]「あっちにして痛い目にあったので」"
+	# en: "[255:00000100]\"The other one seemed too tough.\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0071:
+	# jp: "アッチニシテイタイメニアッタノデ"
+	# en: "アッチニシテイタイメニアッタノデ"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0072:
+	# jp: "[255:00000100]「ドッジボールじゃないんですか？」"
+	# en: "[255:00000100]\"I thought we'd play dodge ball.\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0073:
+	# jp: "ドッチボールジャナインデスカ"
+	# en: "ドッチボールジャナインデスカ"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0074:
+	# jp: "[255:00000100]「素人はあっちを選びたがりますよね」"
+	# en: "[255:00000100]\"Only novices would choose the other one.\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0075:
+	# jp: "シロウトワアッチヲエラビタガリマスヨネ"
+	# en: "シロウトワアッチヲエラビタガリマスヨネ"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0076:
+	# jp: "[255:00000100]「こっちはセンスのいいＭｉｉが多いですよね」"
+	# en: "[255:00000100]\"We got Miis with nice sense here.\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0077:
+	# jp: "コッチワセンスノイイミーガオオイデスヨネ"
+	# en: "コッチワセンスノイイミーガオオイデスヨネ"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0078:
+	# jp: "[255:00000100]「こっちの方がいいと思うよ」"
+	# en: "[255:00000100]\"I think this one is better.\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0079:
+	# jp: "コッチノホウガイイトオモウヨ"
+	# en: "コッチノホウガイイトオモウヨ"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0080:
+	# jp: "[255:00000100]「空気を読んで、こっちにしてみました」"
+	# en: "[255:00000100]\"With this circumstance, I chose this one.\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0081:
+	# jp: "クウキヲヨンデ_コッチニシテミマシタ"
+	# en: "クウキヲヨンデ_コッチニシテミマシタ"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0082:
+	# jp: "[255:00000100]「先祖代々、こっちですね」"
+	# en: "[255:00000100]\"Traditionally, it's this one.\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0083:
+	# jp: "センゾダイダイ_コッチデスネ"
+	# en: "センゾダイダイ_コッチデスネ"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0084:
+	# jp: "[255:00000100]「たぶん、こっちかな？」"
+	# en: "[255:00000100]\"It's this one, I guess.\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0085:
+	# jp: "タブン_コッチカナ?"
+	# en: "タブン_コッチカナ?"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0086:
+	# jp: "[255:00000100]「最近は、断然こっちだね」"
+	# en: "[255:00000100]\"For now, it's definitely this one.\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0087:
+	# jp: "サイキンワ_ダンゼンコッチダネ"
+	# en: "サイキンワ_ダンゼンコッチダネ"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0088:
+	# jp: "[255:00000100]「あっちも悪くないんだけどね」"
+	# en: "[255:00000100]\"The other one isn't bad though.\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0089:
+	# jp: "アッチモワルクナインダケドネ"
+	# en: "アッチモワルクナインダケドネ"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0090:
+	# jp: "[255:00000100]「僅差でこっち！」"
+	# en: "[255:00000100]\"This one won by a narrow margin!\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0091:
+	# jp: "キンサデコッチ!"
+	# en: "キンサデコッチ!"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0092:
+	# jp: "[255:00000100]「どちらが正解って訳じゃないだろうけどね」"
+	# en: "[255:00000100]\"There's no absolute correct answer.\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0093:
+	# jp: "ドチラガセイカイッテワケジャナイダロウケドネ"
+	# en: "ドチラガセイカイッテワケジャナイダロウケドネ"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0094:
+	# jp: "[255:00000100]「こっちって、気分でした」"
+	# en: "[255:00000100]\"I felt like choosing this one.\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0095:
+	# jp: "コッチッテキブンデシタ。"
+	# en: "コッチッテキブンデシタ。"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0096:
+	# jp: "[255:00000100]「直感を信じてみました」"
+	# en: "[255:00000100]\"Just believe my hunch.\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0097:
+	# jp: "チョッカンヲシンジテミマシタ"
+	# en: "チョッカンヲシンジテミマシタ"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0098:
+	# jp: "[255:00000100]「迷いましたが、こっちに決めました」"
+	# en: "[255:00000100]\"If you can't decide, choose this.\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0099:
+	# jp: "マヨイマシタガ_コッチニキメマシタ"
+	# en: "マヨイマシタガ_コッチニキメマシタ"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0100:
+	# jp: "[255:00000100]「優柔不断じゃないので」"
+	# en: "[255:00000100]\"It's not indecisiveness, right?\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0101:
+	# jp: "ユウジュウフダンジャナイノデ"
+	# en: "ユウジュウフダンジャナイノデ"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0102:
+	# jp: "[255:00000100]「迷わず、こっちにしました」"
+	# en: "[255:00000100]\"Don't hesitate. Choose this one.\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0103:
+	# jp: "マヨワズ_コッチニシマシタ"
+	# en: "マヨワズ_コッチニシマシタ"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0104:
+	# jp: "[255:00000100]「あっちも捨てがたいけど、こっちかな」"
+	# en: "[255:00000100]\"I don't like the other one, so this one.\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0105:
+	# jp: "アッチモステガタイケド_コッチカナ"
+	# en: "アッチモステガタイケド_コッチカナ"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0106:
+	# jp: "[255:00000100]「こっちです。決め手は内緒ですが」"
+	# en: "[255:00000100]\"This one. I don't know why, though.\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0107:
+	# jp: "コッチデス_キメテハナイショデスガ"
+	# en: "コッチデス_キメテハナイショデスガ"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0108:
+	# jp: "[255:00000100]「オトナは、当然こっちですよ」"
+	# en: "[255:00000100]\"As an adult, I chose this.\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0109:
+	# jp: "オトナワ_トウゼンコッチデスヨ"
+	# en: "オトナワ_トウゼンコッチデスヨ"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0110:
+	# jp: "[255:00000100]「純粋な気持ちでこっちにしました」"
+	# en: "[255:00000100]\"With my innocent heart, I chose this.\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0111:
+	# jp: "ジュンスイナキモチデコッチニシマシタ"
+	# en: "ジュンスイナキモチデコッチニシマシタ"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0112:
+	# jp: "[255:00000100]「若者はこっちしかありえない！」"
+	# en: "[255:00000100]\"This is best for teenagers!\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0113:
+	# jp: "ワカモノワコッチシカアリエナイ!"
+	# en: "ワカモノワコッチシカアリエナイ!"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0114:
+	# jp: "[255:00000100]「いや～、難しかったです」"
+	# en: "[255:00000100]\"Ah~ It was difficult.\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0115:
+	# jp: "イヤ～_ムズカシカッタデス"
+	# en: "イヤ～_ムズカシカッタデス"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0116:
+	# jp: "[255:00000100]「正直に言うと、悩みました」"
+	# en: "[255:00000100]\"To be honest, I couldn't decide.\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0117:
+	# jp: "ショウジキニイウト_ナヤミマシタ。"
+	# en: "ショウジキニイウト_ナヤミマシタ。"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0118:
+	# jp: "[255:00000100]「う～ん、こっち！！　いや、あっちかな…？」"
+	# en: "[255:00000100]\"Umm~ This!! No, maybe that...?\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0119:
+	# jp: "ウ～ン_コッチ!イヤ_アッチカナ?"
+	# en: "ウ～ン_コッチ!イヤ_アッチカナ?"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0120:
+	# jp: "[255:00000100]「こっちで間違ってませんよね？」"
+	# en: "[255:00000100]\"This one. No mistake, right?\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0121:
+	# jp: "コッチデマチガッテマセンヨネ？"
+	# en: "コッチデマチガッテマセンヨネ？"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0122:
+	# jp: "[255:00000100]「やっぱり、こっちじゃないと」"
+	# en: "[255:00000100]\"Yeah. It has to be this one.\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0123:
+	# jp: "ヤッパリ_コッチジャナイト"
+	# en: "ヤッパリ_コッチジャナイト"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0124:
+	# jp: "[255:00000100]「こっちの方がしっくりきます」"
+	# en: "[255:00000100]\"This one will suit you.\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0125:
+	# jp: "コッチノホーガシックリキマス"
+	# en: "コッチノホーガシックリキマス"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0126:
+	# jp: "[255:00000100]「子供の頃のピュアな心で決めました」"
+	# en: "[255:00000100]\"With my pure heart, it's this one.\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0127:
+	# jp: "コドモノコロノピュアナココロデキメマシタ"
+	# en: "コドモノコロノピュアナココロデキメマシタ"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0128:
+	# jp: "[255:00000100]「第一印象から決めていました」"
+	# en: "[255:00000100]\"I chose it from my first impression.\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0129:
+	# jp: "ダイイチインショーカラキメテイマシタ"
+	# en: "ダイイチインショーカラキメテイマシタ"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0130:
+	# jp: "[255:00000100]「ひと目見て、決めたよ！」"
+	# en: "[255:00000100]\"Just one look and I chose this!\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0131:
+	# jp: "ヒトメミテ_キメタヨ!"
+	# en: "ヒトメミテ_キメタヨ!"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0132:
+	# jp: "[255:00000100]「ズバリ！こっち！！」"
+	# en: "[255:00000100]\"Once and for all! This one!\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0133:
+	# jp: "ズバリ!コッチ!!"
+	# en: "ズバリ!コッチ!!"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0134:
+	# jp: "[255:00000100]「経験からいってこっち！」"
+	# en: "[255:00000100]\"From my experience, it's this one!\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0135:
+	# jp: "ケイケンカライッテコッチ!"
+	# en: "ケイケンカライッテコッチ!"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0136:
+	# jp: "[255:00000100]「[1:0a000000]」"
+	# en: "[255:00000100]\"[1:0a000000]\""
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0137:
+	# jp: "[1:0a000000]"
+	# en: "[1:0a000000]"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0138:
+	# jp: "相性テスター"
+	# en: "Test"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0139:
+	# jp: "[1:01000000]"
+	# en: "[1:01000000]"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0140:
+	# jp: "ＯＫ"
+	# en: "OK"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0141:
+	# jp: "診断したいＭｉｉを選んでください。"
+	# en: "Please select a Mii to diagnose."
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0142:
+	# jp: "[255:00000700][1:01000000][255:00000800]との相性を見たい\nＭｉｉを選んでください。"
+	# en: "Select a partner you want to\ndiagnose together with\n[255:00000700][1:01000000][255:00000800]."
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0143:
+	# jp: "並び替え"
+	# en: "Sort"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0144:
+	# jp: "スキップ"
+	# en: "Skip"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0145:
+	# jp: "[255:00000100]生年月日がわからないと診断できません"
+	# en: "[255:00000100]We need birthday info to diagnose."
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0146:
+	# jp: "[255:00000100]同じＭｉｉ同士は診断できません"
+	# en: "[255:00000100]Cannot diagnose the same Mii."
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0147:
+	# jp: "このふたりを診断します。\nよろしいですか？"
+	# en: "We will diagnose this pair.\nIs it okay?"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0148:
+	# jp: "診断する"
+	# en: "Diagnose"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0149:
+	# jp: "選びなおす"
+	# en: "Restart"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0150:
+	# jp: "[255:00000700][1:01000000][255:00000800]＆[255:00000700][1:01000100][255:00000800]\nトモダチ相性は…"
+	# en: "[255:00000700][1:01000000][255:00000800]&[255:00000700][1:01000100][255:00000800]'s\nCompatibility Level is..."
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0151:
+	# jp: "[255:00000500]「人生の友」[255:00000800]タイプです"
+	# en: "[255:00000500]「Friends through Life」"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0152:
+	# jp: "[255:00000500]「心の友」[255:00000800]タイプです"
+	# en: "[255:00000500]「Soul Mate」"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0153:
+	# jp: "[255:00000500]「良き親友」[255:00000800]タイプです"
+	# en: "[255:00000500]「Very Good Friends」"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0154:
+	# jp: "[255:00000500]「かなり仲良し」[255:00000800]タイプです"
+	# en: "[255:00000500]「Pretty Good Friends」"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0155:
+	# jp: "[255:00000500]「けっこう仲良し」[255:00000800]タイプです"
+	# en: "[255:00000500]「Good Friends」"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0156:
+	# jp: "[255:00000500]「ふつうに仲良し」[255:00000800]タイプです"
+	# en: "[255:00000500]「Normal Friends」"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0157:
+	# jp: "[255:00000500]「義理のトモダチ」[255:00000800]タイプです"
+	# en: "[255:00000500]「Social Friends」"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0158:
+	# jp: "[255:00000500]「他人行儀な仲」[255:00000800]タイプです"
+	# en: "[255:00000500]「Reserved Acquaintances」"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0159:
+	# jp: "[255:00000500]「イマイチな仲」[255:00000800]タイプです"
+	# en: "[255:00000500]「So-so」"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0160:
+	# jp: "[255:00000500]「ケンカの絶えない仲」[255:00000800]タイプです"
+	# en: "[255:00000500]「Always in a Fight」"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0161:
+	# jp: "[255:00000500]「犬猿の仲」[255:00000800]タイプです"
+	# en: "[255:00000500]「Rival」"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0162:
+	# jp: "[255:00000500]「最低の仲」[255:00000800]タイプです"
+	# en: "[255:00000500]「Worst Friends Ever」"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0163:
+	# jp: "[255:00000700][1:01000000][255:00000800]＆[255:00000700][1:01000100][255:00000800]\n恋愛相性は…"
+	# en: "[255:00000700][1:01000000][255:00000800]&[255:00000700][1:01000100][255:00000800]'s\nLove Compatibility Level is..."
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0164:
+	# jp: "[255:00000200]「最高のふたり」[255:00000800]タイプです"
+	# en: "[255:00000200]「Ultimate Couple」"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0165:
+	# jp: "[255:00000200]「運命的なふたり」[255:00000800]タイプです"
+	# en: "[255:00000200]「Fated Couple」"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0166:
+	# jp: "[255:00000200]「ラブラブなふたり」[255:00000800]タイプです"
+	# en: "[255:00000200]「Lovely Couple」"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0167:
+	# jp: "[255:00000200]「ペアルック着てそうなふたり」[255:00000800]タイプです"
+	# en: "[255:00000200]「Well-matched Couple」"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0168:
+	# jp: "[255:00000200]「ウワサになりそうなふたり」[255:00000800]タイプです"
+	# en: "[255:00000200]「Talk-of-the-town Couple」"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0169:
+	# jp: "[255:00000200]「何かありそうでないふたり」[255:00000800]タイプです"
+	# en: "[255:00000200]「Ordinary Couple」"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0170:
+	# jp: "[255:00000200]「煮え切らないふたり」[255:00000800]タイプです"
+	# en: "[255:00000200]「Indecisive Couple」"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0171:
+	# jp: "[255:00000200]「答えの見えないふたり」[255:00000800]タイプです"
+	# en: "[255:00000200]「No-Future Couple」"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0172:
+	# jp: "[255:00000200]「トモダチ止まりなふたり」[255:00000800]タイプです"
+	# en: "[255:00000200]「Can't-Even-Be-Friends Couple」"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0173:
+	# jp: "[255:00000200]「無理のあるふたり」[255:00000800]タイプです"
+	# en: "[255:00000200]「Overdoing Couple」"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0174:
+	# jp: "[255:00000200]「どうしようもないふたり」[255:00000800]タイプです"
+	# en: "[255:00000200]「Helpless Couple」"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0175:
+	# jp: "[255:00000200]「最低のふたり」[255:00000800]タイプです"
+	# en: "[255:00000200]「Worst Couple Ever」"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0176:
+	# jp: "別の組み合わせで診断する"
+	# en: "Select other pair"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0177:
+	# jp: "やめる"
+	# en: "Quit"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0178:
+	# jp: "ここまで相性が悪いのは珍しいです…"
+	# en: "It's rare to get such a bad result..."
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0179:
+	# jp: "お互いの意見には噛み付くくせに、\n気持ちはまったく噛み合いません。"
+	# en: "These two won't listen to each\nother's opinions."
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0180:
+	# jp: "これ以上でもこれ以下でもありません。"
+	# en: "This result is pretty unique."
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0181:
+	# jp: "[1:01000000]が頑張れば\n義理の友達くらいにはなれるかも。"
+	# en: "If [1:01000000] tries hard,\nthey can at least be social friends."
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0182:
+	# jp: "ですが、[1:01000000]は\n仲良くなりたそうな雰囲気です。"
+	# en: "But [1:01000000] seems happy\nthat they are friends."
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0183:
+	# jp: "ですが、[1:01000000]は\n仲良くなりたくて仕方ないようです。"
+	# en: "But [1:01000000] thinks it\ncan't be helped that they're friends."
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0184:
+	# jp: "お互い無関心です。"
+	# en: "They don't care about each other."
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0185:
+	# jp: "挨拶は一応するくらいの仲です。"
+	# en: "At least they greet each other\noccasionally."
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0186:
+	# jp: "[1:01000100]が\n友達になりたがらないようです。"
+	# en: "[1:01000100] doesn't really\nlike it that they are friends."
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0187:
+	# jp: "[1:01000000]は、この間柄を\nなんとかしたいと思っています。"
+	# en: "[1:01000000] is thinking about\ndoing something with this relationship."
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0188:
+	# jp: "特に波風が立つことはありません。"
+	# en: "They don't hate each other in\nparticular."
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0189:
+	# jp: "ごく普通の仲です。"
+	# en: "Pretty normal relationship."
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0190:
+	# jp: "一度険悪になると\n音信不通になる可能性あり。"
+	# en: "Only one fight is possible to\nbreak up their relationship."
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0191:
+	# jp: "相性のバランスはいいので\n一緒にいると楽なようです。"
+	# en: "They are well-balanced when they\nare together."
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0192:
+	# jp: "[1:01000100]次第で\nさらに仲良しな関係に。"
+	# en: "[1:01000100] is the more\nreliable one between these two."
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0193:
+	# jp: "ですが、[1:01000100]はあまり\n深い仲になりたがっていないようです。"
+	# en: "But [1:01000100] doesn't seem\nto want to get in serious relationship."
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0194:
+	# jp: "ですが、これ以上の関係には\nならないようです。"
+	# en: "But it seems like their relationship\ncan't go any further than this."
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0195:
+	# jp: "まさに相性ピッタリです！\nこの出会いを一生大切にしましょう！"
+	# en: "They have perfect chemistry! They\nare blessed to have met each other."
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0196:
+	# jp: "相性ピッタリです！\nケンカしても、より深い仲になれます。"
+	# en: "A Perfect match. The more they\nfight, the better the friendship."
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0197:
+	# jp: "[1:01000000]が気をつかいながら\n仲を深めていきましょう。"
+	# en: "While [1:01000000] isn't aware,\ntheir relationship is growing stronger."
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0198:
+	# jp: "ただし、ケンカすると\n[1:01000100]が離れていくかも。"
+	# en: "With just a fight, [1:01000100]\nwill probably want to break up."
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0199:
+	# jp: "ですが、[1:01000100]が\n裏切る可能性も否定できません。"
+	# en: "But [1:01000100] has the\npotential to cheat."
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0200:
+	# jp: "一生に一度出会えるかどうかの仲！\nまさに一生の友となるでしょう！"
+	# en: "Their friendship can last for\na lifetime!"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0201:
+	# jp: "ここまで相性が悪いのは珍しいです…"
+	# en: "It's rare to get such a bad result..."
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0202:
+	# jp: "どうにもなりません。"
+	# en: "Nothing can be done to make things\nbetter for them."
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0203:
+	# jp: "お互い無関心です。"
+	# en: "They don't care about each other."
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0204:
+	# jp: "ただし、[1:01000000]は\nどうにかしたいと思っているようです。"
+	# en: "[1:01000000] is trying to\nmake things work out for them."
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0205:
+	# jp: "でも実は[1:01000000]は\n密かに想いをよせています。"
+	# en: "Actually, [1:01000000] is\nvery serious about their relationship."
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0206:
+	# jp: "でも[1:01000000]にとっては\n一緒にいたい存在のようです。"
+	# en: "[1:01000000] actually wants\nto keep this relationship."
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0207:
+	# jp: "きっかけがあっても何も起こりません。"
+	# en: "It's pretty hard to make things\nwork out between them."
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0208:
+	# jp: "お互いにどうにかする気もありません。"
+	# en: "They feel like they don't have\nanything to do with each other."
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0209:
+	# jp: "[1:01000000]の\n片想い傾向があります。"
+	# en: "[1:01000000] is probably\nin unrequited love."
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0210:
+	# jp: "[1:01000000]の一方的な\n片想いのようです。"
+	# en: "[1:01000000]'s love\nis probably one-sided."
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0211:
+	# jp: "お互いの距離に二人とも満足しています。"
+	# en: "They are satisfied with the current\ndistance between them."
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0212:
+	# jp: "お互いの努力次第です。"
+	# en: "They are dependent on each other."
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0213:
+	# jp: "[1:01000100]が\n乗り気でないようです。"
+	# en: "[1:01000100] doesn't seem\nto care about this relationship."
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0214:
+	# jp: "どちらかがソノ気になれば、\n一気に進展する可能性あり！"
+	# en: "There's a possibility that their\nrelationship could develop further."
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0215:
+	# jp: "お互いの歩み寄りで\nゴールへの道が開けそうです。"
+	# en: "The future is open for them if\nthey can compromise."
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0216:
+	# jp: "ですが、[1:01000100]の\n思い入れは意外と淡白です。"
+	# en: "But [1:01000100] doesn't\ncare much about their relationship."
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0217:
+	# jp: "ただし、[1:01000000]の相当強い\n想いによって成り立っています。"
+	# en: "The relationship is relied on\n[1:01000000]'s strong feelings."
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0218:
+	# jp: "まさに相思相愛です！\n二人が出会えたのは偶然ではなく必然です！"
+	# en: "Mutual love! It wasn't a coincidence\nthat they have met each other."
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0219:
+	# jp: "相思相愛です！より想いの強い\n[1:01000000]に任せましょう！"
+	# en: "They have mutual love! Just leave\neverything to [1:01000000]!"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0220:
+	# jp: "相思相愛ではありますが、油断すると\n[1:01000100]が冷める傾向が。"
+	# en: "They have mutual love but occasionally\n[1:01000100] needs attention."
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0221:
+	# jp: "相思相愛ではありますが、\nケンカも絶えない二人です。"
+	# en: "They have mutual love but they\nmight still fight constantly."
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0222:
+	# jp: "相思相愛！と思いきや、\n[1:01000100]の本音は不明。"
+	# en: "People think they have mutual love, but\n[1:01000100] might not think so."
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0223:
+	# jp: "一生に一度出会えるかどうかの相性！\nもう結婚するしかないでしょう！"
+	# en: "They are a match made in heaven!\nThey should get married!"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0224:
+	# jp: "その日の運勢や心身の\nバランスを総合し、\n合計ポイントを発表！\n順位は毎日変わります。\n(※生年月日の登録が必要)"
+	# en: "Who have the most\nbalanced conditions\nand best fortunes\nfor today? (Based on\nbirth dates.)"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0225:
+	# jp: "この島の男性の中で\n誰がモテているのか\nズバリ発表します！\nなお、最下位になっても\n苦情は受け付けません。"
+	# en: "Who are the most\npopular guys on this\nisland? Please don't\ncomplain if your\nrank is low."
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0226:
+	# jp: "この島の女性の中で\n誰がモテているのか\nズバリ発表！下位の人も、\nモテることだけが全てでは\nないのでご安心ください。"
+	# en: "Who are the most\npopular women on this\nisland? But, popularity\nisn't the only thing in\nyour life, okay?"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0227:
+	# jp: "この島の住人全員の中で\n最も人気のある住人を\n大発表します！\n同性にも異性にも好かれる\nのは、まさに人気者の証！"
+	# en: "Who are the most\npopular people from\nboth male and female\nresidents' opinions?"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0228:
+	# jp: "同性同士で相性の良い\n組み合わせは…？\n相性テスターではじき\n出された数値を忠実に\nランキングします！"
+	# en: "For people of the\nsame gender, which\nones would be the most\ncompatible pairs?"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0229:
+	# jp: "相性バッチリな男女の\n組み合わせは…？\n相性テスターではじき\n出された数値を忠実に\nランキングします！"
+	# en: "Which of these couples\nwould be the most\ncompatible ones?"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0230:
+	# jp: "あなたがかわいがっている\n（えこひいきしている）\n住人は一体誰でしょう？\nその答えが今、白日の下に\nさらされる…！"
+	# en: "Which Miis got most\nof your attention?\n(Well, it's called\nfavoritism.)"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0231:
+	# jp: "【モテ男ランキング】\n掲載予定\n－－－－掲載条件－－－－\n告白された男性がいる"
+	# en: "【モテ男ランキング】\n掲載予定\n－－－－掲載条件－－－－\n告白された男性がいる"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0232:
+	# jp: "【モテ女ランキング】\n掲載予定\n－－－－掲載条件－－－－\n告白された女性がいる"
+	# en: "【モテ女ランキング】\n掲載予定\n－－－－掲載条件－－－－\n告白された女性がいる"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0233:
+	# jp: "【人気ランキング】\n掲載予定\n－－－－掲載条件－－－－\n住人が１５人以上になる"
+	# en: "【人気ランキング】\n掲載予定\n－－－－掲載条件－－－－\n住人が１５人以上になる"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0234:
+	# jp: "【友達相性ランキング】\n掲載予定\n－－－－掲載条件－－－－\n友達相性を１０組以上\n診断する"
+	# en: "【友達相性ランキング】\n掲載予定\n－－－－掲載条件－－－－\n友達相性を１０組以上\n診断する"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0235:
+	# jp: "【恋愛相性ランキング】\n掲載予定\n－－－－掲載条件－－－－\n恋愛相性を１０組以上\n診断する"
+	# en: "【恋愛相性ランキング】\n掲載予定\n－－－－掲載条件－－－－\n恋愛相性を１０組以上\n診断する"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0236:
+	# jp: "【お気に入りランキング】\n掲載予定\n－－－－掲載条件－－－－\n住人が３０人以上になる"
+	# en: "【お気に入りランキング】\n掲載予定\n－－－－掲載条件－－－－\n住人が３０人以上になる"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0237:
+	# jp: "見る"
+	# en: "Check"
+	""
+
+translate spanish tmd_contents_msg_JP.json/MSG_0238:
+	# jp: ""
+	# en: ""
+	""
+

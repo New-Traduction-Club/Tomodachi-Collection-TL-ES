@@ -1,0 +1,3195 @@
+translate spanish tmd_explain_msg_JP.json/MSG_0000:
+	# jp: "さわやかストロベリーフレーバー。\nコーンもカリカリ！"
+	# en: "Refreshing strawberry\nice cream in crispy cone!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0001:
+	# jp: "健康のためなら！ためらわずに\nぐいっと飲みほしてみよう。"
+	# en: "Nutritious vegetable drink\nthat is good for your health."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0002:
+	# jp: "甘～いりんごに、さくさく食感。\nシナモンの良い香りもたまらない。"
+	# en: "Made from sweet crunchy\napples and cinnamon."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0003:
+	# jp: "とれたての鮎をまるごと塩焼き。\n縁日でもおなじみの一品。"
+	# en: "Freshly grilled whole salmon."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0004:
+	# jp: "甘さ控えめなつぶあんがぎっしり\nつまってます。"
+	# en: "A sweet bun packed with\nred bean filling."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0005:
+	# jp: "鮮度抜群！\nビタミンＣも豊富で美容にも◎。"
+	# en: "Rich in Vitamin-C to boost\nyour beauty."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0006:
+	# jp: "ジューシーにたれがしみこんで、\nごはんもふっくら。"
+	# en: "Fluffy rice stuffed inside\njuicy fried tofu."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0007:
+	# jp: "特上のうなぎはとろける柔らかさ。\nスタミナをつけたいときに。"
+	# en: "Tender broiled eel that helps\nboost your stamina."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0008:
+	# jp: "すっぱさの中に、ほのかな甘さが\n隠れてる。ご飯のお供に。"
+	# en: "Hidden sweetness within its\nsour flesh."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0009:
+	# jp: "疲れたときこの１本がききます！\n現代人の心強い味方。"
+	# en: "Just one bottle will get rid of\nyour tiredness."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0010:
+	# jp: "ぷりぷりのエビがたくさん入って\nます。ランチタイムにどうぞ。"
+	# en: "Lots of tender shrimps.\nPerfect for lunchtime!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0011:
+	# jp: "プリプリのエビとカリカリの衣。\nタルタルソースでぱくっと一口！"
+	# en: "Crispy fried shrimps to\ndip in tartar sauce!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0012:
+	# jp: "子供が大好きなメニューがいっぱ\nい！大人の方も遠慮せずどうぞ。"
+	# en: "Packed with kids' favorite\nitems! Adults can enjoy it too."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0013:
+	# jp: "豚、イカ、エビなど具だくさん！\nかつおもおどるアツアツのうちに。"
+	# en: "Savory pancake with pork,\nsquid, and shrimp!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0014:
+	# jp: "新鮮なおさしみの盛り合わせ。\nおすすめは繊細な味わいのタイ。"
+	# en: "Assorted fresh sashimi\n(raw fish.)"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0015:
+	# jp: "お正月にはかかせない。\n特上素材で丁寧に仕上げました。"
+	# en: "High quality Japanese food\nfor New Year's celebration."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0016:
+	# jp: "上質の茶葉を使用しました。\nほっと一息つきましょう。"
+	# en: "Made with high quality tea\nleaves. It is refreshing."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0017:
+	# jp: "温かくて、消化も良い。\n食欲の無い日にもサラリと一杯。"
+	# en: "This warm rice soup is good\nand easy to digest."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0018:
+	# jp: "やっぱり冬はこれ、一晩煮こんで\nいい感じに味がしみてます。"
+	# en: "This hot mixed stew will warm\nyou up in a cold night."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0019:
+	# jp: "基本の手巻きおにぎりです。\n中の具は食べてからのお楽しみ。"
+	# en: "Find out what is stuffed inside\nthis rice ball for a surprise."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0020:
+	# jp: "たまご好きにはたまらない！\n中はひき肉とたまねぎです。"
+	# en: "Fried eggs with minced meat\nand onion stuffing."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0021:
+	# jp: "いい感じに焼けて食べごろです。\nのどづまり注意。"
+	# en: "This Japanese rice cake\ntastes good when it's grilled."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0022:
+	# jp: "半熟卵に柔らか鶏肉あったかご飯。\n最後の一粒まで召し上がれ。"
+	# en: "Soft boiled egg and chicken\nserved on top of white rice."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0023:
+	# jp: "果汁１００％のオレンジジュース。\nビタミンＣもばっちりとれます。"
+	# en: "100% fruit juice. A good\nsource of Vitamin C."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0024:
+	# jp: "秋になったと思ったら…\nとろりと甘くて懐かしい味わい。"
+	# en: "Sweet and creamy, nostalgic\nflavor of fall season..."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0025:
+	# jp: "食べなきゃ夏ははじまらない。\nキーンと冷たいイチゴ味。"
+	# en: "Try this strawberry flavored\nshaved ice this summer!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0026:
+	# jp: "スポンジはしっとりふかふか。\n底の粗目砂糖にもこだわってます。"
+	# en: "Fluffy moist sponge cake with\nbrown sugar at the bottom."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0027:
+	# jp: "チョコは甘いだけじゃない。\n大人のビター、生クリーム添えで。"
+	# en: "Bittersweet chocolate mixed\nwith fresh cream."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0028:
+	# jp: "ぜいたくにまるまる一匹。\nどう食べるかはあなた次第。"
+	# en: "A whole big one for you to\ndecide your own luxury meal."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0029:
+	# jp: "かつては白い食パンでした…\n食べると少し危険です。"
+	# en: "It used to be a slice of white\nbread. Too dangerous to eat."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0030:
+	# jp: "眠い…モヤモヤする…そんな時に\nさわやかな味です。"
+	# en: "Try chewing it when you feel\nsleepy or moody..."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0031:
+	# jp: "カリッとした衣に柔らかいお肉。\nみんなに人気の味。"
+	# en: "Japanese style crispy fried\nchicken."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0032:
+	# jp: "ぷりっとした麺はアルデンテ。\nクリームと卵が濃厚です。"
+	# en: "Al dente pasta with egg and\ncream."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0033:
+	# jp: "みんな大好きカレーライスです。\n子供も大人もあつまれ！"
+	# en: "Everybody's beloved\ncurry with rice!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0034:
+	# jp: "ほうれん草とベーコンのキッシュ\nです。おやつにも軽食にも。"
+	# en: "Spinach and bacon quiche.\nGood for a light meal."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0035:
+	# jp: "ほのかに甘～いだしにお揚げ。\n温かいうちにどうぞ。"
+	# en: "Warm, sweet noodle soup with\nfried bean curd."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0036:
+	# jp: "低カロリーでとってもヘルシー。\n食感も楽しんで。"
+	# en: "Low calorie, healthy food."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0037:
+	# jp: "辛いもの好きならはずせない。\n本格派の味です。"
+	# en: "For those who love spicy food.\nIt has authentic flavor."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0038:
+	# jp: "一度は食べてみたいものです。\nこれぞ最高級珍味！"
+	# en: "Top grade delicacy. Try it\nat least once in your life!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0039:
+	# jp: "ガッツリ食べたい人に！\nどんぶりをもってかきこもう。"
+	# en: "A beef bowl with rice topped\nwith beef and onion."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0040:
+	# jp: "給食の白い相棒。\nもちろん栄養価も高いんです。"
+	# en: "Highly nutritious item you\ncan't miss during school lunch."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0041:
+	# jp: "中華といえば！パリパリの皮に\nジューシーなあんが絶妙。"
+	# en: "Crispy fried Chinese dumplings\nwith juicy meat stuffing!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0042:
+	# jp: "もともとは栄養満点の牛乳でした。\n飲むと少し危険です…"
+	# en: "It used to be highly nourishing\nmilk. Too dangerous to drink."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0043:
+	# jp: "香ばしい匂いに誘われます。\nさくさくと甘くておいしーい。"
+	# en: "Crunchy sweet cookie with\na mouthwatering aroma."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0044:
+	# jp: "色とりどりのグミを味くらべ。\nちょっとしたおやつにどうぞ。"
+	# en: "Best for snacking, with a\nvariety of flavors to try."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0045:
+	# jp: "まろやかなホワイトソースの上に\nトローリチーズが香ばしい…"
+	# en: "Gratin with white sauce and\ngrated cheese on top."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0046:
+	# jp: "コトコト煮こんでクリーミー。\n心もからだもぽかぽかに。"
+	# en: "Slow cooked creamy stew to\nwarm your body and mind."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0047:
+	# jp: "生クリームたっぷりのクレープを\nほおばって満足！"
+	# en: "With plenty of fresh cream\nstuffing!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0048:
+	# jp: "香りすっきり！\nみずみずしくフレッシュな気分に。"
+	# en: "Enjoy its refreshing aroma\nand juicy flesh!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0049:
+	# jp: "何層にも重なったパリパリの生地\nがたまらない！"
+	# en: "A crispy croissant with so\nmany layers of fluffy shells."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0050:
+	# jp: "疲れたときはゆっくり紅茶を飲ん\nでちょっと一休み。"
+	# en: "Enjoy it when you need a\nbreak. Time to relax~"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0051:
+	# jp: "コーヒー豆の良い香りが漂います。\n朝の一杯、いかがですか。"
+	# en: "Coffee aroma is drifting in\nthe air. Have you had a cup?"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0052:
+	# jp: "クリーミーでやさしい味わいの、\n温かいコーンスープです。"
+	# en: "Warm, creamy corn soup with\nmild flavor."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0053:
+	# jp: "もちろんホカホカの炊きたてです。\n米がたってます。"
+	# en: "Freshly cooked rice. It's warm\nand yummy."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0054:
+	# jp: "ジャガイモと挽肉の定番コロッケ、\n野菜といっしょにどうぞ。"
+	# en: "Classic croquette with potato\nand minced meat."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0055:
+	# jp: "揚げ物いっぱい、おなかいっぱい\nになるお弁当。腹ペコの時に。"
+	# en: "Lunch box set packed with\nlots of food to fill you up."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0056:
+	# jp: "鮮やかでつややか、\nみずみずしく甘いさくらんぼ。"
+	# en: "Fresh and sweet cherries with\nbrilliant color."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0057:
+	# jp: "この苦味が癖になる！つまようじ\nで上手に取り出しましょう。"
+	# en: "You will love it! A toothpick is\nattached for convenience."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0058:
+	# jp: "シャキシャキ新鮮野菜たっぷり！\nたくさん食べよう。"
+	# en: "Fresh crisp salad with plenty\nof vegetables!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0059:
+	# jp: "冷たくて、のど越しのよいおそば。\n夏の夕方にぴったり。"
+	# en: "Chilled soba that is perfect\nfor a summer night!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0060:
+	# jp: "春を感じる３色だんごは、お花見\nの席でどうぞ。"
+	# en: "It is best to eat while enjoying\nflower viewing season."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0061:
+	# jp: "ハムときゅうりのサンドイッチ。\n朝ごはんにも、遠足にも◎。"
+	# en: "Ham and cucumber sandwich.\nBest for breakfast or snack."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0062:
+	# jp: "秋の味覚、和食の献立のメインに。\nおこのみですだちをかけて。"
+	# en: "Grilled mackerel. A common\nJapanese main dish."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0063:
+	# jp: "ほくほくのジャガイモとバター、\nあたたかいうちに！"
+	# en: "A baked potato with butter on\ntop. Eat it while it's still warm."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0064:
+	# jp: "幸せ一口、さくっ！とろ～り。\n中には甘いクリームがたっぷり。"
+	# en: "It will make you happy with\ncrispy shell and sweet cream."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0065:
+	# jp: "蒸したてあつあつ。\nからし醤油のたれにつけてどうぞ。"
+	# en: "Freshly steamed. Try it with\nmustard and soy sauce."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0066:
+	# jp: "新鮮いちごと口どけ生クリーム。\nやっぱりケーキの王様！"
+	# en: "Fresh strawberry and whip\ncream will make you drool."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0067:
+	# jp: "朝食にはやっぱりこれ。\nトースターでこんがり焼いて。"
+	# en: "Good for breakfast. Just put\na few slices in the toaster."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0068:
+	# jp: "しっとりした食感と自然な甘さ。\nお芋本来の風味が生きています。"
+	# en: "Fresh and juicy with natural\nsweet taste."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0069:
+	# jp: "甘くてシャキシャキ水分たっぷり。\nひと夏で何個いけるかな？"
+	# en: "Juicy and sweet flesh. How\nmany can you eat in summer?"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0070:
+	# jp: "ものすごくのど渇いてる、そんな\n時にごくごく飲めます。"
+	# en: "Very good to drink when you\nare extremely thirsty."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0071:
+	# jp: "甘辛い割り下でぐつぐつ、\n美味しい肉をみんなでつつこう！"
+	# en: "Simmering sweet and salty\nsoup with delicious meat!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0072:
+	# jp: "もちろん特上、トロがすごい！\n一口でほおばって。"
+	# en: "Of course, it's the first class\nwith the luxurious fatty tuna."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0073:
+	# jp: "やわらかくてジューシーなお肉。\n焼き具合はあなた好みで。"
+	# en: "Tender and juicy meat,\ncooked to your order."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0074:
+	# jp: "甘ずっぱいソースが決め手。\n野菜もたっぷりとれるのが嬉しい。"
+	# en: "Sweet and sour pork with lots\nof vegetables."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0075:
+	# jp: "とっても甘くてほっとする味。\n冬の寒い日に飲んで温まろう。"
+	# en: "Delicious red bean soup\n(zenzai.)"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0076:
+	# jp: "食べたときのパリッ！が幸せ。\nジューシーな肉汁があふれます。"
+	# en: "Sausage brimming with juicy\nmeat."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0077:
+	# jp: "バニラとチョコのミックスソフト。\n溶けないうちに食べて！"
+	# en: "Soft-serve vanilla and\nchocolate ice cream."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0078:
+	# jp: "これは本当にぜいたく！\nさばきたてを味わって食べて。"
+	# en: "Live sea bream. (Ikizukuri)\nThis is what you call luxury!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0079:
+	# jp: "焼きたてホカホカ、あんたっぷり。\n頭としっぽ、どっちからいく？"
+	# en: "Freshly baked, with lots of\nred bean paste."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0080:
+	# jp: "ピリ辛サルサソースとスパイスが\n元気の出る味！"
+	# en: "Spicy salsa sauce and spices\nwill boost your spirit!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0081:
+	# jp: "おっきなタコはいってます。\nアツアツなのでやけどに注意。"
+	# en: "With big pieces of tako in each\nof them. Be careful, it's hot."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0082:
+	# jp: "ふわふわのだし巻きたまご、\nおかずにあるとうれしい一品。"
+	# en: "Fluffy and yummy grilled egg.\nEveryone's favorite side dish."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0083:
+	# jp: "穴をのぞくのもいいけれど、\nもちろん食べてもおいしいよ。"
+	# en: "You can peek through its hole,\nbut it's better if you eat it."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0084:
+	# jp: "ふわふわたまごとねぎがたっぷり。\nシンプルな定番チャーハンです。"
+	# en: "Standard fried-rice with lots\nof egg and green onion."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0085:
+	# jp: "冬の定番！\n皆で食べるとほっこり幸せ気分。"
+	# en: "A big pot of stew commonly\neaten by sumo wrestlers."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0086:
+	# jp: "あー疲れたってとき、幸せな味。\n甘くておいし～い。"
+	# en: "A good reward when you feel\ntired. It's sweet and yummy~"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0087:
+	# jp: "甘い物好きにはたまらない！\nボリューム満点チョコパフェ。"
+	# en: "Irresistible chocolate parfait\nfor those who love sweets."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0088:
+	# jp: "さくさくの衣がとってもおいしい、\nおすすめはナス天です。"
+	# en: "Very crispy and tasty. Try the\neggplant tempura, too."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0089:
+	# jp: "激辛注意！！\n食べる時は気をつけてね。"
+	# en: "Please be careful. It is\nextremely spicy!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0090:
+	# jp: "シンプルな冷奴は、おしょうゆを\nかけてつるっと。"
+	# en: "Simple cold tofu. You can eat\nit with some soy sauce."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0091:
+	# jp: "ゆでたとうもろこしは、手で持っ\nて豪快にかぶりついちゃおう。"
+	# en: "Freshly boiled corn. Once you\nhave a bite, you can't stop."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0092:
+	# jp: "甘～くてボリューム満点！\nダイエットなんて、気にしない！"
+	# en: "It's sweet and tasty. Who\ncares about calorie!?"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0093:
+	# jp: "しっとりもちもちの生地と、甘さ\nひかえめのあんが絶妙。"
+	# en: "Soft shell with moderately\nsweetened red bean paste."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0094:
+	# jp: "健康食品の代表格。\nこのネバネバが良いのです。"
+	# en: "It is known as a healthy food.\nIt is very sticky though."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0095:
+	# jp: "寒い日に恋しくなります。\n肉とたけのこは相性バツグン。"
+	# en: "A hot meat bun with bamboo\nshoots will keep you warm."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0096:
+	# jp: "３時のおやつにも、それ以外でも。\n皮をむいてぱくっと食べよう！"
+	# en: "Have it as an afternoon snack\nor at some other time."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0097:
+	# jp: "バナナの皮です。\n誰が中身を食べたのかな？"
+	# en: "It is just a banana peel. Then\nwho ate the banana inside?"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0098:
+	# jp: "揚げたてで皮パリパリ、\n春雨とひき肉の味付けもＧＯＯＤ。"
+	# en: "Deep-fried spring roll with\ncrispy skin and mince meat."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0099:
+	# jp: "特製バンズとマヨネーズが決め手。\nがぶっとかじりついて！"
+	# en: "What makes it special is the\nbuns and mayonnaise!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0100:
+	# jp: "みんなの大好きなメニュー。\n特製ソースでどうぞ召し上がれ。"
+	# en: "Hamburg steak; everyone's\nfavorite menu!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0101:
+	# jp: "トロ～リチーズとたっぷりサラミ。\n焼きたてをめしあがれ！"
+	# en: "Freshly baked with cheese\nand lots of salami on top."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0102:
+	# jp: "ついつい手が伸びる、さくさくの\nビスケット。３時のおやつに。"
+	# en: "Time for an afternoon snack?\nGive this crunchy biscuit a try."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0103:
+	# jp: "甘くてプルプルみずみずしい。\nジューシーで果汁たっぷりです。"
+	# en: "Big, sweet, and juicy\ngrapes."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0104:
+	# jp: "塩気がきいてておいしいポテトは\nみんな大好き。"
+	# en: "Everyone's favorite salty\nfrench fries."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0105:
+	# jp: "新鮮な卵黄と牛乳を使用した、\n舌触りなめらかなプリンです。"
+	# en: "Made with fresh egg yolk and\nmilk."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0106:
+	# jp: "独特な臭みがやみつきになるかも。\n大人の味です。"
+	# en: "You might get addicted to its\nunique smell."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0107:
+	# jp: "たまごと蜂蜜がたっぷりしみこん\nでます。朝食にもおやつにも。"
+	# en: "Egg and honey soaked toast.\nGood as breakfast or snack."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0108:
+	# jp: "特大のペロペロキャンディーです。\nさいごまでちゃんとなめてね！"
+	# en: "An oversized lollipop. Keep\nlicking until it's all gone."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0109:
+	# jp: "一度食べ始めると止まらない！！\n一袋ペロリ。"
+	# en: "Once you start, you can eat\nthe whole bag non-stop."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0110:
+	# jp: "ハーブたっぷり、グリルでじっく\nり焼いた香ばしいチキンです。"
+	# en: "Grilled savory chicken with\nplenty of herbs."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0111:
+	# jp: "ピリッとした本格的な辛さがたま\nらない。ごはんのすすむ一品。"
+	# en: "A tangy, spicy dish. It is also\ngood on top of white rice."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0112:
+	# jp: "食べ始めたらやめられない一品！\n薄塩味がいい感じ。"
+	# en: "Lightly salted macadamia nuts\nthat you can't resist."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0113:
+	# jp: "高級きのこ。\n独特のすばらしい香りです。"
+	# en: "The top-class mushroom that\nhas wonderful unique flavor."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0114:
+	# jp: "子供から大人までどうぞ。\nみんなが大好きな定番パスタ。"
+	# en: "No matter if you are a kid or\nan adult, you will love it!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0115:
+	# jp: "今日のみかんは甘い？すっぱい？\n食べてからのおたのしみ。"
+	# en: "Will it be sweet, or sour? You\nmust taste it and you'll know."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0116:
+	# jp: "和食にないとはじまらない。\nシジミの香りが食欲をそそります。"
+	# en: "You can't miss it when you eat\nJapanese food."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0117:
+	# jp: "朝ごはんの王道といえばこれ。\nトーストと一緒にどうぞ。"
+	# en: "One of the simplest breakfast\nmenus. Try it with toasts."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0118:
+	# jp: "ハリがあって辛すぎない旨みです。\n白いご飯がすすみます。"
+	# en: "This not-too-spicy marinated\nroe is good with white rice."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0119:
+	# jp: "白く薄いピンクが可愛らしい。\n甘くて柔らか、ジューシーです。"
+	# en: "Its lovely pink flesh is soft,\njuicy, and sweet."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0120:
+	# jp: "秋の味覚、自然な甘さでホクホク。\nあのひとにも分けてあげたい。"
+	# en: "It is filled with natural sweet\ntaste of fall season."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0121:
+	# jp: "お母さんの作る素朴な味わい。\n屋台の焼きそばとちょっと違う。"
+	# en: "It has the flavor of a mother's\nhomemade fried noodles."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0122:
+	# jp: "シンプルな焼きなすは、ポン酢と\n大根おろしでさっぱり。"
+	# en: "Simple grilled eggplant with\nponzu sauce."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0123:
+	# jp: "お塩をふっても、そのままでも。\nおいしいよ。"
+	# en: "It tastes good both with and\nwithout salt."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0124:
+	# jp: "上品な甘さでしっとりとした食感。\nお茶と一緒に。"
+	# en: "Try this soft and sweet jelly\nwith some hot tea."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0125:
+	# jp: "突然夜中に食べたくなる…\nスタンダードなしょうゆ味です。"
+	# en: "Soy sauce flavor. Good for\na quick late night meal."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0126:
+	# jp: "蜜たっぷり、ガブっといくのも、\nうさぎりんごにするのもよし。"
+	# en: "Take a bite or carve it into\napple rabbits before you eat."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0127:
+	# jp: "食わず嫌いはもったいない！\n健康派の人にもおすすめ。"
+	# en: "Don't be picky with your food.\nThis is good for you health!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0128:
+	# jp: "スチーム機能ついてます。\nコードレスタイプです。"
+	# en: "A cordless iron with a steam\nfunction."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0129:
+	# jp: "カメラマンが使うような、とても\n本格的なカメラです。"
+	# en: "A standard single-lens reflex\n(SLR) camera."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0130:
+	# jp: "見ていると、どこか安心できる。\nふかふか可愛いぬいぐるみ。"
+	# en: "A cute and fluffy plush toy\nthat makes you feel at peace."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0131:
+	# jp: "淡い色で描かれたナスが涼しげ。\n夏といえばうちわでしょう。"
+	# en: "In summer, it is nice to carry\na fan to keep you cool."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0132:
+	# jp: "上品な輝きを放つ、高級腕時計。\n大人のオシャレアイテムです。"
+	# en: "A fashionable, luxury\nwristwatch."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0133:
+	# jp: "素朴な音にいやされます。\nきれいな青い色が個性的。"
+	# en: "A beautiful blue ocarina that\nproduces clear sounds."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0134:
+	# jp: "色はキレイなパールブルー。\n泣いた赤ちゃんの必需品です。"
+	# en: "A cute pearl blue pacifier to\nhelp keep a baby quiet."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0135:
+	# jp: "鮮やかな朱色に金糸の刺繍文字。\n安心をお届けします。"
+	# en: "A vivid charm with gold thread\nto deliver peace of mind."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0136:
+	# jp: "折り紙といえばこれ。丁寧な折り\n目で上手に出来てます。"
+	# en: "A common origami. It is very\nneat."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0137:
+	# jp: "ネジを回せば聞こえてくる、美し\nいメロディーに耳をすませて。"
+	# en: "Wind the key and you can\nlisten to beautiful melody."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0138:
+	# jp: "赤と青のツートンカラーがかわい\nらしい一品。"
+	# en: "Cute castanets in two-tone,\nred and blue colors."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0139:
+	# jp: "悪と戦う強い奴です。\nちいさくても強さは伝わります。"
+	# en: "This small robot can fight the\nevil invaders!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0140:
+	# jp: "職人芸によるガラスのスワン。\n息をのむ美しさです。"
+	# en: "Beautiful craftsmanship of a\nglass swan sculpture."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0141:
+	# jp: "とっても汚い雑巾。\nもらっても困る？ことはない。"
+	# en: "A very dirty rag. There is\nprobably no use for it."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0142:
+	# jp: "もってるだけで自慢できちゃう！\nオリジナルデザインの切手です。"
+	# en: "A commemorative stamp with\noriginal design."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0143:
+	# jp: "荒々しくもちみつに彫られた熊、\n北海道みやげ定番です。"
+	# en: "A sturdy and very detailed\ncarved bear from Hokkaido."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0144:
+	# jp: "記念の一枚！\n魚の貫禄が見事なものです。"
+	# en: "A splendid commemorative\nfish print."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0145:
+	# jp: "一等賞、おめでとう！\nこのキラキラが嬉しくなります。"
+	# en: "Congratulations for winning\nthe first prize!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0146:
+	# jp: "汚いくつ下。\nあまりかがない方がいい、かも。"
+	# en: "It is dirty and stinky. You\nshouldn't try to sniff."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0147:
+	# jp: "白くてふわふわのかわいいくま。\nちょこんと座ってます。"
+	# en: "A cute and fluffy white\nteddy bear."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0148:
+	# jp: "なんだかどきっとしちゃう一品。\nブリリアントカットダイヤを使用。"
+	# en: "Made with a very beautiful\nbrilliant cut diamond."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0149:
+	# jp: "男性も女性も使えるユニセックス\nな香りです。"
+	# en: "It can be used by both male\nand female."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0150:
+	# jp: "ひっそりとたたずむ存在感がかわ\nいらしい。"
+	# en: "It always stands still quietly."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0151:
+	# jp: "よくのびます。\nとても丈夫な素材で出来ています。"
+	# en: "It can extend very well and\nis very durable."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0152:
+	# jp: "ずっと大事に取っておきましょう。\n誰のサインなのかは不明。"
+	# en: "It seems valuable but nobody\nknows whose autograph it is."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0153:
+	# jp: "サッカー好き集まれ！\n白と黒の普遍的なデザインが良い。"
+	# en: "A standard black and white\nball for soccer lovers."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0154:
+	# jp: "とげとげとした外見ですが、\n小さくて可愛らしいヤツです。"
+	# en: "Despite its spines, it is very\ncute and tiny."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0155:
+	# jp: "忍者が持ってるやつです。\n鈍く光る黒色がかっこいい。"
+	# en: "A ninja's throwing weapon. It\nlooks cool with black color."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0156:
+	# jp: "とってもミステリアスな雰囲気の\n一品です。"
+	# en: "An item that gives off\nmysterious aura."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0157:
+	# jp: "疲れた現代人の心をいやします。\nずっと見ていても飽きません。"
+	# en: "For modern people who feel\ntired, it has healing effect."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0158:
+	# jp: "ガラスの中にはいつでも雪景色が。\nロマンチックな気分♪"
+	# en: "You can always see snow inside\nthis little glass. It's romantic♪"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0159:
+	# jp: "夏休みの思い出に。\nそこの木にはりついてたやつです。"
+	# en: "A memento from a summer\nvacation."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0160:
+	# jp: "淡い恋心の思い出がつまってます。\n青春の１ページ。"
+	# en: "It contains faint memory\nabout love. It's part of life."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0161:
+	# jp: "ふわふわの高級タオルセット。\n色違いで２枚入ってます。"
+	# en: "High grade fluffy towel set\nthat comes in two colors."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0162:
+	# jp: "とても価値の高いものだそうです。\n家宝にどうぞ。"
+	# en: "It seems to be a very\nvaluable heirloom."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0163:
+	# jp: "うつくしい水色の地球儀。\n細かい部分まで再現してます。"
+	# en: "A beautiful and very detailed\nlight blue globe."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0164:
+	# jp: "遠い宇宙からはるばるやってきた、\n貴重でかっこいい石です。"
+	# en: "It came from a place so far\naway. A cool, precious stone."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0165:
+	# jp: "おなじみの箱入りティッシュです。\nいくつもらっても困りません。"
+	# en: "A common tissue box. It's good\nto have more for spares."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0166:
+	# jp: "トイレにあるおなじみアイテム。\nダブルのトイレットペーパー。"
+	# en: "A regular double roll toilet\npaper to keep in your toilet."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0167:
+	# jp: "上から下まで目が合ってしまう。\nインパクトのある置物です。"
+	# en: "Look at it from top to bottom.\nAn ornament with some impact."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0168:
+	# jp: "どこかで出土したものです。\nよく見るとあいきょうのある顔。"
+	# en: "It was excavated from\nsomewhere."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0169:
+	# jp: "どんな鳥のものかは不明ですが、\n大きく立派な鳥の巣です。"
+	# en: "A fine bird nest. The type of\nbird is still unknown."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0170:
+	# jp: "２人の思い出が詰まったアルバム。\n１０年後見るとかなり恥ずかしい。"
+	# en: "A wedding album filled with\nmemories of the couple."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0171:
+	# jp: "色がかわいいビニールなわとび。\nプラスチック製。"
+	# en: "Cute plastic jump rope."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0172:
+	# jp: "本格派ハーモニカです。\n旅人は必ず持っているイメージ。"
+	# en: "Conventional harmonica that\nsuits a traveler's image."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0173:
+	# jp: "バスケットボールって意外と重い。\nよく弾む素材を使用。"
+	# en: "It is surprisingly heavy and is\nmade with bouncy material."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0174:
+	# jp: "一体なんの絵の一部でしょう…\nと想像するのがたのしい。"
+	# en: "With just this piece, you can\nimagine the whole picture."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0175:
+	# jp: "もらって嬉しいバラの花束。\nとっても大きいです。"
+	# en: "A very large rose bouquet."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0176:
+	# jp: "大きな五号花火玉。\n一つ一つ職人さんが作ってます。"
+	# en: "A five-piece fireworks fireball."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0177:
+	# jp: "任天堂製の花札です。\n絵柄を眺めるのも楽しい。"
+	# en: "Playing cards made by\nNintendo."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0178:
+	# jp: "大事なものです。\n押しやすさにこだわりました。"
+	# en: "A big stamp type seal that\nis easy to use."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0179:
+	# jp: "人形は顔に注目。\n繊細な筆運びが美しい一品です。"
+	# en: "The dolls' faces are drawn with\nbrush in very good details."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0180:
+	# jp: "キラキラ華やかな表紙。\nおシャレさんの必須アイテム！"
+	# en: "With colorful sparkle cover. A\nmust-have for stylish people."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0181:
+	# jp: "ピンクでぽってりしたシルエット。\n壊すのがもったいない。"
+	# en: "A pink fat piggy bank. Isn't\nit a waste to break it?"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0182:
+	# jp: "可愛らしいフランス人形。\n気品のある顔立ちが素敵です。"
+	# en: "An elegant doll resembles\na beautiful French woman."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0183:
+	# jp: "誰かのだいじなものにはまちがい\nないです。"
+	# en: "This must be someone's very\nimportant item."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0184:
+	# jp: "小さな一本の松の木に広い宇宙が\n表現されているのです。"
+	# en: "This miniature pine tree\ndepicts the vast universe."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0185:
+	# jp: "かきごこちにこだわってます。\n先の角度がポイントです。"
+	# en: "Its tilted angle is the selling\npoint."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0186:
+	# jp: "いろいろ招いてくれるネコちゃん。\n縁起がよさそうです。"
+	# en: "This lucky cat will bring\ngood luck to you."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0187:
+	# jp: "書き味抜群の高級万年筆。\n卒業、入学記念の定番プレゼント。"
+	# en: "A high grade fountain pen. A\nclassic gift on graduation day."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0188:
+	# jp: "高級な竹を使用。\nふわふわ綿毛までついています。"
+	# en: "Made with top grade bamboo\nand fluffy cotton."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0189:
+	# jp: "目覚まし音はなんといっても定番\nのジリジリジリ～で。"
+	# en: "An alarm clock with a standard\nalarm to wake you up."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0190:
+	# jp: "ユニークな置物。\nとっても存在感があります…"
+	# en: "A very unique ornament.\nDo you feel its existence?"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0191:
+	# jp: "一見氷かと思いきや、\n溶けない素材なので大丈夫です。"
+	# en: "This one is made with a special\nmaterial and it will not melt."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0192:
+	# jp: "みんなの熱いメッセージに、目頭\nも熱くなりそう。"
+	# en: "A piece of paper with\nsignatures of all your friends."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0193:
+	# jp: "皆一度は見たことがある！\n学校で使うポピュラーな楽器。"
+	# en: "A popular music instrument\nfor a music class."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0194:
+	# jp: "職人の繊細な手仕事が光ります。\nとても美しい一品。"
+	# en: "It is beautiful and shiny with\nvery delicate craftsmanship."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0195:
+	# jp: "おみやげの定番。思い出に浸ろう\nにも、もらった人には思い出なし。"
+	# en: "A classic souvenir to share\nmemories from a trip."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0196:
+	# jp: "日本建築って素晴らしい。\nちいさくても伝わるはずです。"
+	# en: "A fantastic Japanese\narchitecture."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0197:
+	# jp: "沖縄土産の定番といえばこれ。\n雄雄しいたたずまいです。"
+	# en: "A classic souvenir from\nOkinawa. It looks heroic."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0198:
+	# jp: "シルクのすばらしい手触りです。\nふちの刺繍も豪華。"
+	# en: "A silk handkerchief with\nsplendid embroidery border."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0199:
+	# jp: "ゴージャスな雰囲気の扇子。\n優雅に描かれた花がポイントです。"
+	# en: "A folding fan that gives off\ngorgeous atmosphere."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0200:
+	# jp: "色とりどりの石をちりばめた、\n存在感のある置物です。"
+	# en: "It is decorated with colorful\ngems."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0201:
+	# jp: "昔のおみやげの代表。\nオリジナルペナントです。"
+	# en: "A very traditional souvenir.\nThis one is original."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0202:
+	# jp: "どこか遠い国の伝統的なお面。\n異国情緒が漂います。"
+	# en: "This exotic mask comes from\na very faraway country."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0203:
+	# jp: "心に余裕をくれる、ゆったり\nいやし系植物です。"
+	# en: "The healing green algae that\nmake you feel calm."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0204:
+	# jp: "胃腸が痛い時の強い味方。\nもしもの時は頼ろう。"
+	# en: "Helps relieve stomach ache.\nUse when needed."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0205:
+	# jp: "ちょっと喉が痛いなと思ったら。\n早めの一粒。"
+	# en: "When there are symptoms like\nsore throat, take one pill."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0206:
+	# jp: "気軽に思い出をスナップしよう！\n案外いいのが撮れるかも？"
+	# en: "Take some snapshots for good\nmemento."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0207:
+	# jp: "どこへでも行ける旅行券。\nあなたならどこへ行く？"
+	# en: "You can travel anywhere you\nwant with this voucher."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0208:
+	# jp: "色んな職業を体験できるチケット。\nどの職業になるかはお楽しみ！"
+	# en: "Have fun experiencing various\nkinds of jobs."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0209:
+	# jp: "えんじ色の独特なカラーリング。\nマイク機能もついてます。"
+	# en: "This unique dark red system\neven has a microphone!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0210:
+	# jp: "コンパクトさがうれしい。\n手になじむデザインです。"
+	# en: "Very compact system. It fits\ncomfortably in your hand."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0211:
+	# jp: "ユニークな形です。\n赤と黒のカラーリングがいい感じ。"
+	# en: "A pleasant black & red system\nwith a unique shape."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0212:
+	# jp: "洗面器、手ぬぐい、石鹸のセット。\n夕方のお風呂はしあわせ。"
+	# en: "A set of washbowl, towel, and\nsoap for an evening hot bath."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0213:
+	# jp: "夏にこれがないと困る！\n風量は３段階切り替えられます。"
+	# en: "You will be troubled if you\ndon't have this in summer!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0214:
+	# jp: "これであなたも催眠術師。\n誰か眠らせてみましょう…"
+	# en: "You can put anyone under\nhypnosis with this kit."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0215:
+	# jp: "一生懸命作った手料理は、きっと\n喜ばれるはずです。"
+	# en: "Everyone can enjoy home\ncooking with this fry pan."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0216:
+	# jp: "これを開けばなんでもわかります。\n嘘じゃないです。"
+	# en: "You can find any words in it.\nReally! It's unbelievable!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0217:
+	# jp: "プラスチック製のお箸。\nビビッドな色が特徴的です。"
+	# en: "A pair of vivid color plastic\nchopsticks."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0218:
+	# jp: "プラスチックの黄色がチープな\nいい味を出しています。"
+	# en: "A yellow plastic megaphone.\nIt is cheap but looks nice."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0219:
+	# jp: "木製です。\n温かみのあるデザインがかわいい。"
+	# en: "It is made from wood and has\na cheerful design."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0220:
+	# jp: "ついつい手が伸びてしまいます。\nプチッという感触も楽しい。"
+	# en: "Very hard to stop eating once\nyou have started."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0221:
+	# jp: "さわやかな香りが特徴のみょうが。\nシャリシャリの歯ざわりも良い。"
+	# en: "It has refreshing scent.\nHave fun chewing it."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0222:
+	# jp: "悩みを解決してくれてありがとう。\n皆感謝しています。"
+	# en: "An appreciation note from the\nresidents for helping them."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0223:
+	# jp: "おめでとう。\n君は悩みを解決する先生です。"
+	# en: "Congratulations! You are the\nmaster of trouble solving!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0224:
+	# jp: "おめでとう！\n君は悩みを解決する達人です。"
+	# en: "Congratulations! You are the\nexpert of trouble solving!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0225:
+	# jp: "おめでとう！！\n君は悩みを解決する仙人です。"
+	# en: "Congratulations! You are the\nprodigy of trouble solving!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0226:
+	# jp: "おめでとう！！！\n君の優しさで世界を救えます。"
+	# en: "Congratulations! You've saved\nthe world with your kindness!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0227:
+	# jp: "一般的なドアノブです。\n扉を開く時は時計回りに回して。"
+	# en: "Just a common doorknob. Turn\nit clockwise to open a door."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0228:
+	# jp: "かめばかむほど、おいしくなる。\n奥深い味わいです。"
+	# en: "It gets more delicious for\nevery bite you chew."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0229:
+	# jp: "香ばしい香りのしょうゆせんべい。\n米の産地にはこだわっています。"
+	# en: "Savory soy sauce flavor\nJapanese cracker."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0230:
+	# jp: "これぞ家庭の味！\nほくほくじゃがいもを味わって。"
+	# en: "The taste of home cooking!\nIt has meat and potatoes."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0231:
+	# jp: "外はサクサク、中はジューシー！\n特上のぜいたくなトンカツです。"
+	# en: "Crispy outside and juicy inside!\nIt's a special luxury tonkatsu!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0232:
+	# jp: "南国の食卓の代表野菜。\n不思議な苦味が病みつきに。"
+	# en: "A tropical vegetable with\naddictive bitter taste."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0233:
+	# jp: "健康のために１杯。\n新鮮なトマトの味が広がります。"
+	# en: "Have one cup everyday for\nyour healthy body."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0234:
+	# jp: "きれいな金貨です。\n結構、価値が高いものなんです。"
+	# en: "A beautiful gold coin. It seems\nto have very high value."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0235:
+	# jp: "きれいな銀貨です。\nわりと、価値が高いものなんです。"
+	# en: "A beautiful silver coin. It\nseems to have some value."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0236:
+	# jp: "任天堂のＷｉｉです。\nリビングに置くといい感じ。"
+	# en: "A Nintendo Wii. It gives good\nvibes to your living room."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0237:
+	# jp: "お友達とお話、メール。\n色々できる便利な電話。"
+	# en: "Use it to talk on send\nmessages to your friends."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0238:
+	# jp: "生活に音楽を。\nヘッドホンでじっくり聴いてね。"
+	# en: "Add music to your life. Enjoy\nit with headphones."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0239:
+	# jp: "いつでも頭を動かしていたい人に。\nお勉強のお役に立ててください。"
+	# en: "Exercise your brain anytime\nyou want with this study set."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0240:
+	# jp: "とにかく泣けます。ストレスがた\nまった時は思いっきり泣こう。"
+	# en: "It will surely make you cry.\nA nice way to relieve stress."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0241:
+	# jp: "任天堂のＤＳです。\n持ち歩いてたくさん遊んでね。"
+	# en: "A Nintendo DS. Carry it around\nand have fun playing."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0242:
+	# jp: "ゴロゴロしながら出来て便利。\nパソコンが手放せないあなたに。"
+	# en: "Carry it around and use it\ninstead of using your PC."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0243:
+	# jp: "ホコリとりに一役買います。\nお掃除の際にはぜひ！"
+	# en: "When there is dust, grab this\nduster and enjoy cleaning!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0244:
+	# jp: "アイテム説明（仮）□□□□□□\n□□□□□□□□□□□□□□□"
+	# en: "アイテム説明（仮）□□□□□□\n□□□□□□□□□□□□□□□"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0245:
+	# jp: "アイテム説明（仮）□□□□□□\n□□□□□□□□□□□□□□□"
+	# en: "アイテム説明（仮）□□□□□□\n□□□□□□□□□□□□□□□"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0246:
+	# jp: "アイテム説明（仮）□□□□□□\n□□□□□□□□□□□□□□□"
+	# en: "アイテム説明（仮）□□□□□□\n□□□□□□□□□□□□□□□"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0247:
+	# jp: "アイテム説明（仮）□□□□□□\n□□□□□□□□□□□□□□□"
+	# en: "アイテム説明（仮）□□□□□□\n□□□□□□□□□□□□□□□"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0248:
+	# jp: "アイテム説明（仮）□□□□□□\n□□□□□□□□□□□□□□□"
+	# en: "アイテム説明（仮）□□□□□□\n□□□□□□□□□□□□□□□"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0249:
+	# jp: "アイテム説明（仮）□□□□□□\n□□□□□□□□□□□□□□□"
+	# en: "アイテム説明（仮）□□□□□□\n□□□□□□□□□□□□□□□"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0250:
+	# jp: "アイテム説明（仮）□□□□□□\n□□□□□□□□□□□□□□□"
+	# en: "アイテム説明（仮）□□□□□□\n□□□□□□□□□□□□□□□"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0251:
+	# jp: "アイテム説明（仮）□□□□□□\n□□□□□□□□□□□□□□□"
+	# en: "アイテム説明（仮）□□□□□□\n□□□□□□□□□□□□□□□"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0252:
+	# jp: "アイテム説明（仮）□□□□□□\n□□□□□□□□□□□□□□□"
+	# en: "アイテム説明（仮）□□□□□□\n□□□□□□□□□□□□□□□"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0253:
+	# jp: "アイテム説明（仮）□□□□□□\n□□□□□□□□□□□□□□□"
+	# en: "アイテム説明（仮）□□□□□□\n□□□□□□□□□□□□□□□"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0254:
+	# jp: "アイテム説明（仮）□□□□□□\n□□□□□□□□□□□□□□□"
+	# en: "アイテム説明（仮）□□□□□□\n□□□□□□□□□□□□□□□"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0255:
+	# jp: "着せた人のお気に入りの色に\nなります。"
+	# en: "It matches the wearer's\nfavorite color perfectly."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0256:
+	# jp: "明るい印象を与えるグレー。\n働く姿がしっくりきます。"
+	# en: "Grey suit."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0257:
+	# jp: "黒は誰にでも着こなしやすい色。\n働く姿がしっくりきます。"
+	# en: "Black suit."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0258:
+	# jp: "憧れのセーラー服。真っ白に鮮や\nかな青い襟が映えます。"
+	# en: "Sailor uniform."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0259:
+	# jp: "ウエスタン好きに。\n渋い大人の雰囲気が漂います。"
+	# en: "Cowboy costume."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0260:
+	# jp: "ゆったりとした生地が重なり、美\nしい影を作り出します。"
+	# en: "White toga."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0261:
+	# jp: "ゆったりとした生地が重なり、美\nしい影を作り出します。"
+	# en: "Black toga."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0262:
+	# jp: "ばっちりと着こなしたら、きっと\nサッカー選手の気分。"
+	# en: "Soccer player uniform."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0263:
+	# jp: "エメラルドグリーンがアクセント\nになっています。"
+	# en: "Waitress uniform."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0264:
+	# jp: "かわいいペンギンに大変身！\nリアルな足がとってもキュート。"
+	# en: "Penguin costume."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0265:
+	# jp: "サル？くま？\nもこもこ素材がたまりません。"
+	# en: "Is it a monkey or a bear?\nIt is hard to tell."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0266:
+	# jp: "大き目のシルエットに定番の迷彩\n柄。重宝します。"
+	# en: "Camouflage jacket."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0267:
+	# jp: "ぴったりとしたカンフースーツ。\n明るい色で夜も安全。"
+	# en: "Slime kung fu suit."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0268:
+	# jp: "夏といえば、やっぱり浴衣です。\n上品に振舞いましょう。"
+	# en: "Female's yukata."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0269:
+	# jp: "夏といえば、やっぱり浴衣です。\n粋にきめよう。"
+	# en: "Male's yukata."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0270:
+	# jp: "憧れのウェディングドレス！\n一度着てみたい人も多いはず。"
+	# en: "A dress that many people\nare yearning for."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0271:
+	# jp: "明るいカラーリングのジャージ。\nたくさん付いたワッペンが嬉しい。"
+	# en: "Bright color jersey."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0272:
+	# jp: "オフィスワークの定番スタイル。\nクールなブラックできめて！"
+	# en: "Suitable for office work."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0273:
+	# jp: "旅人気分な一着。ハンドメイドの\nぬくもりが伝わります。"
+	# en: "Warm handmade poncho."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0274:
+	# jp: "フリルいっぱい、甘ーいピンクの\nかわいいワンピース。"
+	# en: "Sweet princess one-piece."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0275:
+	# jp: "ミステリアスな印象のワンピース。\n黒だから甘くなりすぎないよ。"
+	# en: "Mysterious gothic one-piece."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0276:
+	# jp: "ほうきをもって雰囲気を出したく\nなる。夜の空にぴったりな紫色。"
+	# en: "Sorcerer costume."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0277:
+	# jp: "シロクマ？ウサギ？\n着る人次第で見え方が変わります。"
+	# en: "Is it a polar bear or a rabbit?\nOnly the wearer can tell."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0278:
+	# jp: "情熱的でセクシーなドレス。\nバラが似合いそうな女性に。"
+	# en: "Sexy flamenco dress."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0279:
+	# jp: "シンプルなデザインが、着る人の\n個性を際立たせます。"
+	# en: "Simple design cutsew."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0280:
+	# jp: "シンプルなデザインが、着る人の\n個性を際立たせます。"
+	# en: "Simple design cutsew."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0281:
+	# jp: "シンプルなデザインが、着る人の\n個性を際立たせます。"
+	# en: "Simple design cutsew."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0282:
+	# jp: "ダンスに合わせて揺れ動く、腕の\nフリンジがポイントです。"
+	# en: "Superstar costume."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0283:
+	# jp: "ロングスカートの横に、ちらりと\n入ったスリットがセクシー。"
+	# en: "Pink qipao with a sexy slit."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0284:
+	# jp: "ロングスカートの横に、ちらりと\n入ったスリットがセクシー。"
+	# en: "Blue qipao with a sexy slit."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0285:
+	# jp: "きちんと前を閉めて着よう。\n紺は引き締まった印象に。"
+	# en: "Navy blue Nintendo uniform."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0286:
+	# jp: "きちんと前を閉めて着よう。\nベージュは柔らかい印象に。"
+	# en: "Beige Nintendo uniform."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0287:
+	# jp: "白地に色鮮やかなグラフィックが\nかっこいい。"
+	# en: "Colorful graphics on a white\nT-shirt."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0288:
+	# jp: "定番のＧジャンです。\nブーツとあわせてコーディネイト。"
+	# en: "Classic denim jacket and\nchino pants."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0289:
+	# jp: "ボーダー好きの普段着にどうぞ。\n定番の組み合わせです。"
+	# en: "Green cardigan."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0290:
+	# jp: "ボーダー好きの普段着にどうぞ。\n定番の組み合わせです。"
+	# en: "Black cardigan."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0291:
+	# jp: "とってもゴージャス！大きなシル\nエットがユニークです。"
+	# en: "Gorgeous twelve-layered\nceremonial kimono."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0292:
+	# jp: "ストリートファッションの定番。\nフードをかぶって着ても◎。"
+	# en: "Street fashion baggy parka\nwith hood."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0293:
+	# jp: "ストリートファッションの定番。\nビビッドな赤で目立っちゃえ！"
+	# en: "Street fashion baggy parka\nin vivid red."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0294:
+	# jp: "ねこ大好きな人にはたまらない。\n尻尾もついてます。"
+	# en: "For cat lovers."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0295:
+	# jp: "カントリーライフを楽しむなら、\nこんなスタイルが一番！"
+	# en: "Country style overall."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0296:
+	# jp: "背中に虎の刺繍が光ります！\nインパクトのあるスタイル。"
+	# en: "Black satin jumper."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0297:
+	# jp: "背中に虎の刺繍が光ります！\nピンク色でかわいさをプラス。"
+	# en: "Pink satin jumper."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0298:
+	# jp: "太目の毛糸で、ざっくりと編んだ\nストール。あたたかいよ。"
+	# en: "Knitted scarf."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0299:
+	# jp: "大胆にプリントされたハイビスカ\nスが素敵です。"
+	# en: "Large hibiscus printed outfit."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0300:
+	# jp: "ゴールドにたくさんの宝石をちり\nばめた、とにかく豪華な服です。"
+	# en: "Gorgeous gold studded\nclothes."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0301:
+	# jp: "無造作なカッティングがかっこい\nい。スマートな印象に見えます。"
+	# en: "The subtle torn part will leave\nan impression on people."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0302:
+	# jp: "上品な光沢を放つレザーでかっこ\nよくきめて！"
+	# en: "Elegant glossy leather jacket."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0303:
+	# jp: "ユニークなシルエットのサルエル\nパンツ。履き心地もいいです。"
+	# en: "Unique low-rise pants."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0304:
+	# jp: "シンプルなロングコート。\n寒い冬の日の定番アウターです。"
+	# en: "Simple long coat."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0305:
+	# jp: "シンプルなロングコート。\n寒い冬の日の定番アウターです。"
+	# en: "Simple long coat."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0306:
+	# jp: "スウェットとジーンズの、絶妙な\nユーズド感を楽しんで。"
+	# en: "Familiar sweatshirt and jeans."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0307:
+	# jp: "スウェットとジーンズの、絶妙な\nユーズド感を楽しんで。"
+	# en: "Familiar sweatshirt and jeans."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0308:
+	# jp: "色とりどりのパッチワークが◎。\nロングなので着こなしやすいよ。"
+	# en: "Patchwork long skirt."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0309:
+	# jp: "ベーシックなシャツ。ダンガリー\nは堅い印象にならず◎。"
+	# en: "Basic shirt in blue."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0310:
+	# jp: "ふんわりとしたリボンが優しい印\n象を作り出します。"
+	# en: "Bow-tie blouse."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0311:
+	# jp: "ベーシックなシャツ。明るい黄色\nで若々しい印象に。"
+	# en: "Basic shirt in vivid yellow."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0312:
+	# jp: "着る人によってパーカーの色が変\nわる、不思議なアイテム。"
+	# en: "Amazing parka that changes\ncolors by the wearers."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0313:
+	# jp: "着る人によってボーダーの色が変\nわる、不思議なアイテム。"
+	# en: "Amazing outfit that changes\ncolors by the wearers."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0314:
+	# jp: "あたたかくて軽いダウンジャケッ\nト。人気のカーキです。"
+	# en: "Warm and baggy down jacket."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0315:
+	# jp: "あたたかくて軽いダウンジャケッ\nト。黒は定番色。"
+	# en: "Warm and baggy down jacket."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0316:
+	# jp: "渋い色合いのツイードジャケット。\nループタイをあわせて。"
+	# en: "Tweed jacket."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0317:
+	# jp: "どんな家事でも、上手にできそう。\n暖かい印象の服です。"
+	# en: "Chef's apron."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0318:
+	# jp: "ふわふわのフェイクファーで寒い\n冬もハッピーに過ごそう！"
+	# en: "Beige fake fur coat."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0319:
+	# jp: "美しいブラックのフェイクファー。\nなでたくなるような毛並み。"
+	# en: "Black fake fur coat."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0320:
+	# jp: "上品な茶色のニットワンピース。\nストールで肩をあたためよう。"
+	# en: "Scarf and knitted dress."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0321:
+	# jp: "秋にぴったり、大人のカジュアル\nコーディネイト。"
+	# en: "Mature, casual style scarf."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0322:
+	# jp: "パステルピンクが愛らしい。\n足に付いたボンボンもポイント。"
+	# en: "Cute pastel pink top."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0323:
+	# jp: "パステルブルーが愛らしい。\n足に付いたボンボンもポイント。"
+	# en: "Cute pastel blue top."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0324:
+	# jp: "元気いっぱいスタイル！夏休みは\n元気に走り回ろう！"
+	# en: "Good to wear for jogging\nin summer."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0325:
+	# jp: "夏のムード満点♪\n暑い日はのんびり過ごしたい。"
+	# en: "Feel the summer♪ Good to\nwear to the beach."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0326:
+	# jp: "夏のムード満点♪\nビーチで遊ぶならこのスタイル！"
+	# en: "Feel the summer♪ Good to\nwear to the beach."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0327:
+	# jp: "たっぷりのリボンとレースで女の\n子気分満点。"
+	# en: "A dress with lots of ribbons."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0328:
+	# jp: "ロゴＴシャツに豹柄のストールで\nアクセントをつけて。"
+	# en: "Leopard scarf."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0329:
+	# jp: "ワイルドな雰囲気のあなたに！\nたくましさををアピールしよう！"
+	# en: "Wild image tank top and\ncamouflage pants."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0330:
+	# jp: "よく見ると豹の顔が隠れてる。\nビビッドな色の靴下もポイント。"
+	# en: "Vivid leopard sweatshirt."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0331:
+	# jp: "エアロビにはもちろん、街中でも。\nレッグウォーマーがポイント。"
+	# en: "Aerobics costume with leg\nwarmers."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0332:
+	# jp: "小さな車のプリントがおしゃれ。\n鮮やかな黄緑はインパクト大。"
+	# en: "Bright yellow green shirt with\nsmall cars pattern."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0333:
+	# jp: "写真風のプリントがいい感じ。\nサーモンピンクがおしゃれです。"
+	# en: "Salmon pink T-shirt with a\nphoto of a car printed on it."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0334:
+	# jp: "しっかりとした生地です。\n動きやすくて、一枚あると便利。"
+	# en: "Green rugby shirt."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0335:
+	# jp: "レース編みのベストと、ふんわり\nワンピースでガーリーなスタイル。"
+	# en: "Lacy one-piece with vest."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0336:
+	# jp: "しっかりとした生地です。\n動きやすくて、一枚あると便利。"
+	# en: "Red rugby shirt."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0337:
+	# jp: "グリーンのストライプがさわやか。\n裾の広がったパンツもポイント。"
+	# en: "Vivid green stripes shirt and\nwide-legged pants."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0338:
+	# jp: "黒のカーディガンにジーンズ。\n飾り過ぎないおしゃれです。"
+	# en: "Black cardigan and jeans."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0339:
+	# jp: "黒いスーツの下から覗く赤色が、\nセクシーさを引き立てます。"
+	# en: "Sexy flashy suit in black\nand red."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0340:
+	# jp: "白いスーツの下から覗く紫色が、\nセクシーさを引き立てます。"
+	# en: "Sexy flashy suit in white\nand purple."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0341:
+	# jp: "ビビッドな色合いの柄と、シルク\nの光沢が◎。"
+	# en: "Silk vivid color retro shirt."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0342:
+	# jp: "モノトーンカラーの柄と、シルク\nの光沢が◎。"
+	# en: "Silk monotone retro shirt."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0343:
+	# jp: "腕をまくるとカッコよくきまる。\n仕事もはかどるような気がする。"
+	# en: "White dress shirt."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0344:
+	# jp: "腕をまくるとカッコよくきまる。\n仕事もはかどるような気がする。"
+	# en: "Black dress shirt."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0345:
+	# jp: "鮮やかな色のボーダー。スパッツ\nを合わせて動きやすいスタイルに。"
+	# en: "Tight one-piece."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0346:
+	# jp: "シンプルで、上品なスタイルです。\n七部袖がポイント。"
+	# en: "Simple cutsew and skirt."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0347:
+	# jp: "白のオーバーオールにビタミンカ\nラーをちりばめてキュートな印象。"
+	# en: "White short overall."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0348:
+	# jp: "刺繍がとってもかわいい！ふんわ\nりとしたラインで女の子っぽく。"
+	# en: "Feminine embroidered tunic."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0349:
+	# jp: "裾には花のモチーフ。ペチコート\nパンツを合わせて。"
+	# en: "Floral smock blouse."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0350:
+	# jp: "定番のタートルネック。首がチク\nチクしなくて着心地ばつぐん。"
+	# en: "White turtleneck."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0351:
+	# jp: "定番のタートルネック。全身黒で\nおしゃれ上級者。"
+	# en: "Black turtleneck."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0352:
+	# jp: "定番のタートルネック。落ち着い\nた赤で大人な雰囲気。"
+	# en: "Red turtleneck."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0353:
+	# jp: "丸みのあるシルエット。ふわふわ\nの手触りがうれしい。"
+	# en: "Fluffy rounded silhouette\nboa jacket."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0354:
+	# jp: "冬でもさわやかな印象になります。\n厚手の生地で寒さもへっちゃら。"
+	# en: "Blue pea coat."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0355:
+	# jp: "少し変わった茶色のピーコート。\n厚手の生地で寒さもへっちゃら。"
+	# en: "Brown pea coat."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0356:
+	# jp: "オンでもオフでも、万能のアンサ\nンブル。定番のピンク。"
+	# en: "For work or casual, a versatile\nensemble of blouse and skirt."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0357:
+	# jp: "オンでもオフでも、万能のアンサ\nンブル。柔らかいブルー。"
+	# en: "For work or casual, a versatile\nensemble of blouse and skirt."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0358:
+	# jp: "ワッフル地に花をちりばめたレギ\nンス。ガーリーなアイテム。"
+	# en: "Very girlish flower leggings."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0359:
+	# jp: "渋めの一着。\n探偵さんや、ダンディな紳士に。"
+	# en: "A trench coat that makes the\nwearer looks like a detective."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0360:
+	# jp: "渋めの一着。\n探偵さんや、ダンディな紳士に。"
+	# en: "A trench coat that makes the\nwearer looks like a detective."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0361:
+	# jp: "ゆったりとした袖と、シャンパン\nゴールドがキレイ。"
+	# en: "Dolman sleeve shirt."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0362:
+	# jp: "さわやかなスタイル。前を開けて\nインナーを見せるのがポイント。"
+	# en: "Short-sleeved shirt."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0363:
+	# jp: "明るいイエローで夏気分満点。\nインナーを見せるのがポイント。"
+	# en: "Short-sleeved shirt."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0364:
+	# jp: "グレーは普段使いに最適。\nインナーを見せるのがポイント。"
+	# en: "Short-sleeved shirt."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0365:
+	# jp: "寒い日に、スポーツ観戦に便利。\nおなかまわりも冷えません。"
+	# en: "A nice choice to wear while\nwatching sports on a cold day."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0366:
+	# jp: "着る人によってタイツの色が変わ\nる、不思議なアイテム。"
+	# en: "Amazing tights that changes\ncolors to match the wearers."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0367:
+	# jp: "少しおへそを見せてセクシーに。\nブルージーンズとあわせました。"
+	# en: "Sexy mini-cutsew."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0368:
+	# jp: "トナカイ模様のニットワンピ。\nクリスマスカラーが楽しげです。"
+	# en: "Reindeer knitted one-piece\nwith Christmas colors."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0369:
+	# jp: "少しおへそを見せてセクシーに。\nブルージーンズとあわせました。"
+	# en: "Sexy mini-cutsew."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0370:
+	# jp: "服屋さんの制服。\n控えめなチェックが特徴的です。"
+	# en: "Apparel shop employee\nuniform."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0371:
+	# jp: "明るい色合いに、アシンメトリー\nデザインのパーカー。"
+	# en: "Bright, asymmetry design\nparka."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0372:
+	# jp: "明るい色合いに、アシンメトリー\nデザインのパーカー。"
+	# en: "Bright, asymmetry design\nparka."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0373:
+	# jp: "色の重なりがきれいなチェック。\nハッピーな気持ちになれそう。"
+	# en: "Madras check one-piece."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0374:
+	# jp: "細かいギンガムチェックがかわい\nい、シャツワンピース。"
+	# en: "Cute gingham checkered\none-piece."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0375:
+	# jp: "細かいギンガムチェックがかわい\nい、シャツワンピース。"
+	# en: "Cute gingham checkered\none-piece."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0376:
+	# jp: "全体をモノトーンでまとめました。\nスマートな印象を与えます。"
+	# en: "Monotone T-shirt and vest."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0377:
+	# jp: "ゆったりとした作りがうれしい♪\nガーゼの素材感を楽しんで。"
+	# en: "Gauze one-piece."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0378:
+	# jp: "ロイヤルブルーとチェックの組み\n合わせがきれい。"
+	# en: "Royal blue and plaid dress."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0379:
+	# jp: "冬の気配を感じ始めたら、こんな\nスタイルがぴったり。"
+	# en: "Blue plaid scarf."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0380:
+	# jp: "冬の気配を感じ始めたら、こんな\nスタイルがぴったり。"
+	# en: "Yellow plaid scarf."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0381:
+	# jp: "ロング丈がかっこいい。\nレザーのブーツを合わせました。"
+	# en: "Long leather coat."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0382:
+	# jp: "黄色と黒の大きめのチェック。\n明るい気分にぴったりなスタイル。"
+	# en: "Large yellow and black\nplaid one-piece."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0383:
+	# jp: "ざっくり編まれたニット。\nニュアンスカラーが大人っぽい。"
+	# en: "Grey knitted V-neck\nsweater."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0384:
+	# jp: "ざっくり編まれたニット。\nニュアンスカラーが大人っぽい。"
+	# en: "Purple knitted V-neck\nsweater."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0385:
+	# jp: "仕事にも、遊びにも大活躍のアウ\nター。一枚あると便利です。"
+	# en: "Military outer coat."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0386:
+	# jp: "すっきりとした形のポロシャツ。\n優しい印象を与える色です。"
+	# en: "Pink polo shirt."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0387:
+	# jp: "パンツの裾をロールアップして、\nよりカジュアルな着こなしに。"
+	# en: "Short-sleeved sweater."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0388:
+	# jp: "すっきりとした形のポロシャツ。\nブラックは引き締め効果もアリ。"
+	# en: "Black polo shirt."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0389:
+	# jp: "スカートをロングに、タイトにキ\nメました。襟は大きめです。"
+	# en: "Sailor uniform with long\nskirt."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0390:
+	# jp: "お店のデザインにあわせたオレン\nジ色のエプロンです。"
+	# en: "Food shop employee\nuniform."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0391:
+	# jp: "ポッケがいっぱいで便利なベスト。\nアウトドア派なあなたに。"
+	# en: "Red shirt and vest."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0392:
+	# jp: "ポッケがいっぱいで便利なベスト。\n釣りが大好きなあなたに。"
+	# en: "Blue shirt and vest."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0393:
+	# jp: "寝るときでもおしゃれしたい女の\n子に。いい夢が見られそう。"
+	# en: "Nightgown."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0394:
+	# jp: "とっても着やすいVネック。綿素\n材なのでオールシーズン活躍。"
+	# en: "All season red cardigan."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0395:
+	# jp: "とっても着やすいVネック。綿素\n材なのでオールシーズン活躍。"
+	# en: "All season orange cardigan."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0396:
+	# jp: "柔らかい素材のカシュクールです。\n色味を抑えた紫。"
+	# en: "Purple cache-cour."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0397:
+	# jp: "柔らかい素材のカシュクールです。\n微妙な青緑がおしゃれ。"
+	# en: "Blue cache-cour."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0398:
+	# jp: "しっかりとした素材、袖や襟のリ\nブが決め手です。"
+	# en: "Red jacket with team logo."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0399:
+	# jp: "しっかりとした素材、袖や襟のリ\nブが決め手です。"
+	# en: "Blue jacket with team logo."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0400:
+	# jp: "お風呂上りといえばバスタオル。\n風邪をひかないように。"
+	# en: "Bath towel."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0401:
+	# jp: "らくちんスタイル。\n夕方の路地を散歩したくなります。"
+	# en: "Underpants and belly band."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0402:
+	# jp: "お祭りといえば、このスタイル。\n冬でも夏でももりあがろう。"
+	# en: "Happi (traditional Japanese\ncoat.)"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0403:
+	# jp: "なんだか賢くみえちゃう…\n気になるあの子に着せてみよう。"
+	# en: "White robe."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0404:
+	# jp: "近代的な生活に飽きちゃった人。\nまずは服装から始めよう。"
+	# en: "Primitive man costume."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0405:
+	# jp: "ブレザーしか着たことないなーっ\nて人、どうでしょう。"
+	# en: "Boy's school uniform."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0406:
+	# jp: "腰のエプロンがポイントです。\nぱりっとした白で清潔感をだして。"
+	# en: "Interior shop employee\nuniform."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0407:
+	# jp: "元気いっぱいのミニスカートで、\n頑張る人を応援しよう。"
+	# en: "Cheerleader uniform."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0408:
+	# jp: "今日は家でゴロゴロする！こんな\n服がいいかも。"
+	# en: "Sweatshirt and pants."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0409:
+	# jp: "体にフィットする学校のジャージ。\n色違いもあるよ。"
+	# en: "Red junior high uniform."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0410:
+	# jp: "体にフィットする学校のジャージ。\n色違いもあるよ。"
+	# en: "Blue junior high uniform."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0411:
+	# jp: "後ろ姿がセクシーなロングワンピ。\n夜が似合うスタイル。"
+	# en: "Formal long dress."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0412:
+	# jp: "動きやすくて、ちょっとした作業\nに適しています。"
+	# en: "Jumpsuit."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0413:
+	# jp: "大胆な模様がクール。落ち着いた\n色合いで大人っぽい。"
+	# en: "Cool retro one-piece."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0414:
+	# jp: "ふんわりとしたパンツと、軽やか\nな袖がポイントです。"
+	# en: "Arabian princess costume."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0415:
+	# jp: "あの子、アイドルみたい…\nそんな人に着せてみたい服です。"
+	# en: "Male idol costume."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0416:
+	# jp: "かわいい！アイドルみたい！\nそんな人に着せてみたい服です。"
+	# en: "Female idol costume."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0417:
+	# jp: "おでかけに、パーティーに。子供\nから大人まで楽しめるスタイル。"
+	# en: "Bow-tie and shorts."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0418:
+	# jp: "すっきりしたデザインのナース服。\n看病はおまかせです。"
+	# en: "Nurse uniform."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0419:
+	# jp: "ボリュームのあるパンツがかっこ\nいい！体も軽くなりそうです。"
+	# en: "Steeplejack uniform."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0420:
+	# jp: "ボリュームのある、個性的なシル\nエット。目立つこと間違いなし！"
+	# en: "Clown costume."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0421:
+	# jp: "金属のきらめきがとっても渋い。\nガシャガシャいわせちゃおう。"
+	# en: "Medieval armor suit."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0422:
+	# jp: "ボーダー大好きな人にもぴったり。\nスリルを味わえる！？"
+	# en: "Prisoner uniform."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0423:
+	# jp: "お料理、お掃除、お洗濯、何でも\nこなしちゃう働き者スタイル。"
+	# en: "Maid uniform."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0424:
+	# jp: "とってもボロボロだけど…\n意外と着心地はよさそうです。"
+	# en: "Shabby clothes."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0425:
+	# jp: "紺色に白のラインがさわやか。\n夏の日差しが似合います。"
+	# en: "Blue and white school\nswimsuit."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0426:
+	# jp: "主人公は赤！\nいつもセンターに立ちたい人に。"
+	# en: "Red sentai hero suit."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0427:
+	# jp: "クールな青。\nどんな時も冷静にキメたい人に。"
+	# en: "Blue sentai hero suit."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0428:
+	# jp: "明るい黄色。\nムードメーカーになっちゃう人に。"
+	# en: "Yellow sentai hero suit."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0429:
+	# jp: "こだわりの緑。\n主役を影から支える存在の人に。"
+	# en: "Green sentai hero suit."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0430:
+	# jp: "ヒロインにふさわしいピンク。\nなぜかモテて困っちゃう人に。"
+	# en: "Pink sentai hero suit."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0431:
+	# jp: "気持ちが引き締まる！\nここぞ！という時におすすめ。"
+	# en: "Loincloth."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0432:
+	# jp: "高くとんでシュート！\nコートの中をすばやく走ります。"
+	# en: "Basketball player uniform."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0433:
+	# jp: "セクシーなスタイル。ぴたっとし\nたレザーで体のラインがでます。"
+	# en: "Sexy dancer costume."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0434:
+	# jp: "じゅうたんみたいな、さわり心地\nのいい生地を使っています。"
+	# en: "Noble clothes."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0435:
+	# jp: "水周りの作業着に適しています。\nさわやかなブルーが心地よい。"
+	# en: "Blue rubber jumpsuit."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0436:
+	# jp: "街の平和を守ります。びしっと見\nえる制服。"
+	# en: "Female police uniform."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0437:
+	# jp: "いつでも野球のことを考えている、\nそんなアナタにぴったり。"
+	# en: "Baseball player uniform."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0438:
+	# jp: "なんだかすばやく動けそう。\nグリーンのコントラストがきれい。"
+	# en: "Ping pong player\nuniform."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0439:
+	# jp: "お料理をするなら、清潔感のある\n真っ白なコックスーツで。"
+	# en: "Chef uniform."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0440:
+	# jp: "シックな色の組み合わせが素敵。\n夜の街が似合いますね。"
+	# en: "Taxi driver uniform."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0441:
+	# jp: "電車に欠かせない存在の車掌さん。\n一度着てみたい制服。"
+	# en: "Train driver uniform."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0442:
+	# jp: "身体が自然と軽くなりそう。\n背筋を伸ばして着よう。"
+	# en: "Ballerina costume."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0443:
+	# jp: "きちんとキメたい時にはこれ！\nパーティーで大活躍です。"
+	# en: "Party tuxedo."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0444:
+	# jp: "フリフリ、おおきなリボン、あこ\nがれたお姫様のドレスです。"
+	# en: "Princess dress with lots\nof ribbons."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0445:
+	# jp: "すっぽりと包み込むような安心感\nがあります。"
+	# en: "Spacesuit."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0446:
+	# jp: "健康志向のアナタにおすすめです。\n思いっきり汗をかこう。"
+	# en: "Yoga suit."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0447:
+	# jp: "良いものを見極めるには、まず形\nから入ってみよう。"
+	# en: "Pawnshop employee uniform."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0448:
+	# jp: "上品なクリーム色。エレガントな\n振る舞いが似合う一着。"
+	# en: "Department store employee\nuniform."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0449:
+	# jp: "きらりと光る汗が似合う。\nチャンピオン目指してファイト！"
+	# en: "Boxer pants."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0450:
+	# jp: "ルーズなシルエットのジャージ。\nおでかけにもよさそう。"
+	# en: "Loose white jersey."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0451:
+	# jp: "ルーズなシルエットのジャージ。\nかっこいいカラーリング。"
+	# en: "Loose black jersey."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0452:
+	# jp: "首元にボリュームのあるブルゾン。\nブルージーンズを合わせて。"
+	# en: "Blouson and blue jeans."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0453:
+	# jp: "着てみたら意外と似合ってた、と\nいうこともあります。"
+	# en: "Inspector uniform."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0454:
+	# jp: "街の平和を守ります。びしっと見\nえる制服。"
+	# en: "Policeman uniform."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0455:
+	# jp: "てきぱきと仕事をこなすならやっ\nぱりＧパンにエプロン。"
+	# en: "Apron."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0456:
+	# jp: "レジを打つ姿がしっくりきます。\n深夜、早朝にも頑張れるかも？"
+	# en: "Convenience store employee\nuniform."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0457:
+	# jp: "マリンスタイルを満喫できます。\nショートパンツで足まで焼こう。"
+	# en: "Marine style tight cutsew."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0458:
+	# jp: "黒いＴシャツに黒いジャージ。\nバックの漢字がいい感じです。"
+	# en: "Black T-shirt with kanji\nprinted on the back."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0459:
+	# jp: "レトロな雰囲気のワンピース。\n大胆な配色が目を引きます。"
+	# en: "Retro style one-piece\nwith bold color."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0460:
+	# jp: "ブラウンにグレーのチェックをあ\nわせて、上品な雰囲気です。"
+	# en: "Brown men's blazer."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0461:
+	# jp: "ブラウンにグレーのチェックをあ\nわせて、上品な雰囲気です。"
+	# en: "Brown women's blazer."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0462:
+	# jp: "真っ赤なダウンベスト。インナー\nにはボーダーシャツをチョイス。"
+	# en: "Red down vest."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0463:
+	# jp: "この服を着ていたら、夜の巡回も\nきっとこわくありません。"
+	# en: "Security guard uniform."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0464:
+	# jp: "ブルーのつなぎに足元はゴム長靴。\n水に強い素材です。"
+	# en: "Blue jumpsuit and\nrubber boots."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0465:
+	# jp: "どんな人でも決まりやすいスタイ\nル。モノトーンが大人っぽい。"
+	# en: "Monotone jacket and\nT-shirt."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0466:
+	# jp: "赤いレザーが目を引きます。\n味わいのあるジーンズがいい感じ。"
+	# en: "Red leather jacket."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0467:
+	# jp: "後ろ姿もかわいいワンピース。\n鮮やかな赤で目立っちゃおう。"
+	# en: "Red halter one-piece."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0468:
+	# jp: "グラスを磨く姿が様になります。\n背筋をのばして着よう。"
+	# en: "Cummer vest."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0469:
+	# jp: "真っ白な雪の中で目立つならこの\nスタイルがぴったり。"
+	# en: "Snowboarding outfit."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0470:
+	# jp: "沿道からの声援を受けて…\nめざせ完走！走る人を応援します。"
+	# en: "Marathon uniform."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0471:
+	# jp: "白い胴着に真っ黒な帯がはえる。\n身を引き締めて着よう。"
+	# en: "White undershirt with\npitch black belt."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0472:
+	# jp: "大胆な色の組み合わせ、幾何学模\n様もかっこいい。"
+	# en: "Jockey costume."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0473:
+	# jp: "かわいい制服で空を飛ぼう！\nオレンジのリボンがポイントです。"
+	# en: "Cabin attendant costume\nwith orange ribbon."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0474:
+	# jp: "普通の襟のシャツと差が付きます。\n個性派のあなたにぴったり。"
+	# en: "Nehru jacket."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0475:
+	# jp: "ふんぞり返った姿勢が似合いそう。\nボリュームのあるスタイル。"
+	# en: "Stylish king's costume."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0476:
+	# jp: "懐かしい印象のチェック。\n黒のセーターを合わせました。"
+	# en: "Plaid pleated skirt with\nblack sweater."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0477:
+	# jp: "主張しすぎない水玉模様です。\nインナーにはタートルネックを。"
+	# en: "Polka dot one-piece\nwith turtleneck inner."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0478:
+	# jp: "味わいのある生地が着る人の魅力\nを一層引き立てます。"
+	# en: "Suede jacket."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0479:
+	# jp: "裾を絞ったパンツがかわいい。袖\nの折り返しもポイントです。"
+	# en: "Kung fu suit."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0480:
+	# jp: "ひじあてのフェルトがポイント。\n子供はもちろん、大人でも。"
+	# en: "Felt sweatshirt and shorts."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0481:
+	# jp: "ピンクのジャージと背中のロゴが\nおしゃれのポイントです。"
+	# en: "Logo parka and pink jersey."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0482:
+	# jp: "パンツの裾をレースアップして、\n女性らしさをプラス。"
+	# en: "Cropped pants."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0483:
+	# jp: "ダメージ加工を施したジーンズ。\nトップはシンプルにＴシャツで。"
+	# en: "Ripped jeans with\nsimple T-shirt."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0484:
+	# jp: "海で、プールで、大活躍のアイテ\nム。夏にはかかせない。"
+	# en: "Resort style swimsuit."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0485:
+	# jp: "大きめのチェックがかわいい。\nサンダルを合わせてさわやかに。"
+	# en: "Plaid cutsew."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0486:
+	# jp: "ニットはあえて羽織って。大人の\nカジュアルスタイルを楽しもう。"
+	# en: "Casual style knitted haori."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0487:
+	# jp: "１２月の人気者のユニフォーム。\n寒さも大丈夫なしっかりした作り。"
+	# en: "Santa Claus costume."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0488:
+	# jp: "火に強い、丈夫な服です。\n鮮やかなオレンジが目立ちます。"
+	# en: "Fire resistant orange\nfirefighter uniform."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0489:
+	# jp: "裾をひるがえして、スマッシュ！\nパステルピンクがかわいい。"
+	# en: "Pastel pink tennis uniform."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0490:
+	# jp: "モノトーンでまとめたチェックは\n誰にでも着こなしやすいです。"
+	# en: "Cotton plaid shirt."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0491:
+	# jp: "白にピンクのストライプ。\n上品なカジュアルスタイルです。"
+	# en: "Casual style white and\npink striped shirt."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0492:
+	# jp: "深い黒に優雅な菊模様が美しい。\n大人な雰囲気の着物です。"
+	# en: "Elegant black kimono with\nchrysanthemum pattern."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0493:
+	# jp: "冬の夜はどてらで暖かく過ごそう。\n綿がしっかり詰まって暖かい。"
+	# en: "Winter padded kimono."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0494:
+	# jp: "ボートネックのカットソー。\nインナーの赤が効いています。"
+	# en: "Boat neck layered cutsew."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0495:
+	# jp: "定番の柄のアーガイルです。一枚\nは持っておきたい。"
+	# en: "Argyle sweater."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0496:
+	# jp: "フレンチスリーブとたっぷりのフ\nリルがかわいい♪"
+	# en: "French sleeve ruffle\none-piece."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0497:
+	# jp: "人気のコーディネイト。どんなシ\nーンにでもしっくりきます。"
+	# en: "Basic white shirt."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0498:
+	# jp: "全体をダルカラーでまとめた、ぬ\nるめのコーディネイト。"
+	# en: "Raglan shirt."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0499:
+	# jp: "お家ではこんな格好が一番かも。\nゴロゴロしよう。"
+	# en: "Baggy T-shirt."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0500:
+	# jp: "胸元に黒のレースをあしらった、\n大人の女性のためのワンピース。"
+	# en: "Black lace one-piece."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0501:
+	# jp: "たまにはこんな服でかっこよくき\nめてみて。"
+	# en: "Samurai hakama."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0502:
+	# jp: "全身にずっしりとかかる重みがい\nい。体型をカバーできます。"
+	# en: "Warrior armor."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0503:
+	# jp: "豪華な生地にたくさんのフリルで、\nドキドキしちゃう一着です。"
+	# en: "Lacy Versailles dress."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0504:
+	# jp: "Ｇジャンの袖をカット！ボトムも\nかなり短い、挑戦的なスタイル。"
+	# en: "Sleeveless denim."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0505:
+	# jp: "淡いラベンダー色が清楚な雰囲気\nを作り出します。"
+	# en: "Light lavender girl's\nschool uniform."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0506:
+	# jp: "麻素材のカットソーとゆったりボ\nトムでリラックススタイル。"
+	# en: "Relaxing ethnic cutsew."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0507:
+	# jp: "キレイな色とショート丈が決め手。\nかわいらしいスタイルです。"
+	# en: "Duffle coat and shorts."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0508:
+	# jp: "着るのも脱ぐのも大変そう…\n変わったものが好きなあなたに。"
+	# en: "Mummy costume."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0509:
+	# jp: "足元のボリュームがかわいい！\nニットは大きめサイズをチョイス。"
+	# en: "Knitted loose socks."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0510:
+	# jp: "定番のシャツはあると便利。\n落ち着いた色合いのチェック。"
+	# en: "Tartan plaid shirt."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0511:
+	# jp: "裾がずるずるしても気にしない。\n堂々と、道の真ん中を歩こう。"
+	# en: "Feudal lord costume."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0512:
+	# jp: "卒業の日にはこんな袴を着たい。\nグラデーションがきれいです。"
+	# en: "Graduation hakama."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0513:
+	# jp: "鮮やかなブルー、バックプリント\nの”誠”の字もりりしい。"
+	# en: "Shinsengumi outfit with \"誠\"\n(sincerity) printed on it."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0514:
+	# jp: "昼も夜も、こっそりと身を潜めて\n生活しよう。"
+	# en: "Ninja suit."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0515:
+	# jp: "いたずらしたくなりそうな服です。\nとんがり尻尾がアクセント。"
+	# en: "Practical joke virus suit."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0516:
+	# jp: "体のラインがくっきりと出ます。\nシマウマ柄がインパクト大。"
+	# en: "Zebra pattern body suits."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0517:
+	# jp: "南国の風を感じて踊ろう。\n自然の素材だけで出来ています。"
+	# en: "Natural straw skirt."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0518:
+	# jp: "鍛え上げた身体を自慢しよう。ア\nクセサリーはゴールドをチョイス。"
+	# en: "Tank top."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0519:
+	# jp: "かっちりしたスーツをバミューダ\nパンツでカジュアルに。"
+	# en: "Casual suit and Bermuda\nshorts."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0520:
+	# jp: "これ一枚でさらりと着こなそう。\nアクセサリーでバランスをとって。"
+	# en: "Ethnic skirt."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0521:
+	# jp: "ジーンズと好相性なチェックのネ\nルシャツです。"
+	# en: "Plaid flannel shirt and jeans."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0522:
+	# jp: "かなりいい色合い。小さめなリュ\nックと袖のロールアップが◎。"
+	# en: "Chemical wash pants."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0523:
+	# jp: "厚底の靴を鳴らして街を歩こう。\nスカートは複雑な作り。"
+	# en: "Border tights."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0524:
+	# jp: "近未来っぽい素材で作られた、\n近未来っぽい形のスーツ。"
+	# en: "Futuristic suit."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0525:
+	# jp: "リアルな作りこみ、尻尾もあって\nいいかんじです。"
+	# en: "Dinosaur suit."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0526:
+	# jp: "ぐっすり眠るなら、このパジャマ\nで。ピンクもあるよ。"
+	# en: "Blue pajamas."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0527:
+	# jp: "ぐっすり眠るなら、このパジャマ\nで。青もあるよ。"
+	# en: "Pink pajamas."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0528:
+	# jp: "目が覚めるような白は珍しい。\nビーチで目立っちゃおう。"
+	# en: "White simple swimsuit."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0529:
+	# jp: "ふくらんだ袖と、水色がかわいい。\n童心にかえって遊びたくなります。"
+	# en: "Light blue kindergarten\nsmock."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0530:
+	# jp: "ＤＳロゴのＴシャツ。\nシンプルなボトムとあわせました。"
+	# en: "DS logo T-shirt."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0531:
+	# jp: "ＷｉｉロゴのＴシャツ。\nシンプルなボトムとあわせました。"
+	# en: "Wii logo T-shirt."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0532:
+	# jp: "背中の羽根で飛べちゃうかも。\nチャレンジしてみて。"
+	# en: "Fairy costume with wings."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0533:
+	# jp: "微妙な青緑が特徴的です。\nお手紙の配達はおまかせ！"
+	# en: "Postman uniform."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0534:
+	# jp: "真剣に料理するなら、この格好で。\n味に深みがでるかもね。"
+	# en: "Cook costume."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0535:
+	# jp: "春を思わせる上品な着物です。\n優雅に振舞いましょう。"
+	# en: "Undecorated kimono."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0536:
+	# jp: "落ち着いたスタイルがお好みの方\nに。グレーの濃淡を楽しんで。"
+	# en: "Grey knitted vest."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0537:
+	# jp: "強気な組み合わせ。これを着こな\nせたらおしゃれ上級者です。"
+	# en: "Bell-bottom dress."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0538:
+	# jp: "秋のイメージのワンピース。\n裾のグラデーションがポイント。"
+	# en: "Gradation autumn\none-piece."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0539:
+	# jp: "しんとした冬の夜をイメージ。\n紫色がひんやりとしてキレイ。"
+	# en: "Silent night violet\nwinter one-piece."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0540:
+	# jp: "小さな花をちりばめたデザイン。\nおでかけがいっそう楽しくなるね。"
+	# en: "Floral design spring\none-piece."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0541:
+	# jp: "水風船をイメージしたデザイン。\n暑い日でも涼しく過ごせそう。"
+	# en: "Water balloon pattern\nsummer one-piece."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0542:
+	# jp: "何かおめでたいシャツ。\n誕生日に着せてみてもいいかも。"
+	# en: "Congratulations shirt to\nwear on your birthday."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0543:
+	# jp: "タイツに抵抗がある人でも、意外\nとしっくりくるはず。"
+	# en: "Wrestler costume."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0544:
+	# jp: "パステルピンクがさわやか。\nミニを合わせて元気に着こなそう。"
+	# en: "Pastel top with denim\nmini skirt."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0545:
+	# jp: "背中のロゴがポイント。\n大きめのシルエットを楽しんで。"
+	# en: "Logo cutsew with logo printed\non the back."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0546:
+	# jp: "軽くて暖かい、便利なアイテム。\n派手にならないグリーンが◎。"
+	# en: "Light weight fleece jacket."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0547:
+	# jp: "うっかり森に溶け込んでしまいそ\nう。自然と調和できますね。"
+	# en: "Dwarf costume."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0548:
+	# jp: "お部屋でリラックスしたいときは\nこんな服が一番です。"
+	# en: "Room wear."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0549:
+	# jp: "丸襟がやわらかい印象を作ります。\n肌触りのよいコットン。"
+	# en: "Round collar blouse."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0550:
+	# jp: "気持ちが沈んだ日にも元気がでる。\n黄色大好き！な人にもぴったり。"
+	# en: "Yellow raincoat."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0551:
+	# jp: "いろいろはかどりそうな一着。\n庭いじりなんかにもよさそう。"
+	# en: "Polo shirt and apron."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0552:
+	# jp: "ジーンズとあわせてコーディネイ\nト。少しインナーをのぞかせて。"
+	# en: "Logo one-piece."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0553:
+	# jp: "厚手のネルシャツはカジュアルな\nコーディネイトの定番です。"
+	# en: "Casual flannel shirt."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0554:
+	# jp: "かわいいこぐまのＴシャツ。\n明るい緑色を元気に着こなそう。"
+	# en: "Bright green baby bear\nT-shirt."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0555:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0556:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0557:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0558:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0559:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0560:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0561:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0562:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0563:
+	# jp: "何もない空間が落ち着く人に。\n白なのでお掃除はマメにね。"
+	# en: "A room with totally nothing.\nIt is for simplicity."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0564:
+	# jp: "畳にちゃぶ台、レトロテレビ。\nちょっと昔の雰囲気を懐かしんで。"
+	# en: "Tatami mats, tea table, and\nretro TV from Showa era."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0565:
+	# jp: "わんこ好きのためのインテリア。\nわんこに囲まれる幸せをあなたに。"
+	# en: "An interior for people who\nlove dogs and puppies."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0566:
+	# jp: "ポップな壁紙がかわいい。\nおもちゃがいっぱいの楽しい部屋。"
+	# en: "A room full of toys and\ncute wallpaper for kids."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0567:
+	# jp: "キュートな花柄の家具がいっぱい。\nお花大好きな人にどうぞ。"
+	# en: "With cute floral pattern\nfurniture for flower lovers."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0568:
+	# jp: "レーサー達の熱い戦いが繰り広げ\nられる！レースの優勝者は誰だ？"
+	# en: "It is the hot battle for the\nracers. Who is the winner!?"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0569:
+	# jp: "アブラカタブラ。素敵なアラビア\nンナイトの世界に浸っちゃおう。"
+	# en: "Abracadabra! Enjoy the\nArabian Nights atmosphere."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0570:
+	# jp: "深海で様々な海洋生物に囲まれた\n素敵なひとときを体験しよう。"
+	# en: "Living under the sea is such\na wonderful experience."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0571:
+	# jp: "緑とオレンジでコーディネート。\nココロがほっとする空間です。"
+	# en: "Green and orange colors\ngive soothing atmosphere."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0572:
+	# jp: "一般家庭のダイニングルーム。\n家族と一緒にだんらんの時間を。"
+	# en: "A dining room for average\nmiddle-class people."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0573:
+	# jp: "床に敷いたキルトがかわいらしい。\n温かみのある小物を配置しました。"
+	# en: "With quilt spread on the\nfloor to give warm feelings."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0574:
+	# jp: "ゴージャスな気分になれる部屋。\nネコ足の家具が素敵です。"
+	# en: "A luxurious room with\ngorgeous taste."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0575:
+	# jp: "シックなグリーンを配した壁に、\nエスニックテイストの家具を配置。"
+	# en: "With green walls and ethnic\nfurniture to suit your taste."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0576:
+	# jp: "受験生のための部屋。ここで勉強\nすれば、絶対合格間違いなし！"
+	# en: "Very suitable for a student\nto prepare for exams."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0577:
+	# jp: "昔の主人が世界中から集めたアン\nティークコレクションをあなたに。"
+	# en: "With antique collections\nfrom the olden days."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0578:
+	# jp: "都会の雑音から離れた自然の中、\n鳥のさえずりに耳をすまそう。"
+	# en: "Get away from noisy city\nand listen to birds chirping."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0579:
+	# jp: "普段から運動していますか？日頃\nの運動不足をここで解消しよう！"
+	# en: "No time for exercise?\nNo more worries now~"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0580:
+	# jp: "月の世界へようこそ！はるか彼方\nに地球を望み、気分は宇宙旅行者。"
+	# en: "Welcome to the moon!\nIt feels like space travel."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0581:
+	# jp: "ここにないレコードはありません。\n探していた名曲も見つかるかも？"
+	# en: "You will find all sorts of\nrecords in this room!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0582:
+	# jp: "今にも崩れそうなダンボールでの\n質素な生活もたまにはいかが？"
+	# en: "A room made of crumbling\ncardboards for frugal life."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0583:
+	# jp: "シンプルイズベスト。全体をモノ\nクロ基調の家具に統一しました。"
+	# en: "Simple is best! Everything is\nin monochrome for unity."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0584:
+	# jp: "シンプルでおしゃれな北欧家具を\n取り揃えた、若者向けの部屋です。"
+	# en: "Simple yet stylish\nScandinavian style room."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0585:
+	# jp: "ピンク色がキュートな部屋！\n女の子のための空間です。"
+	# en: "A cute room in pink made\nspecially for girls!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0586:
+	# jp: "とにかくカラフル！\n明るい色で心も楽しくなる部屋。"
+	# en: "At any rate, it is colorful!\nEnjoy your cheerful time."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0587:
+	# jp: "大人の女性のために。落ち着いた\n家具にピンクの小物をチョイス！"
+	# en: "A room with pink accessories\nfor a grown-up woman!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0588:
+	# jp: "壁はコンクリート打ちっぱなし。\n憧れの業界人になりきろう！"
+	# en: "All the walls are made from\nconcrete. It's for business!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0589:
+	# jp: "暗闇の先に何かがいるかも…\n臆病な方はご遠慮ください。"
+	# en: "There might be something in\nthe dark..."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0590:
+	# jp: "ここに住めば病気になっても怖く\nない！ただし仮病はいけません。"
+	# en: "Stay here and no longer\nworry when you get sick."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0591:
+	# jp: "たくさんの名作に囲まれた部屋で\nセンスをどんどん磨いていこう！"
+	# en: "A room full of masterpieces\nto polish your sense!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0592:
+	# jp: "洞窟を探検していたら、奥底に\nまぶしく輝くクリスタルを発見！"
+	# en: "Shiny crystals in the depth\nof the cave!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0593:
+	# jp: "おいしそうなお菓子で出来た部屋。\n皆を呼んでお菓子パーティ！"
+	# en: "A room full of yummy\nsweets. Let's party!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0594:
+	# jp: "オフィスの一角のような部屋。\n仕事がどんどんはかどりそう。"
+	# en: "Like a corner of an office.\nMake progress in your work!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0595:
+	# jp: "白のレースに囲まれて…\nバルコニーの月がキレイです。"
+	# en: "You will be surrounded by\nwhite laces."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0596:
+	# jp: "おうちカフェを開いてみんなを\nもてなせばきっと楽しいよ！"
+	# en: "It will be fun to open the\nkitchen and throw a party!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0597:
+	# jp: "音楽好きならだれでもどうぞ。\nみんなでセッションしよう！"
+	# en: "For people who love music.\nEveryone can jam!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0598:
+	# jp: "いつでも踊りたい気分の人に！\n人を呼んで自慢しちゃおう。"
+	# en: "You can dance anytime!\nShow it off to your friends!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0599:
+	# jp: "キレイな海が見渡せます。\nのんびり南国気分に浸りましょう。"
+	# en: "Enjoy your time and relax\nat the beach!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0600:
+	# jp: "憧れの宇宙要塞！ぼんやりとした\nグリーンの光がかっこいい。"
+	# en: "The space fortress you\nhave been longing for!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0601:
+	# jp: "もうすぐ本番。この部屋でしっか\nり自分の出番の準備をしよう。"
+	# en: "Get ready to go on a show\nin this room."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0602:
+	# jp: "ばっちり髪型を決めてオシャレな\n服を着こなしちゃおう。"
+	# en: "Get a stylish haircut to\nmatch your splendid outfit."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0603:
+	# jp: "あまりの部屋の寒さに長居は危険。\n冷凍魚の気持ちがわかるかも！？"
+	# en: "Maybe you will understand\nthe feelings of frozen fish."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0604:
+	# jp: "学校の気分を味わいたいあなたに。\n居眠りすると先生に怒られるよ。"
+	# en: "For those who love school.\nDon't doze off in class!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0605:
+	# jp: "息抜きにゲームでもいかが？\n懐かしいゲームが見つかるかも。"
+	# en: "Take a break and play some\nof these nostalgic games."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0606:
+	# jp: "緊張と孤独との戦い。サバイバル\n好きな人にはたまらない部屋です。"
+	# en: "Irresistible room for people\nwho loves survival games."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0607:
+	# jp: "アルファベットの形をした妖精さ\nんと楽しく英語で話してみよう！"
+	# en: "Learn English alphabets with\nthe little fairy!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0608:
+	# jp: "木の家具でまとめた部屋です。\nナチュラル家具の好きな人に。"
+	# en: "A room decorated with all\nnatural wooden furniture."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0609:
+	# jp: "鉄格子に囲まれ、気分は囚人！\nいつもとは違う雰囲気を楽しもう。"
+	# en: "Act like a prisoner being\nsurrounded by iron bars!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0610:
+	# jp: "空の向こうには美しいオーロラ！\nかまくらから漏れる光が暖かい。"
+	# en: "Look at the aurora at the\nhorizon on the winter sky!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0611:
+	# jp: "時間がゆっくりと流れる部屋。\n心を空っぽにしたい人におすすめ。"
+	# en: "A relaxing room where time\ngoes by slowly."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0612:
+	# jp: "お空の上の不思議な空間。雲の\n向こうに見える夕日がきれいです。"
+	# en: "The mysterious space of\nthe sky."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0613:
+	# jp: "一人で落ち着くのもいいけど、\n二人ならきっといい雰囲気に…"
+	# en: "The room's mood is very\ngood for a couple."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0614:
+	# jp: "和をこよなく愛するあなたに。\n障子から差す光も印象的。"
+	# en: "Have fun with the Japanese\nsliding doors (fusuma.)"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0615:
+	# jp: "満開の桜に囲まれて、春の気分を\n満喫できます。飲みすぎ注意。"
+	# en: "View full-bloom cherry\nblossoms right in your room."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0616:
+	# jp: "土を踏みしめる感覚が心地よい\n部屋です。空気もさわやか。"
+	# en: "Feel fresh from the well-\npacked soil on the ground."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0617:
+	# jp: "天気の良い日に草原に寝転がって\n気持ちよい日光浴をしてみては？"
+	# en: "Time to lie down on the\ngrass-covered plain."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0618:
+	# jp: "ムーディーな雰囲気で夜景を見な\nがら大人の気分に浸ってみよう。"
+	# en: "Be immersed in grown-up\natmosphere of a suite room."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0619:
+	# jp: "トリック　オア　トリート！\n楽しいお化けの世界へようこそ！"
+	# en: "Trick or Treat!\nWelcome to the ghost world!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0620:
+	# jp: "飾りつけと雰囲気はバッチリです。\n楽しいクリスマスを過ごしてね！"
+	# en: "With all the fun decorations!\nEnjoy your Christmas!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0621:
+	# jp: "雨の街角、濡れながら歩く…\nそんなシチュエーションをお届け。"
+	# en: "Like a street corner when\nthe rain is pouring down."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0622:
+	# jp: "やっぱり猫が大好き！そんな\nあなたに猫づくしの部屋をご用意。"
+	# en: "Especially for people who\nlove cats and kittens!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0623:
+	# jp: "富士山を眺めながら熱～いお湯に\nつかる幸せ…あ～極楽極楽。"
+	# en: "View Mt. Fuji while taking a\nhot bath. Ah~ It's heaven~"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0624:
+	# jp: "古代の美しく荘厳な遺跡を再現。\n天井から漏れる光が神秘的。"
+	# en: "A reproduction of the\ncharming ancient ruin."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0625:
+	# jp: "日頃の自分へのごほうびに、\n飛行機で色んな所を旅しよう！"
+	# en: "Give a reward to yourself\nand fly to different places!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0626:
+	# jp: "さんさんと降り注ぐ日光を浴びた\n植物達に囲まれてリラックスを。"
+	# en: "Relax among your plants\nand bask under the sun."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0627:
+	# jp: "毎朝早起きして牛の世話に励めば、\n新鮮な牛乳が飲めるかも…"
+	# en: "Wake up early and you can\nget fresh milk from the cows."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0628:
+	# jp: "たまには時間を忘れて落ち着いた\n裏庭で、お茶を飲んでまったりと。"
+	# en: "A backyard where you can\nrelax and have some tea."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0629:
+	# jp: "沢山の観客が見守る中、憧れのサ\nッカースタジアムでキックオフ！"
+	# en: "A soccer stadium with lots\nof spectators!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0630:
+	# jp: "おしゃれで上質な女性のお部屋。\n優雅で落ち着いた大人な生活を。"
+	# en: "Stylish, top class woman's\nroom."
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0631:
+	# jp: "世界中から金銀財宝を集めました。\n選ばれた人だけが住める部屋！"
+	# en: "A room full of golden and\nsilver collections!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0632:
+	# jp: "任天堂の敷地内をリアルに再現！\n本当の世界を味わってみよう！"
+	# en: "Reproduction of the real\nNintendo's premises!"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0633:
+	# jp: "レベル５以上の住人がいないと\n販売できません。"
+	# en: "レベル５以上の住人がいないと\n販売できません。"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0634:
+	# jp: "レベル１０以上の住人がいないと\n販売できません。"
+	# en: "レベル１０以上の住人がいないと\n販売できません。"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0635:
+	# jp: "レベル１５以上の住人がいないと\n販売できません。"
+	# en: "レベル１５以上の住人がいないと\n販売できません。"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0636:
+	# jp: "レベル２０以上の住人がいないと\n販売できません。"
+	# en: "レベル２０以上の住人がいないと\n販売できません。"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0637:
+	# jp: "レベル２５以上の住人がいないと\n販売できません。"
+	# en: "レベル２５以上の住人がいないと\n販売できません。"
+	""
+
+translate spanish tmd_explain_msg_JP.json/MSG_0638:
+	# jp: "レベル３０以上の住人がいないと\n販売できません。"
+	# en: "レベル３０以上の住人がいないと\n販売できません。"
+	""
+

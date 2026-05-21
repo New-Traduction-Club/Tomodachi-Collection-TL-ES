@@ -1,0 +1,2555 @@
+translate spanish tmd_item_msg_JP.json/MSG_0000:
+	# jp: "アイスクリーム"
+	# en: "Ice Cream"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0001:
+	# jp: "青汁"
+	# en: "Aojiru"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0002:
+	# jp: "アップルパイ"
+	# en: "Apple Pie"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0003:
+	# jp: "鮎の塩焼き"
+	# en: "Salmon"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0004:
+	# jp: "あんパン"
+	# en: "Red Bean Bun"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0005:
+	# jp: "いちご"
+	# en: "Strawberry"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0006:
+	# jp: "いなり寿司"
+	# en: "Inari Sushi"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0007:
+	# jp: "うな重"
+	# en: "Broiled Eel"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0008:
+	# jp: "うめぼし"
+	# en: "Pickled Plum"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0009:
+	# jp: "栄養ドリンク"
+	# en: "Energy Drink"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0010:
+	# jp: "エビピラフ"
+	# en: "Shrimp Pilaf"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0011:
+	# jp: "エビフライ"
+	# en: "Fried Shrimp"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0012:
+	# jp: "お子様ランチ"
+	# en: "Kid's Lunch"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0013:
+	# jp: "お好み焼き"
+	# en: "Okonomiyaki"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0014:
+	# jp: "おさしみ"
+	# en: "Sashimi"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0015:
+	# jp: "おせち"
+	# en: "Osechi"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0016:
+	# jp: "お茶"
+	# en: "Tea"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0017:
+	# jp: "お茶漬け"
+	# en: "Ochazuke"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0018:
+	# jp: "おでん"
+	# en: "Oden"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0019:
+	# jp: "おにぎり"
+	# en: "Rice Ball"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0020:
+	# jp: "オムレツ"
+	# en: "Omelet"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0021:
+	# jp: "おもち"
+	# en: "Mochi"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0022:
+	# jp: "親子どん"
+	# en: "Oyakodon"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0023:
+	# jp: "オレンジジュース"
+	# en: "Orange Juice"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0024:
+	# jp: "柿"
+	# en: "Persimmon"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0025:
+	# jp: "カキ氷"
+	# en: "Shaved Ice"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0026:
+	# jp: "カステラ"
+	# en: "Sponge Cake"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0027:
+	# jp: "ガトーショコラ"
+	# en: "Choco Cake"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0028:
+	# jp: "カニ"
+	# en: "Crab"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0029:
+	# jp: "カビたパン"
+	# en: "Moldy bread"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0030:
+	# jp: "ガム"
+	# en: "Gum"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0031:
+	# jp: "からあげ"
+	# en: "Karaage"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0032:
+	# jp: "カルボナーラ"
+	# en: "Carbonara"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0033:
+	# jp: "カレーライス"
+	# en: "Curry"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0034:
+	# jp: "キッシュ"
+	# en: "Quiche"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0035:
+	# jp: "きつねうどん"
+	# en: "Kitsune Udon"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0036:
+	# jp: "キノコ"
+	# en: "Mushroom"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0037:
+	# jp: "キムチ"
+	# en: "Kimchi"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0038:
+	# jp: "キャビア"
+	# en: "Caviar"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0039:
+	# jp: "牛どん"
+	# en: "Gyudon"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0040:
+	# jp: "牛乳"
+	# en: "Milk"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0041:
+	# jp: "ギョーザ"
+	# en: "Gyoza"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0042:
+	# jp: "くさった牛乳"
+	# en: "Rotten milk"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0043:
+	# jp: "クッキー"
+	# en: "Cookie"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0044:
+	# jp: "グミ"
+	# en: "Gummy"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0045:
+	# jp: "グラタン"
+	# en: "Gratin"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0046:
+	# jp: "クリームシチュー"
+	# en: "Cream Stew"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0047:
+	# jp: "クレープ"
+	# en: "Crepe"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0048:
+	# jp: "グレープフルーツ"
+	# en: "Grapefruit"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0049:
+	# jp: "クロワッサン"
+	# en: "Croissant"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0050:
+	# jp: "紅茶"
+	# en: "Black Tea"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0051:
+	# jp: "コーヒー"
+	# en: "Coffee"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0052:
+	# jp: "コーンスープ"
+	# en: "Corn Soup"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0053:
+	# jp: "ごはん"
+	# en: "Rice"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0054:
+	# jp: "コロッケ"
+	# en: "Croquette"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0055:
+	# jp: "コンビニ弁当"
+	# en: "Bento"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0056:
+	# jp: "さくらんぼ"
+	# en: "Cherry"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0057:
+	# jp: "サザエの壷焼き"
+	# en: "Turban Shell"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0058:
+	# jp: "サラダ"
+	# en: "Salad"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0059:
+	# jp: "ざるそば"
+	# en: "Zaru Soba"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0060:
+	# jp: "３色だんご"
+	# en: "Dango"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0061:
+	# jp: "サンドイッチ"
+	# en: "Sandwich"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0062:
+	# jp: "さんまの塩焼き"
+	# en: "Mackerel"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0063:
+	# jp: "じゃがバタ"
+	# en: "Baked Potato"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0064:
+	# jp: "シュークリーム"
+	# en: "Cream Puff"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0065:
+	# jp: "シューマイ"
+	# en: "Shumai"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0066:
+	# jp: "ショートケーキ"
+	# en: "Shortcake"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0067:
+	# jp: "食パン"
+	# en: "Bread"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0068:
+	# jp: "スイートポテト"
+	# en: "Sweet Potato"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0069:
+	# jp: "スイカ"
+	# en: "Watermelon"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0070:
+	# jp: "水道水"
+	# en: "Tap Water"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0071:
+	# jp: "すき焼き"
+	# en: "Sukiyaki"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0072:
+	# jp: "寿司"
+	# en: "Sushi"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0073:
+	# jp: "ステーキ"
+	# en: "Steak"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0074:
+	# jp: "酢豚"
+	# en: "S&S Pork"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0075:
+	# jp: "ぜんざい"
+	# en: "Bean Soup"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0076:
+	# jp: "ソーセージ"
+	# en: "Sausage"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0077:
+	# jp: "ソフトクリーム"
+	# en: "Soft-Serve"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0078:
+	# jp: "鯛の活け造り"
+	# en: "Sea Bream"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0079:
+	# jp: "たいやき"
+	# en: "Taiyaki"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0080:
+	# jp: "タコス"
+	# en: "Taco"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0081:
+	# jp: "たこ焼き"
+	# en: "Takoyaki"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0082:
+	# jp: "たまごやき"
+	# en: "Tamagoyaki"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0083:
+	# jp: "ちくわ"
+	# en: "Fish Cake"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0084:
+	# jp: "チャーハン"
+	# en: "Fried Rice"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0085:
+	# jp: "ちゃんこ鍋"
+	# en: "Sumo Stew"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0086:
+	# jp: "チョコレート"
+	# en: "Chocolate"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0087:
+	# jp: "チョコレートパフェ"
+	# en: "Parfait"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0088:
+	# jp: "天ぷら"
+	# en: "Tempura"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0089:
+	# jp: "とうがらし"
+	# en: "Chili"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0090:
+	# jp: "とうふ"
+	# en: "Tofu"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0091:
+	# jp: "とうもろこし"
+	# en: "Corn"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0092:
+	# jp: "ドーナツ"
+	# en: "Donut"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0093:
+	# jp: "どら焼き"
+	# en: "Dorayaki"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0094:
+	# jp: "納豆"
+	# en: "Natto"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0095:
+	# jp: "肉まん"
+	# en: "Meat Bun"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0096:
+	# jp: "バナナ"
+	# en: "Banana"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0097:
+	# jp: "バナナの皮"
+	# en: "Banana Peel"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0098:
+	# jp: "春巻き"
+	# en: "Spring Roll"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0099:
+	# jp: "ハンバーガー"
+	# en: "Hamburger"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0100:
+	# jp: "ハンバーグ"
+	# en: "Hamburg"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0101:
+	# jp: "ピザ"
+	# en: "Pizza"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0102:
+	# jp: "ビスケット"
+	# en: "Biscuit"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0103:
+	# jp: "ぶどう"
+	# en: "Grape"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0104:
+	# jp: "フライドポテト"
+	# en: "French Fries"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0105:
+	# jp: "プリン"
+	# en: "Pudding"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0106:
+	# jp: "ブルーチーズ"
+	# en: "Blue Cheese"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0107:
+	# jp: "フレンチトースト"
+	# en: "French Toast"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0108:
+	# jp: "ペロペロキャンディー"
+	# en: "Lollipop"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0109:
+	# jp: "ポテトチップス"
+	# en: "Potato Chips"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0110:
+	# jp: "骨つき肉"
+	# en: "Bone-in Meat"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0111:
+	# jp: "マーボー豆腐"
+	# en: "Mapo Tofu"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0112:
+	# jp: "マカダミアナッツ"
+	# en: "Macadamia"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0113:
+	# jp: "まつたけ"
+	# en: "Matsutake"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0114:
+	# jp: "ミートソースパスタ"
+	# en: "Pasta"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0115:
+	# jp: "みかん"
+	# en: "Orange"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0116:
+	# jp: "味噌汁"
+	# en: "Miso Soup"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0117:
+	# jp: "目玉焼き"
+	# en: "Fried Egg"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0118:
+	# jp: "めんたいこ"
+	# en: "Mentaiko"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0119:
+	# jp: "もも"
+	# en: "Peach"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0120:
+	# jp: "焼きイモ"
+	# en: "Roast Potato"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0121:
+	# jp: "焼きそば"
+	# en: "Yakisoba"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0122:
+	# jp: "焼きなす"
+	# en: "Eggplant"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0123:
+	# jp: "ゆでたまご"
+	# en: "Boiled Egg"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0124:
+	# jp: "ようかん"
+	# en: "Bean Jelly"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0125:
+	# jp: "ラーメン"
+	# en: "Ramen"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0126:
+	# jp: "りんご"
+	# en: "Apple"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0127:
+	# jp: "レバー"
+	# en: "Liver"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0128:
+	# jp: "アイロン"
+	# en: "Iron"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0129:
+	# jp: "一眼レフ"
+	# en: "SLR Camera"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0130:
+	# jp: "犬のぬいぐるみ"
+	# en: "Puppy Plush"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0131:
+	# jp: "うちわ"
+	# en: "Fan"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0132:
+	# jp: "腕時計"
+	# en: "Watch"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0133:
+	# jp: "オカリナ"
+	# en: "Ocarina"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0134:
+	# jp: "おしゃぶり"
+	# en: "Pacifier"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0135:
+	# jp: "お守り"
+	# en: "Charm"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0136:
+	# jp: "折鶴"
+	# en: "Paper Crane"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0137:
+	# jp: "オルゴール"
+	# en: "Music Box"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0138:
+	# jp: "カスタネット"
+	# en: "Castanets"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0139:
+	# jp: "合体ロボ"
+	# en: "Robot"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0140:
+	# jp: "ガラス細工"
+	# en: "Sculpture"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0141:
+	# jp: "汚い雑巾"
+	# en: "Dirty Rag"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0142:
+	# jp: "記念切手"
+	# en: "Stamp"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0143:
+	# jp: "木彫りの熊"
+	# en: "Wooden Bear"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0144:
+	# jp: "魚拓"
+	# en: "Fish Print"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0145:
+	# jp: "金メダル"
+	# en: "Gold Medal"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0146:
+	# jp: "くさいくつ下"
+	# en: "Stink Sock"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0147:
+	# jp: "くまのぬいぐるみ"
+	# en: "Teddy Bear"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0148:
+	# jp: "婚約指輪"
+	# en: "Wedding Ring"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0149:
+	# jp: "香水"
+	# en: "Perfume"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0150:
+	# jp: "こけし"
+	# en: "Kokeshi Doll"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0151:
+	# jp: "ゴムチューブ"
+	# en: "Bungee Rope"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0152:
+	# jp: "サイン色紙"
+	# en: "Autograph"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0153:
+	# jp: "サッカーボール"
+	# en: "Soccer Ball"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0154:
+	# jp: "サボテン"
+	# en: "Cactus"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0155:
+	# jp: "手裏剣"
+	# en: "Shuriken"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0156:
+	# jp: "水晶"
+	# en: "Crystal"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0157:
+	# jp: "水槽"
+	# en: "Aquarium"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0158:
+	# jp: "スノードーム"
+	# en: "Snow Dome"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0159:
+	# jp: "蝉のぬけがら"
+	# en: "Cicada Shell"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0160:
+	# jp: "第２ボタン"
+	# en: "Shirt Button"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0161:
+	# jp: "タオルセット"
+	# en: "Towel Set"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0162:
+	# jp: "高そうなツボ"
+	# en: "Vase"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0163:
+	# jp: "地球儀"
+	# en: "Globe"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0164:
+	# jp: "月の石"
+	# en: "Moonstone"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0165:
+	# jp: "ティッシュ"
+	# en: "Tissue"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0166:
+	# jp: "トイレットペーパー"
+	# en: "Toilet Paper"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0167:
+	# jp: "トーテムポール"
+	# en: "Totem Pole"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0168:
+	# jp: "土偶"
+	# en: "Clay Figure"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0169:
+	# jp: "鳥の巣"
+	# en: "Nest"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0170:
+	# jp: "結婚アルバム"
+	# en: "Album"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0171:
+	# jp: "なわとび"
+	# en: "Jump Rope"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0172:
+	# jp: "ハーモニカ"
+	# en: "Harmonica"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0173:
+	# jp: "バスケットボール"
+	# en: "Basketball"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0174:
+	# jp: "パズルのピース"
+	# en: "Jigsaw"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0175:
+	# jp: "花束"
+	# en: "Bouquet"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0176:
+	# jp: "花火玉"
+	# en: "Fireworks"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0177:
+	# jp: "花札"
+	# en: "Card"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0178:
+	# jp: "はんこ"
+	# en: "Seal"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0179:
+	# jp: "ひな人形"
+	# en: "Doll Set"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0180:
+	# jp: "ファッション雑誌"
+	# en: "Magazine"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0181:
+	# jp: "ぶたの貯金箱"
+	# en: "Piggy Bank"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0182:
+	# jp: "フランス人形"
+	# en: "French Doll"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0183:
+	# jp: "へその緒"
+	# en: "Birth Cord"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0184:
+	# jp: "盆栽"
+	# en: "Bonsai"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0185:
+	# jp: "孫の手"
+	# en: "Scratcher"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0186:
+	# jp: "招き猫"
+	# en: "Lucky Cat"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0187:
+	# jp: "万年筆"
+	# en: "Fountain Pen"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0188:
+	# jp: "耳かき"
+	# en: "Earpick"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0189:
+	# jp: "目覚まし時計"
+	# en: "Alarm Clock"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0190:
+	# jp: "モアイ像の置物"
+	# en: "Moai"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0191:
+	# jp: "雪だるま"
+	# en: "Snowman"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0192:
+	# jp: "よせ書き"
+	# en: "Signatures"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0193:
+	# jp: "リコーダー"
+	# en: "Recorder"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0194:
+	# jp: "カメオのブローチ"
+	# en: "Brooch"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0195:
+	# jp: "キーホルダー"
+	# en: "Key Chain"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0196:
+	# jp: "古い塔の置物"
+	# en: "Old Tower"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0197:
+	# jp: "シーサーの置物"
+	# en: "Shisa"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0198:
+	# jp: "シルクのハンカチ"
+	# en: "Handkerchief"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0199:
+	# jp: "スペイン扇子"
+	# en: "Spanish Fan"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0200:
+	# jp: "象の置物"
+	# en: "Elephant"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0201:
+	# jp: "ペナント"
+	# en: "Pennant"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0202:
+	# jp: "変なお面"
+	# en: "Funny Face"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0203:
+	# jp: "まりも"
+	# en: "Moss Ball"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0204:
+	# jp: "胃腸薬"
+	# en: "Antacid"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0205:
+	# jp: "風邪薬"
+	# en: "Cold Pills"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0206:
+	# jp: "使い捨てカメラ"
+	# en: "Camera"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0207:
+	# jp: "旅行券"
+	# en: "Vacation"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0208:
+	# jp: "お仕事体験チケット"
+	# en: "Job Ticket"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0209:
+	# jp: "ファミコン"
+	# en: "NES"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0210:
+	# jp: "ゲームボーイ"
+	# en: "Game Boy"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0211:
+	# jp: "バーチャルボーイ"
+	# en: "Virtual Boy"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0212:
+	# jp: "お風呂セット"
+	# en: "Bath Set"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0213:
+	# jp: "扇風機"
+	# en: "Electric Fan"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0214:
+	# jp: "催眠術セット"
+	# en: "Hypnosis Set"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0215:
+	# jp: "フライパン"
+	# en: "Fry Pan"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0216:
+	# jp: "辞書"
+	# en: "Dictionary"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0217:
+	# jp: "箸"
+	# en: "Chopsticks"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0218:
+	# jp: "メガホン"
+	# en: "Megaphone"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0219:
+	# jp: "やじろべえ"
+	# en: "Balance Toy"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0220:
+	# jp: "枝豆"
+	# en: "Edamame"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0221:
+	# jp: "みょうが"
+	# en: "Ginger"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0222:
+	# jp: "感謝状"
+	# en: "Note"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0223:
+	# jp: "銅のトロフィー"
+	# en: "Bronze Cup"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0224:
+	# jp: "銀のトロフィー"
+	# en: "Silver Cup"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0225:
+	# jp: "金のトロフィー"
+	# en: "Gold Cup"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0226:
+	# jp: "プラチナのトロフィー"
+	# en: "Platinum Cup"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0227:
+	# jp: "ドアノブ"
+	# en: "Doorknob"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0228:
+	# jp: "スルメ"
+	# en: "Dried Squid"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0229:
+	# jp: "せんべい"
+	# en: "Cracker"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0230:
+	# jp: "肉じゃが"
+	# en: "Meat Stew"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0231:
+	# jp: "トンカツ"
+	# en: "Tonkatsu"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0232:
+	# jp: "ゴーヤ"
+	# en: "Bitter Melon"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0233:
+	# jp: "トマトジュース"
+	# en: "Tomato Juice"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0234:
+	# jp: "金貨"
+	# en: "Gold Coin"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0235:
+	# jp: "銀貨"
+	# en: "Silver Coin"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0236:
+	# jp: "Ｗｉｉ"
+	# en: "Wii"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0237:
+	# jp: "携帯電話"
+	# en: "Cell Phone"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0238:
+	# jp: "ＣＤ"
+	# en: "CD"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0239:
+	# jp: "勉強セット"
+	# en: "Study Set"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0240:
+	# jp: "小説"
+	# en: "Novel"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0241:
+	# jp: "ＤＳ"
+	# en: "DS"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0242:
+	# jp: "ノートパソコン"
+	# en: "Notebook"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0243:
+	# jp: "はたき"
+	# en: "Duster"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0244:
+	# jp: "歌"
+	# en: "Song"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0245:
+	# jp: "口ぐせ"
+	# en: "Phrase"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0246:
+	# jp: "未使用品"
+	# en: "Unused"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0247:
+	# jp: "服"
+	# en: "Outfit"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0248:
+	# jp: "プレゼント"
+	# en: "Gift"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0249:
+	# jp: "インテリア"
+	# en: "Interior"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0250:
+	# jp: "写真"
+	# en: "Photo"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0251:
+	# jp: "未使用品"
+	# en: "Unused"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0252:
+	# jp: "未使用品"
+	# en: "Unused"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0253:
+	# jp: "未使用品"
+	# en: "Unused"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0254:
+	# jp: "未使用品"
+	# en: "Unused"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0255:
+	# jp: "アイスクリーム"
+	# en: "アイスクリーム"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0256:
+	# jp: "アオジル"
+	# en: "アオジル"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0257:
+	# jp: "アップルパイ"
+	# en: "アップルパイ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0258:
+	# jp: "アユノシオヤキ"
+	# en: "アユノシオヤキ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0259:
+	# jp: "アンパン"
+	# en: "アンパン"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0260:
+	# jp: "イチゴ"
+	# en: "イチゴ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0261:
+	# jp: "イナリズシ"
+	# en: "イナリズシ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0262:
+	# jp: "ウナジュー"
+	# en: "ウナジュー"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0263:
+	# jp: "ウメボシ"
+	# en: "ウメボシ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0264:
+	# jp: "エイヨードリンク"
+	# en: "エイヨードリンク"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0265:
+	# jp: "エビピラフ"
+	# en: "エビピラフ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0266:
+	# jp: "エビフライ"
+	# en: "エビフライ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0267:
+	# jp: "オコサマランチ"
+	# en: "オコサマランチ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0268:
+	# jp: "オコノミヤキ"
+	# en: "オコノミヤキ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0269:
+	# jp: "オサシミ"
+	# en: "オサシミ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0270:
+	# jp: "オセチ"
+	# en: "オセチ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0271:
+	# jp: "オチャ"
+	# en: "オチャ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0272:
+	# jp: "オチャヅケ"
+	# en: "オチャヅケ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0273:
+	# jp: "オデン"
+	# en: "オデン"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0274:
+	# jp: "オニギリ"
+	# en: "オニギリ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0275:
+	# jp: "オムレツ"
+	# en: "オムレツ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0276:
+	# jp: "オモチ"
+	# en: "オモチ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0277:
+	# jp: "オヤコドン"
+	# en: "オヤコドン"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0278:
+	# jp: "オレンジジュース"
+	# en: "オレンジジュース"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0279:
+	# jp: "カキ"
+	# en: "カキ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0280:
+	# jp: "カギゴオリ"
+	# en: "カギゴオリ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0281:
+	# jp: "カステラ"
+	# en: "カステラ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0282:
+	# jp: "ガトーショコラ"
+	# en: "ガトーショコラ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0283:
+	# jp: "カニ"
+	# en: "カニ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0284:
+	# jp: "カビタパン"
+	# en: "カビタパン"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0285:
+	# jp: "ガム"
+	# en: "ガム"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0286:
+	# jp: "カラアゲ"
+	# en: "カラアゲ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0287:
+	# jp: "カルボナーラ"
+	# en: "カルボナーラ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0288:
+	# jp: "カレーライス"
+	# en: "カレーライス"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0289:
+	# jp: "キッシュ"
+	# en: "キッシュ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0290:
+	# jp: "キツネウドン"
+	# en: "キツネウドン"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0291:
+	# jp: "キノコ"
+	# en: "キノコ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0292:
+	# jp: "キムチ"
+	# en: "キムチ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0293:
+	# jp: "キャビア"
+	# en: "キャビア"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0294:
+	# jp: "ギュードン"
+	# en: "ギュードン"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0295:
+	# jp: "ギューニュー"
+	# en: "ギューニュー"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0296:
+	# jp: "ギョーザ"
+	# en: "ギョーザ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0297:
+	# jp: "クサッタギューニュー"
+	# en: "クサッタギューニュー"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0298:
+	# jp: "クッキー"
+	# en: "クッキー"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0299:
+	# jp: "グミ"
+	# en: "グミ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0300:
+	# jp: "グラタン"
+	# en: "グラタン"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0301:
+	# jp: "クリームシチュー"
+	# en: "クリームシチュー"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0302:
+	# jp: "クレープ"
+	# en: "クレープ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0303:
+	# jp: "グレープフルーツ"
+	# en: "グレープフルーツ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0304:
+	# jp: "クロワッサン"
+	# en: "クロワッサン"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0305:
+	# jp: "コーチャ"
+	# en: "コーチャ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0306:
+	# jp: "コーヒー"
+	# en: "コーヒー"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0307:
+	# jp: "コーンスープ"
+	# en: "コーンスープ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0308:
+	# jp: "ゴハン"
+	# en: "ゴハン"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0309:
+	# jp: "コロッケ"
+	# en: "コロッケ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0310:
+	# jp: "コンビニベントー"
+	# en: "コンビニベントー"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0311:
+	# jp: "サクランボ"
+	# en: "サクランボ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0312:
+	# jp: "サザエノツボヤキ"
+	# en: "サザエノツボヤキ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0313:
+	# jp: "サラダ"
+	# en: "サラダ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0314:
+	# jp: "ザルソバ"
+	# en: "ザルソバ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0315:
+	# jp: "サンショクダンゴ"
+	# en: "サンショクダンゴ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0316:
+	# jp: "サンドイッチ"
+	# en: "サンドイッチ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0317:
+	# jp: "サンマノシオヤキ"
+	# en: "サンマノシオヤキ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0318:
+	# jp: "ジャガバタ"
+	# en: "ジャガバタ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0319:
+	# jp: "シュークリーム"
+	# en: "シュークリーム"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0320:
+	# jp: "シューマイ"
+	# en: "シューマイ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0321:
+	# jp: "ショートケーキ"
+	# en: "ショートケーキ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0322:
+	# jp: "ショクパン"
+	# en: "ショクパン"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0323:
+	# jp: "スイートポテト"
+	# en: "スイートポテト"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0324:
+	# jp: "スイカ"
+	# en: "スイカ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0325:
+	# jp: "スイドースイ"
+	# en: "スイドースイ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0326:
+	# jp: "スキヤキ"
+	# en: "スキヤキ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0327:
+	# jp: "スシ"
+	# en: "スシ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0328:
+	# jp: "ステーキ"
+	# en: "ステーキ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0329:
+	# jp: "スブタ"
+	# en: "スブタ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0330:
+	# jp: "ゼンザイ"
+	# en: "ゼンザイ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0331:
+	# jp: "ソーセージ"
+	# en: "ソーセージ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0332:
+	# jp: "ソフトクリーム"
+	# en: "ソフトクリーム"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0333:
+	# jp: "タイノイケヅクリ"
+	# en: "タイノイケヅクリ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0334:
+	# jp: "タイヤキ"
+	# en: "タイヤキ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0335:
+	# jp: "タコス"
+	# en: "タコス"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0336:
+	# jp: "タコヤキ"
+	# en: "タコヤキ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0337:
+	# jp: "タマゴヤキ"
+	# en: "タマゴヤキ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0338:
+	# jp: "チクワ"
+	# en: "チクワ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0339:
+	# jp: "チャーハン"
+	# en: "チャーハン"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0340:
+	# jp: "チャンコナベ"
+	# en: "チャンコナベ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0341:
+	# jp: "チョコレート"
+	# en: "チョコレート"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0342:
+	# jp: "チョコレートパフェ"
+	# en: "チョコレートパフェ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0343:
+	# jp: "テンプラ"
+	# en: "テンプラ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0344:
+	# jp: "トーガラシ"
+	# en: "トーガラシ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0345:
+	# jp: "トーフ"
+	# en: "トーフ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0346:
+	# jp: "トーモロコシ"
+	# en: "トーモロコシ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0347:
+	# jp: "ドーナツ"
+	# en: "ドーナツ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0348:
+	# jp: "ドラヤキ"
+	# en: "ドラヤキ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0349:
+	# jp: "ナットー"
+	# en: "ナットー"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0350:
+	# jp: "ニクマン"
+	# en: "ニクマン"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0351:
+	# jp: "バナナ"
+	# en: "バナナ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0352:
+	# jp: "バナナノカワ"
+	# en: "バナナノカワ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0353:
+	# jp: "ハルマキ"
+	# en: "ハルマキ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0354:
+	# jp: "ハンバーガー"
+	# en: "ハンバーガー"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0355:
+	# jp: "ハンバーグ"
+	# en: "ハンバーグ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0356:
+	# jp: "ピザ"
+	# en: "ピザ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0357:
+	# jp: "ビスケット"
+	# en: "ビスケット"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0358:
+	# jp: "ブドー"
+	# en: "ブドー"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0359:
+	# jp: "フライドポテト"
+	# en: "フライドポテト"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0360:
+	# jp: "プリン"
+	# en: "プリン"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0361:
+	# jp: "ブルーチーズ"
+	# en: "ブルーチーズ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0362:
+	# jp: "フレンチトースト"
+	# en: "フレンチトースト"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0363:
+	# jp: "ペロペロキャンディー"
+	# en: "ペロペロキャンディー"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0364:
+	# jp: "ポテトチップス"
+	# en: "ポテトチップス"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0365:
+	# jp: "ホネツキニク"
+	# en: "ホネツキニク"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0366:
+	# jp: "マーボードーフ"
+	# en: "マーボードーフ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0367:
+	# jp: "マカダミアナッツ"
+	# en: "マカダミアナッツ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0368:
+	# jp: "マツタケ"
+	# en: "マツタケ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0369:
+	# jp: "ミートソースパスタ"
+	# en: "ミートソースパスタ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0370:
+	# jp: "ミカン"
+	# en: "ミカン"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0371:
+	# jp: "ミソシル"
+	# en: "ミソシル"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0372:
+	# jp: "メダマヤキ"
+	# en: "メダマヤキ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0373:
+	# jp: "メンタイコ"
+	# en: "メンタイコ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0374:
+	# jp: "モモ"
+	# en: "モモ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0375:
+	# jp: "ヤキイモ"
+	# en: "ヤキイモ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0376:
+	# jp: "ヤキソバ"
+	# en: "ヤキソバ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0377:
+	# jp: "ヤキナス"
+	# en: "ヤキナス"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0378:
+	# jp: "ユデタマゴ"
+	# en: "ユデタマゴ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0379:
+	# jp: "ヨーカン"
+	# en: "ヨーカン"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0380:
+	# jp: "ラーメン"
+	# en: "ラーメン"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0381:
+	# jp: "リンゴ"
+	# en: "リンゴ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0382:
+	# jp: "レバー"
+	# en: "レバー"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0383:
+	# jp: "アイロン"
+	# en: "アイロン"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0384:
+	# jp: "イチガンレフ"
+	# en: "イチガンレフ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0385:
+	# jp: "イヌノヌイグルミ"
+	# en: "イヌノヌイグルミ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0386:
+	# jp: "ウチワ"
+	# en: "ウチワ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0387:
+	# jp: "ウデドケイ"
+	# en: "ウデドケイ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0388:
+	# jp: "オカリナ"
+	# en: "オカリナ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0389:
+	# jp: "オシャブリ"
+	# en: "オシャブリ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0390:
+	# jp: "オマモリ"
+	# en: "オマモリ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0391:
+	# jp: "オリヅル"
+	# en: "オリヅル"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0392:
+	# jp: "オルゴール"
+	# en: "オルゴール"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0393:
+	# jp: "カスタネット"
+	# en: "カスタネット"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0394:
+	# jp: "ガッタイロボ"
+	# en: "ガッタイロボ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0395:
+	# jp: "ガラスザイク"
+	# en: "ガラスザイク"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0396:
+	# jp: "キタナイゾーキン"
+	# en: "キタナイゾーキン"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0397:
+	# jp: "キネンキッテ"
+	# en: "キネンキッテ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0398:
+	# jp: "キボリノクマ"
+	# en: "キボリノクマ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0399:
+	# jp: "ギョタク"
+	# en: "ギョタク"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0400:
+	# jp: "キンメダル"
+	# en: "キンメダル"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0401:
+	# jp: "クサイクツシタ"
+	# en: "クサイクツシタ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0402:
+	# jp: "クマノヌイグルミ"
+	# en: "クマノヌイグルミ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0403:
+	# jp: "コンヤクユビワ"
+	# en: "コンヤクユビワ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0404:
+	# jp: "コースイ"
+	# en: "コースイ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0405:
+	# jp: "コケシ"
+	# en: "コケシ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0406:
+	# jp: "ゴムチューブ"
+	# en: "ゴムチューブ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0407:
+	# jp: "サインシキシ"
+	# en: "サインシキシ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0408:
+	# jp: "サッカーボール"
+	# en: "サッカーボール"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0409:
+	# jp: "サボテン"
+	# en: "サボテン"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0410:
+	# jp: "シュリケン"
+	# en: "シュリケン"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0411:
+	# jp: "スイショー"
+	# en: "スイショー"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0412:
+	# jp: "スイソー"
+	# en: "スイソー"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0413:
+	# jp: "スノードーム"
+	# en: "スノードーム"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0414:
+	# jp: "セミノヌケガラ"
+	# en: "セミノヌケガラ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0415:
+	# jp: "ダイニボタン"
+	# en: "ダイニボタン"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0416:
+	# jp: "タオルセット"
+	# en: "タオルセット"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0417:
+	# jp: "タカソーナツボ"
+	# en: "タカソーナツボ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0418:
+	# jp: "チキューギ"
+	# en: "チキューギ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0419:
+	# jp: "ツキノイシ"
+	# en: "ツキノイシ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0420:
+	# jp: "ティッシュ"
+	# en: "ティッシュ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0421:
+	# jp: "トイレットペーパー"
+	# en: "トイレットペーパー"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0422:
+	# jp: "トーテムポール"
+	# en: "トーテムポール"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0423:
+	# jp: "ドグー"
+	# en: "ドグー"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0424:
+	# jp: "トリノス"
+	# en: "トリノス"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0425:
+	# jp: "ケッコンアルバム"
+	# en: "ケッコンアルバム"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0426:
+	# jp: "ナワトビ"
+	# en: "ナワトビ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0427:
+	# jp: "ハーモニカ"
+	# en: "ハーモニカ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0428:
+	# jp: "バスケットボール"
+	# en: "バスケットボール"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0429:
+	# jp: "パズルノピース"
+	# en: "パズルノピース"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0430:
+	# jp: "ハナタバ"
+	# en: "ハナタバ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0431:
+	# jp: "ハナビダマ"
+	# en: "ハナビダマ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0432:
+	# jp: "ハナフダ"
+	# en: "ハナフダ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0433:
+	# jp: "ハンコ"
+	# en: "ハンコ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0434:
+	# jp: "ヒナニンギョー"
+	# en: "ヒナニンギョー"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0435:
+	# jp: "ファッションザッシ"
+	# en: "ファッションザッシ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0436:
+	# jp: "ブタノチョキンバコ"
+	# en: "ブタノチョキンバコ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0437:
+	# jp: "フランスニンギョー"
+	# en: "フランスニンギョー"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0438:
+	# jp: "ヘソノオ"
+	# en: "ヘソノオ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0439:
+	# jp: "ボンサイ"
+	# en: "ボンサイ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0440:
+	# jp: "マゴノテ"
+	# en: "マゴノテ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0441:
+	# jp: "マネキネコ"
+	# en: "マネキネコ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0442:
+	# jp: "マンネンヒツ"
+	# en: "マンネンヒツ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0443:
+	# jp: "ミミカキ"
+	# en: "ミミカキ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0444:
+	# jp: "メザマシドケイ"
+	# en: "メザマシドケイ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0445:
+	# jp: "モアイゾーノオキモノ"
+	# en: "モアイゾーノオキモノ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0446:
+	# jp: "ユキダルマ"
+	# en: "ユキダルマ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0447:
+	# jp: "ヨセガキ"
+	# en: "ヨセガキ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0448:
+	# jp: "リコーダー"
+	# en: "リコーダー"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0449:
+	# jp: "カメオノブローチ"
+	# en: "カメオノブローチ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0450:
+	# jp: "キーホルダー"
+	# en: "キーホルダー"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0451:
+	# jp: "フルイトーノオキモノ"
+	# en: "フルイトーノオキモノ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0452:
+	# jp: "シーサーノオキモノ"
+	# en: "シーサーノオキモノ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0453:
+	# jp: "シルクノハンカチ"
+	# en: "シルクノハンカチ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0454:
+	# jp: "スペインセンス"
+	# en: "スペインセンス"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0455:
+	# jp: "ゾーノオキモノ"
+	# en: "ゾーノオキモノ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0456:
+	# jp: "ペナント"
+	# en: "ペナント"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0457:
+	# jp: "ヘンナオメン"
+	# en: "ヘンナオメン"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0458:
+	# jp: "マリモ"
+	# en: "マリモ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0459:
+	# jp: "イチョーヤク"
+	# en: "イチョーヤク"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0460:
+	# jp: "カゼグスリ"
+	# en: "カゼグスリ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0461:
+	# jp: "ツカイステカメラ"
+	# en: "ツカイステカメラ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0462:
+	# jp: "リョコーケン"
+	# en: "リョコーケン"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0463:
+	# jp: "オシゴトタイケンチケット"
+	# en: "オシゴトタイケンチケット"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0464:
+	# jp: "ファミコン"
+	# en: "ファミコン"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0465:
+	# jp: "ゲームボーイ"
+	# en: "ゲームボーイ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0466:
+	# jp: "バーチャルボーイ"
+	# en: "バーチャルボーイ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0467:
+	# jp: "オフロセット"
+	# en: "オフロセット"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0468:
+	# jp: "センプーキ"
+	# en: "センプーキ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0469:
+	# jp: "サイミンジュツセット"
+	# en: "サイミンジュツセット"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0470:
+	# jp: "フライパン"
+	# en: "フライパン"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0471:
+	# jp: "ジショ"
+	# en: "ジショ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0472:
+	# jp: "ハシ"
+	# en: "ハシ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0473:
+	# jp: "メガホン"
+	# en: "メガホン"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0474:
+	# jp: "ヤジロベエ"
+	# en: "ヤジロベエ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0475:
+	# jp: "エダマメ"
+	# en: "エダマメ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0476:
+	# jp: "ミョーガ"
+	# en: "ミョーガ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0477:
+	# jp: "カンシャジョー"
+	# en: "カンシャジョー"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0478:
+	# jp: "ドーノトロフィー"
+	# en: "ドーノトロフィー"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0479:
+	# jp: "ギンノトロフィー"
+	# en: "ギンノトロフィー"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0480:
+	# jp: "キンノトロフィー"
+	# en: "キンノトロフィー"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0481:
+	# jp: "プラチナノトロフィー"
+	# en: "プラチナノトロフィー"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0482:
+	# jp: "ドアノブ"
+	# en: "ドアノブ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0483:
+	# jp: "スルメ"
+	# en: "スルメ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0484:
+	# jp: "センベイ"
+	# en: "センベイ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0485:
+	# jp: "ニクジャガ"
+	# en: "ニクジャガ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0486:
+	# jp: "トンカツ"
+	# en: "トンカツ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0487:
+	# jp: "ゴーヤ"
+	# en: "ゴーヤ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0488:
+	# jp: "トマトジュース"
+	# en: "トマトジュース"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0489:
+	# jp: "キンカ"
+	# en: "キンカ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0490:
+	# jp: "ギンカ"
+	# en: "ギンカ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0491:
+	# jp: "ウィー"
+	# en: "ウィー"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0492:
+	# jp: "ケータイデンワ"
+	# en: "ケータイデンワ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0493:
+	# jp: "シーディー"
+	# en: "シーディー"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0494:
+	# jp: "ベンキョーセット"
+	# en: "ベンキョーセット"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0495:
+	# jp: "ショーセツ"
+	# en: "ショーセツ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0496:
+	# jp: "ディーエス"
+	# en: "ディーエス"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0497:
+	# jp: "ノートパソコン"
+	# en: "ノートパソコン"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0498:
+	# jp: "ハタキ"
+	# en: "ハタキ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0499:
+	# jp: "ウタ"
+	# en: "ウタ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0500:
+	# jp: "クチグセ"
+	# en: "クチグセ"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0501:
+	# jp: "ミシヨウヒン"
+	# en: "ミシヨウヒン"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0502:
+	# jp: "フク"
+	# en: "フク"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0503:
+	# jp: "プレゼント"
+	# en: "プレゼント"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0504:
+	# jp: "インテリア"
+	# en: "インテリア"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0505:
+	# jp: "シャシン"
+	# en: "シャシン"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0506:
+	# jp: "ミシヨウヒン"
+	# en: "ミシヨウヒン"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0507:
+	# jp: "ミシヨウヒン"
+	# en: "ミシヨウヒン"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0508:
+	# jp: "ミシヨウヒン"
+	# en: "ミシヨウヒン"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0509:
+	# jp: "ミシヨウヒン"
+	# en: "ミシヨウヒン"
+	""
+
+translate spanish tmd_item_msg_JP.json/MSG_0510:
+	# jp: "？？？"
+	# en: "？？？"
+	""
+

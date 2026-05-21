@@ -1,0 +1,2125 @@
+translate spanish tmd_etc_msg_JP.json/MSG_0000:
+	# jp: "ドライ系"
+	# en: "Dry"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0001:
+	# jp: "ノリ系"
+	# en: "Fun"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0002:
+	# jp: "クール系"
+	# en: "Cool"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0003:
+	# jp: "ナゴミ系"
+	# en: "Calm"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0004:
+	# jp: "？？？系"
+	# en: "？？？"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0005:
+	# jp: "(--)"
+	# en: "(--)"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0006:
+	# jp: "(+-)"
+	# en: "(+-)"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0007:
+	# jp: "(-+)"
+	# en: "(-+)"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0008:
+	# jp: "(++)"
+	# en: "(++)"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0009:
+	# jp: "しーん…型"
+	# en: "Quiet"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0010:
+	# jp: "じっくり型"
+	# en: "Careful"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0011:
+	# jp: "サバサバ型"
+	# en: "Candid"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0012:
+	# jp: "バッサリ型"
+	# en: "Drastic"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0013:
+	# jp: "もじもじ型"
+	# en: "Bashful"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0014:
+	# jp: "きっちり型"
+	# en: "Sharp"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0015:
+	# jp: "テキパキ型"
+	# en: "Alert"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0016:
+	# jp: "バリバリ型"
+	# en: "Active"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0017:
+	# jp: "ほんわか型"
+	# en: "Gentle"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0018:
+	# jp: "まったり型"
+	# en: "Mellow"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0019:
+	# jp: "ワイワイ型"
+	# en: "Noisy"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0020:
+	# jp: "メラメラ型"
+	# en: "Flare"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0021:
+	# jp: "ふわふわ型"
+	# en: "Soft"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0022:
+	# jp: "にこにこ型"
+	# en: "Smiley"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0023:
+	# jp: "キラキラ型"
+	# en: "Shiny"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0024:
+	# jp: "ガンガン型"
+	# en: "Intense"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0025:
+	# jp: "？？？？型"
+	# en: "？？？？"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0026:
+	# jp: "性別をえらんでください"
+	# en: "Please choose a gender."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0027:
+	# jp: "顔を作りますか？"
+	# en: "Edit face?"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0028:
+	# jp: "顔の設定"
+	# en: "Face settings"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0029:
+	# jp: "プロフィールの設定"
+	# en: "Profile settings"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0030:
+	# jp: "苗字を入力してください"
+	# en: "Please enter last name."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0031:
+	# jp: "名前を入力してください"
+	# en: "Please enter given name."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0032:
+	# jp: "ニックネームを入力してください"
+	# en: "Please enter nickname."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0033:
+	# jp: "声の設定"
+	# en: "Voice settings"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0034:
+	# jp: "性格の設定"
+	# en: "Personality settings"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0035:
+	# jp: "[255:00000700][1:01000000][255:00000800]の性格は…"
+	# en: "[255:00000700][1:01000000][255:00000800]'s personality is..."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0036:
+	# jp: "作成者を入力してください"
+	# en: "Please enter the creator's name."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0037:
+	# jp: "好きな食べ物１を入力してください"
+	# en: "Please enter a favorite food."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0038:
+	# jp: "好きな食べ物２を入力してください"
+	# en: "Please enter another favorite food."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0039:
+	# jp: "口ぐせ１"
+	# en: "Catch phrase 1"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0040:
+	# jp: "口ぐせ２"
+	# en: "Catch phrase 2"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0041:
+	# jp: "声を編集"
+	# en: "Edit"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0042:
+	# jp: "保存して終了する"
+	# en: "Save and finish."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0043:
+	# jp: "保存しないで終了する"
+	# en: "Exit without saving."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0044:
+	# jp: "終了しない"
+	# en: "Not done yet."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0045:
+	# jp: "登録します。\nよろしいですか？"
+	# en: "Do you want to register\nthis person?"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0046:
+	# jp: "保存しないで終了します。\nよろしいですか？"
+	# en: "Are you sure to leave\nwithout saving?"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0047:
+	# jp: "[1:02000000][1:03000100]デス"
+	# en: "[1:02000000][1:03000100]デス"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0048:
+	# jp: "[1:01000000]ネン_[1:01000100]ガツ_[1:01000200]ニチウマレノ[1:fa000000]"
+	# en: "[1:01000000]ネン_[1:01000100]ガツ_[1:01000200]ニチウマレノ[1:fa000000]"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0049:
+	# jp: "[1:01000000]ガツ_[1:01000100]ニチウマレノ[1:fa000000]"
+	# en: "[1:01000000]ガツ_[1:01000100]ニチウマレノ[1:fa000000]"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0050:
+	# jp: "[1:01000000]ネンウマレ"
+	# en: "[1:01000000]ネンウマレ"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0051:
+	# jp: "サクセイシャワ[1:01000000]"
+	# en: "サクセイシャワ[1:01000000]"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0052:
+	# jp: "ケツエキガタワ[1:fa000000]ガタ"
+	# en: "ケツエキガタワ[1:fa000000]ガタ"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0053:
+	# jp: "スキナイロワ[1:fa000000]デス"
+	# en: "スキナイロワ[1:fa000000]デス"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0054:
+	# jp: "ニックネームワ_[1:01000000]"
+	# en: "ニックネームワ_[1:01000000]"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0055:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0056:
+	# jp: "ミズガメザ"
+	# en: "ミズガメザ"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0057:
+	# jp: "ウオザ"
+	# en: "ウオザ"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0058:
+	# jp: "オジツジザ"
+	# en: "オジツジザ"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0059:
+	# jp: "オウシザ"
+	# en: "オウシザ"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0060:
+	# jp: "フタゴザ"
+	# en: "フタゴザ"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0061:
+	# jp: "カニザ"
+	# en: "カニザ"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0062:
+	# jp: "シシザ"
+	# en: "シシザ"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0063:
+	# jp: "オトメザ"
+	# en: "オトメザ"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0064:
+	# jp: "テンビンザ"
+	# en: "テンビンザ"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0065:
+	# jp: "サソリザ"
+	# en: "サソリザ"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0066:
+	# jp: "イテザ"
+	# en: "イテザ"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0067:
+	# jp: "ヤギザ"
+	# en: "ヤギザ"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0068:
+	# jp: "アカ"
+	# en: "アカ"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0069:
+	# jp: "オレンジ"
+	# en: "オレンジ"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0070:
+	# jp: "キイロ"
+	# en: "キイロ"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0071:
+	# jp: "キミドリ"
+	# en: "キミドリ"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0072:
+	# jp: "ミドリ"
+	# en: "ミドリ"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0073:
+	# jp: "アオ"
+	# en: "アオ"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0074:
+	# jp: "ミズイロ"
+	# en: "ミズイロ"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0075:
+	# jp: "ピンク"
+	# en: "ピンク"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0076:
+	# jp: "ムラサキ"
+	# en: "ムラサキ"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0077:
+	# jp: "チャイロ"
+	# en: "チャイロ"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0078:
+	# jp: "シロ"
+	# en: "シロ"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0079:
+	# jp: "クロ"
+	# en: "クロ"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0080:
+	# jp: "エー"
+	# en: "エー"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0081:
+	# jp: "ビー"
+	# en: "ビー"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0082:
+	# jp: "オー"
+	# en: "オー"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0083:
+	# jp: "エービー"
+	# en: "エービー"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0084:
+	# jp: "その他"
+	# en: "Others"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0085:
+	# jp: "本人"
+	# en: "Yourself"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0086:
+	# jp: "夫婦"
+	# en: "Spouse"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0087:
+	# jp: "親"
+	# en: "Parent"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0088:
+	# jp: "子供"
+	# en: "Kid"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0089:
+	# jp: "兄弟／姉妹"
+	# en: "Sibling"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0090:
+	# jp: "Ａ"
+	# en: "Ａ"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0091:
+	# jp: "Ｂ"
+	# en: "Ｂ"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0092:
+	# jp: "Ｏ"
+	# en: "Ｏ"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0093:
+	# jp: "ＡＢ"
+	# en: "ＡＢ"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0094:
+	# jp: "　"
+	# en: "　"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0095:
+	# jp: "メニュー"
+	# en: "Menu"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0096:
+	# jp: "並びかえ"
+	# en: "Sort"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0097:
+	# jp: "第一印象：自信家\n特徴　　：形式的、負けず嫌い、短気\n　　　　　ズバリ言い切る、成果にこだわる"
+	# en: "First impression: Confident\nTraits: Formal, hates to lose,\nshort-tempered, frank, obsessive"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0098:
+	# jp: "第一印象：気さく\n特徴　　：直感＆勢い重視、大ざっぱ\n　　　　　楽観的、熱しやすく冷めやすい"
+	# en: "First impression: Good humored\nTraits: Energetic, believes in hunch,\nsketchy, optimistic, sensitive"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0099:
+	# jp: "第一印象：クール\n特徴　　：控えめ、注意深い、しぶとい\n　　　　　論理的、口調が淡々としている"
+	# en: "First impression: Cool\nTraits: Reserved, careful, stubborn,\nlogical, indifferent"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0100:
+	# jp: "第一印象：おだやか\n特徴　　：マイペース、ナイーブ＆デリケート\n　　　　　素直、気配り上手、みんなに優しい"
+	# en: "First impression: Gentle\nTraits: Takes things slowly, naive,\ndelicate, meek, attentive, kind"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0101:
+	# jp: "[255:00000100]かぎりなくひかえめなタイプ。\n思ってることが顔に出ることもなければ\n口に出すこともほとんどない。でも芯は強い。"
+	# en: "[255:00000100]Very reserved, and unable\nto say things frankly to people,\nbut has strong will."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0102:
+	# jp: "[255:00000100]気持ちを顔に出さないタイプ。\n物事をじっくり考えるのが得意。\nかたくるしいのがタマにキズ。"
+	# en: "[255:00000100]Doesn't show emotions much\nand always thinks about\neverything carefully."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0103:
+	# jp: "[255:00000100]ひとりで行動するのが好きなタイプ。\nワイワイさわぐことはないけど、\n内に秘める力はけっこうスゴイ。"
+	# en: "[255:00000100]Likes to do things alone.\nSeems nonchalant but is actually\nvery powerful."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0104:
+	# jp: "[255:00000100]わが道をつっ走るタイプ。\n他人の言うことは気にせず、なんでも\nすばやく行動する、デキるヤツ。"
+	# en: "[255:00000100]Prefers to do things\nin his/her own way. Doesn't listen\nto others. A competent type."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0105:
+	# jp: "ガマン強いタイプ。\n自分より他人を大切にし、争いごとはさける。\nでもガマンしすぎるとバクハツすることも…"
+	# en: "Very patient. Cares more about\nothers than oneself. Might explode\nif things go over the limit."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0106:
+	# jp: "なんでもマジメにこなすタイプ。\nおとなしめだけど、言いたいことは言う。\nルールをやぶることはほとんどない。"
+	# en: "Always serious with everything.\nQuiet, but straightforward.\nVery afraid to break rules."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0107:
+	# jp: "強気にがんばるタイプ。\n目標が高ければ高いほど燃える。\n少しおっちょこちょいな面も…"
+	# en: "Likes challenges. Gets more\nenthusiastic if the goal is\nmore difficult. A little clumsy."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0108:
+	# jp: "[255:00000100]きびしいリーダーなタイプ。\nこれだ！と思うことに全力で取り組む。\n理想と現実のギャップになやむことも…"
+	# en: "[255:00000100]A strict leader. Always tackles\nthings with full strength. Suffers\nfrom a gap between ideal and reality."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0109:
+	# jp: "人に気をつかうタイプ。\nみんなでなかよくすることが第一。\n人をうたがわないのでだまされないように。"
+	# en: "Usually worries about others.\nWants to get along with everyone.\nEasily trusts people."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0110:
+	# jp: "のんびりのびのびタイプ。\n急がず自分のペースで生きる。\nでも心配事も多かったりする。"
+	# en: "Relaxed and carefree type.\nVery laid-back but has a lot\nof things to worry about."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0111:
+	# jp: "なんでも楽しみたいタイプ。\n知らない人ともすぐになかよくなる。\n大変なことでも楽しみに変えられる人。"
+	# en: "Enjoys everything in life. Has\nfun even in bad situations. Can\nimmediately befriend people."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0112:
+	# jp: "[255:00000100]つっぱしる熱血タイプ。\n面白いことがあると、まわりの人を\nまきこんで楽しむ。多少強引。"
+	# en: "[255:00000100]The hot-blooded type. Likes to\nget involved with other people.\nSomewhat pushy."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0113:
+	# jp: "究極のいやし系タイプ。\n楽しいことはすぐに顔に出る。\nイヤなこともすぐに顔に出る。"
+	# en: "The soothing type. Always shows\nemotions obviously on his/her\nface."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0114:
+	# jp: "いつも笑顔をたやさないタイプ。\nただ笑ってるだけじゃなく、みんなが\n楽しめるように行動する、実はしっかり者。"
+	# en: "Always smiles to people and\nalways makes people laugh,\nbut is actually reliable."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0115:
+	# jp: "[255:00000100]みんなのアイドルタイプ。\nいつでも元気いっぱい、やる気いっぱい、\nみんなのあこがれ。でも影で苦労してる。"
+	# en: "[255:00000100]Is everyone's idol. Always so\nenergetic and full of motivation.\nQuite struggling behind-the-scene."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0116:
+	# jp: "[255:00000100]元気のかたまりタイプ。\n思いつきでなんでもやる。\n何かやりだしたらだれにも止められない。"
+	# en: "[255:00000100]Very energetic and determined.\nLikes to do things on a whim,\nand no one can stop him/her."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0117:
+	# jp: "編集"
+	# en: "Edit"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0118:
+	# jp: "正式登録"
+	# en: "Entry"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0119:
+	# jp: "このＭｉｉを着せかえ"
+	# en: "Dress up this Mii"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0120:
+	# jp: "部屋へ"
+	# en: "Visit"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0121:
+	# jp: "消去"
+	# en: "Erase"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0122:
+	# jp: "[255:00000700][1:01000000][255:00000800] を\n島の外へ引っ越しさせます。\n引っ越すと、このＭｉｉのすべての\n記録がなくなってしまいます。\n本当に引っ越しさせますか？"
+	# en: "[255:00000700][1:01000000][255:00000800]\nwill move out of this island.\nAfter leaving, this Mii's\nrecords will be all gone.\nIs that really okay?"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0123:
+	# jp: "引っ越すには費用として\n２１００円かかります。\nよろしいですか？"
+	# en: "The cost of moving will be\n２１００ yen. Will that be okay?"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0124:
+	# jp: "お金が足りないので\n引っ越しさせることができません！"
+	# en: "You don't have enough money!"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0125:
+	# jp: "このＭｉｉはあなたの分身なので\n引っ越しさせることができません！"
+	# en: "This Mii represents yourself.\nIt can't leave this island!"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0126:
+	# jp: "[255:00000700][1:01000000][255:00000800] は\nどこかへ引っ越していきました。"
+	# en: "[255:00000700][1:01000000][255:00000800] has\nmoved out to somewhere else."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0127:
+	# jp: "名前"
+	# en: "Name"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0128:
+	# jp: "ニックネーム"
+	# en: "Nickname"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0129:
+	# jp: "性別"
+	# en: "Gender"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0130:
+	# jp: "生まれ年"
+	# en: "Birth year"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0131:
+	# jp: "誕生日"
+	# en: "Birthday"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0132:
+	# jp: "血液型"
+	# en: "Blood type"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0133:
+	# jp: "性格"
+	# en: "Trait"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0134:
+	# jp: "どこに？"
+	# en: "Where?"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0135:
+	# jp: "プロフィール"
+	# en: "Profile"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0136:
+	# jp: "人間関係"
+	# en: "Relationships"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0137:
+	# jp: "誰とも関係を\nもっていません"
+	# en: "(Currently has no\nrelation.)"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0138:
+	# jp: "夫婦"
+	# en: "Spouse"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0139:
+	# jp: "夫婦（ケンカ中）"
+	# en: "Spouse (In a fight)"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0140:
+	# jp: "恋人"
+	# en: "Lover"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0141:
+	# jp: "恋人（ケンカ中）"
+	# en: "Lover (In a fight)"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0142:
+	# jp: "友達"
+	# en: "Friend(s)"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0143:
+	# jp: "友達（ケンカ中）"
+	# en: "Friend (In a fight)"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0144:
+	# jp: "元恋人"
+	# en: "Ex Lover(s)"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0145:
+	# jp: "離婚"
+	# en: "Divorced"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0146:
+	# jp: "親友"
+	# en: "Best Friend"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0147:
+	# jp: "入る"
+	# en: "Enter"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0148:
+	# jp: "多数決する"
+	# en: "Vote"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0149:
+	# jp: "質問する"
+	# en: "Question"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0150:
+	# jp: "ファッションの専門店。\n好みの服を買って、住人たちに\n着せてあげましょう。\n店に並ぶ商品は毎日変わります。"
+	# en: "A fashion specialty store.\nYou can buy clothes for people\non the island. Items in the\nstore change daily."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0151:
+	# jp: "\nリサイクルのお店。\n手に入れたお宝は\nここで売りましょう。\nガラクタが高値で売れることも…"
+	# en: "A store where you can sell\nyour unwanted assets. You\nmight as well sell your junks."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0152:
+	# jp: "インテリア専門店。\nここでインテリア一式を買えば\n住人たちの部屋を\n模様替えすることができます。"
+	# en: "A specialty shop for\ninteriors. You can remodel\nany rooms by purchasing\ninterior sets from this shop."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0153:
+	# jp: "その人にぴったりの仕事を\n紹介してくれる、職業相談所。\n意外な素質を発見できるかも。\n※診断してもらうには、生年月日が\n登録されている必要があります。"
+	# en: "A place where you can get free\nconsult for a job that suits\neach person. (Please register\nthat person's birthday in\norder to get a diagnosis.)"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0154:
+	# jp: "\n現在、人手不足により\n休館しています。"
+	# en: "\nCurrently closed due to\nlack of manpower."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0155:
+	# jp: "\nいろんなランキングが\n発表される掲示板。\n内容は刻一刻と変わるので\n毎日チェックしよう！"
+	# en: "A public board that shows\nvarious rankings. Results\nchange very often so be\nsure to constantly check it!"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0156:
+	# jp: "質問イベントが行われる会場。\nどっちにしようか悩んでいる\nことがあれば『多数決する』を、\n島の住人達に聞きたいことがあれば\n『質問する』をお選びください。"
+	# en: "A place where you can ask\nquestions. Choose \"Vote,\" if\nyou have something you can't\ndecide, or choose \"Question\" to\nask the Miis some questions."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0157:
+	# jp: "\n現在、人手不足により\n閉鎖しています。"
+	# en: "\nCurrently closed due to\nlack of manpower."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0158:
+	# jp: "\n島で起こる様々な出来事を取材し\nいち早くあなたにお届けします。\nニュースは朝晩２回放送予定。\nお見逃しなく！"
+	# en: "News coverage about\neverything happening on\nthe island. It is broadcasted\ntwice a day in the morning\nand evening."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0159:
+	# jp: "\n現在、人手不足により\n放送を中止しております。"
+	# en: "\nBroadcasting suspended due\nto lack of manpower."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0160:
+	# jp: "住人の新規登録や\n出来事の保存はこちらです。\nその他色々な手続きができますので\n何か困ったことがあれば、\nこちらへお越しください。"
+	# en: "You can register new residents,\nsave events, and do various\nthings here. You are welcomed\nto come here whenever\nyou have any troubles."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0161:
+	# jp: "たべものの専門店。\n店に並ぶ商品は毎日変わります。\n一度買った商品は、カタログから\nいつでも買うことができます。"
+	# en: "Specialty food shop that sells\ndifferent items daily. Once you\nbought an item, you can always\nchoose it from the catalog."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0162:
+	# jp: "\n住人たちが住むマンション。\n窓をタッチすれば、住人の生活を\n見ることができます。\n悩み事をもつ住人がいることも。"
+	# en: "The apartment where everyone\nlives at. You can touch the\nwindows to peek inside and\ncheck if the residents\nhave any troubles."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0163:
+	# jp: "島の住人たちがあなたのために\n（自分たちのために）\n寄付をしてくれます。\n募金は１日１回だけ行えます。"
+	# en: "All the residents of this island\nwill make donations daily for\nyou to take care of them.\n(Donations can be collected\nonly once a day.)"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0164:
+	# jp: "\n募金が終わった後のふんすい広場。\n何かイベントが行われているかも\nしれませんよ…"
+	# en: "\nAfter the end of fundraising,\nthere may be other events\nhere as well..."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0165:
+	# jp: "ふたりの相性がわかるマシーン。\n同性なら友達相性が、\n異性なら恋愛相性が診断できます。\n※診断するには、生年月日が\n登録されている必要があります。"
+	# en: "A machine that can calculate\nhow compatible two people are,\nwhether it is friendship or\nlove compatibility. (Birthday\nis needed for a diagnosis.)"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0166:
+	# jp: "診断できる住人が足りないので\n現在休止しています。\n診断するには、住人の生年月日を\n２人以上登録する必要があります。"
+	# en: "The machine is temporary\nclosed. To get a diagnosis,\nthere must be at least\ntwo residents with\nknown birth dates."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0167:
+	# jp: "【服屋さん】\n建設予定地\n\n－－－－－オープン条件－－－－－\n住人が男女各２人以上いて、\n住人の悩みを５個解決する"
+	# en: "【Apparel Shop】\nConstruction Site\n\n－－－－Criteria－－－－\nHave at least 2♀ and 2♂, and\nsolves at least 5 troubles."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0168:
+	# jp: "【質屋さん】\n建設予定地\n\n－－－－－オープン条件－－－－－\nお宝を５種類以上手に入れる"
+	# en: "【Pawn Shop】\nConstruction Site\n\n－－－－Criteria－－－－\nCollect at least 5 assets."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0169:
+	# jp: "【インテリア屋さん】\n建設予定地\n\n－－－－－オープン条件－－－－－\n所持金が２万円以上になる"
+	# en: "【Interior Shop】\nConstruction Site\n\n－－－－Criteria－－－－\nCollect at least 20,000 yen."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0170:
+	# jp: "【適職の館】\n建設予定地\n\n－－－－－オープン条件－－－－－\n住人が男女各２人以上いて、\n住人の悩みを１５個解決する"
+	# en: "【Job Diagnosis】\nConstruction Site\n\n－－－－Criteria－－－－\nHave at least 2♀ and 2♂, and\nsolves at least 15 troubles."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0171:
+	# jp: "【ランキング掲示板】\n建設予定地\n\n－－－－－オープン条件－－－－－\n住人が５人以上いて、\n住人の悩みを１０個解決する"
+	# en: "【Ranking Board】\nConstruction Site\n\n－－－－Criteria－－－－\nHave at least 5 residents, and\nsolves at least 10 troubles."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0172:
+	# jp: "【質問ホール】\n建設予定地\n\n－－－－－オープン条件－－－－－\n住人が４人以上いて、\n住人の悩みを６０個解決する"
+	# en: "【Question Hall】\nConstruction Site\n\n－－－－Criteria－－－－\nHave at least 4 residents, and\nsolves at least 60 troubles."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0173:
+	# jp: "【Ｍｉｉニュース】\n建設予定地\n\n－－－－－オープン条件－－－－－\n住人が男女各３人以上いて、\n合計７人以上になる"
+	# en: "【Mii News】\nConstruction Site\n\n－－－－Criteria－－－－\nHave at least 3♀ and 3♂, and\nat least 7 residents in total."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0174:
+	# jp: "【恵みのふんすい】\n建設予定地\n\n－－－－－オープン条件－－－－－\n？？？？？"
+	# en: "【Blessing Fountain】\nConstruction Site\n\n－－－－Criteria－－－－\n？？？？？"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0175:
+	# jp: "【相性テスター】\n建設予定地\n\n－－－－－オープン条件－－－－－\n住人が男女各２人以上いて、\n住人の悩みを３０個解決する"
+	# en: "【Compatibility Tester】\nConstruction Site\n\n－－－－Criteria－－－－\nHave at least 2♀ and 2♂, and\nsolves at least 30 troubles."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0176:
+	# jp: "号室"
+	# en: " "
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0177:
+	# jp: "の部屋"
+	# en: "'s room"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0178:
+	# jp: "がいます"
+	# en: " is home."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0179:
+	# jp: "入る"
+	# en: "Enter"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0180:
+	# jp: "見る"
+	# en: "Check"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0181:
+	# jp: "引越し"
+	# en: "Move"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0182:
+	# jp: "模様替え"
+	# en: "Change"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0183:
+	# jp: "どこに引越しさせますか？"
+	# en: "Where do you want to move to?"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0184:
+	# jp: "ここでよろしいですか？"
+	# en: "Is this okay?"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0185:
+	# jp: "ここに住んでるＭｉｉと入れ替えますか？"
+	# en: "Switch rooms with this Mii?"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0186:
+	# jp: "はい"
+	# en: "Yes"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0187:
+	# jp: "他の部屋にする"
+	# en: "Change"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0188:
+	# jp: "やめる"
+	# en: "Quit"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0189:
+	# jp: "リストを見る"
+	# en: "List"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0190:
+	# jp: "集金する"
+	# en: "Collect"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0191:
+	# jp: "本日の品"
+	# en: "Daily"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0192:
+	# jp: "いつもの品"
+	# en: "Regular"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0193:
+	# jp: "カタログ"
+	# en: "Catalog"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0194:
+	# jp: "買う"
+	# en: "Buy"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0195:
+	# jp: "いくつ買いますか？"
+	# en: "How many to buy?"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0196:
+	# jp: "しょじきん"
+	# en: "Money"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0197:
+	# jp: "あまってるかず"
+	# en: "Amount"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0198:
+	# jp: "もってるかず"
+	# en: "Has"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0199:
+	# jp: "いくつ売りますか？"
+	# en: "How many to sell?"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0200:
+	# jp: "もってるかずがいっぱいなので\nこれ以上買うことはできません！"
+	# en: "You already have too many.\nYou can't buy any more!"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0201:
+	# jp: "[255:00000100][1:01000000]:"
+	# en: "[255:00000100][1:01000000]:"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0202:
+	# jp: "[255:00000100]「いらっしゃいませ！」"
+	# en: "[255:00000100]\"Welcome!\""
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0203:
+	# jp: "イラッシャイマセ！"
+	# en: "イラッシャイマセ！"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0204:
+	# jp: "[255:00000100]「いらっしゃいませ！\n　ご不要のものはございますか？」"
+	# en: "[255:00000100]\"Welcome! Do you have anything\nthat you don't need anymore?\""
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0205:
+	# jp: "イラッシャイマセ！ゴフヨーノモノワゴザイマスカ？"
+	# en: "イラッシャイマセ！ゴフヨーノモノワゴザイマスカ？"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0206:
+	# jp: "[255:00000100]「お買い上げありがとうございます！」"
+	# en: "[255:00000100]\"Thank you for your purchase!\""
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0207:
+	# jp: "オカイアゲアリガトーゴザイマス！"
+	# en: "オカイアゲアリガトーゴザイマス！"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0208:
+	# jp: "[255:00000100]「[255:00000300][1:14000000][255:00000100]です」"
+	# en: "[255:00000100]\"[255:00000300][1:14000000][255:00000100].\""
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0209:
+	# jp: "[255:00000100]「[255:00000300][1:15000000][255:00000100]です」"
+	# en: "[255:00000100]\"[255:00000300][1:15000000][255:00000100].\""
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0210:
+	# jp: "[255:00000100]「[255:00000300][1:15000000][255:00000200]（今月限定）[255:00000100]です」"
+	# en: "[255:00000100]\"[255:00000300][1:15000000][255:00000200]\n(Today's special.)[255:00000100]\""
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0211:
+	# jp: "[255:00000100]「ありがとうございます！」"
+	# en: "[255:00000100]\"Thank you very much!\""
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0212:
+	# jp: "アリガトーゴザイマス！"
+	# en: "アリガトーゴザイマス！"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0213:
+	# jp: "[255:00000100]「ありがとうございました！」"
+	# en: "[255:00000100]\"Thank you very much!\""
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0214:
+	# jp: "アリガトーゴザイマシタ！"
+	# en: "アリガトーゴザイマシタ！"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0215:
+	# jp: "サウンドの設定"
+	# en: "Sound Edit"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0216:
+	# jp: "時刻の修正"
+	# en: "Time Edit"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0217:
+	# jp: "設定完了"
+	# en: "Done"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0218:
+	# jp: "データの全消去"
+	# en: "Erase data"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0219:
+	# jp: "ステレオ設定"
+	# en: "Stereo settings"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0220:
+	# jp: "ステレオ"
+	# en: "Stereo"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0221:
+	# jp: "モノラル"
+	# en: "Mono"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0222:
+	# jp: "ＢＧＭボリューム"
+	# en: "BGM Volume"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0223:
+	# jp: "効果音ボリューム"
+	# en: "SE Volume"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0224:
+	# jp: "音声ボリューム"
+	# en: "Voice Volume"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0225:
+	# jp: "年"
+	# en: "/"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0226:
+	# jp: "月"
+	# en: "/"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0227:
+	# jp: "日"
+	# en: " "
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0228:
+	# jp: "午前"
+	# en: "AM"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0229:
+	# jp: "午後"
+	# en: "PM"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0230:
+	# jp: "時"
+	# en: ":"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0231:
+	# jp: "分"
+	# en: " "
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0232:
+	# jp: "修正する"
+	# en: "Change"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0233:
+	# jp: "時刻を変更すると、２４時間は\n募金ができなくなったりする\n可能性があります。\n時刻を変更して\n出来事を保存しますか？"
+	# en: "If you adjust the time, you\nwon't be able to collect\ndonations from the fountain\nfor 24 hours. Do you want\nto save your progress and\nadjust the time?"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0234:
+	# jp: "時刻を変更して\nこれまでの出来事を\n保存しています…"
+	# en: "Saving progress before\nadjusting the time..."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0235:
+	# jp: "\n完了しました。\nこのまま電源をお切りください。"
+	# en: "\nFinished.\nPlease turn the power off."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0236:
+	# jp: "[255:00000200]これまでの出来事をすべて消去します。\nすべて消去すると、登録したＭｉｉや\nアイテムなどがすべて消されてしまい、\n元にもどすことができなくなります。\nそれでも消去しますか？"
+	# en: "[255:00000200]All of your progress, all the\nMiis you have registered,\nand all the items you have\ncollected will be erased.\nThis cannot be undone.\nAre you sure?"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0237:
+	# jp: "[255:00000200]本当にすべて消去してよろしいですか？"
+	# en: "[255:00000200]Are you sure you want\nto erase all data?"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0238:
+	# jp: "[255:00000200]本当に本当によろしいですか？"
+	# en: "[255:00000200]Are you really, really sure\nyou want to erase all data?"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0239:
+	# jp: "消去しています…"
+	# en: "Erasing all data..."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0240:
+	# jp: "すべて消去しました。\nこのまま電源をお切りください。"
+	# en: "All the data have been erased.\nPlease turn the power off."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0241:
+	# jp: "ボリュームゼロ"
+	# en: "ボリュームゼロ"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0242:
+	# jp: "ボリュームイチ"
+	# en: "ボリュームイチ"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0243:
+	# jp: "ボリュームニ"
+	# en: "ボリュームニ"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0244:
+	# jp: "ボリュームサン"
+	# en: "ボリュームサン"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0245:
+	# jp: "[1:01000000]のインテリア"
+	# en: "[1:01000000]'s interior(s)"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0246:
+	# jp: "どのインテリアをプレゼントしますか？"
+	# en: "Which interior to give?"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0247:
+	# jp: "何を交換しますか？"
+	# en: "What do you want to exchange?"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0248:
+	# jp: "Ｍｉｉ"
+	# en: "Miis"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0249:
+	# jp: "たべもの・服・お宝など"
+	# en: "Items"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0250:
+	# jp: "何と通信しますか？"
+	# en: "Which system to connect to?"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0251:
+	# jp: "トモダチコレクション"
+	# en: "Tomodachi Collection (DS)"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0252:
+	# jp: "似顔絵チャンネル（Ｗｉｉ）"
+	# en: "Portrait Channel (Wii)"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0253:
+	# jp: "どちらにしますか？"
+	# en: "What do you want to do?"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0254:
+	# jp: "相手を募集する"
+	# en: "Start connection"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0255:
+	# jp: "相手を見つける"
+	# en: "Find partners"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0256:
+	# jp: "相手を募集しています…"
+	# en: "Connecting..."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0257:
+	# jp: "相手を探しています…"
+	# en: "Searching..."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0258:
+	# jp: "[1:01000000]"
+	# en: "[1:01000000]"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0259:
+	# jp: "相手が見つかりました。\n相手を選んでください。"
+	# en: "Partner(s) found.\nPlease select a partner."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0260:
+	# jp: "[1:01000000]と\nつながりました。"
+	# en: "You are connected to\n[1:01000000]."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0261:
+	# jp: "送る"
+	# en: "Send"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0262:
+	# jp: "[1:01000000]を送ります。\nよろしいですか？"
+	# en: "[1:01000000] will be\nsent. Is it okay?"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0263:
+	# jp: "[1:15000000]を送ります。\nよろしいですか？"
+	# en: "[1:15000000] will be\nsent. Is it okay?"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0264:
+	# jp: "送信中…"
+	# en: "Sending..."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0265:
+	# jp: "送信＆データ保存中…"
+	# en: "Sending and saving data..."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0266:
+	# jp: "送信しました。"
+	# en: "Data sent."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0267:
+	# jp: "受信中…"
+	# en: "Receiving..."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0268:
+	# jp: "受信＆データ保存中…"
+	# en: "Receiving and saving data..."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0269:
+	# jp: "データ保存中…"
+	# en: "Data received..."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0270:
+	# jp: "[1:01000000]が\n送られてきました。"
+	# en: "[1:01000000] has\nbeen sent."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0271:
+	# jp: "[1:01000000]が\n送られてきました。\nトモダチリストで\n正式登録をしてください。"
+	# en: "[1:01000000] has\nbeen sent.\nPlease check the\nFriend List."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0272:
+	# jp: "[1:15000000]が\n送られてきました。"
+	# en: "[1:15000000] has\nbeen sent."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0273:
+	# jp: "通信が切断されました。"
+	# en: "Communication got cut off."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0274:
+	# jp: "通信でエラーが発生しました。"
+	# en: "Communication error."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0275:
+	# jp: "接続中…"
+	# en: "Connecting..."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0276:
+	# jp: "スペシャルＭｉｉを送ってしまうと\nこちらからはいなくなってしまいます。\nそれでも送りますか？"
+	# en: "This is a special Mii.\nIf you send it, you will\nno longer have it.\nWill it be okay?"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0277:
+	# jp: "同じＭｉｉがいます。\n受け取ったＭｉｉの\nいくつかの情報を上書きします。"
+	# en: "There are identical\nMiis. The existing data\nwill be overwritten."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0278:
+	# jp: "同じＭｉｉがいるので、\n受け取ることができませんでした。"
+	# en: "There are identical\nMiis. Unable to send\ndata."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0279:
+	# jp: "保存している歌詞がいっぱいな為、\n受け取れなかった歌詞があります。"
+	# en: "There is a limit storage\nfor songs. Some songs\nwill not be sent."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0280:
+	# jp: "相手側に同じスペシャルＭｉｉが\nいたので、送れませんでした。"
+	# en: "This special Mii already\nexisted. Unable to send\ndata."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0281:
+	# jp: "同じスペシャルＭｉｉがいるので、\n送り返されました。"
+	# en: "This special Mii already\nexisted. Data sent."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0282:
+	# jp: "保存しているＭｉｉがいっぱいな為、\n受け取ることができませんでした。"
+	# en: "There is a limit storage\nfor Miis. Unable to send\ndata."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0283:
+	# jp: "相手側の保存しているＭｉｉが\nいっぱいな為、送り返されました。"
+	# en: "There are already too\nmany Miis. Unable to\nsend data."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0284:
+	# jp: "相手側の保存しているＭｉｉが\nいっぱいです。"
+	# en: "There are already too\nmany Miis."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0285:
+	# jp: "しばらくお待ちください…"
+	# en: "Please wait a moment..."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0286:
+	# jp: "通信を切断してもよろしいですか？"
+	# en: "Do you want to disconnect?"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0287:
+	# jp: "すでにもらっているＭｉｉの性別が\n送る側で変わった場合、\nもう一度受け取ることができません。"
+	# en: "The gender of this Mii\non the other side is\ndifferent. Unable to\nsend data."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0288:
+	# jp: "相手側に性別の違う同じＭｉｉが\nいたので送れませんでした。"
+	# en: "The gender of this Mii\non the other side is\ndifferent. Unable to\nsend data."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0289:
+	# jp: "通信できるＷｉｉを探しています…\n似顔絵チャンネルで、Ａ・Ｂ・１・２\n（２は長押し）の順に押してください。\n\n※２回目以降は『ニンテンドーＤＳと\n通信』を押してお待ち下さい"
+	# en: "Searching for available Wii...\nPlease press A, B, 1, 2 buttons\non Portrait Channel in order.\n(Press and hold 2.) And then\npress \"Connect to DS\" and wait."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0290:
+	# jp: "Ｍｉｉの受け取りに失敗しました。"
+	# en: "Failed to receive a Mii."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0291:
+	# jp: "Ｍｉｉの送信に失敗しました。"
+	# en: "Failed to send a Mii."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0292:
+	# jp: "記念にＤＳＴシャツを\n手に入れました！"
+	# en: "You received\nCommemorate DS T-shirt!"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0293:
+	# jp: "記念にＷｉｉＴシャツを\n手に入れました！"
+	# en: "You received\nCommemorate Wii T-shirt!"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0294:
+	# jp: "持っている数がいっぱいなので\n受け取れませんでした。"
+	# en: "You already have too many\nitems. Cannot receive anymore."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0295:
+	# jp: "相手の持っている数がいっぱいなので\n送れませんでした。"
+	# en: "Your partner has too many\nitems. Cannot send anymore."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0296:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0297:
+	# jp: "募金中…"
+	# en: "Collecting donations..."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0298:
+	# jp: "スキップ"
+	# en: "Skip"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0299:
+	# jp: "今日の寄付が集まりました！"
+	# en: "Today's donations were collected!"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0300:
+	# jp: "[255:00000200][1:01000000][255:00000800]は\nいつもより多く入れてくれたようです！"
+	# en: "[255:00000200][1:01000000][255:00000800]は\nいつもより多く入れてくれたようです！"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0301:
+	# jp: "[255:00000200][1:01000000][255:00000800]は\n家賃をはらうのを忘れたようです…"
+	# en: "[255:00000200][1:01000000][255:00000800]は\n家賃をはらうのを忘れたようです…"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0302:
+	# jp: "今日は\n[1:14000000]円\n集まりました！"
+	# en: "You have collected\n[1:14000000] yen today!"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0303:
+	# jp: "あげる"
+	# en: "Give"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0304:
+	# jp: "[255:00000100]機嫌がいいようです"
+	# en: "[255:00000100]機嫌がいいようです"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0305:
+	# jp: "[255:00000100]イライラしているようです"
+	# en: "[255:00000100]イライラしているようです"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0306:
+	# jp: "[255:00000100]落ち込んでいるようです"
+	# en: "[255:00000100]落ち込んでいるようです"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0307:
+	# jp: "満足ＬＶ"
+	# en: "満足ＬＶ"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0308:
+	# jp: "満足度"
+	# en: "Level"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0309:
+	# jp: "満腹度"
+	# en: "Stomach"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0310:
+	# jp: "恋人"
+	# en: "Lover"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0311:
+	# jp: "夫"
+	# en: "Husband"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0312:
+	# jp: "妻"
+	# en: "Wife"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0313:
+	# jp: "親友"
+	# en: "Best Friend"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0314:
+	# jp: "いない"
+	# en: "None"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0315:
+	# jp: "好物"
+	# en: "Like"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0316:
+	# jp: "苦手なもの"
+	# en: "Hate"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0317:
+	# jp: "？？？"
+	# en: "？？？"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0318:
+	# jp: "道具"
+	# en: "Items"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0319:
+	# jp: "Ｍｉｉの"
+	# en: "Register"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0320:
+	# jp: "新規登録"
+	# en: "Mii"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0321:
+	# jp: "トモダチ"
+	# en: "Friends"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0322:
+	# jp: "リスト"
+	# en: "List"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0323:
+	# jp: "性格分布図"
+	# en: "Trait Map"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0324:
+	# jp: "アルバム"
+	# en: "Album"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0325:
+	# jp: "通信"
+	# en: "Connect"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0326:
+	# jp: "オプション"
+	# en: "Options"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0327:
+	# jp: "出来事を保存"
+	# en: "Save"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0328:
+	# jp: "これ以上Ｍｉｉを登録できません。"
+	# en: "You can't register more Mii."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0329:
+	# jp: "非売品"
+	# en: "Not Sold"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0330:
+	# jp: "[1:01000000]円"
+	# en: "[1:01000000]￥"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0331:
+	# jp: "[1:01000000]"
+	# en: "[1:01000000]"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0332:
+	# jp: "あ"
+	# en: "あ"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0333:
+	# jp: "見る"
+	# en: "Check"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0334:
+	# jp: "保護する"
+	# en: "Lock"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0335:
+	# jp: "保護を解除"
+	# en: "Unlock"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0336:
+	# jp: "時刻を設定してください"
+	# en: "Please set up the time."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0337:
+	# jp: "[1:01000000]年[1:01000100]月[1:01000200]日\n[1:01000300][1:01000400]時[1:01000500]分\n\nこの時刻でよろしいですか？"
+	# en: "[1:01000000]/[1:01000100]/[1:01000200]\n[1:01000300][1:01000400]:[1:01000500]\n\nIs this the correct time?"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0338:
+	# jp: "ここは、海の真ん中に浮かぶ小さな島。"
+	# en: "This is a small island in the\nmiddle of the sea."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0339:
+	# jp: "この島をあなたに\nプレゼントしたいのですが、\n島にはまだ名前がありません。\n何か良い名前をつけてもらえますか？"
+	# en: "I would like to present you\nthis island, but the island\ndoesn't have a name yet.\nCan you please name it?"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0340:
+	# jp: "[255:00000200][1:01000000]島[255:00000800]ですか、\n良い名前ですね！"
+	# en: "[255:00000200][1:01000000] Island[255:00000800]?\nSuch a nice name!"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0341:
+	# jp: "今日から[255:00000200]あなたの分身が\nこの島の住人として\n新しい生活を始める[255:00000800]のです。"
+	# en: "From now on,[255:00000200] you will be\nliving on this island[255:00000800]."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0342:
+	# jp: "それではさっそく、\n[255:00000200]あなた自身の分身[255:00000800]である\n[255:00000200]Ｍｉｉ[255:00000800]を作ってみましょう。"
+	# en: "Now then, please [255:00000200]create yourself[255:00000800]\nas a [255:00000200]Mii[255:00000800] to live on this island."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0343:
+	# jp: "あなたの[255:00000200]分身[255:00000800]が生まれました！\nこれから[255:00000700][1:01000000][255:00000800]は\nこの島で暮らすことになります。"
+	# en: "You have created [255:00000200]yourself[255:00000800]!\nNow, [255:00000700][1:01000000][255:00000800] will be\nliving on this island!"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0344:
+	# jp: "たった今、[255:00000700][1:01000000][255:00000800]が\n住む予定のマンションが建ちました！\nさっそく部屋をのぞいてみましょう！"
+	# en: "And [255:00000700][1:01000000][255:00000800] will\nlive in a newly built apartment!\nYou can look inside the room!"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0345:
+	# jp: "ちょっと[255:00000700][1:01000000][255:00000800]の部屋を\n訪問してみましょう。\n[255:00000200]入る[255:00000800]というボタンを\n押してみてください。"
+	# en: "You should visit\n[255:00000700][1:01000000][255:00000800]'s room.\nJust tap [255:00000200]Enter[255:00000800] button."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0346:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0347:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0348:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0349:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0350:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0351:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0352:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0353:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0354:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0355:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0356:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0357:
+	# jp: "このように、Ｍｉｉたちは勝手に会って\nしゃべったり、友達になったりします。"
+	# en: "You can visit the Miis,\ntalk to them, and become\ntheir friends."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0358:
+	# jp: "Ｍｉｉはそれぞれ性格が違うので、\n仲良くなりやすいこともあれば、\nその逆もあったりします。"
+	# en: "Each Mii has different\npersonalities. Some are easy\nto befriend, and some are not."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0359:
+	# jp: "ふたりの性格がどのくらい違うのか、\nちょっと見てみましょう。"
+	# en: "Do you want to know how\nsimilar of different\nthese Miis are?\nLet's take a look."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0360:
+	# jp: "性格は大きく[255:00000200]４タイプ[255:00000800]に分類されます。\nそこからさらに４つに分かれるので、\n合計[255:00000200]１６タイプ[255:00000800]の性格があります。"
+	# en: "There are [255:00000200]4 types[255:00000800] of\nmain traits. Each main trait\nis divided into 4 sub-traits.\nSo there are [255:00000200]16 types[255:00000800]\naltogether."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0361:
+	# jp: "ふたりの性格がどう違うのか、\n性格のマスをタッチして\n比べてみましょう。"
+	# en: "You can see how much these\nMiis' traits differ from\nthe trait grids. Tap the\ngrid and check it out."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0362:
+	# jp: "ふたりの性格は偶然にも\n同じタイプのようです。\nきっと本物のふたりも\n仲がいいんでしょうね。"
+	# en: "The nature of these two\nhappens to be the same\ntype. They are probably\ngood friends in real life\ntoo, aren't they?"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0363:
+	# jp: "さて、Ｍｉｉたちは今、\n何をしているのでしょうか？\nちょっとのぞいてみましょう。"
+	# en: "Well, what are these Miis\ndoing now? Why don't you\ntake a peek?"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0364:
+	# jp: "マンションの窓にふきだしが出ていたら\nそれは、そこに住むＭｉｉが\n[255:00000200]何か困っている目印[255:00000800]です。\nどうしたのでしょうか？"
+	# en: "Peek through the windows.\nIf you see a speech bubble\nin any Mii's room, it means\nthat Mii [255:00000200]currently has\nsome trouble[255:00000800].\nWhat kind of trouble?"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0365:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0366:
+	# jp: "ちょうど[255:00000200]たべもの屋さん[255:00000800]が\nオープンしました！\nお店に行って[255:00000700][1:01000000][255:00000800]が\n好きそうなものを買ってきてください。\n分身と本物は、好みも同じかも\nしれませんね。"
+	# en: "Just now, the [255:00000200]food shop[255:00000800] has\njust opened! Go there and buy\nsomething [255:00000700][1:01000000][255:00000800]\nlikes. Just pick what you think\nthe real person will like."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0367:
+	# jp: "食べ物を買いましたね。\nでは[255:00000700][1:01000000][255:00000800]に\nあげてみましょう。"
+	# en: "You have bought some food.\nNow, give it to\n[255:00000700][1:01000000][255:00000800]."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0368:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0369:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0370:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0371:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0372:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0373:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0374:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0375:
+	# jp: "このように、あなたやあなたの\n知り合いの分身の生活を\n観察したり、悩み事を解決する\n手助けをしてあげるのが、\nトモダチコレクションの\n基本的な遊び方です。"
+	# en: "Just like this, you can\nobserve the lives of your\nalter ego and acquaintances\nand help solve their troubles.\nThese are the basics for\n\"Tomodachi Collection.\""
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0376:
+	# jp: "住人が増えれば建物が増えてゆきます。\nどうすればどんな建物ができるのかは、\n後からマップ上の[255:00000200]建設予定地[255:00000800]を\nタッチして確認してみてください。"
+	# en: "When you have more residents,\nthere will be more facilities.\nYou can check the [255:00000200]construction\nannouncement signs[255:00000800] from the\nisland map."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0377:
+	# jp: "ここで、このソフトの\n記録方法を説明します。\n[255:00000200]市役所[255:00000800]に行って[255:00000200]出来事を保存[255:00000800]を\nタッチするか、このマップ画面で\n[255:00000200]STARTボタン[255:00000800]を押してください。\nやめる時は[255:00000200]必ず記録をとって下さい[255:00000800]ね。"
+	# en: "How to save your progress?\nYou can go to the city hall\nto save, or press START\nbutton at the island map.\nDo not forget to save\nbefore you leave, okay?"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0378:
+	# jp: "知り合いの分身を[1:01000000]島に\nたくさん住まわせて、彼らが築いてゆく\nこの島での生活や人間関係を\nやさしく見守ってあげてくださいね。"
+	# en: "Bring more of your acquaintances\nto [1:01000000] Island.\nThen please kindly take care\nof them and observe their\nrelationships with one another."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0379:
+	# jp: "島の名前を入力してください"
+	# en: "Please enter the island's name."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0380:
+	# jp: "これまでの出来事を保存しますか？"
+	# en: "Do you want to save\nyour progress?"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0381:
+	# jp: "\n保存しています…"
+	# en: "\nSaving..."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0382:
+	# jp: "保存できました。\nまだ続けますか？"
+	# en: "Data saved.\nContinue playing?"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0383:
+	# jp: "やめるときはまた\n保存してくださいね。"
+	# en: "When you want to quit\nplaying, do not forget\nto save progress again."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0384:
+	# jp: "\nこのまま電源をお切りください。\nまた遊びに来てくださいね。"
+	# en: "\nPlease turn the power off.\nSee you again soon."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0385:
+	# jp: "ワイヤレス通信を行います。\n\nその前に、\nこれまでの出来事を保存します。\nよろしいですか？"
+	# en: "Wireless communication.\n\nYou have to save your\nprogress first.\nIs it okay?"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0386:
+	# jp: "保存できました。\nワイヤレス通信を行います。"
+	# en: "Data saved.\nStart wireless communication."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0387:
+	# jp: "性格分布図を表示する"
+	# en: "View trait map."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0388:
+	# jp: "島の名前"
+	# en: "Name"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0389:
+	# jp: "住人の数"
+	# en: "Residents"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0390:
+	# jp: "平均年齢"
+	# en: "Avg. Age"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0391:
+	# jp: "男女比"
+	# en: "♂:♀"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0392:
+	# jp: "住みごこち"
+	# en: "Quality"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0393:
+	# jp: "[1:01000000]マンション情報"
+	# en: "[1:01000000] Information"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0394:
+	# jp: "[1:01000000]人"
+	# en: "[1:01000000]"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0395:
+	# jp: "[1:01000000]歳"
+	# en: "[1:01000000]"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0396:
+	# jp: "[1:01000000]：[1:01000100]"
+	# en: "[1:01000000]：[1:01000100]"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0397:
+	# jp: "×[1:01000000]"
+	# en: "×[1:01000000]"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0398:
+	# jp: "住人の性格によるマンションタイプ"
+	# en: "Residents' opinions about this place"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0399:
+	# jp: "主張しすぎマンション"
+	# en: "Full-of-Complaints"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0400:
+	# jp: "バリバリマンション"
+	# en: "Active"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0401:
+	# jp: "猪突猛進マンション"
+	# en: "Reckless"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0402:
+	# jp: "ノリノリマンション"
+	# en: "High Spirits"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0403:
+	# jp: "感情むき出しマンション"
+	# en: "Sentimental"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0404:
+	# jp: "にぎやかマンション"
+	# en: "Lively"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0405:
+	# jp: "不思議ちゃんマンション"
+	# en: "Mysterious"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0406:
+	# jp: "癒し系マンション"
+	# en: "Refreshing"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0407:
+	# jp: "遠慮のかたまりマンション"
+	# en: "Reserved"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0408:
+	# jp: "遠慮がちマンション"
+	# en: "Modest"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0409:
+	# jp: "無の境地マンション"
+	# en: "Peaceful"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0410:
+	# jp: "おとなしマンション"
+	# en: "Quiet"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0411:
+	# jp: "沈着冷静マンション"
+	# en: "Calm and Cool"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0412:
+	# jp: "慎重マンション"
+	# en: "Prudent"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0413:
+	# jp: "競争社会の勝ち組マンション"
+	# en: "Businessmen's Type"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0414:
+	# jp: "職人気質マンション"
+	# en: "Craftsmen's Type"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0415:
+	# jp: "完全平均マンション"
+	# en: "Perfectly Balanced"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0416:
+	# jp: "悩み事解決数"
+	# en: "# Solved"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0417:
+	# jp: "[1:01000000]"
+	# en: "[1:01000000]"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0418:
+	# jp: "前回プレイしていたＤＳ本体とは違う\nＤＳ本体でプレイしようとしています。\nこのままプレイすると、\n時刻が変わってしまったり、\nお店に並ぶ品物がしばらく\n変わらなかったりすることがあります。\nこのままプレイしますか？"
+	# en: "It seems like you are playing\nthis game on a different DS.\nThe time setting will be\nchanged and things like\nstore items will not change\nfor a while. Is it okay?"
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0419:
+	# jp: "このまま電源をお切りください。"
+	# en: "Please turn the power off."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0420:
+	# jp: "データを読み込めませんでした。\n電源を切って、カードを差込み\nなおしてください。"
+	# en: "Unable to read data.\nPlease turn the power off\nand re-insert the game card."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0421:
+	# jp: ""
+	# en: ""
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0422:
+	# jp: "データを書き込めませんでした。\n電源を切って、カードを差込み\nなおしてください。"
+	# en: "Unable to write data.\nPlease turn the power off\nand re-insert the game card."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0423:
+	# jp: "データが壊れています。\n初期化します。"
+	# en: "Corrupted data.\nStart initializing."
+	""
+
+translate spanish tmd_etc_msg_JP.json/MSG_0424:
+	# jp: "初期化しました。"
+	# en: "Data initialized."
+	""
+

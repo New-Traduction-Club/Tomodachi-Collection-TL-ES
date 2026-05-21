@@ -1,0 +1,1760 @@
+translate spanish tmd_select_msg_JP.json/MSG_0000:
+	# jp: "[255:00000100]「ふられてしまいました…」"
+	# en: "[255:00000100]\"I was rejected...\""
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0001:
+	# jp: "フラレテシマイマシタ"
+	# en: "フラレテシマイマシタ"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0002:
+	# jp: "元気出せよ"
+	# en: "Cheer up"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0003:
+	# jp: "他にいい人探せよ"
+	# en: "Find someone"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0004:
+	# jp: "[255:00000100]「ムリです…」"
+	# en: "[255:00000100]\"No good...\""
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0005:
+	# jp: "ムリデス"
+	# en: "ムリデス"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0006:
+	# jp: "[255:00000100]「わかりました。\n頑張ってみます」"
+	# en: "[255:00000100]\"Okay. I'll try.\""
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0007:
+	# jp: "ワカリマシタ．ガンバッテミマス"
+	# en: "ワカリマシタ．ガンバッテミマス"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0008:
+	# jp: "[255:00000100]「ふられてしまいました…」"
+	# en: "[255:00000100]\"I got rejected...\""
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0009:
+	# jp: "フラレテシマイマシタ"
+	# en: "フラレテシマイマシタ"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0010:
+	# jp: "元気出せよ"
+	# en: "Cheer up"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0011:
+	# jp: "他にいい人探せよ"
+	# en: "Find someone"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0012:
+	# jp: "[255:00000100]「はい、頑張ってみます」"
+	# en: "[255:00000100]\"Yes, I'll try.\""
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0013:
+	# jp: "ハイ＿ガンバッテミマス"
+	# en: "ハイ＿ガンバッテミマス"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0014:
+	# jp: "[255:00000100]「いないですよ…」"
+	# en: "[255:00000100]\"There's no one...\""
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0015:
+	# jp: "イナイデスヨ"
+	# en: "イナイデスヨ"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0016:
+	# jp: "[255:00000100]「もうダメです…」"
+	# en: "[255:00000100]\"I'm no good...\""
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0017:
+	# jp: "モウダメデス"
+	# en: "モウダメデス"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0018:
+	# jp: "ダメな日もあるさ"
+	# en: "It'll be okay"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0019:
+	# jp: "しっかりしろよ"
+	# en: "Be strong!"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0020:
+	# jp: "[255:00000100]「そうですね…\n少し元気がでました」"
+	# en: "[255:00000100]\"Yeah... I think I feel a little better now.\""
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0021:
+	# jp: "ソウデスネ．スコシゲンキガデマシタ"
+	# en: "ソウデスネ．スコシゲンキガデマシタ"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0022:
+	# jp: "[255:00000100]「はぁ…」"
+	# en: "[255:00000100]\"Hah...\""
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0023:
+	# jp: "ハア"
+	# en: "ハア"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0024:
+	# jp: "[255:00000100]「もうダメです…」"
+	# en: "[255:00000100]\"It's no good...\""
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0025:
+	# jp: "モウダメデス"
+	# en: "モウダメデス"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0026:
+	# jp: "ダメな日もあるさ"
+	# en: "It'll be okay."
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0027:
+	# jp: "しっかりしろよ"
+	# en: "Be strong!"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0028:
+	# jp: "[255:00000100]「ずっとダメな気がします…」"
+	# en: "[255:00000100]\"I know it...\""
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0029:
+	# jp: "ズットダメナキガシマス"
+	# en: "ズットダメナキガシマス"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0030:
+	# jp: "[255:00000100]「…はい、頑張ります！」"
+	# en: "[255:00000100]\"...Okay, I'll try to be strong!\""
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0031:
+	# jp: "ハイ＿ガンバリマス！"
+	# en: "ハイ＿ガンバリマス！"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0032:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0033:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0034:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0035:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0036:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0037:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0038:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0039:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0040:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0041:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0042:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0043:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0044:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0045:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0046:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0047:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0048:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0049:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0050:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0051:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0052:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0053:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0054:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0055:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0056:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0057:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0058:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0059:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0060:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0061:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0062:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0063:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0064:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0065:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0066:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0067:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0068:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0069:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0070:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0071:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0072:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0073:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0074:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0075:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0076:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0077:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0078:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0079:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0080:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0081:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0082:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0083:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0084:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0085:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0086:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0087:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0088:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0089:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0090:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0091:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0092:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0093:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0094:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0095:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0096:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0097:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0098:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0099:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0100:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0101:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0102:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0103:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0104:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0105:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0106:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0107:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0108:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0109:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0110:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0111:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0112:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0113:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0114:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0115:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0116:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0117:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0118:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0119:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0120:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0121:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0122:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0123:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0124:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0125:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0126:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0127:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0128:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0129:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0130:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0131:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0132:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0133:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0134:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0135:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0136:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0137:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0138:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0139:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0140:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0141:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0142:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0143:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0144:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0145:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0146:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0147:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0148:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0149:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0150:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0151:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0152:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0153:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0154:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0155:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0156:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0157:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0158:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0159:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0160:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0161:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0162:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0163:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0164:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0165:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0166:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0167:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0168:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0169:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0170:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0171:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0172:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0173:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0174:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0175:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0176:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0177:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0178:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0179:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0180:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0181:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0182:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0183:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0184:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0185:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0186:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0187:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0188:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0189:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0190:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0191:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0192:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0193:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0194:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0195:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0196:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0197:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0198:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0199:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0200:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0201:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0202:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0203:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0204:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0205:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0206:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0207:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0208:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0209:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0210:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0211:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0212:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0213:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0214:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0215:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0216:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0217:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0218:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0219:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0220:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0221:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0222:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0223:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0224:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0225:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0226:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0227:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0228:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0229:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0230:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0231:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0232:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0233:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0234:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0235:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0236:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0237:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0238:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0239:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0240:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0241:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0242:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0243:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0244:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0245:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0246:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0247:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0248:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0249:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0250:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0251:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0252:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0253:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0254:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0255:
+	# jp: ""
+	# en: " "
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0256:
+	# jp: "[255:00000100]「ふられてしまいました…」"
+	# en: "[255:00000100]\"I was rejected...\""
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0257:
+	# jp: "フラレテシマイマシタ"
+	# en: "フラレテシマイマシタ"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0258:
+	# jp: "元気出せよ"
+	# en: "Cheer up"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0259:
+	# jp: "他にいい人探せよ"
+	# en: "Find someone else"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0260:
+	# jp: "[255:00000100]「ムリです…」"
+	# en: "[255:00000100]\"No good...\""
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0261:
+	# jp: "ムリデス"
+	# en: "ムリデス"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0262:
+	# jp: "[255:00000100]「わかりました。\n頑張ってみます」"
+	# en: "[255:00000100]\"Okay. I'll try.\""
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0263:
+	# jp: "ワカリマシタ．ガンバッテミマス"
+	# en: "ワカリマシタ．ガンバッテミマス"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0264:
+	# jp: "[255:00000100]「ふられてしまいました…」"
+	# en: "[255:00000100]\"I got rejected...\""
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0265:
+	# jp: "フラレテシマイマシタ"
+	# en: "フラレテシマイマシタ"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0266:
+	# jp: "元気出せよ"
+	# en: "Cheer up"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0267:
+	# jp: "他にいい人探せよ"
+	# en: "Find someone else"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0268:
+	# jp: "[255:00000100]「はい、頑張ってみます」"
+	# en: "[255:00000100]\"Yes, I'll try.\""
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0269:
+	# jp: "ハイ＿ガンバッテミマス"
+	# en: "ハイ＿ガンバッテミマス"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0270:
+	# jp: "[255:00000100]「いないですよ…」"
+	# en: "[255:00000100]\"There's no one...\""
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0271:
+	# jp: "イナイデスヨ"
+	# en: "イナイデスヨ"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0272:
+	# jp: "[255:00000100]「もうダメです…」"
+	# en: "[255:00000100]\"I'm no good...\""
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0273:
+	# jp: "モウダメデス"
+	# en: "モウダメデス"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0274:
+	# jp: "ダメな日もあるさ"
+	# en: "It'll be okay."
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0275:
+	# jp: "しっかりしろよ"
+	# en: "Be strong!"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0276:
+	# jp: "[255:00000100]「そうですね…\n少し元気がでました」"
+	# en: "[255:00000100]\"Yeah... I feel a little better now.\""
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0277:
+	# jp: "ソウデスネ．スコシゲンキガデマシタ"
+	# en: "ソウデスネ．スコシゲンキガデマシタ"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0278:
+	# jp: "[255:00000100]「はぁ…」"
+	# en: "[255:00000100]\"Hah...\""
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0279:
+	# jp: "ハア"
+	# en: "ハア"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0280:
+	# jp: "[255:00000100]「もうダメです…」"
+	# en: "[255:00000100]\"It's no good...\""
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0281:
+	# jp: "モウダメデス"
+	# en: "モウダメデス"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0282:
+	# jp: "ダメな日もあるさ"
+	# en: "I'll be okay"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0283:
+	# jp: "しっかりしろよ"
+	# en: "Be strong!"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0284:
+	# jp: "[255:00000100]「ずっとダメな気がします…」"
+	# en: "[255:00000100]\"I know it...\""
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0285:
+	# jp: "ズットダメナキガシマス"
+	# en: "ズットダメナキガシマス"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0286:
+	# jp: "[255:00000100]「…はい、頑張ります！」"
+	# en: "[255:00000100]\"...Okay, I'll try to be strong!\""
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0287:
+	# jp: "ハイ＿ガンバリマス！"
+	# en: "ハイ＿ガンバリマス！"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0288:
+	# jp: "[255:00000100]「ふられてしまいました…」"
+	# en: "[255:00000100]\"I was rejected...\""
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0289:
+	# jp: "フラレテシマイマシタ"
+	# en: "フラレテシマイマシタ"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0290:
+	# jp: "元気出せよ"
+	# en: "Cheer up"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0291:
+	# jp: "他にいい人探せよ"
+	# en: "Find someone else"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0292:
+	# jp: "[255:00000100]「ムリです…」"
+	# en: "[255:00000100]\"No good...\""
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0293:
+	# jp: "ムリデス"
+	# en: "ムリデス"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0294:
+	# jp: "[255:00000100]「わかりました。\n頑張ってみます」"
+	# en: "[255:00000100]\"Okay. I'll try.\""
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0295:
+	# jp: "ワカリマシタ．ガンバッテミマス"
+	# en: "ワカリマシタ．ガンバッテミマス"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0296:
+	# jp: "[255:00000100]「ふられてしまいました…」"
+	# en: "[255:00000100]\"I got rejected...\""
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0297:
+	# jp: "フラレテシマイマシタ"
+	# en: "フラレテシマイマシタ"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0298:
+	# jp: "元気出せよ"
+	# en: "Cheer up"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0299:
+	# jp: "他にいい人探せよ"
+	# en: "Find someone else"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0300:
+	# jp: "[255:00000100]「はい、頑張ってみます」"
+	# en: "[255:00000100]\"Yes, I'll try.\""
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0301:
+	# jp: "ハイ＿ガンバッテミマス"
+	# en: "ハイ＿ガンバッテミマス"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0302:
+	# jp: "[255:00000100]「いないですよ…」"
+	# en: "[255:00000100]\"There's no one...\""
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0303:
+	# jp: "イナイデスヨ"
+	# en: "イナイデスヨ"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0304:
+	# jp: "[255:00000100]「もうダメです…」"
+	# en: "[255:00000100]\"I'm no good...\""
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0305:
+	# jp: "モウダメデス"
+	# en: "モウダメデス"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0306:
+	# jp: "ダメな日もあるさ"
+	# en: "It'll be okay"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0307:
+	# jp: "しっかりしろよ"
+	# en: "Be strong!"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0308:
+	# jp: "[255:00000100]「そうですね…\n少し元気がでました」"
+	# en: "[255:00000100]\"Yeah... I feel a little better now.\""
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0309:
+	# jp: "ソウデスネ．スコシゲンキガデマシタ"
+	# en: "ソウデスネ．スコシゲンキガデマシタ"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0310:
+	# jp: "[255:00000100]「はぁ…」"
+	# en: "[255:00000100]\"Hah...\""
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0311:
+	# jp: "ハア"
+	# en: "ハア"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0312:
+	# jp: "[255:00000100]「もうダメです…」"
+	# en: "[255:00000100]\"It's no good...\""
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0313:
+	# jp: "モウダメデス"
+	# en: "モウダメデス"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0314:
+	# jp: "ダメな日もあるさ"
+	# en: "It'll be okay"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0315:
+	# jp: "しっかりしろよ"
+	# en: "Be strong!"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0316:
+	# jp: "[255:00000100]「ずっとダメな気がします…」"
+	# en: "[255:00000100]\"I know it...\""
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0317:
+	# jp: "ズットダメナキガシマス"
+	# en: "ズットダメナキガシマス"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0318:
+	# jp: "[255:00000100]「…はい、頑張ります！」"
+	# en: "[255:00000100]\"...Okay, I'll try to be strong!\""
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0319:
+	# jp: "ハイ＿ガンバリマス！"
+	# en: "ハイ＿ガンバリマス！"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0320:
+	# jp: "[255:00000100]「ふられてしまいました…」"
+	# en: "[255:00000100]\"I was rejected...\""
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0321:
+	# jp: "フラレテシマイマシタ"
+	# en: "フラレテシマイマシタ"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0322:
+	# jp: "元気出せよ"
+	# en: "Cheer up"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0323:
+	# jp: "他にいい人探せよ"
+	# en: "Find someone else"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0324:
+	# jp: "[255:00000100]「ムリです…」"
+	# en: "[255:00000100]\"No good...\""
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0325:
+	# jp: "ムリデス"
+	# en: "ムリデス"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0326:
+	# jp: "[255:00000100]「わかりました。\n頑張ってみます」"
+	# en: "[255:00000100]\"Okay. I'll try.\""
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0327:
+	# jp: "ワカリマシタ．ガンバッテミマス"
+	# en: "ワカリマシタ．ガンバッテミマス"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0328:
+	# jp: "[255:00000100]「ふられてしまいました…」"
+	# en: "[255:00000100]\"I got rejected...\""
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0329:
+	# jp: "フラレテシマイマシタ"
+	# en: "フラレテシマイマシタ"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0330:
+	# jp: "元気出せよ"
+	# en: "Cheer up"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0331:
+	# jp: "他にいい人探せよ"
+	# en: "Find someone else"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0332:
+	# jp: "[255:00000100]「はい、頑張ってみます」"
+	# en: "[255:00000100]\"Yes, I'll try.\""
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0333:
+	# jp: "ハイ＿ガンバッテミマス"
+	# en: "ハイ＿ガンバッテミマス"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0334:
+	# jp: "[255:00000100]「いないですよ…」"
+	# en: "[255:00000100]\"There's no one...\""
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0335:
+	# jp: "イナイデスヨ"
+	# en: "イナイデスヨ"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0336:
+	# jp: "[255:00000100]「もうダメです…」"
+	# en: "[255:00000100]\"I'm no good...\""
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0337:
+	# jp: "モウダメデス"
+	# en: "モウダメデス"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0338:
+	# jp: "ダメな日もあるさ"
+	# en: "It'll be okay"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0339:
+	# jp: "しっかりしろよ"
+	# en: "Be strong!"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0340:
+	# jp: "[255:00000100]「そうですね…\n少し元気がでました」"
+	# en: "[255:00000100]\"Yeah... I feel a little better now.\""
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0341:
+	# jp: "ソウデスネ．スコシゲンキガデマシタ"
+	# en: "ソウデスネ．スコシゲンキガデマシタ"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0342:
+	# jp: "[255:00000100]「はぁ…」"
+	# en: "[255:00000100]\"Hah...\""
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0343:
+	# jp: "ハア"
+	# en: "ハア"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0344:
+	# jp: "[255:00000100]「もうダメです…」"
+	# en: "[255:00000100]\"It's no good...\""
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0345:
+	# jp: "モウダメデス"
+	# en: "モウダメデス"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0346:
+	# jp: "ダメな日もあるさ"
+	# en: "It'll be okay"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0347:
+	# jp: "しっかりしろよ"
+	# en: "Be strong!"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0348:
+	# jp: "[255:00000100]「ずっとダメな気がします…」"
+	# en: "[255:00000100]\"I know it...\""
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0349:
+	# jp: "ズットダメナキガシマス"
+	# en: "ズットダメナキガシマス"
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0350:
+	# jp: "[255:00000100]「…はい、頑張ります！」"
+	# en: "[255:00000100]\"...Okay, I'll try to be strong!\""
+	""
+
+translate spanish tmd_select_msg_JP.json/MSG_0351:
+	# jp: "ハイ＿ガンバリマス！"
+	# en: "ハイ＿ガンバリマス！    "
+	""
+

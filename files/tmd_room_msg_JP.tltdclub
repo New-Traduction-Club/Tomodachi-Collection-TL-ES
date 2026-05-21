@@ -1,0 +1,505 @@
+translate spanish tmd_room_msg_JP.json/MSG_0000:
+	# jp: "ノーマルスタイル"
+	# en: "Default"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0001:
+	# jp: "ノーマルスタイル"
+	# en: "Default"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0002:
+	# jp: "ノーマルスタイル"
+	# en: "Default"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0003:
+	# jp: "ノーマルスタイル"
+	# en: "Default"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0004:
+	# jp: "ノーマルスタイル"
+	# en: "Default"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0005:
+	# jp: "ノーマルスタイル"
+	# en: "Default"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0006:
+	# jp: "ノーマルスタイル"
+	# en: "Default"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0007:
+	# jp: "ノーマルスタイル"
+	# en: "Default"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0008:
+	# jp: "シンプルスタイル"
+	# en: "Simple"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0009:
+	# jp: "昭和スタイル"
+	# en: "Showa era"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0010:
+	# jp: "わんこスタイル"
+	# en: "Puppy"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0011:
+	# jp: "子供部屋スタイル"
+	# en: "Nursery"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0012:
+	# jp: "花柄スタイル"
+	# en: "Floral"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0013:
+	# jp: "サーキットスタイル"
+	# en: "Circuit"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0014:
+	# jp: "アラビアンスタイル"
+	# en: "Arabian"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0015:
+	# jp: "海底スタイル"
+	# en: "Submarine"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0016:
+	# jp: "ユーロピアンスタイル"
+	# en: "European"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0017:
+	# jp: "中流ファミリースタイル"
+	# en: "Middle-class"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0018:
+	# jp: "カントリースタイル"
+	# en: "Country"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0019:
+	# jp: "ベルサイユスタイル"
+	# en: "Versailles"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0020:
+	# jp: "エスニックスタイル"
+	# en: "Ethnic"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0021:
+	# jp: "お受験スタイル"
+	# en: "Studious"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0022:
+	# jp: "中世ヨーロッパスタイル"
+	# en: "Medieval"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0023:
+	# jp: "ログハウススタイル"
+	# en: "Log house"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0024:
+	# jp: "トレーニングスタイル"
+	# en: "Training"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0025:
+	# jp: "月面スタイル"
+	# en: "The moon"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0026:
+	# jp: "レコード収集スタイル"
+	# en: "Records"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0027:
+	# jp: "ダンボールスタイル"
+	# en: "Cardboard"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0028:
+	# jp: "モノクロスタイル"
+	# en: "Monochrome"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0029:
+	# jp: "北欧モダンスタイル"
+	# en: "Scandinavian"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0030:
+	# jp: "女の子スタイル"
+	# en: "Girlish"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0031:
+	# jp: "カラフルスタイル"
+	# en: "Colorful"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0032:
+	# jp: "ＯＬスタイル"
+	# en: "Office lady"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0033:
+	# jp: "業界人スタイル"
+	# en: "Business"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0034:
+	# jp: "レンガスタイル"
+	# en: "Brick"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0035:
+	# jp: "病院スタイル"
+	# en: "Hospital"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0036:
+	# jp: "美術館スタイル"
+	# en: "Art Museum"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0037:
+	# jp: "クリスタルスタイル"
+	# en: "Crystal"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0038:
+	# jp: "スイーツスタイル"
+	# en: "Sweets"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0039:
+	# jp: "オフィススタイル"
+	# en: "Office"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0040:
+	# jp: "ゴシック調スタイル"
+	# en: "Gothic"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0041:
+	# jp: "キッチンスタイル"
+	# en: "Kitchen"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0042:
+	# jp: "音楽スタジオスタイル"
+	# en: "Music studio"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0043:
+	# jp: "ディスコスタイル"
+	# en: "Disco"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0044:
+	# jp: "南国リゾートスタイル"
+	# en: "Tropical"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0045:
+	# jp: "宇宙要塞スタイル"
+	# en: "Fortress"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0046:
+	# jp: "楽屋スタイル"
+	# en: "Dressing room"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0047:
+	# jp: "散髪屋スタイル"
+	# en: "Barber"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0048:
+	# jp: "冷凍庫スタイル"
+	# en: "Freezer"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0049:
+	# jp: "教室スタイル"
+	# en: "Classroom"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0050:
+	# jp: "ゲームセンタースタイル"
+	# en: "Arcade"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0051:
+	# jp: "カモフラージュスタイル"
+	# en: "Camouflage"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0052:
+	# jp: "アルファベットスタイル"
+	# en: "Alphabet"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0053:
+	# jp: "ナチュラルウッドスタイル"
+	# en: "Natural wood"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0054:
+	# jp: "独房スタイル"
+	# en: "Cell"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0055:
+	# jp: "冬スタイル"
+	# en: "Winter"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0056:
+	# jp: "石庭スタイル"
+	# en: "Rock garden"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0057:
+	# jp: "天空スタイル"
+	# en: "Sky"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0058:
+	# jp: "ムーディースタイル"
+	# en: "Moody"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0059:
+	# jp: "ＦＵＳＵＭＡスタイル"
+	# en: "FUSUMA"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0060:
+	# jp: "お花見スタイル"
+	# en: "Blossoms"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0061:
+	# jp: "だいこん畑スタイル"
+	# en: "Radish field"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0062:
+	# jp: "草原スタイル"
+	# en: "Prairie"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0063:
+	# jp: "スイートルームスタイル"
+	# en: "Suite room"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0064:
+	# jp: "ハロウィンスタイル"
+	# en: "Halloween"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0065:
+	# jp: "クリスマススタイル"
+	# en: "Christmas"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0066:
+	# jp: "冷たい雨スタイル"
+	# en: "Rainy"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0067:
+	# jp: "にゃんこスタイル"
+	# en: "Kitten"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0068:
+	# jp: "銭湯スタイル"
+	# en: "Public bath"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0069:
+	# jp: "古代遺跡スタイル"
+	# en: "Ancient ruin"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0070:
+	# jp: "旅客機スタイル"
+	# en: "Airline"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0071:
+	# jp: "植物園スタイル"
+	# en: "Garden"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0072:
+	# jp: "牛舎スタイル"
+	# en: "Barn"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0073:
+	# jp: "裏庭スタイル"
+	# en: "Backyard"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0074:
+	# jp: "サッカー場スタイル"
+	# en: "Soccer field"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0075:
+	# jp: "エレガントスタイル"
+	# en: "Elegant"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0076:
+	# jp: "ゴールデンスタイル"
+	# en: "Golden"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0077:
+	# jp: "リアルスタイル"
+	# en: "Real"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0078:
+	# jp: "部屋78"
+	# en: "部屋78"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0079:
+	# jp: "部屋79"
+	# en: "部屋79"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0080:
+	# jp: "部屋80"
+	# en: "部屋80"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0081:
+	# jp: "部屋81"
+	# en: "部屋81"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0082:
+	# jp: "部屋82"
+	# en: "部屋82"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0083:
+	# jp: "部屋83"
+	# en: "部屋83"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0084:
+	# jp: "部屋84"
+	# en: "部屋84"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0085:
+	# jp: "部屋85"
+	# en: "部屋85"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0086:
+	# jp: "部屋86"
+	# en: "部屋86"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0087:
+	# jp: "部屋87"
+	# en: "部屋87"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0088:
+	# jp: "部屋88"
+	# en: "部屋88"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0089:
+	# jp: "部屋89"
+	# en: "部屋89"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0090:
+	# jp: "部屋90"
+	# en: "部屋90"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0091:
+	# jp: "部屋91"
+	# en: "部屋91"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0092:
+	# jp: "部屋92"
+	# en: "部屋92"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0093:
+	# jp: "部屋93"
+	# en: "部屋93"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0094:
+	# jp: "部屋94"
+	# en: "部屋94"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0095:
+	# jp: "部屋95"
+	# en: "部屋95"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0096:
+	# jp: "部屋96"
+	# en: "部屋96"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0097:
+	# jp: "部屋97"
+	# en: "部屋97"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0098:
+	# jp: "部屋98"
+	# en: "部屋98"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0099:
+	# jp: "部屋99"
+	# en: "部屋99"
+	""
+
+translate spanish tmd_room_msg_JP.json/MSG_0100:
+	# jp: "？？？"
+	# en: "？？？      "
+	""
+
