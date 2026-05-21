@@ -55,11 +55,11 @@ if __name__ == "__main__":
         f.write(progreso_md)
 
     # Actualizar README.md entre los delimitadores
-    with open("README.md", "r", encoding="utf-8") as f:
+    with open("readme.md", "r", encoding="utf-8") as f:
         readme = f.read()
     inicio = readme.find("<!-- PROGRESO_TRADUCCION_START -->")
     fin = readme.find("<!-- PROGRESO_TRADUCCION_END -->")
     if inicio != -1 and fin != -1:
         nuevo_readme = (readme[:inicio] + "<!-- PROGRESO_TRADUCCION_START -->\n" + progreso_md.replace('# Progreso de traducción\n\n', '') + "<!-- PROGRESO_TRADUCCION_END -->" + readme[fin+len("<!-- PROGRESO_TRADUCCION_END -->"):])
-        with open("README.md", "w", encoding="utf-8") as f:
+        with open("readme.md", "w", encoding="utf-8") as f:
             f.write(nuevo_readme)
