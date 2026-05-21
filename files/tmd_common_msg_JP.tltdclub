@@ -21,7 +21,7 @@ translate spanish tmd_common_msg_JP.json/MSG_0003:
 translate spanish tmd_common_msg_JP.json/MSG_0004:
 	# jp: "ＯＫ"
 	# en: "OK"
-	""
+	"Vale"
 
 translate spanish tmd_common_msg_JP.json/MSG_0005:
 	# jp: "キャンセル"
