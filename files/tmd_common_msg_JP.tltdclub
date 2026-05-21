@@ -1,7 +1,7 @@
 translate spanish tmd_common_msg_JP.json/MSG_0000:
 	# jp: "[255:00000100][1:01000000]"
 	# en: "[255:00000100][1:01000000]"
-	""
+	"[255:00000100][1:01000000]"
 
 translate spanish tmd_common_msg_JP.json/MSG_0001:
 	# jp: "[255:00000700][1:01000000]"
