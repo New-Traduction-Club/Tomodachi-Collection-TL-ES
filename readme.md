@@ -1,7 +1,6 @@
 # Tomodachi Collection - Unofficial Spanish Translation
 
-Este repositorio solo contiene los archivos de traducción, revisa el repo principal para consultar el código fuente:\
-[https://github.com/New-Traduction-Club/Tomodachi-Collection-Main-Project-TL-ES](https://github.com/New-Traduction-Club/Tomodachi-Collection-Main-Project-TL-ES)
+Este repositorio solo contiene los archivos de traducción.
 
 ---
 
