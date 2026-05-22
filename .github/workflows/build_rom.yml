@@ -9,7 +9,7 @@ jobs:
     steps:
       - name: Send Webhook Request
         run: |
-          curl -X POST ${{ secrets.API_URL }} \
+          curl -A "Tomodachi Build" -X POST ${{ secrets.API_URL }} \
                -H "X-Webhook-Secret: ${{ secrets.WEBHOOK_SECRET }}" \
                -H "Content-Type: application/json" \
                -d '{"action": "build_rom"}'
