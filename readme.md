@@ -14,4 +14,4 @@ Este repositorio solo contiene los archivos de traducción, revisa el repo princ
 
 ---
 
-_Traduction Club!__
+_Traduction Club!_
